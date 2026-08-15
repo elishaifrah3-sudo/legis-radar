@@ -36,6 +36,7 @@ jobs:
           git push
 
       - name: Run health check
+        continue-on-error: true  # תפקידו להתריע (Issue), לא לצבוע את כל הריצה באדום
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
