@@ -30,11 +30,11 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; LegisRadarBot/1.0; +https://github.com/)"
 }
 
+# רק סלאגים שוודאתי בפועל שמחזירים RSS תקין. הרחבה עתידית: מוסיפים
+# עוד משרד רק אחרי שבודקים ידנית ב-gov.il/he/Departments/<slug>/RSS
+# שהוא מציג ערוצי תוכן אמיתיים (לא כל משרד חושף את זה באותה צורה).
 GOV_MINISTRIES = [
-    "ministry_of_justice",
-    "ministry_of_finance",
-    "ministry_of_interior",
-    "prime-ministers-office",
+    "ministry_of_communications",
 ]
 
 KEYWORDS = [
