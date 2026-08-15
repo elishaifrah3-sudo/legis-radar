@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-08-14T00:00:00+00:00",
+  "counts": { "knesset": 0, "gov": 0, "news": 7 },
+  "knesset_bills": [],
+  "gov_announcements": [],
+  "news_feed": [
+    {
+      "id": "seed-ag-split",
+      "title": "פיצול תפקיד היועץ המשפטי לממשלה בדיון בוועדת חוקה",
+      "stage": "בדיון בוועדה",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://www.haaretz.co.il/news/elections/2026-05-17/ty-article/0000019e-325c-d0db-a79e-fbdede5e0000",
+      "updated": "2026-05-17"
+    },
+    {
+      "id": "seed-torah-law",
+      "title": "חוק יסוד לימוד תורה עבר קריאה ראשונה ברוב 63 מול 53",
+      "stage": "קריאה ראשונה",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ישראל היום",
+      "url": "https://www.israelhayom.co.il/news/politics/article/20958023",
+      "updated": "2026-07-12"
+    },
+    {
+      "id": "seed-kashrut",
+      "title": "הממשלה מקדמת ביטול רפורמת הכשרות והחזרת הסמכות לרבנות הראשית",
+      "stage": "מקודם ע\"י הממשלה",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ישראל היום",
+      "url": "https://www.israelhayom.co.il/news/politics/article/20958023",
+      "updated": "2026-07-12"
+    },
+    {
+      "id": "seed-appointments",
+      "title": "חוק המינויים לבכירי מדינה הוסר מסדר היום על רקע משבר חוק הגיוס",
+      "stage": "הוסר מסדר היום",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/rjlhnnwyzg",
+      "updated": "2026-05-13"
+    },
+    {
+      "id": "seed-dissolution",
+      "title": "יו\"ר הקואליציה הגיש הצעת חוק לפיזור הכנסת ה-25",
+      "stage": "הוגשה",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "Ynet / כאן חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkixsbf1ml",
+      "updated": "2026-05-14"
+    },
+    {
+      "id": "seed-death-penalty",
+      "title": "חוק עונש מוות למחבלים התקבל בקריאה שלישית ברוב 62 מול 48",
+      "stage": "התקבל",
+      "tier": 1,
+      "source_type": "news",
+      "outlet": "רשומות",
+      "url": "https://en.wikipedia.org/wiki/Death_Penalty_for_Terrorists_Law",
+      "updated": "2026-03-30"
+    },
+    {
+      "id": "seed-threshold",
+      "title": "אזהרה מקצועית מפני הורדת אחוז החסימה סמוך למועד הבחירות",
+      "stage": "ניתוח מוסדי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://www.idi.org.il/tags/1661",
+      "updated": "2026-08-01"
+    }
+  ]
+}
