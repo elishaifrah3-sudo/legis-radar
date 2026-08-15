@@ -1,0 +1,36 @@
+name: עדכון מכ״ם חקיקה
+
+on:
+  schedule:
+    # כל 6 שעות
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # מאפשר גם הרצה ידנית מהכפתור באתר GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run collector
+        run: python scripts/update_feed.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "legis-radar-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.json
+          git diff --quiet --cached || git commit -m "עדכון אוטומטי: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
