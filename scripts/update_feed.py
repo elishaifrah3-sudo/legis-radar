@@ -1,16 +1,19 @@
 """
 update_feed.py
 ================
-מריץ אותו GitHub Actions כל כמה שעות (ראו .github/workflows/update.yml).
-אוסף מידע אמיתי משלושה סוגי מקורות, מתייג רמת אמינות, וכותב docs/feed.json —
-הקובץ שהדשבורד (docs/index.html) קורא כדי להיות "חי".
+רץ כל שעה (ראו .github/workflows/update.yml). אוסף מידע אמיתי משלושה
+סוגי מקורות, מתייג רמת אמינות, וכותב docs/feed.json.
 
-מקורות:
-  Tier 1 - רשמי:     Knesset OData (KNS_Bill) + פידי RSS של משרדי ממשלה ב-gov.il
-  Tier 2/3 - תקשורת: Google News RSS, מסונן למילות מפתח חקיקתיות,
-                      עם מיפוי שם-מקור -> Tier לפי רשימת עיתונים מוכרת.
+תיקון מרכזי מהגרסה הקודמת:
+  פידי ה-RSS של gov.il אינם בכתובת קבועה שאפשר לנחש — לכל משרד יש
+  GUID ייחודי. הפונקציה discover_gov_feed_url() קודם קוראת את דף
+  הנחיתה הרשמי (.../Departments/{slug}/RSS), שולפת ממנו את כתובת
+  ה-API האמיתית עם ה-GUID (בדיוק כמו שדפדפן אנושי היה עושה), ורק
+  אז מביאה את הפיד עצמו. אין GUID מנוחש בקוד.
 
-לא דורש מפתחות API. כל המקורות ציבוריים וחופשיים.
+עמידות: אם מקור נכשל בסבב מסוים, אנחנו *לא* מוחקים את הדאטה הטוב
+מהסבב הקודם — משמרים אותו ומסמנים leg_status="stale_fallback",
+כדי שמעקב הבריאות (health_check.py) יוכל להתריע בלי שהאתר ייראה ריק.
 """
 
 import json
@@ -23,44 +26,40 @@ import requests
 
 KNESSET_BASE = "https://knesset.gov.il/Odata/ParliamentInfo.svc"
 
-# רשימת פידי RSS רשמיים של משרדי ממשלה (gov.il). אפשר להוסיף עוד —
-# כל משרד באתר gov.il חושף פיד תחת .../RSS
-GOV_RSS_FEEDS = {
-    "משרד המשפטים": "https://www.gov.il/he/Departments/ministry_of_justice/RSS",
-    "משרד האוצר": "https://www.gov.il/he/Departments/ministry_of_finance/RSS",
-    "משרד הפנים": "https://www.gov.il/he/Departments/ministry_of_interior/RSS",
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; LegisRadarBot/1.0; +https://github.com/)"
 }
 
-# מילות מפתח לסינון חדשות רלוונטיות לחקיקה/רגולציה
+GOV_MINISTRIES = [
+    "ministry_of_justice",
+    "ministry_of_finance",
+    "ministry_of_interior",
+    "prime-ministers-office",
+]
+
 KEYWORDS = [
     "הצעת חוק", "חוק יסוד", "ועדת חוקה", "ועדת הכנסת",
     "רגולציה", "תקנות", "קריאה ראשונה", "קריאה שנייה",
     "היועץ המשפטי לממשלה", "ביקורת המדינה",
 ]
 
-# מיפוי שם-מקור (כפי שמופיע ב-Google News) -> Tier אמינות
 OUTLET_TIER = {
     "ynet": 2, "הארץ": 2, "כאן": 2, "ישראל היום": 2, "וואלה": 2,
-    "גלובס": 2, "מעריב": 2, "N12": 2, "כלכליסט": 2, "הכנסת": 1,
+    "גלובס": 2, "מעריב": 2, "n12": 2, "כלכליסט": 2,
     "המכון הישראלי לדמוקרטיה": 3, "the marker": 2,
 }
 
 
 def fetch_knesset_bills(limit=25):
-    """שולף את הצעות החוק שעודכנו לאחרונה — Tier 1, המקור הכי אמין שיש."""
     url = f"{KNESSET_BASE}/KNS_Bill"
-    params = {
-        "$format": "json",
-        "$orderby": "LastUpdatedDate desc",
-        "$top": str(limit),
-    }
+    params = {"$format": "json", "$orderby": "LastUpdatedDate desc", "$top": str(limit)}
     try:
-        resp = requests.get(url, params=params, timeout=25)
+        resp = requests.get(url, params=params, headers=HEADERS, timeout=25)
         resp.raise_for_status()
         rows = resp.json().get("value", [])
     except Exception as exc:
         print(f"[warn] Knesset OData נכשל: {exc}")
-        return []
+        return None
 
     items = []
     for r in rows:
@@ -77,15 +76,34 @@ def fetch_knesset_bills(limit=25):
     return items
 
 
+def discover_gov_feed_url(ministry_slug, channel="NewsApi"):
+    landing_url = f"https://www.gov.il/he/Departments/{ministry_slug}/RSS"
+    try:
+        resp = requests.get(landing_url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        match = re.search(rf"/he/api/{channel}/rss/([0-9a-fA-F-]{{36}})", resp.text)
+        if not match:
+            print(f"[warn] לא נמצא GUID עבור {ministry_slug}/{channel}")
+            return None
+        return f"https://www.gov.il/he/api/{channel}/rss/{match.group(1)}"
+    except Exception as exc:
+        print(f"[warn] כשל בגילוי פיד עבור {ministry_slug}: {exc}")
+        return None
+
+
 def fetch_gov_rss():
-    """שולף הודעות ממשרדי ממשלה ישירות מ-gov.il — גם Tier 1."""
     items = []
-    for ministry, feed_url in GOV_RSS_FEEDS.items():
+    any_success = False
+    for slug in GOV_MINISTRIES:
+        feed_url = discover_gov_feed_url(slug, channel="NewsApi")
+        if not feed_url:
+            continue
         try:
-            resp = requests.get(feed_url, timeout=20)
+            resp = requests.get(feed_url, headers=HEADERS, timeout=20)
             resp.raise_for_status()
             root = ET.fromstring(resp.content)
-            for item in root.findall(".//item")[:8]:
+            any_success = True
+            for item in root.findall(".//item")[:10]:
                 title = (item.findtext("title") or "").strip()
                 if not any(k in title for k in KEYWORDS):
                     continue
@@ -95,37 +113,36 @@ def fetch_gov_rss():
                     "stage": "הודעת משרד ממשלתי",
                     "tier": 1,
                     "source_type": "gov",
-                    "outlet": ministry,
+                    "outlet": slug,
                     "url": item.findtext("link") or feed_url,
                     "updated": item.findtext("pubDate") or "",
                 })
         except Exception as exc:
-            print(f"[warn] gov.il RSS נכשל עבור {ministry}: {exc}")
-    return items
+            print(f"[warn] gov.il RSS נכשל עבור {slug}: {exc}")
+
+    return items if any_success else None
 
 
 def fetch_news_rss(max_items=20):
-    """Google News RSS מסונן למילות מפתח חקיקתיות — Tier 2/3 לפי המקור."""
     items = []
-    for kw in KEYWORDS[:5]:  # מגבילים כדי לא להעמיס
+    any_success = False
+    for kw in KEYWORDS[:5]:
         q = urllib.parse.quote(kw)
         url = f"https://news.google.com/rss/search?q={q}&hl=iw&gl=IL&ceid=IL:iw"
         try:
-            resp = requests.get(url, timeout=20)
+            resp = requests.get(url, headers=HEADERS, timeout=20)
             resp.raise_for_status()
             root = ET.fromstring(resp.content)
+            any_success = True
             for item in root.findall(".//item")[:6]:
                 title = (item.findtext("title") or "").strip()
                 source_el = item.find("source")
                 outlet = source_el.text if source_el is not None else "לא ידוע"
-                tier = OUTLET_TIER.get(outlet.strip().lower(), 3) if outlet else 3
-                # תיקון: OUTLET_TIER מוגדר עם מפתחות עבריים/אנגליים לא אחידים — השוואה גמישה
                 tier = 3
                 for known, t in OUTLET_TIER.items():
                     if known.lower() in (outlet or "").lower():
                         tier = t
                         break
-
                 items.append({
                     "id": f"news-{abs(hash(title))}",
                     "title": title,
@@ -139,9 +156,10 @@ def fetch_news_rss(max_items=20):
         except Exception as exc:
             print(f"[warn] Google News RSS נכשל עבור '{kw}': {exc}")
 
-    # דה-דופליקציה לפי כותרת
-    seen = set()
-    unique = []
+    if not any_success:
+        return None
+
+    seen, unique = set(), []
     for it in items:
         key = it["title"][:40]
         if key in seen:
@@ -151,21 +169,51 @@ def fetch_news_rss(max_items=20):
     return unique[:max_items]
 
 
+def load_previous_feed():
+    try:
+        with open("docs/feed.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {"knesset_bills": [], "gov_announcements": [], "news_feed": []}
+
+
 def main():
+    prev = load_previous_feed()
+    leg_status = {}
+
     print("שולף מהכנסת (Tier 1)...")
     knesset_items = fetch_knesset_bills()
-    print(f"  -> {len(knesset_items)} פריטים")
+    if knesset_items is None:
+        knesset_items = prev.get("knesset_bills", [])
+        leg_status["knesset"] = "stale_fallback"
+        print(f"  -> נכשל, נשמר דאטה קודם ({len(knesset_items)} פריטים)")
+    else:
+        leg_status["knesset"] = "ok"
+        print(f"  -> {len(knesset_items)} פריטים")
 
     print("שולף ממשרדי ממשלה (Tier 1)...")
     gov_items = fetch_gov_rss()
-    print(f"  -> {len(gov_items)} פריטים")
+    if gov_items is None:
+        gov_items = prev.get("gov_announcements", [])
+        leg_status["gov"] = "stale_fallback"
+        print(f"  -> נכשל, נשמר דאטה קודם ({len(gov_items)} פריטים)")
+    else:
+        leg_status["gov"] = "ok"
+        print(f"  -> {len(gov_items)} פריטים")
 
     print("שולף מהתקשורת (Tier 2/3)...")
     news_items = fetch_news_rss()
-    print(f"  -> {len(news_items)} פריטים")
+    if news_items is None:
+        news_items = prev.get("news_feed", [])
+        leg_status["news"] = "stale_fallback"
+        print(f"  -> נכשל, נשמר דאטה קודם ({len(news_items)} פריטים)")
+    else:
+        leg_status["news"] = "ok"
+        print(f"  -> {len(news_items)} פריטים")
 
     feed = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
+        "leg_status": leg_status,
         "counts": {
             "knesset": len(knesset_items),
             "gov": len(gov_items),
@@ -179,7 +227,7 @@ def main():
     with open("docs/feed.json", "w", encoding="utf-8") as f:
         json.dump(feed, f, ensure_ascii=False, indent=2)
 
-    print("\nנכתב ל-docs/feed.json בהצלחה.")
+    print(f"\nנכתב ל-docs/feed.json. leg_status = {leg_status}")
 
 
 if __name__ == "__main__":
