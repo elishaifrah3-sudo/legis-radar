@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:41:42.422802+00:00",
+  "generated_at": "2026-08-15T22:49:54.158174+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,17 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1594713788456418038",
-      "title": "צרפת: בית המשפט העליון ביטל את האיסור על רשתות חברתיות לבני פחות מ-15 - calcalist.co.il",
+      "id": "news-2070627823075540317",
+      "title": "צרפת: בית המשפט העליון ביטל את האיסור על רשתות חברתיות לבני פחות מ-15 - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "calcalist.co.il",
+      "outlet": "Calcalist",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MFNEeWRESUpScXhWT1JIWUVQUmVhQVpIVVJZci1wMzFTYkVXRERGLWxKLVl4TFg5Ml9tT0RNc3VsM0lya1NlUHYtWUlSazk3ZFVVZ04yVkJObVJtb2lyN1A4Yzl3SWdIdncw?oc=5",
       "updated": "Sat, 15 Aug 2026 06:05:00 GMT"
     },
     {
-      "id": "news-4108544156926823670",
+      "id": "news-4172426855501734796",
       "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5186565628902474240",
+      "id": "news-2348592342920089074",
       "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Tue, 11 Aug 2026 21:03:00 GMT"
     },
     {
-      "id": "news-1803989291132657243",
+      "id": "news-6221126799048294052",
       "title": "הצעת חוק לתיקון והשלמה של החוק על עובדים וייטנאמים היוצאים לעבוד בחו\"ל במסגרת חוזה: נקודות שיש לקחת בחשבון - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,17 @@
       "updated": "Sat, 15 Aug 2026 14:03:53 GMT"
     },
     {
-      "id": "news-4916663744813420416",
+      "id": "news-5490365352630771884",
+      "title": "בדרך לסילוק הערבים ממקצוע הרפואה? - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXFmcFFVM2dUZGVDX21YWDBFc09wa0FrUlljb3haZTBlWUJhODA0Z0dMOU1GMGQtYmMzR05OUTJRV3l2enNwbTRHc1c3eXpTQnlud3NsSGNPV3dBelA4dGw4VlBHRmExa1hjWUI1Y1RVbGRzMl9qVW84VWVyLWgxQ2dZSy04ZVBlQS0zb3FIS2JDTUhMV2I3dFRIMF80UHpIWV9BODBBeW1nZXlqYmhR?oc=5",
+      "updated": "Thu, 13 Aug 2026 03:00:00 GMT"
+    },
+    {
+      "id": "news-588405853206083731",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +325,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-2797426321112730400",
-      "title": "הצעת חוק הגנת הסייבר הלאומי – מדינת ישראל מיישרת קו עם מדינות העולם | עו\"ד עדיאל קליין - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhTEw3cHBnY2Z2YnU3M1Zoa3hxLTViQTZmakY1VEZWNVBfU01VcTllOVowUmk1djdnTFdadXZ5ZjM1c2tGd0lNbkt6WDVJLTNDMmx2UEVWX2hjZERyOEVHRUtXbUc?oc=5",
-      "updated": "Mon, 10 Aug 2026 08:02:07 GMT"
-    },
-    {
-      "id": "news-8721752349663628200",
+      "id": "news-5819043228614142598",
       "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7964731032841245701",
+      "id": "news-4731108797564087434",
       "title": "באוצר מזהירים: חוק יסוד לימוד תורה יחייב העלאת מסים - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,37 +345,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8245925838938972260",
-      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4662355658081223950",
-      "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92cVZ4VHBVMDVfdEtPS2I5TVlOT2Y1SjRWOWxZWHMyaVh5aDYtUjZXQm5tWGdrOElGNmRuY2xlVFJkZEFt?oc=5",
-      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4190194605683299494",
-      "title": "הכנסת אישרה סופית את הצעת חוק יסוד לימוד תורה, נתניהו נעדר מההצבעה - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSktEX21oNDhPTENLY0JkUWFEaktqNXkyU0tpVW5MQ19QTzBBblVMbzFWWW9CeGkwUVh1b19pXzZkLTM2U19iZ1FpVGMtQk9Kc2x5MC1PQzhuNWJCdVRGWlVPVFR1Y2tUM2NaUy1zQkpfcUxJbEpWaS02MHMzeFU3cG4tTWZqd1BkUjY4aWpRcU1vdkE5Z0lmbGROejltc3pQUGlIX25fTVZJWmV6?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6680357916078022415",
+      "id": "news-218788868732289377",
       "title": "המדינאי יראה לוליינים בקרקס ויגש למלאכת החקיקה - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +355,37 @@
       "updated": "Fri, 14 Aug 2026 08:34:00 GMT"
     },
     {
-      "id": "news-5342115128847294018",
+      "id": "news-391362359862343808",
+      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
+      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4805715899070410555",
+      "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92cVZ4VHBVMDVfdEtPS2I5TVlOT2Y1SjRWOWxZWHMyaVh5aDYtUjZXQm5tWGdrOElGNmRuY2xlVFJkZEFt?oc=5",
+      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-8306623605100437877",
+      "title": "הכנסת אישרה סופית את הצעת חוק יסוד לימוד תורה, נתניהו נעדר מההצבעה - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSktEX21oNDhPTENLY0JkUWFEaktqNXkyU0tpVW5MQ19QTzBBblVMbzFWWW9CeGkwUVh1b19pXzZkLTM2U19iZ1FpVGMtQk9Kc2x5MC1PQzhuNWJCdVRGWlVPVFR1Y2tUM2NaUy1zQkpfcUxJbEpWaS02MHMzeFU3cG4tTWZqd1BkUjY4aWpRcU1vdkE5Z0lmbGROejltc3pQUGlIX25fTVZJWmV6?oc=5",
+      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-785449286755107553",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,7 +395,7 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1215414942364015371",
+      "id": "news-3138510599555591295",
       "title": "הקשישים יוצאים למאבק: הקרב על הקלפיות מגיע לבג\"ץ - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Tue, 11 Aug 2026 03:01:02 GMT"
     },
     {
-      "id": "news-862723367266075736",
+      "id": "news-4431748344241315426",
       "title": "ועדת החוקה של הליכוד החליטה: נתניהו יקבל שמונה שריונים ברשימת לכנסת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-184576266313104971",
+      "id": "news-2613406802603856525",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5736394219752747236",
+      "id": "news-2849472608073664028",
       "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - העין השביעית",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2066840942438025088",
+      "id": "news-668043057085444498",
       "title": "קרב השריונים: ועדת החוקה של הליכוד תתכנס הערב להכרעה על שיטת הפריימריז - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-189043060528869219",
+      "id": "news-6848291915933283363",
       "title": "ה\"פרלמטר\" של \"שקוף\" מסכם: ארבע שנים של הכנסת ה-25 - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Mon, 10 Aug 2026 18:48:05 GMT"
     },
     {
-      "id": "news-7126074753305127182",
+      "id": "news-1846809374145541031",
       "title": "נשיא העליון עמית: זו פעם ראשונה שהכנסת מצמצמת את יכולת הציבור להצביע - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
