@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:49:28.184586+00:00",
+  "generated_at": "2026-08-16T21:40:21.512645+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2828161591453634496",
+      "id": "news-8551823564633074669",
       "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,27 +275,27 @@
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6679846946804720272",
-      "title": "צרפת: בית המשפט העליון ביטל את האיסור על רשתות חברתיות לבני פחות מ-15 - calcalist.co.il",
+      "id": "news-5183578210854495741",
+      "title": "צרפת: בית המשפט העליון ביטל את האיסור על רשתות חברתיות לבני פחות מ-15 - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "calcalist.co.il",
+      "outlet": "Calcalist",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MFNEeWRESUpScXhWT1JIWUVQUmVhQVpIVVJZci1wMzFTYkVXRERGLWxKLVl4TFg5Ml9tT0RNc3VsM0lya1NlUHYtWUlSazk3ZFVVZ04yVkJObVJtb2lyN1A4Yzl3SWdIdncw?oc=5",
       "updated": "Sat, 15 Aug 2026 06:05:00 GMT"
     },
     {
-      "id": "news-5510921987497009735",
-      "title": "זו השעה ל\"חוק המוסד\" - ynet",
+      "id": "news-5723593032137313317",
+      "title": "זו השעה ל\"חוק המוסד\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
       "updated": "Tue, 11 Aug 2026 21:03:00 GMT"
     },
     {
-      "id": "news-6334636838793115082",
+      "id": "news-6054430184334278929",
       "title": "המועצה החוקתית הצרפתית דחתה הצעת חוק האוסר על ילדים מתחת לגיל 15 גישה לרשתות חברתיות. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Sun, 16 Aug 2026 09:32:13 GMT"
     },
     {
-      "id": "news-8084508043468354069",
+      "id": "news-8148095813863552946",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-464523270843573435",
+      "id": "news-7102371138104731979",
       "title": "מי מהישראלים שגרים בחו\"ל ישלמו מס בארץ? ברשות המסים עדיין מתלבטים - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,17 +325,17 @@
       "updated": "Tue, 11 Aug 2026 03:10:00 GMT"
     },
     {
-      "id": "news-8113552092385338757",
-      "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
+      "id": "news-1260883483107284178",
+      "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeFdVTm16NDQyRzVWSUJCYm5yOFVEY2JZOUx2MXQ5ZzVOSHJQaUd5Y0FKSVBQd3B6RXhRakNYS2xELUt3a1JKV1A4THIzVUtTdE1ITVpVYjlDdw?oc=5",
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2889942723049092716",
+      "id": "news-8736485434927804028",
       "title": "באוצר מזהירים: חוק יסוד לימוד תורה יחייב העלאת מסים - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3269033773269907521",
+      "id": "news-6524506853986038585",
       "title": "המדינאי יראה לוליינים בקרקס ויגש למלאכת החקיקה - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,17 +355,7 @@
       "updated": "Fri, 14 Aug 2026 08:34:00 GMT"
     },
     {
-      "id": "news-7877830257893827970",
-      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
-      "updated": "Sun, 16 Aug 2026 06:51:34 GMT"
-    },
-    {
-      "id": "news-7822975293082905159",
+      "id": "news-4112868255325266773",
       "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +365,17 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4987657470280950930",
+      "id": "news-6064313093918277159",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
+      "updated": "Sun, 16 Aug 2026 06:51:34 GMT"
+    },
+    {
+      "id": "news-3368471715334472927",
       "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,17 +385,17 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7155620559744419711",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
+      "id": "news-8017647270259192345",
+      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7285853270988339071",
+      "id": "news-3025151432666722848",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועץ המשפטי לממשלה לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1462796433949841472",
+      "id": "news-2660995631542771587",
       "title": "הקשישים יוצאים למאבק: הקרב על הקלפיות מגיע לבג\"ץ - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Tue, 11 Aug 2026 03:01:02 GMT"
     },
     {
-      "id": "news-4981906497475192495",
+      "id": "news-1648674249266419354",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,17 +425,17 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8600294551256150918",
-      "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - the7eye.org.il",
+      "id": "news-7219749114623272974",
+      "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - העין השביעית",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "the7eye.org.il",
+      "outlet": "העין השביעית",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWhzY2M1THE3OTVKR1g5a0RncFQzaHp5cklXbE41R0hRb3NHZVM2clJaSDVKSVA3QVRQN2VISFh6cXViTHdxeQ?oc=5",
       "updated": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2140189945990930559",
+      "id": "news-8405376722633466834",
       "title": "הכנסת לבג\"צ: אל תתערבו בהחלטת ועדת הכספים - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,17 +445,17 @@
       "updated": "Sun, 16 Aug 2026 08:34:59 GMT"
     },
     {
-      "id": "news-2014287732348127588",
-      "title": "הסאגה סביב מאות המיליונים שהועברו לחרדים: בכנסת דורשים מבג\"ץ לא להתערב - ynet",
+      "id": "news-7152913461968213751",
+      "title": "הסאגה סביב מאות המיליונים שהועברו לחרדים: בכנסת דורשים מבג\"ץ לא להתערב - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80YkE1RTY4emRyTDFBbFpYZ041cUVBRTNCR2c4OENWSW9UWDhxMHN1RldfUlJMeVZ6cHhWYVBNQjZMS1NCRGpyd3R3R0pvaVNtVWdOZkctYjJrZW5CWGc?oc=5",
       "updated": "Sun, 16 Aug 2026 08:35:24 GMT"
     },
     {
-      "id": "news-3325856596003372162",
+      "id": "news-1100452041083587536",
       "title": "הכנסת לבג\"ץ: אין עילה להתערב באישור ההעברות למוסדות החרדים - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
