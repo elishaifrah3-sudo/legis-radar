@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:56:08.828708+00:00",
+  "generated_at": "2026-08-17T14:57:22.172685+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-4142741093679075729",
+      "id": "news-2197207135760602415",
       "title": "החידושים המשפטיים הנוגעים לממשל תאגידי לחברות ללא גרעין שליטה - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,17 +275,17 @@
       "updated": "Mon, 17 Aug 2026 09:57:00 GMT"
     },
     {
-      "id": "news-4342042345982122437",
-      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - idi.org.il",
+      "id": "news-1092963755008322448",
+      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3441731037074467309",
+      "id": "news-1305972101660879527",
       "title": "הצעת חוק לפיתוח עירוני: הרחבת מרחבי פיתוח עבור הו צ'י מין סיטי ואזורים עירוניים פוטנציאליים אחרים. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,17 +295,17 @@
       "updated": "Mon, 17 Aug 2026 12:04:55 GMT"
     },
     {
-      "id": "news-2823163413165789318",
-      "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - main.knesset.gov.il",
+      "id": "news-3373489067183743878",
+      "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "main.knesset.gov.il",
+      "outlet": "אתר הכנסת",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NWtLU1pSRVBvQklKVFVfNTJwdlVWendUb2QxTUswSEJ5VzdkOFNheXZHOFB2LV92djFmSmNldGFNZmhtVGN4R2U3WHRMS1piaklxcDB6alVwY0E1MU1lZ3FXckttSjdVQ1BMWk5iUHQ?oc=5",
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-2301783896721174252",
+      "id": "news-2175027431523497613",
       "title": "\"טורבו\" הדיונים לפיצול תפקיד היועמ\"ש: זה המועד שבו החוק ייכנס לתוקף - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,17 +315,17 @@
       "updated": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2622395125670597996",
-      "title": "מי מהישראלים שגרים בחו\"ל ישלמו מס בארץ? ברשות המסים עדיין מתלבטים - TheMarker",
+      "id": "news-2445703504837732332",
+      "title": "ותרו על הגיוס, החרדים הם שותפים בשיקום הדמוקרטיה - הארץ",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFMxQ2Z3WmVwSklqanZJQjJla2I2aTN4enhweXZ5dzU0a212ZG9RaUlXY1R1U2ppT0cxWXVUbXJqMkJZcjlnaFFZX1o4RzdHNnhaU1RXYXNpM3lMVkJOTTlWS1AwbHBqUXNCOHlrWndIemRFSWNiMDQ1N1hDWDlmX3F1S1pINTdGODNRdHdNZlhWX1JmUzgzei01UGhIUQ?oc=5",
-      "updated": "Tue, 11 Aug 2026 03:10:00 GMT"
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGJ3OUdZOHZkNUJ2OGQwZk4tZi1LSWZGQkZwN0tBSFVCV2xKSlV6RGRPaTVzUUl6d1dJREVtVG41LVlsX0N4QTN4cjdqRlNSUUFZX3FZUklNT21WN1VTNVZwYmJsWXNfUkluQUdya3NhWDJmU0FnVktITVVRSElnOC1TMkdEUVlFaGh1NXRsM242aE05V1FkNEhQSWtBREl5NGNTRG9uOTRyZXZTamRN?oc=5",
+      "updated": "Wed, 12 Aug 2026 17:00:00 GMT"
     },
     {
-      "id": "news-4772114225915934279",
+      "id": "news-582286666172150258",
       "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1266740455189426189",
+      "id": "news-4666500071180979079",
       "title": "באוצר מזהירים: חוק יסוד לימוד תורה יחייב העלאת מסים - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7708700853462629914",
+      "id": "news-3930434857583828521",
       "title": "המדינאי יראה לוליינים בקרקס ויגש למלאכת החקיקה - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,17 +355,17 @@
       "updated": "Fri, 14 Aug 2026 08:34:00 GMT"
     },
     {
-      "id": "news-7128384429809518459",
-      "title": "הצעת חוק יסוד: לימוד תורה - idi.org.il",
+      "id": "news-7221121257331858477",
+      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8610895115798455010",
+      "id": "news-3141831957852268921",
       "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sat, 15 Aug 2026 20:51:00 GMT"
     },
     {
-      "id": "news-6519030023006237928",
+      "id": "news-6966129101056763017",
       "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4207198948279829007",
+      "id": "news-4523979979984231299",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועץ המשפטי לממשלה לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,7 +395,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-347539889723629206",
+      "id": "news-3668605808927038607",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,27 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3733167111988854117",
+      "id": "news-2924357873717616341",
+      "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dnhmY1BVUzNsbzNFWGpGODVkU0FnMWd5aHJ5UDZlWlhZbzh6b0NTTFBmd3FxNlVYZi0yNGJ6NkM2WVIwMzFNRlZwdw?oc=5",
+      "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-8759028497197851329",
+      "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - העין השביעית",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "העין השביעית",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWhzY2M1THE3OTVKR1g5a0RncFQzaHp5cklXbE41R0hRb3NHZVM2clJaSDVKSVA3QVRQN2VISFh6cXViTHdxeQ?oc=5",
+      "updated": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-121099034194677835",
       "title": "מלחמת הכוסות בכנסת: הספל החדש שהסעיר את ועדת החוקה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,47 +435,27 @@
       "updated": "Wed, 12 Aug 2026 19:12:33 GMT"
     },
     {
-      "id": "news-8997679811317660777",
-      "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - main.knesset.gov.il",
+      "id": "news-7058896579759086507",
+      "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "main.knesset.gov.il",
+      "outlet": "אתר הכנסת",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUkNPM1NwdXk4cHJVS01KN0hrVVR1ajVhOGVuUVY0UXR5RENLN1FFMWZBdDNtd2h4c19UcFc3NGZ6bW5ia3QtWFlnb04tOVlXMHduRTYtWjhtSVlOU0FMcEtGeG1nTEV4c1lwMGl4REI?oc=5",
       "updated": "Fri, 29 May 2026 13:12:25 GMT"
     },
     {
-      "id": "news-7524078081488331967",
-      "title": "פיצול הצעת החוק שנועדה להחליש את תפקיד היועץ המשפטי לממשלה - idi.org.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "idi.org.il",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ISVgwOUZSa0VfdXdSM283dFN5Q2E2OHdKSHVwcmo4V0JjMVVlUkZwQUl4ZVJBcFM4QnJxT1B4THBzdThVUHdQRkFhSTUyZw?oc=5",
-      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-879379146169654826",
-      "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - the7eye.org.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "the7eye.org.il",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWhzY2M1THE3OTVKR1g5a0RncFQzaHp5cklXbE41R0hRb3NHZVM2clJaSDVKSVA3QVRQN2VISFh6cXViTHdxeQ?oc=5",
-      "updated": "Sat, 01 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-832597246581414309",
+      "id": "news-8167731910153366093",
       "title": "הכנסת לבג\"צ: אל תתערבו בהחלטת ועדת הכספים - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "סרוגים",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxObVBOWGVwWFJ3SmdlRVMxbm5jc2JYZ0Nkay1yNVRZd3I2cW1EbmZPLW1QbjhIc3pDQXJsWTBIQ3BrU2FSVXpZZnNKTzl3eVpPS2RFY2NHUFhaMXZ4aGlqc2pja3M4M0FlSkJDS1BoZXZfMXdmNDFlUWo2a1JmQjZuVTUxTzNRcE4zeTBBUkszZ2Rhb1BMaENxUU4xN19PbFRjU2Z3WF9jV1J1aDNDU0dldWNQWXR3QWpic2FGNFpIdVRYUG4zdm45ckk0V2RTZFl3WjlrbldDZXlHaEdmZjdyYVBzZHBYOUp2eFdJejBUZE4tTVVXNFFnTm83VmYxMUtKNE5iNVpwOHZyVnZwU0FTb2xDTDMtU0NaMUdHeURUd2NYWmpuUkh0YTFRcnlsWmVId19yYzFNUzRLVVBCanY3S0gzcjRHWnEyYmZSMDNYWVg3M2Vpc3k0TUN0dw?oc=5",
-      "updated": "Sun, 16 Aug 2026 08:34:59 GMT"
+      "updated": "Mon, 17 Aug 2026 13:39:02 GMT"
     },
     {
-      "id": "news-3450959181340261196",
+      "id": "news-7675830162276370471",
       "title": "הסאגה סביב מאות המיליונים שהועברו לחרדים: בכנסת דורשים מבג\"ץ לא להתערב - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
