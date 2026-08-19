@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:14:18.253247+00:00",
+  "generated_at": "2026-08-19T05:16:55.802335+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-8030957211889590299",
+      "id": "news-3401024223961211311",
       "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,27 +275,37 @@
       "updated": "Tue, 11 Aug 2026 21:03:00 GMT"
     },
     {
-      "id": "news-695566039267098670",
-      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - idi.org.il",
+      "id": "news-8436891061865562662",
+      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3201779661674698314",
-      "title": "החידושים המשפטיים הנוגעים לממשל תאגידי לחברות ללא גרעין שליטה - Calcalist",
+      "id": "news-4853904917534311297",
+      "title": "הצעת חוק שירותי הדואר (מתוקנת) מרחיבה את היקף הפיתוח של מגזר הדואר. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEtWQ1ZBMmQ0R2ZvODZsczgtcDJEQ1N4Q25WanRlQ2VNajEzenpDemJOY1JOOUxpRjd0NDNRdXprWnBmS3QwcFVUb3hzQk9YQXpTcW4xd05uUTRXRzc4RkRISnhadFZvNTVIMUVmb2dxaEJJbUtnTDFXNHRIbm9MWnZaYXE1MHRSTE5Udm1feUtzR1hIYkZRcGxmVEN5ZXptblM5dUFmTXA?oc=5",
+      "updated": "Wed, 19 Aug 2026 05:08:09 GMT"
+    },
+    {
+      "id": "news-5881748556179341581",
+      "title": "צרפת: בית המשפט העליון ביטל את האיסור על רשתות חברתיות לבני פחות מ-15 - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "Calcalist",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YkoxRnBpUGQ0Zi1pNVFKQlNFbVJsQ3hsQU5ROWMzazBRT1h3UHBITXVQb0xuelFzR2ExalNLekxsdGZtbzFRTmpUbnRyWk1YQm56TjItMUVPQlh0UnZMU3VsQmNrTzFj?oc=5",
-      "updated": "Mon, 17 Aug 2026 09:57:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MFNEeWRESUpScXhWT1JIWUVQUmVhQVpIVVJZci1wMzFTYkVXRERGLWxKLVl4TFg5Ml9tT0RNc3VsM0lya1NlUHYtWUlSazk3ZFVVZ04yVkJObVJtb2lyN1A4Yzl3SWdIdncw?oc=5",
+      "updated": "Sat, 15 Aug 2026 06:05:00 GMT"
     },
     {
-      "id": "news-5665907411144920079",
+      "id": "news-8090174810236470522",
       "title": "הצעת חוק הגנת הסייבר הלאומי – מדינת ישראל מיישרת קו עם מדינות העולם | עו\"ד עדיאל קליין - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,7 +315,7 @@
       "updated": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7882529404929053406",
+      "id": "news-3427837341581334153",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,17 +325,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2722999536031555793",
-      "title": "הצעת חוק לפיתוח עירוני: תכנון מרחבי מאוחד רב-שכבתי - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnM3U0JkMW12RGR5cHFvNkh2aTVIZmZzbUZOZWF0eU5oLVJpN2ZWMmxVZ3hIcXlVWGRnZTdvWk44SHVaZGhuLS0xZ1VOakxQeFZPYjBHUEpTc2szdkNFZnVlRzNxanNLVHVFaUg4YnZPNTlPU0RTVThuaXRZb2lZcjBNVmp4VFJWVXVUbnNNb0o3RWxSbXJHVGJzRHU?oc=5",
-      "updated": "Tue, 18 Aug 2026 02:23:46 GMT"
-    },
-    {
-      "id": "news-9136563770087910360",
+      "id": "news-5165509780559519125",
       "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,17 +335,17 @@
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2463866633939184177",
-      "title": "הצעת חוק יסוד: לימוד תורה - idi.org.il",
+      "id": "news-8122188260154948227",
+      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8463815288187790914",
+      "id": "news-7909562391680560053",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4660793725251858692",
+      "id": "news-3461838931449732253",
       "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6377470948822823477",
+      "id": "news-5150988884951366889",
       "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sat, 15 Aug 2026 20:51:00 GMT"
     },
     {
-      "id": "news-4481841022783375144",
+      "id": "news-3445326572668251346",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-741416774049903525",
+      "id": "news-5378164222342179264",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועץ המשפטי לממשלה לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,7 +395,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1193519026029567998",
+      "id": "news-7007969456995035870",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5930714131182527440",
+      "id": "news-1426676093904445771",
       "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10 - העין השביעית",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-932353354324873024",
+      "id": "news-7023197860261074929",
       "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Fri, 29 May 2026 13:12:25 GMT"
     },
     {
-      "id": "news-3035656188701300996",
+      "id": "news-3661091077246485993",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,17 +435,17 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3452555140752202798",
-      "title": "הקשישים יוצאים למאבק: הקרב על הקלפיות מגיע לבג\"ץ - מעריב",
+      "id": "news-6567964045043528019",
+      "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tdzJhVEJmZFFSdXp5TGtQRWlieno4cEVaTUZwUzRCQ3N4dWpnUTRHeHQ2SWZCTmQzMXJRbzU1SzkyaVV4MmF6T2dTVThwSldvdkhWX1lIcEw1Rkc4ckE?oc=5",
-      "updated": "Tue, 11 Aug 2026 03:01:02 GMT"
+      "outlet": "davar1.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00WWQ0OGRjNlB3WFBNTXFYSlNDcmp4d1M4Yk5pTk16cTNqam1yX2FQUDF3M19vZHd6RmVUSFF2VC14RnVZUEQw?oc=5",
+      "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3783603721047061158",
+      "id": "news-8272766399761059913",
       "title": "מליאת ועדת הבחירות אישרה להציב קלפיות ב־159 בתי אבות בבחירות לכנסת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Tue, 18 Aug 2026 16:08:00 GMT"
     },
     {
-      "id": "news-6747736356571043145",
+      "id": "news-7881483891411880159",
       "title": "הזינוק של יו\"ר הקואליציה, וסגן השר שבנה על קשרים אישיים: הפתעות הפריימריז - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
