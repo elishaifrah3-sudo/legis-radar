@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:59:14.405332+00:00",
+  "generated_at": "2026-08-25T14:28:40.610239+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,17 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-5478339854116518578",
-      "title": "\"טורבו\" הדיונים לפיצול תפקיד היועמ\"ש: זה המועד שבו החוק ייכנס לתוקף - ynet.co.il",
+      "id": "news-4261280389688507596",
+      "title": "\"טורבו\" הדיונים לפיצול תפקיד היועמ\"ש: זה המועד שבו החוק ייכנס לתוקף - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cnJLU25SWm1JVmg0ZFJ4MkZnV1d3aGtrQkphRUJYRFVpblZyVnVBVzQ3dkhjUlQwOFdWMkRqLXpVZFJaRmdSemVFZGxWZG15M1o3emJwQmhfZw?oc=5",
       "updated": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3525704276340003578",
+      "id": "news-5947632657552647967",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4091136531261479842",
+      "id": "news-9212856681598958533",
       "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-988093701876283824",
+      "id": "news-3733771458284741998",
       "title": "הצעת חוק התובע הכללי, התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Fri, 29 May 2026 15:31:45 GMT"
     },
     {
-      "id": "news-8637527471002532470",
+      "id": "news-8201621713785303221",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-347431418133024439",
+      "id": "news-7523103990897034421",
       "title": "ניו זילנד רוצה להרחיק את הילדים מהרשתות החברתיות: קנסות של עד 10% מההכנסות - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Mon, 24 Aug 2026 07:38:00 GMT"
     },
     {
-      "id": "news-4103825849846284680",
+      "id": "news-1984073980960664909",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,27 +335,27 @@
       "updated": "Mon, 24 Aug 2026 06:18:49 GMT"
     },
     {
-      "id": "news-6894220267151683789",
-      "title": "קביעת כללי משחק בדמוקרטיה שלנו היא לא משחק - ynet.co.il",
+      "id": "news-8181174021221627260",
+      "title": "קביעת כללי משחק בדמוקרטיה שלנו היא לא משחק - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hQ0c4VDE0SmRTOXNJb3RrVldBdmYxZzcyOEV4Z1ZhaXZhZktSY01NR19HQ0FvaVJhV085YVAyX3pjMW5LNENQVjVqcmhpa254X285MU5zbWtMNG9mUUE?oc=5",
       "updated": "Tue, 25 Aug 2026 04:00:00 GMT"
     },
     {
-      "id": "news-2273375960118751173",
-      "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet.co.il",
+      "id": "news-5528652092051400605",
+      "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeFdVTm16NDQyRzVWSUJCYm5yOFVEY2JZOUx2MXQ5ZzVOSHJQaUd5Y0FKSVBQd3B6RXhRakNYS2xELUt3a1JKV1A4THIzVUtTdE1ITVpVYjlDdw?oc=5",
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8150496331715821445",
+      "id": "news-3786111696258247769",
       "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5066127989831003980",
+      "id": "news-8509947703406330243",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1437208504688849255",
+      "id": "news-379775883628006152",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7406468112587059051",
+      "id": "news-1102765515355730694",
       "title": "מסתמן: לפחות 93% מהעסקים יוחרגו מחוק תביעות ייצוגיות - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,7 +395,27 @@
       "updated": "Sun, 23 Aug 2026 16:12:24 GMT"
     },
     {
-      "id": "news-2902870080415881349",
+      "id": "news-3669154794403455114",
+      "title": "שמחה רוטמן: היועמ\"שית ובג\"ץ מונעים מהממשלה להקים ועדת חקירה כפי שצריך להקים - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UVpvNngwV0hKSlJvV3VILXo3NkxIVnJYbFVWR2VyN0d4X2t2SXJvcEZTREFYLWY4MGt5c29yMnBNU2Y5NU00ckp1OW5KNE54N2d6TTI3UmFZdklRemtvTHF1RVdrQWpSRTNBamJB?oc=5",
+      "updated": "Wed, 19 Aug 2026 05:22:12 GMT"
+    },
+    {
+      "id": "news-8068525099884304978",
+      "title": "רוטמן למשנה ליועמ\"שית: \"אתה משקר לפרוטוקול, יש גבול לחוצפה\" - מקור ראשון",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Kc3JnMXhOanpmSHhuWG11N3BZQldUeUhEbGV1MlFCOFE4VDVqWHh2b2x1akZfZGVkbzVDQnBrT3ZXV256NHBwYk85MmRmWWpMS2haMW9CSU9lUGFOaHk3dElHZw?oc=5",
+      "updated": "Sun, 23 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-7694109052341091862",
       "title": "מלחמת הכוסות בכנסת: הספל החדש שהסעיר את ועדת החוקה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +425,7 @@
       "updated": "Sat, 22 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8916665262070857458",
+      "id": "news-6189122495959354850",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +435,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4410474618456773884",
+      "id": "news-4575784744644744424",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,27 +445,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2533438797608869625",
-      "title": "ח\"כ רוטמן: \"כשבג\"ץ מצפצף על החוקים - אנחנו נקשיב לחוק\" - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSTNVNHRRWHVabnh5SERDdWljemZ4REtkaEpmRzJuc29IZmZkQ2tHSmdLNU1QR1N3QzFHWVRCM19PaDBXNEY5dkt6c2JfZmt0NHZhX3pLZW9KZw?oc=5",
-      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7380042399067698647",
-      "title": "חוק העמדה לדין בשל אירועי טבח 7 באוקטובר 2023 (טבח שמיני עצרת), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0QUF6bUNjRlAxMEZjZl9NWE1hLXpaVFIyUFdPZWhIbXFkLXFvamNxUGQ0b05nRDNfOXlESUcxQzQwSUROVmlNcjM0MnhLcUtWdGRCQnJXYThIcGtzY1FaaEhIU0IyLVRmNkpWTHp4YVI?oc=5",
-      "updated": "Wed, 01 Jul 2026 17:38:21 GMT"
-    },
-    {
-      "id": "news-6654884068424350428",
+      "id": "news-1319412887141892452",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Mon, 24 Aug 2026 01:47:31 GMT"
     },
     {
-      "id": "news-3860480346504694621",
+      "id": "news-6643304462462413137",
       "title": "בג\"ץ הקפיא העברת מאות מיליוני שקלים בכספים קואליציוניים - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
