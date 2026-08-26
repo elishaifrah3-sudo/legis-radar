@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:09:09.792899+00:00",
+  "generated_at": "2026-08-26T10:54:52.483529+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,57 +265,27 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-525789565482468261",
-      "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
+      "id": "news-2729220016710008807",
+      "title": "איראן מקדמת חוק שיפליל קשר עם כלי תקשורת זרים ויגביל זרימת מידע - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "Gov.il",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1icmdmYkFZaWh2WTJfZWk0VXhENlctWVlKc25sc1JVc1FJUVIzWEh1VWJzQllXU0wwc3F0ai1kcVNXb2hYN2d3LS1qZkFvZw?oc=5",
-      "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZTRoZDdlQWZ1bjA3UF9JcWdjZVduVmFZcVpXTTd2dXpSUXV3TFFQS182ZDhPYW8tUWstWUs4bkpDeFJjbHlldw?oc=5",
+      "updated": "Wed, 26 Aug 2026 10:12:00 GMT"
     },
     {
-      "id": "news-7425610620158199256",
-      "title": "\"טורבו\" הדיונים לפיצול תפקיד היועמ\"ש: זה המועד שבו החוק ייכנס לתוקף - ynet",
+      "id": "news-381466416813096418",
+      "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cnJLU25SWm1JVmg0ZFJ4MkZnV1d3aGtrQkphRUJYRFVpblZyVnVBVzQ3dkhjUlQwOFdWMkRqLXpVZFJaRmdSemVFZGxWZG15M1o3emJwQmhfZw?oc=5",
-      "updated": "Wed, 10 Jun 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
+      "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-23541934856332669",
-      "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS2FSODdkVlNIMFVZWU9laW5ZUFRIdjZFSkhQOGoxRDlxaURaTzZDUm01OHI4eWE2ZUlrZHpWV1g2YUZjcmdLbUttYVpjeGxoQ3dQaTRSR2REb1B6dmJiMnNGUFVCcWVU?oc=5",
-      "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-3764449507368037860",
-      "title": "הצעת חוק התובע הכללי, התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFYMnROdHlnYmdFemJieEg1ZUJud21BMXhaUzgzRkY1YzAyZXVvX2dONTNLTUNCS1BTVXhPVmVwYXpncEphUEdBTHZUaW9CZDlKeUx2UXlkbXIyVS14TDdtaU9ET05td1prZkRodVI?oc=5",
-      "updated": "Fri, 29 May 2026 15:31:45 GMT"
-    },
-    {
-      "id": "news-6265545599239026198",
-      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
-      "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-565358809819294903",
+      "id": "news-6206082617289641552",
       "title": "ניו זילנד רוצה להרחיק את הילדים מהרשתות החברתיות: קנסות של עד 10% מההכנסות - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,17 +295,37 @@
       "updated": "Mon, 24 Aug 2026 07:38:00 GMT"
     },
     {
-      "id": "news-7058734751153758944",
-      "title": "קביעת כללי משחק בדמוקרטיה שלנו היא לא משחק - המכון למדיניות העם היהודי - JPPI",
+      "id": "news-7794607751320677683",
+      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "המכון למדיניות העם היהודי - JPPI",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOG9KN1B2MUhFWE1haHU5bXJ0WXdTSHY4VFYyNHg5S082SDlJZlVqcEZwYUhKWENtbUJkeTRFbWFPSU4tTzJXYjY0aXRTd3YzbUZ3N1F4RjgyVnNEaGdSeUhiZ2RRNjdXN2ZocmJqQ3pNNUpmQkg4VlpWb1Jodk40Yk5qeHROQXJBdDU5dlFNV0JBaS03V09lWDRnUkdwWDk4RjAwdlNKeHEtMUZBXzM3T0tkWm5Td21NdTJHcWRIWnlpOG41NkpoSzl2YnRRMzc2RjN0Rmk5WUdNZy1qNmdBNjBENHgybUhlVHdNYjlQMGg3bndaSmdkQ3VEa2xocFVTanQ5SzQ5SGlmR0xibDh2OGM2RVlxVGpFYVFMYl9DVG8xS1lxTGthQTZsZnh1cmlwVGpiV1ZZd182MDFKNGpzUGJ2eV9PQQ?oc=5",
-      "updated": "Tue, 25 Aug 2026 15:05:18 GMT"
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
+      "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-176716212573271799",
+      "id": "news-2079401034387657486",
+      "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Gov.il",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1icmdmYkFZaWh2WTJfZWk0VXhENlctWVlKc25sc1JVc1FJUVIzWEh1VWJzQllXU0wwc3F0ai1kcVNXb2hYN2d3LS1qZkFvZw?oc=5",
+      "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-6733854128840805843",
+      "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS2FSODdkVlNIMFVZWU9laW5ZUFRIdjZFSkhQOGoxRDlxaURaTzZDUm01OHI4eWE2ZUlrZHpWV1g2YUZjcmdLbUttYVpjeGxoQ3dQaTRSR2REb1B6dmJiMnNGUFVCcWVU?oc=5",
+      "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-93002338960349863",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +335,17 @@
       "updated": "Mon, 24 Aug 2026 06:18:49 GMT"
     },
     {
-      "id": "news-3190134928733556840",
+      "id": "news-8078162236965733163",
+      "title": "קביעת כללי משחק בדמוקרטיה שלנו היא לא משחק - המכון למדיניות העם היהודי - JPPI",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון למדיניות העם היהודי - JPPI",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOG9KN1B2MUhFWE1haHU5bXJ0WXdTSHY4VFYyNHg5S082SDlJZlVqcEZwYUhKWENtbUJkeTRFbWFPSU4tTzJXYjY0aXRTd3YzbUZ3N1F4RjgyVnNEaGdSeUhiZ2RRNjdXN2ZocmJqQ3pNNUpmQkg4VlpWb1Jodk40Yk5qeHROQXJBdDU5dlFNV0JBaS03V09lWDRnUkdwWDk4RjAwdlNKeHEtMUZBXzM3T0tkWm5Td21NdTJHcWRIWnlpOG41NkpoSzl2YnRRMzc2RjN0Rmk5WUdNZy1qNmdBNjBENHgybUhlVHdNYjlQMGg3bndaSmdkQ3VEa2xocFVTanQ5SzQ5SGlmR0xibDh2OGM2RVlxVGpFYVFMYl9DVG8xS1lxTGthQTZsZnh1cmlwVGpiV1ZZd182MDFKNGpzUGJ2eV9PQQ?oc=5",
+      "updated": "Tue, 25 Aug 2026 15:05:18 GMT"
+    },
+    {
+      "id": "news-1610052489987432546",
       "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4994339198387837999",
+      "id": "news-5596064910618298692",
       "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3220287291473601104",
+      "id": "news-727977993112886602",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,47 +375,17 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2797813068352356074",
-      "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - davar1.co.il",
+      "id": "news-3712745329811689528",
+      "title": "משרד החינוך: חוק היסוד שמקדמת הממשלה יחייב לשלב לימודי תורה על חשבון מקצועות אחרים - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "davar1.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aM0xVSS1sU29xYkZtZng0d1NOck85NWhwQzFhdXI5NU1MOTBPT3laX21pLXh3bndubVU4NTBNR2JLY1BYWHlV?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaktxYTAtak5taVdGZ2FFQ0pjRV9rczYtWi1zQ2p5Tk5xNEtpdDhkb2FPSy1qeGJ0Z0NZM1FfRVNzekdYYUlFNVktQm9ValFYMDVTQWNfQ0FvWHcxOEJKMjc4R1NoM082cUNEMXB0Q1c1eUxHX1FVZHloX2FoTzRZT2xkSzlXY1BMb1FEWklIMGlPazQ2VURBRW5tWG0tWk1fQzhTT0JGYXJycVYx?oc=5",
+      "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-600443162520163120",
-      "title": "קריב: \"עליתם על מערכת המשפט עם D-9\". רוטמן: \"היינו עדינים מאוד\" | זירת הבחירות - ynet",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWldqOGNFTGZaa25GUWk5dlA0VFQwR0pHcThJX3ZJS2dfSGdsTTNvV1VaNWVMTXRVU092bGNtbWFNbDliV2ZMVFA2RGN3cjRZWHdTNFdscTNoQQ?oc=5",
-      "updated": "Wed, 26 Aug 2026 07:52:10 GMT"
-    },
-    {
-      "id": "news-904978637780726037",
-      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "103FM",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
-      "updated": "Tue, 25 Aug 2026 14:55:40 GMT"
-    },
-    {
-      "id": "news-3670912971287116427",
-      "title": "מסתמן: לפחות 93% מהעסקים יוחרגו מחוק תביעות ייצוגיות - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43MTE2QmxNSVlESHRydU8xTDY3ejNrT0J5YUV1NkdWU1hYUGhhYllhSnplSlVsVGpNTVUwcUljSm5ZaE1MZC1fbUZIQnVwTG1jY1RLbGtlNVN0X1RuaE1ZQmRkZXZKX2ZN?oc=5",
-      "updated": "Sun, 23 Aug 2026 16:12:24 GMT"
-    },
-    {
-      "id": "news-2175261383683779394",
+      "id": "news-8543347846524192316",
       "title": "קריב: \"עליתם על מערכת המשפט עם 9-D\". רוטמן: \"הלוואי, היינו עדינים\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +395,27 @@
       "updated": "Tue, 25 Aug 2026 21:00:00 GMT"
     },
     {
-      "id": "news-4167922007892625310",
+      "id": "news-1746705128738784127",
+      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "103FM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
+      "updated": "Tue, 25 Aug 2026 14:55:40 GMT"
+    },
+    {
+      "id": "news-1338160494131192571",
+      "title": "מסתמן: לפחות 93% מהעסקים יוחרגו מחוק תביעות ייצוגיות - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43MTE2QmxNSVlESHRydU8xTDY3ejNrT0J5YUV1NkdWU1hYUGhhYllhSnplSlVsVGpNTVUwcUljSm5ZaE1MZC1fbUZIQnVwTG1jY1RLbGtlNVN0X1RuaE1ZQmRkZXZKX2ZN?oc=5",
+      "updated": "Sun, 23 Aug 2026 16:12:24 GMT"
+    },
+    {
+      "id": "news-5122553492301148110",
       "title": "רוטמן למשנה ליועמ\"שית: \"אתה משקר לפרוטוקול, יש גבול לחוצפה\" - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,17 +425,27 @@
       "updated": "Sun, 23 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1530169571901969546",
-      "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
+      "id": "news-4509928720308611602",
+      "title": "מלחמת הכוסות בכנסת: הספל החדש שהסעיר את ועדת החוקה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dnhmY1BVUzNsbzNFWGpGODVkU0FnMWd5aHJ5UDZlWlhZbzh6b0NTTFBmd3FxNlVYZi0yNGJ6NkM2WVIwMzFNRlZwdw?oc=5",
-      "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
+      "outlet": "כיכר השבת",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XVG4yYUc3dEhyZDF0czNSMFBOT3loMVhIVUIwUXN6RVJBWWc0bWprajVoamVuc0JmeEVuWnc1MW5oWFpzaHNQd0xEcVVFalVPSnZTaEhwalZ6d3lwOVJOTHFPNkFaamJZdDhHd2l6aUFyZkhzLUE?oc=5",
+      "updated": "Sat, 22 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7616742233712851412",
+      "id": "news-3529870774889648023",
+      "title": "ועדת החוקה של הליכוד החליטה: נתניהו יקבל שמונה שריונים ברשימת לכנסת - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2hDVzJ3SUNxYmdzR0lfRFR6dlRVVkNwenhGbXdyUW0zTE5IdFQyUDY1STVFSDNXQjVlS2RWSzVNcEt4U2ZDUUJuTHF0RklZTnZiWFBZNi15cktEUXJ1OUdSUjU0THg4WGhxUVROd2h2bklLTkd5VlZWYWVia09hMHhXWWRrZ0hLckN1YkI3XzBoRnVkRjFycFBtU2ZXLW5PM3R4cGk1YU0waHYt?oc=5",
+      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-1933285694414165181",
       "title": "מליאת ועדת הבחירות אישרה להציב קלפיות ב־159 בתי אבות בבחירות לכנסת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,14 +455,14 @@
       "updated": "Tue, 18 Aug 2026 16:08:00 GMT"
     },
     {
-      "id": "news-649210819671782545",
-      "title": "ניצחון לקואליציה: כל ההעברות הכספים אושרו בכנסת - בג\"ץ יתערב? - ynet",
+      "id": "news-1942475320500124611",
+      "title": "מועמדות לתפקיד מזכיר/ת ועדת קלפי בבחירות לכנסת ה-26 ועדת הבחירות המרכזית לכנסת - Gov.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ld0FDejhvMklPMGpDamE5c2J4ckJNQWtVVFQ3YmpkUzdYdW1DMXNGNXAxRWgzNlVmVW9FS2hqTGtaamJvVjZ4S2RzMjdTNXFGdGZjdUNWSmlramFKbmc?oc=5",
-      "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
+      "outlet": "Gov.il",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qR1o4LVBiQXBOQTNKMEpBZnNIZEN6VjNiN0xfckdJTE91U0Z0RTlicE5nS1RBbVRtZmNGcHBHWFBNX0RQekZDQVAxR1pKamM?oc=5",
+      "updated": "Wed, 29 Jul 2026 07:00:00 GMT"
     }
   ]
 }
