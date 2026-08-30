@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:03:19.681870+00:00",
+  "generated_at": "2026-08-30T19:03:08.243836+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,37 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-9046137673106541029",
-      "title": "זו השעה ל\"חוק המוסד\" - ynet",
+      "id": "news-4259835705601975207",
+      "title": "\"טורבו\" הדיונים לפיצול תפקיד היועמ\"ש: זה המועד שבו החוק ייכנס לתוקף - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
-      "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cnJLU25SWm1JVmg0ZFJ4MkZnV1d3aGtrQkphRUJYRFVpblZyVnVBVzQ3dkhjUlQwOFdWMkRqLXpVZFJaRmdSemVFZGxWZG15M1o3emJwQmhfZw?oc=5",
+      "updated": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5678819884166164997",
-      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "איגוד האינטרנט הישראלי – ISOC-IL",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Z1NNcHBfcm45NnhBSTJQemNXZEd3M2hOMjlDbjROc3lVVnNkRTRkN0MxRzMtb19UTF9GQk1SaGUwbkNDRGVBVUUyYmJkZHhoRHhMcldqR095SVJ1MFMyNUs4cEZlWDZhbmRKZmdiYXNSZ2RZbmRnag?oc=5",
-      "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
-    },
-    {
-      "id": "news-6215565777268283983",
-      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
-      "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6180555697996856570",
+      "id": "news-3592601881100398049",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,127 +285,17 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3743951872531801160",
-      "title": "הצעת חוק התובע הכללי, התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFYMnROdHlnYmdFemJieEg1ZUJud21BMXhaUzgzRkY1YzAyZXVvX2dONTNLTUNCS1BTVXhPVmVwYXpncEphUEdBTHZUaW9CZDlKeUx2UXlkbXIyVS14TDdtaU9ET05td1prZkRodVI?oc=5",
-      "updated": "Fri, 29 May 2026 15:31:45 GMT"
-    },
-    {
-      "id": "news-1790481569255086567",
-      "title": "הצעת חוק הגנת הסייבר הלאומי – מדינת ישראל מיישרת קו עם מדינות העולם | עו\"ד עדיאל קליין - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhTEw3cHBnY2Z2YnU3M1Zoa3hxLTViQTZmakY1VEZWNVBfU01VcTllOVowUmk1djdnTFdadXZ5ZjM1c2tGd0lNbkt6WDVJLTNDMmx2UEVWX2hjZERyOEVHRUtXbUc?oc=5",
-      "updated": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-9165250405664465042",
-      "title": "ניקוי אורוות משטרי דורש חקיקת מגן ודחיית פשרות פוליטיות מסוכנות - זמן ישראל",
+      "id": "news-7060457774845586102",
+      "title": "ד\"ר יפעת סולל: הצעת חוק יסוד – השכלה ודעת - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1DUkU3STFrNFd6VExUU1JlNk5TNExfZHpvUWRlRmUxOHkyS3k2bWhoTUtVYlNmaVlMOWJMNzhsQ3k1MGI0?oc=5",
-      "updated": "Fri, 28 Aug 2026 07:11:38 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82Z1JMUF9PM2dIZ013cl9fVXZHWU0wOGMyTTJvdmJsazZEaVZxdDV1dFVYQmI3dzJ4TDR4Z0UxRzhFa1Fn?oc=5",
+      "updated": "Tue, 14 Jul 2026 14:31:30 GMT"
     },
     {
-      "id": "news-7018260765568801763",
-      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
-      "updated": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2301294368485875996",
-      "title": "ח\"כ דן אילוז הצביע נגד חוק יסוד לימוד תורה, ח\"כ יוסי טייב התפרץ עליו | צפו - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUm1VVDlqX0lEZkxnTTc5UFRvNTI3dVlPR0dLbGxjLXY5LWtCeE42aXYzaXVKbVdNeWpJVzVJNlVjYWlkZGxla0dvcGJsdlRxV2ZDZjJn?oc=5",
-      "updated": "Thu, 27 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-5605655110667523261",
-      "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91WXAwMldBdWo1azd5em1KV0h5U3IteTlBNzhhWlZvbXNhYlQ5ZnhOZ3FkMEl3aGV2UGxZWm5lVml4RFVk?oc=5",
-      "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
-    },
-    {
-      "id": "news-3509399158581893624",
-      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2414514355847303879",
-      "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lOENiUHZVU19SMS1XakdYTDVpX1I1MTc3VlVyR2s4d0YwM1NrN3d2a1FUdmd5Z1ZVQlhZQk9CVG5NQjhJRzlhaEhYaFZva0pjcm1fM0ZsVGpTTUNOb2U5RTVFcm9ULTQ?oc=5",
-      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-906748148645554068",
-      "title": "קריב: \"עליתם על מערכת המשפט עם D-9\". רוטמן: \"היינו עדינים מאוד\" | זירת הבחירות - ynet",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWldqOGNFTGZaa25GUWk5dlA0VFQwR0pHcThJX3ZJS2dfSGdsTTNvV1VaNWVMTXRVU092bGNtbWFNbDliV2ZMVFA2RGN3cjRZWHdTNFdscTNoQQ?oc=5",
-      "updated": "Wed, 26 Aug 2026 07:52:10 GMT"
-    },
-    {
-      "id": "news-6605731595021898813",
-      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "103FM",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
-      "updated": "Tue, 25 Aug 2026 14:55:40 GMT"
-    },
-    {
-      "id": "news-428011234574354720",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
-      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4318473505618058735",
-      "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dnhmY1BVUzNsbzNFWGpGODVkU0FnMWd5aHJ5UDZlWlhZbzh6b0NTTFBmd3FxNlVYZi0yNGJ6NkM2WVIwMzFNRlZwdw?oc=5",
-      "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-3856094495904886802",
+      "id": "news-7966365473881787890",
       "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +305,127 @@
       "updated": "Fri, 29 May 2026 13:12:25 GMT"
     },
     {
-      "id": "news-5807270600181964734",
+      "id": "news-4212524669426513740",
+      "title": "איראן מקדמת חוק שיפליל קשר עם כלי תקשורת זרים ויגביל זרימת מידע - ערוץ 7",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZTRoZDdlQWZ1bjA3UF9JcWdjZVduVmFZcVpXTTd2dXpSUXV3TFFQS182ZDhPYW8tUWstWUs4bkpDeFJjbHlldw?oc=5",
+      "updated": "Wed, 26 Aug 2026 10:12:00 GMT"
+    },
+    {
+      "id": "news-9064210069376119666",
+      "title": "פרק ח' (יבוא מוצרי מזון) מתוך הצעת חוק התכנית הכלכלית (תיקוני חקיקה ליישום המדיניות הכלכלית לשנות התקציב 2023 ו-2024), התשפ\"ג-2023 - אתר הכנסת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר הכנסת",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oMGVoSDB2NVFsb2d4VFRxQ2trRXJOdmxfdHBhek1KeTlkRlJYcUpOcW4xc1dXcGd4ekdEQnIzdFVJaWVsdVdMWXZ2QUt1d0o0UEpjeTVMcTVsOGpNMWotVW5kY2RZZUdjWDdoZWpTcnI?oc=5",
+      "updated": "Wed, 24 Jun 2026 07:08:56 GMT"
+    },
+    {
+      "id": "news-9100831631671793415",
+      "title": "אחריותם של אהרן ברק ויצחק זמיר - ynet",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNGljWjdoYThXWktQT2Y3MXpoOTJ0T19uSlA5NEhNNWFDUmJvS0U4WlR5UklzLWlILUlPM2xDZ2F4VFlUZHJ6TzhhNnVfTVAtU1ZuTGxmZGMzbFE?oc=5",
+      "updated": "Sun, 30 Aug 2026 10:46:27 GMT"
+    },
+    {
+      "id": "news-7669974251256272810",
+      "title": "ניקוי אורוות משטרי דורש חקיקת מגן ודחיית פשרות פוליטיות מסוכנות - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1DUkU3STFrNFd6VExUU1JlNk5TNExfZHpvUWRlRmUxOHkyS3k2bWhoTUtVYlNmaVlMOWJMNzhsQ3k1MGI0?oc=5",
+      "updated": "Fri, 28 Aug 2026 07:11:38 GMT"
+    },
+    {
+      "id": "news-7179339876994277453",
+      "title": "ח\"כ דן אילוז הצביע נגד חוק יסוד לימוד תורה, ח\"כ יוסי טייב התפרץ עליו | צפו - כיכר השבת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "כיכר השבת",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUm1VVDlqX0lEZkxnTTc5UFRvNTI3dVlPR0dLbGxjLXY5LWtCeE42aXYzaXVKbVdNeWpJVzVJNlVjYWlkZGxla0dvcGJsdlRxV2ZDZjJn?oc=5",
+      "updated": "Thu, 27 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-2781299684448907642",
+      "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91WXAwMldBdWo1azd5em1KV0h5U3IteTlBNzhhWlZvbXNhYlQ5ZnhOZ3FkMEl3aGV2UGxZWm5lVml4RFVk?oc=5",
+      "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
+    },
+    {
+      "id": "news-2224627411883949246",
+      "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pU0JfdHctb2o4YkNRcTZHM3B1TlJUenB4aHh2REMtSF9ndnIzOVpGdzhPa0FKaTFBVVFTTWkxYVFDZjZwazZGWXZ4NkZpTEpoM3hsVEpXZkJzelk?oc=5",
+      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-1371407667601453060",
+      "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lOENiUHZVU19SMS1XakdYTDVpX1I1MTc3VlVyR2s4d0YwM1NrN3d2a1FUdmd5Z1ZVQlhZQk9CVG5NQjhJRzlhaEhYaFZva0pjcm1fM0ZsVGpTTUNOb2U5RTVFcm9ULTQ?oc=5",
+      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-9140809056966928436",
+      "title": "קריב: \"עליתם על מערכת המשפט עם D-9\". רוטמן: \"היינו עדינים מאוד\" | זירת הבחירות - ynet",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWldqOGNFTGZaa25GUWk5dlA0VFQwR0pHcThJX3ZJS2dfSGdsTTNvV1VaNWVMTXRVU092bGNtbWFNbDliV2ZMVFA2RGN3cjRZWHdTNFdscTNoQQ?oc=5",
+      "updated": "Wed, 26 Aug 2026 07:52:10 GMT"
+    },
+    {
+      "id": "news-115442981540949693",
+      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "103FM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
+      "updated": "Tue, 25 Aug 2026 14:55:40 GMT"
+    },
+    {
+      "id": "news-943660182224450665",
+      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-8006787625851017936",
+      "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dnhmY1BVUzNsbzNFWGpGODVkU0FnMWd5aHJ5UDZlWlhZbzh6b0NTTFBmd3FxNlVYZi0yNGJ6NkM2WVIwMzFNRlZwdw?oc=5",
+      "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4972431194885099463",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +435,7 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8643564432528963543",
+      "id": "news-3959523628985676634",
       "title": "ההמצאה החדשה בבג\"ץ: בית המשפט כשבתו ככספומט-על כול-יכול - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +445,7 @@
       "updated": "Sat, 29 Aug 2026 19:03:29 GMT"
     },
     {
-      "id": "news-7743467451345714691",
+      "id": "news-3766340176398211938",
       "title": "חוק לעניין ועדות הכנסת (תיקוני חקיקה והוראת שעה), התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -463,6 +453,16 @@
       "outlet": "אתר הכנסת",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfbkxGQzR3a1J5QnBqa1lUT1ltU2V6bDJiQy1GQ29vcFNmdlBRVTlRM1g1dzhPZlIxY3ktS0N1WVNUbmZXT1o4T1FXVko4Y2RRYTlPUy1rTkhUN2YtUEVIeGJfa3ozci1HQzlDUEJFc3c?oc=5",
       "updated": "Thu, 28 May 2026 17:43:13 GMT"
+    },
+    {
+      "id": "news-5171059927667587659",
+      "title": "עבודת הכנסת בזמן פגרת הבחירות - המכון הישראלי לדמוקרטיה",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mZ2VEdzVOeURVTldmRUNQV0d5SnFvd0hJVjZDOXhhVXppYlFVNTFPaFZ5b09iWlV3eGdORUtxQWV6cVV1emZBdUJBOUFJUQ?oc=5",
+      "updated": "Wed, 22 Jul 2026 07:00:00 GMT"
     }
   ]
 }
