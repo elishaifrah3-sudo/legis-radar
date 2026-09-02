@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:05:45.637213+00:00",
+  "generated_at": "2026-09-02T05:05:07.012216+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-7815500665957802237",
+      "id": "news-3176093784445092050",
       "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,17 +275,17 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7996011564258969370",
-      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
+      "id": "news-1244196419332904053",
+      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - isoc.org.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "איגוד האינטרנט הישראלי – ISOC-IL",
+      "outlet": "isoc.org.il",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Z1NNcHBfcm45NnhBSTJQemNXZEd3M2hOMjlDbjROc3lVVnNkRTRkN0MxRzMtb19UTF9GQk1SaGUwbkNDRGVBVUUyYmJkZHhoRHhMcldqR095SVJ1MFMyNUs4cEZlWDZhbmRKZmdiYXNSZ2RZbmRnag?oc=5",
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-4191423685296381629",
+      "id": "news-2830885082400449673",
       "title": "יקדמו או לא יקדמו את ההפיכה? על ראשי האופוזיציה להבהיר את עמדתם | דעה - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,17 @@
       "updated": "Thu, 27 Aug 2026 17:00:00 GMT"
     },
     {
-      "id": "news-769874090061254200",
-      "title": "בית הנבחרים האמריקאי אישר תקציב זמני, ובכך מנע סגירה אפשרית של פעילות ממשלתית. - Vietnam.vn",
+      "id": "news-5909284831345957828",
+      "title": "בית הנבחרים האמריקאי אישר תקציב זמני, ובכך מנע סגירה אפשרית של פעילות ממשלתית. - vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "Vietnam.vn",
+      "outlet": "vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGNVVTEyZlFZb2VkYllGRjZ5VTY2dXFpTHRwZW02R3hqV1p4Zm9QTkdrbFFaOTc0QmI3T2FEUVk4TWdJVDJFamprZ0U0dEJGblNRMHp0ZV9HTmpqcXdiaEdLUm1SQmVnMERaMURLbGtFZmVmQXM4Q2tfMTB3UXhGTUFtaFhjMlJ4N2FZN2ZkOS0zejNfZC0yYTlHT3N0eU0?oc=5",
       "updated": "Wed, 02 Sep 2026 01:26:20 GMT"
     },
     {
-      "id": "news-9192046532671110969",
+      "id": "news-8170913699518369877",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3052631874044666393",
+      "id": "news-5869747257924272137",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1393795345471624740",
+      "id": "news-212981845077405139",
       "title": "ניקוי אורוות משטרי דורש חקיקת מגן ודחיית פשרות פוליטיות מסוכנות - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Fri, 28 Aug 2026 07:01:42 GMT"
     },
     {
-      "id": "news-8610664779288569630",
+      "id": "news-8244088201931676422",
       "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,27 +345,27 @@
       "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3753046885985671094",
-      "title": "גולדקנופף עורר סערה: \"המשתמטים מתל אביב! אישור מהמונדיאל זה בסדר?\" - kikar.co.il",
+      "id": "news-2541929210215711583",
+      "title": "גולדקנופף עורר סערה: \"המשתמטים מתל אביב! אישור מהמונדיאל זה בסדר?\" - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "kikar.co.il",
+      "outlet": "כיכר השבת",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZjQtcDIzS3ZFMk5NRnNQYV9tR1NaVXJ1emtxUk1OOU0yMkEwWFI3c3J1UVpSbnBOUUQtXzBUS1EydWpFY3hZeTc4b1RFNE9Gd3pHdFRpRTU1YnlSbXA1c0hxY3BteDFLMkpBOGxETEYzU29EQ1pQdXF3WEpGQQ?oc=5",
       "updated": "Mon, 31 Aug 2026 21:02:58 GMT"
     },
     {
-      "id": "news-965522414212922112",
-      "title": "שש הערות על ההמלצה של השופט עמית לזיני – ועל המהפכה האנטי־משפטית בבג''ץ - מקור ראשון",
+      "id": "news-2267971635388951979",
+      "title": "שש הערות על ההמלצה של השופט עמית לזיני – ועל המהפכה האנטי־משפטית בבג''ץ - makorrishon.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "מקור ראשון",
+      "outlet": "makorrishon.co.il",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2OGEya09NTU1kbnl6XzJZczktcFNETlE2QVRWRVMxYTlEZjNhR05EUmFjOEtEZURKb2tlVGVDeENzZmQ0MEVuTHN2a3VqMWFzdl90cUNCUGZNQmJEc3o5MFl4WQ?oc=5",
       "updated": "Mon, 31 Aug 2026 11:41:58 GMT"
     },
     {
-      "id": "news-460824332221642844",
+      "id": "news-6805355419163815805",
       "title": "הצעת חוק יסוד: לימוד תורה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6343929380719195309",
+      "id": "news-8015397886090815981",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,7 +385,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2494179300833254648",
+      "id": "news-2146734102087110327",
       "title": "רוטמן מזהיר: \"אם לא ננצח – יהיה אוסלו משפטי\" - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Mon, 31 Aug 2026 18:11:14 GMT"
     },
     {
-      "id": "news-8689383048680205593",
+      "id": "news-7840713781704881352",
       "title": "קריב: \"עליתם על מערכת המשפט עם 9-D\". רוטמן: \"הלוואי, היינו עדינים\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Tue, 25 Aug 2026 21:00:00 GMT"
     },
     {
-      "id": "news-9183007914699678869",
+      "id": "news-4202317632579981150",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +415,17 @@
       "updated": "Tue, 25 Aug 2026 14:55:40 GMT"
     },
     {
-      "id": "news-5307487018421918504",
-      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - srugim.co.il",
+      "id": "news-2040431104951625857",
+      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "srugim.co.il",
+      "outlet": "סרוגים",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1047137591307308047",
+      "id": "news-1937180503203646719",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +435,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6935884050964289808",
+      "id": "news-2509098678542720935",
       "title": "רוטמן: \"בג\"ץ מהמר שאזרחי ישראל אדישים, יצחק עמית הולך על הימור גדול\" - קול ברמה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Mon, 31 Aug 2026 06:51:16 GMT"
     },
     {
-      "id": "news-8382659032370918304",
+      "id": "news-1552859052343457811",
       "title": "ועדת הכנסת - הודעה מיום חמישי, 16 יולי 2026 בשעה 21:55 - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3437299231697397695",
+      "id": "news-2886335854600213450",
       "title": "ועדת הכנסת אישרה את חסינותה של טלי גוטליב בגין הדלפת שמו של איש שב\"כ בניגוד לחוק - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
