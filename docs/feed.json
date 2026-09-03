@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:06:24.874735+00:00",
+  "generated_at": "2026-09-03T17:05:14.688016+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -8,7 +8,7 @@
   "counts": {
     "knesset": 25,
     "gov": 0,
-    "news": 6
+    "news": 12
   },
   "knesset_bills": [
     {
@@ -265,7 +265,77 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2642258109318551616",
+      "id": "news-5817044069456723401",
+      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "איגוד האינטרנט הישראלי – ISOC-IL",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Z1NNcHBfcm45NnhBSTJQemNXZEd3M2hOMjlDbjROc3lVVnNkRTRkN0MxRzMtb19UTF9GQk1SaGUwbkNDRGVBVUUyYmJkZHhoRHhMcldqR095SVJ1MFMyNUs4cEZlWDZhbmRKZmdiYXNSZ2RZbmRnag?oc=5",
+      "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
+    },
+    {
+      "id": "news-6866891016406402211",
+      "title": "האירועים לזכר הרב עובדיה יוסף הם אכן תעמולת בחירות על חשבוננו - ynet",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YM2JCQ2pTa0FvaGR4bjNxMk5TUElsU05XeWFjSjJMa3RoTW9ncGUxRmF2RTZLQXRtQ2NzNk1YS1lOMGFkZDBpOHB5WXI5UW81ekMtRmNkTU9MMUtEZkE?oc=5",
+      "updated": "Tue, 01 Sep 2026 04:00:00 GMT"
+    },
+    {
+      "id": "news-1554602289112309347",
+      "title": "שיפור המערכת המשפטית בכל הנוגע לשירותי בריאות. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydV83bnVoNC0ya2tNR2ZWTVBDcF8xX1l3RmJueklFcER1R0I4bjZ2SFNRbW1iZlgyY1hzSHlwMHRBVFRqcTNZQ1FQWnpVcG4xZGdPVUxuNHdKNWhNSkxwZWV3cUFVUkEyUEpfeXVDRjE?oc=5",
+      "updated": "Thu, 03 Sep 2026 14:20:44 GMT"
+    },
+    {
+      "id": "news-5519680451046028188",
+      "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Gov.il",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1icmdmYkFZaWh2WTJfZWk0VXhENlctWVlKc25sc1JVc1FJUVIzWEh1VWJzQllXU0wwc3F0ai1kcVNXb2hYN2d3LS1qZkFvZw?oc=5",
+      "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4665414279577167",
+      "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS2FSODdkVlNIMFVZWU9laW5ZUFRIdjZFSkhQOGoxRDlxaURaTzZDUm01OHI4eWE2ZUlrZHpWV1g2YUZjcmdLbUttYVpjeGxoQ3dQaTRSR2REb1B6dmJiMnNGUFVCcWVU?oc=5",
+      "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-7365757032772268790",
+      "title": "יקדמו או לא יקדמו את ההפיכה? על ראשי האופוזיציה להבהיר את עמדתם | דעה - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnJnX040enRTbEZUVWNxT1hpanZlWlRxRnl4Z293V2pVX0dtb2NEU29qMGF6TDVhRDYwWTVwUy1HUjllVV90SlIwUUt2ZWdEbDNnU0p3QWZvNHNBU1ZNODAzNDJwY3hpX0xxZkFPWXpWQ3k2a2E3aXdRWmdBWjg5V2w0RG9OM1pRYnBiZWhMZ3lHeWRkUExpMDA2MnJseEd6V3BrVDFBUWpFSUFkQzhN?oc=5",
+      "updated": "Thu, 27 Aug 2026 17:00:00 GMT"
+    },
+    {
+      "id": "news-7365234127208628415",
+      "title": "בעלי עסקים זרים רבים עוזבים את יפן עקב רגולציה מחמירה. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3pxTm5ZLXRBTGVBbHhERHkyU2N6cTNZdFJZWVN3cUt5eGhBTUg4QTFqWHEtVV9NX2ZuRUhqMmNnMmhucVZadWJnTWIzZW5XdjNTY2lZakxyNlIyRHhqV3d6UVFMTVpwSEdxbEVWMmttaUFyZXhJSjRUejNaX0ZYOEJfeFVvQXY1N1NjMkVEbjRCOEdXTC1BZlR4MFpEVUREMlE?oc=5",
+      "updated": "Wed, 02 Sep 2026 17:18:07 GMT"
+    },
+    {
+      "id": "news-8978736790438987575",
       "title": "יוני פת מונה לסמנכ״ל רגולציה וקשרי ממשל בקבוצת הפניקס - פאנדר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,17 +345,17 @@
       "updated": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7602768421116499784",
-      "title": "\"1.5 מיליון ישראלים מחזיקים קריפטו אבל המדינה תקועה ואין רגולציה\" - ynet",
+      "id": "news-2517843826824942235",
+      "title": "רגולציה בלי שיניים - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RaDBRRUU4d3FTVWh0bFBMR2R2ZmM3S1ZkaU1qTU1nbGFfZFRlTXE1Qm1aMC1YZ3JWblltSUd5SktjRUN3S25yNHllZGtuempDcEpWRGRRRkhwaWpvWHVr?oc=5",
-      "updated": "Sun, 10 May 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RSzhOeGtJU3NzYjBJcEFGSEJ5aWdrNjdiRGpzUzZEdHZjdnM4NVptMG55SzBQMno5dTBsQ0QteUJLSGlpdktZZWNILUcxQjBTZ1AyOXZ5djJwSjVVSElpd05n?oc=5",
+      "updated": "Thu, 11 Dec 2025 08:00:00 GMT"
     },
     {
-      "id": "news-8533209144636419681",
+      "id": "news-5212886104172400012",
       "title": "מסוכן לאנושות או פחות מאיים מחתלתול - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +365,7 @@
       "updated": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2252057763470764876",
+      "id": "news-2763176766392383998",
       "title": "\"מחטף בלב הדמוקרטיה\": הממשלה מקדמת רגולציה על חדשות באינטרנט - וואלה ברנז'ה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,24 +375,14 @@
       "updated": "Sun, 10 May 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1547328741269218840",
-      "title": "פחות רגולציה, יותר עסקים חדשים: הרפורמה שתשנה את ענף המסעדנות בישראל - PassportNews",
+      "id": "news-8682153609767443736",
+      "title": "לאחר הריקול: בעולם ובישראל יגבשו רגולציה על הרעלן במזון לתינוקות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "PassportNews",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12VnppV1g4MlFvMkF0OF9vZjE0ZE16Yk9rVElIaUt3Y08wdTItOWQ5Qi1aSnFNLWstM1htbGZONEY1LXhlZUUzalVrWkU0a0l2bndN?oc=5",
-      "updated": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-515052551911090729",
-      "title": "רשות החברות: חשש לאיתנות של מקורות בעקבות שינוי רגולציה - globes.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "globes.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TaGRrQXowTXdscXlhRHhBZVN0dHluWHRjTnhKcXh1MVRnakotMFZPUXhvUmdGX0hJSFpmdk44TnJFbkcwYUxkQzRUbWxkRjBQeExackxvWXZYSDB6YnpubjJQb0twLWpF?oc=5",
-      "updated": "Thu, 18 Dec 2025 08:00:00 GMT"
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkFEd29FT183TmZEeUZNaEJtWkNJRnREVVJYbDNjUjY5WE9kcGJneWYwSkZrV2t0YVFFeE5HeDF3RzctczNrYkpnOXNjck1LemFNckg2SFJ2M1FRLWlsQV9NRlktVHJ5N3hQS2tYbGRURVhLelVPekZCMGdNRTdWSE1vQ2pwZHZWX3BuSVh0QmMzYTVfNnc2MkUydFBHeDZQazJlbmZmMkk?oc=5",
+      "updated": "Tue, 03 Feb 2026 08:00:00 GMT"
     }
   ]
 }
