@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:06:10.814181+00:00",
+  "generated_at": "2026-09-03T11:05:43.793512+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,17 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-5011500457354206463",
-      "title": "חוק הפטור לעריקים ייפסל - ynet",
+      "id": "news-7903580157167453269",
+      "title": "חוק הפטור לעריקים ייפסל - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yLWprenI5elFoVmU2TllXNmVkRkRyYzNJMVBuek1rME1xVm9ndlZTYm9ZYkJvMS15Nlg0SlNub3VXSFhzYnpYSWNGbHNIN1B4M1pXVDBtbHV1QQ?oc=5",
       "updated": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5992389406696149075",
+      "id": "news-4550975094198020685",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3685126242019260135",
+      "id": "news-4156971186221327139",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-6675355379356771848",
+      "id": "news-5896744108768883298",
       "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Fri, 29 May 2026 13:12:25 GMT"
     },
     {
-      "id": "news-7696966339944167252",
+      "id": "news-6337156758126364595",
       "title": "ד\"ר יפעת סולל: הצעת חוק יסוד – השכלה ודעת - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +315,17 @@
       "updated": "Tue, 14 Jul 2026 14:31:30 GMT"
     },
     {
-      "id": "news-4336038209851519641",
-      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - idi.org.il",
+      "id": "news-3180516291789278012",
+      "title": "מהו \"דין רציפות\" ואיך הוא משפיע על הצעות חוק? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yd3lEM19BeWxxd2FWRGRFdlg1WVVNNGZqZmhCWWpheC1iS3p3ckVDS096VktFWUNtVF9VX3p4amxVLWtSNTB3MUtLUlE5QQ?oc=5",
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6379509601373611199",
+      "id": "news-1997692986083782378",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,17 +335,17 @@
       "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
     },
     {
-      "id": "news-5639997023403814632",
-      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
+      "id": "news-5633375182134699428",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
       "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5632493280787725707",
+      "id": "news-4046973884609314829",
       "title": "שש הערות על ההמלצה של השופט עמית לזיני – ועל המהפכה האנטי־משפטית בבג''ץ - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Mon, 31 Aug 2026 11:41:58 GMT"
     },
     {
-      "id": "news-5575615781966955295",
+      "id": "news-8466148885288604798",
       "title": "משרד החינוך: חוק היסוד שמקדמת הממשלה יחייב לשלב לימודי תורה על חשבון מקצועות אחרים - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5983410913520634490",
+      "id": "news-8501453575584328914",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5318741189162112758",
+      "id": "news-8200140077020960396",
       "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2471539721446730844",
+      "id": "news-7298387670249758688",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,17 +395,17 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7415660594957175521",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
+      "id": "news-8665744672842371917",
+      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2533618899060092140",
+      "id": "news-7882582746076371907",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-226113890114589473",
+      "id": "news-4925420840620147643",
       "title": "רוטמן: \"בג\"ץ מהמר שאזרחי ישראל אדישים, יצחק עמית הולך על הימור גדול\" - קול ברמה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,27 +425,37 @@
       "updated": "Mon, 31 Aug 2026 06:51:16 GMT"
     },
     {
-      "id": "news-3020187427320089872",
-      "title": "פיצול הצעת החוק שנועדה להחליש את תפקיד היועץ המשפטי לממשלה - idi.org.il",
+      "id": "news-1987854988126842678",
+      "title": "פיצול הצעת החוק שנועדה להחליש את תפקיד היועץ המשפטי לממשלה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ISVgwOUZSa0VfdXdSM283dFN5Q2E2OHdKSHVwcmo4V0JjMVVlUkZwQUl4ZVJBcFM4QnJxT1B4THBzdThVUHdQRkFhSTUyZw?oc=5",
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4331780389353834944",
-      "title": "הכנסת ה-25 במספרים - idi.org.il",
+      "id": "news-4965974118340750618",
+      "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6619110342937919216",
+      "id": "news-4130636972704949385",
+      "title": "גוטליב: \"אם הליכוד יקבל 19 מנדטים - אמצא את עצמי במתקני כליאה של שב\"כ\" - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSGFWZVdET0MxS2pTR0VIZUYzTWJnVVp1MHNHeGFSdnktYllIN3RIaHVxOVZSMlViZFNadmpydi1lTFdhQjFwRmw0UU5CQlJ0dFRPcVVWeENNakE?oc=5",
+      "updated": "Tue, 01 Sep 2026 17:25:15 GMT"
+    },
+    {
+      "id": "news-7677067291667596378",
       "title": "הכנסת לבג\"צ: אל תתערבו בהחלטת ועדת הכספים - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -453,16 +463,6 @@
       "outlet": "סרוגים",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxObVBOWGVwWFJ3SmdlRVMxbm5jc2JYZ0Nkay1yNVRZd3I2cW1EbmZPLW1QbjhIc3pDQXJsWTBIQ3BrU2FSVXpZZnNKTzl3eVpPS2RFY2NHUFhaMXZ4aGlqc2pja3M4M0FlSkJDS1BoZXZfMXdmNDFlUWo2a1JmQjZuVTUxTzNRcE4zeTBBUkszZ2Rhb1BMaENxUU4xN19PbFRjU2Z3WF9jV1J1aDNDU0dldWNQWXR3QWpic2FGNFpIdVRYUG4zdm45ckk0V2RTZFl3WjlrbldDZXlHaEdmZjdyYVBzZHBYOUp2eFdJejBUZE4tTVVXNFFnTm83VmYxMUtKNE5iNVpwOHZyVnZwU0FTb2xDTDMtU0NaMUdHeURUd2NYWmpuUkh0YTFRcnlsWmVId19yYzFNUzRLVVBCanY3S0gzcjRHWnEyYmZSMDNYWVg3M2Vpc3k0TUN0dw?oc=5",
       "updated": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7798626943629315449",
-      "title": "ועדת הכנסת הצביעה בעד חסינות לגוטליב מפני האישום שהוגש נגדה - ynet",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xQk82NG1mTE1MN05IRWgyM2ltc3gyejlLaFRuZ3QtSkRKc2xCaHhJUUc3M3pqQnZPZGRRMU90QnFMdzkyZTByYWh0cUhwb21seXpZTkZRcDBPZw?oc=5",
-      "updated": "Mon, 15 Jun 2026 07:00:00 GMT"
     }
   ]
 }
