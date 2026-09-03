@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:04:53.231506+00:00",
+  "generated_at": "2026-09-03T20:05:24.935729+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6212563734726244656",
+      "id": "news-8614685642006559219",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-7921565892993418562",
+      "id": "news-1408204081002188361",
       "title": "האירועים לזכר הרב עובדיה יוסף הם אכן תעמולת בחירות על חשבוננו - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Tue, 01 Sep 2026 04:00:00 GMT"
     },
     {
-      "id": "news-7122482222975706742",
+      "id": "news-5232565920513066750",
       "title": "שיפור המערכת המשפטית בכל הנוגע לשירותי בריאות. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Thu, 03 Sep 2026 14:20:44 GMT"
     },
     {
-      "id": "news-7690955410891382829",
+      "id": "news-1724460892449488141",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3090618142942590467",
+      "id": "news-2392354277753545903",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5716650573304789801",
+      "id": "news-6860523577061097234",
       "title": "יקדמו או לא יקדמו את ההפיכה? על ראשי האופוזיציה להבהיר את עמדתם | דעה - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,7 @@
       "updated": "Thu, 27 Aug 2026 17:00:00 GMT"
     },
     {
-      "id": "news-992011952813853881",
+      "id": "news-6459310492230172853",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8852030665954905597",
+      "id": "news-8283967378990919467",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
     },
     {
-      "id": "news-972672408225579346",
+      "id": "news-2615059761822393329",
       "title": "\"הקיטוב שלנו הוא לא אידיאולוגי, הוא רגשי - יש לנו זיכרונות היסטוריים של קיפוח\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Wed, 02 Sep 2026 10:56:42 GMT"
     },
     {
-      "id": "news-1753604871442028696",
+      "id": "news-3533971294357701454",
       "title": "קביעת כללי משחק בדמוקרטיה שלנו היא לא משחק - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Tue, 25 Aug 2026 15:05:18 GMT"
     },
     {
-      "id": "news-1187224549091440634",
+      "id": "news-487967971070635048",
       "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6925219592867268131",
+      "id": "news-9107400676710628989",
       "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,7 +385,7 @@
       "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1190964225884493411",
+      "id": "news-1333964028272212216",
       "title": "ועדת החוקה אישרה תקנות לנפגעי עבירה בוועדות שחרורים - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +395,7 @@
       "updated": "Thu, 03 Sep 2026 12:13:00 GMT"
     },
     {
-      "id": "news-6962296621448007278",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
-      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2153405396249037777",
+      "id": "news-5695676863477848609",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +405,7 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6294338023282036644",
+      "id": "news-2954839167364750392",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +415,17 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3026903680002445892",
+      "id": "news-9208433827927031192",
+      "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר הכנסת",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUkNPM1NwdXk4cHJVS01KN0hrVVR1ajVhOGVuUVY0UXR5RENLN1FFMWZBdDNtd2h4c19UcFc3NGZ6bW5ia3QtWFlnb04tOVlXMHduRTYtWjhtSVlOU0FMcEtGeG1nTEV4c1lwMGl4REI?oc=5",
+      "updated": "Fri, 29 May 2026 13:12:25 GMT"
+    },
+    {
+      "id": "news-7114479074614378670",
       "title": "פיצול הצעת החוק שנועדה להחליש את תפקיד היועץ המשפטי לממשלה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,17 +435,17 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-48446524390490772",
-      "title": "\"מבטל שומר סף\": ועדת החוקה אישרה את החוק לפיצול תפקיד היועמ\"ש - Calcalist",
+      "id": "news-2833648127774014696",
+      "title": "מחשש שלא יספיקו להעביר את החוק: בוועדת החוקה דנים על פיצול הצעת החוק לפיצול תפקיד היועמ\"שית - גלובס",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "Calcalist",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWmFpdVVpR19STTRSYllsVVRyYkppcXZhY2Y4VmMwVG8tZzVna05MNlpZMzA1SG9Cbm1UOElOMUNPaXRmQUlFTmR6ZW9CNTluREJfcWFjN1J5U2NHTE1Md1FTdlZzVHVr?oc=5",
-      "updated": "Tue, 19 May 2026 07:00:00 GMT"
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83UlNKam5DVVVmTHpZdFlpc3Jid0dUR0NPZkR1ZXBBZGRXbXRfY0pudHJya1lKclB3ckQ0NEkyeWhpYjd2TXFIZHdnWVctUHVoR2xGaDMyc2V4RHRJNUQycWlsbFhRcEtT?oc=5",
+      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6757669439783053168",
+      "id": "news-6070031938214786858",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6798219188245840290",
+      "id": "news-6685017773591355226",
       "title": "גוטליב: \"אם הליכוד יקבל 19 מנדטים - אמצא את עצמי במתקני כליאה של שב\"כ\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
