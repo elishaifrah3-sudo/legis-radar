@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:05:17.196351+00:00",
+  "generated_at": "2026-09-03T16:06:24.874735+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -8,7 +8,7 @@
   "counts": {
     "knesset": 25,
     "gov": 0,
-    "news": 18
+    "news": 6
   },
   "knesset_bills": [
     {
@@ -265,127 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-340587362264209890",
-      "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CVXN2S1BfbG15a0dTSl9PWHZBc3BrY1lsV3htdVBSVWdOTHlLWHZ5bVRXLWxfYWdQazFfRHpLQkY0TFZxenZqbGtkdVhGTEEteDNhQUR0eDdkc1hpd2c?oc=5",
-      "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
-    },
-    {
-      "id": "news-2020692916242462497",
-      "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5SWxwR1FwY3hKeDRtQ3RLTmRKVUp6M1RJR29lM3hXTHpVTmJhLUlNZHYxNlRkdlRNNDI3Q185NFc4VWcxRE5TamZsSWxkblQ1OEZYWHVkYWZTckhNSnV5SkNjMA?oc=5",
-      "updated": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-950845179888148110",
-      "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91WXAwMldBdWo1azd5em1KV0h5U3IteTlBNzhhWlZvbXNhYlQ5ZnhOZ3FkMEl3aGV2UGxZWm5lVml4RFVk?oc=5",
-      "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
-    },
-    {
-      "id": "news-6299534554223830746",
-      "title": "\"הקיטוב שלנו הוא לא אידיאולוגי, הוא רגשי - יש לנו זיכרונות היסטוריים של קיפוח\" - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bTREdGpLcVozR0dSM0pvdThad0djUTNnSWlJTmhRT0xWcVVEOWNFUVJOMFZGSU9YSk9zNFFlWjZHT2psUjFzUmVFQlo4YlUybEljdHFFeEZSZw?oc=5",
-      "updated": "Wed, 02 Sep 2026 10:56:42 GMT"
-    },
-    {
-      "id": "news-7170536055562596415",
-      "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון למדיניות העם היהודי - JPPI",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWw4UjdSQVF4T2ZvQnpLXzJuNnNtUXYwVnpBSEdmZnhqMV9OVEw1RThEU2ptVUI1NGxjMkhqY0xqQ1N6UWEyejREUzZrY3NRYVJSNWkxdDA4UkZRSUoxOXpoR1NSNWF3bHQ3VnczV05KeU9JSmxqX29ITFhNQUtwY21CeEZjbFFFSVJRWGpta3hhSHVCWnpaNldXWW9PWTFTdEo2ZjRYNzBsUlo4TEQzRkphV3h3YWI5eEQ3eU5CdDVwOHZWaFRONQ?oc=5",
-      "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4737789356599039176",
-      "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - davar1.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "davar1.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aM0xVSS1sU29xYkZtZng0d1NOck85NWhwQzFhdXI5NU1MOTBPT3laX21pLXh3bndubVU4NTBNR2JLY1BYWHlV?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-1792087658199320622",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
-      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4764603024266947756",
-      "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "davar1.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00WWQ0OGRjNlB3WFBNTXFYSlNDcmp4d1M4Yk5pTk16cTNqam1yX2FQUDF3M19vZHd6RmVUSFF2VC14RnVZUEQw?oc=5",
-      "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-1169777970644441523",
-      "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUkNPM1NwdXk4cHJVS01KN0hrVVR1ajVhOGVuUVY0UXR5RENLN1FFMWZBdDNtd2h4c19UcFc3NGZ6bW5ia3QtWFlnb04tOVlXMHduRTYtWjhtSVlOU0FMcEtGeG1nTEV4c1lwMGl4REI?oc=5",
-      "updated": "Fri, 29 May 2026 13:12:25 GMT"
-    },
-    {
-      "id": "news-3844228992640297720",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
-      "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6186265892671907193",
-      "title": "פיצול הצעת החוק שנועדה להחליש את תפקיד היועץ המשפטי לממשלה - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ISVgwOUZSa0VfdXdSM283dFN5Q2E2OHdKSHVwcmo4V0JjMVVlUkZwQUl4ZVJBcFM4QnJxT1B4THBzdThVUHdQRkFhSTUyZw?oc=5",
-      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-753897406737244559",
-      "title": "מחשש שלא יספיקו להעביר את החוק: בוועדת החוקה דנים על פיצול הצעת החוק לפיצול תפקיד היועמ\"שית - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83UlNKam5DVVVmTHpZdFlpc3Jid0dUR0NPZkR1ZXBBZGRXbXRfY0pudHJya1lKclB3ckQ0NEkyeWhpYjd2TXFIZHdnWVctUHVoR2xGaDMyc2V4RHRJNUQycWlsbFhRcEtT?oc=5",
-      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2615830319044919956",
+      "id": "news-2642258109318551616",
       "title": "יוני פת מונה לסמנכ״ל רגולציה וקשרי ממשל בקבוצת הפניקס - פאנדר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +275,17 @@
       "updated": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6610983727288129307",
-      "title": "\"1.5 מיליון ישראלים מחזיקים קריפטו אבל המדינה תקועה ואין רגולציה\" - ynet.co.il",
+      "id": "news-7602768421116499784",
+      "title": "\"1.5 מיליון ישראלים מחזיקים קריפטו אבל המדינה תקועה ואין רגולציה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RaDBRRUU4d3FTVWh0bFBMR2R2ZmM3S1ZkaU1qTU1nbGFfZFRlTXE1Qm1aMC1YZ3JWblltSUd5SktjRUN3S25yNHllZGtuempDcEpWRGRRRkhwaWpvWHVr?oc=5",
       "updated": "Sun, 10 May 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3823383575163795507",
+      "id": "news-8533209144636419681",
       "title": "מסוכן לאנושות או פחות מאיים מחתלתול - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +295,17 @@
       "updated": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5775367994620267476",
-      "title": "\"מחטף בלב הדמוקרטיה\": הממשלה מקדמת רגולציה על חדשות באינטרנט - b.walla.co.il",
+      "id": "news-2252057763470764876",
+      "title": "\"מחטף בלב הדמוקרטיה\": הממשלה מקדמת רגולציה על חדשות באינטרנט - וואלה ברנז'ה",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "b.walla.co.il",
+      "outlet": "וואלה ברנז'ה",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42RGRfWndmRERXU3B5dWwyallKWDN2M3VNWlBzNUNkeVExbWNOdzlmX3VhOEpBMWFyS1hXZW9LeTA2eDFOVWVWZ0pn?oc=5",
       "updated": "Sun, 10 May 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5468722714346678488",
+      "id": "news-1547328741269218840",
       "title": "פחות רגולציה, יותר עסקים חדשים: הרפורמה שתשנה את ענף המסעדנות בישראל - PassportNews",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,12 +315,12 @@
       "updated": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1966893142409577026",
-      "title": "רשות החברות: חשש לאיתנות של מקורות בעקבות שינוי רגולציה - גלובס",
+      "id": "news-515052551911090729",
+      "title": "רשות החברות: חשש לאיתנות של מקורות בעקבות שינוי רגולציה - globes.co.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "גלובס",
+      "outlet": "globes.co.il",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TaGRrQXowTXdscXlhRHhBZVN0dHluWHRjTnhKcXh1MVRnakotMFZPUXhvUmdGX0hJSFpmdk44TnJFbkcwYUxkQzRUbWxkRjBQeExackxvWXZYSDB6YnpubjJQb0twLWpF?oc=5",
       "updated": "Thu, 18 Dec 2025 08:00:00 GMT"
     }
