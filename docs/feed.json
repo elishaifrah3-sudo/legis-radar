@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:05:39.126006+00:00",
+  "generated_at": "2026-09-04T08:06:05.343897+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-249684344558539491",
+      "id": "news-510192511553828293",
       "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Fri, 04 Sep 2026 07:00:28 GMT"
     },
     {
-      "id": "news-1679441506243084067",
+      "id": "news-3267489640994801340",
       "title": "פה אחד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Thu, 03 Sep 2026 17:38:00 GMT"
     },
     {
-      "id": "news-5393958106410094430",
+      "id": "news-5480786672921230976",
       "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3999784318324758687",
+      "id": "news-8962409391970428773",
       "title": "הצעת חוק של בית הנבחרים הפיליפיני מציעה איסור ארצי על פרסום הימורים מקוונים - yogonet.com",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Thu, 03 Sep 2026 21:59:46 GMT"
     },
     {
-      "id": "news-5362769339156238622",
+      "id": "news-7162978301560593010",
       "title": "הוועדה הקבועה של האסיפה הלאומית נתנה את חוות דעתה על הצעת חוק לתיקון והשלמה של 5 חוקים בתחומי הבריאות והרווחה. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Thu, 03 Sep 2026 17:12:38 GMT"
     },
     {
-      "id": "news-7678445523907205670",
+      "id": "news-2872249233627487048",
       "title": "הבית הנבחרים האמריקאי מאשר הצעת חוק להעניש אוניברסיטאות המחרימות את ישראל - وكالة صدى نيوز",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Thu, 03 Sep 2026 21:06:38 GMT"
     },
     {
-      "id": "news-9212592131007497810",
+      "id": "news-1276679609381005163",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,17 +335,7 @@
       "updated": "Thu, 03 Sep 2026 11:01:22 GMT"
     },
     {
-      "id": "news-5957056744860240644",
-      "title": "\"לומדי תורה לא נטל אלא חומת מגן רוחנית\" | ח\"כ יואב בן צור בנאום מרגש במליאה - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVhZY2pnd2FNTzgzWTlYaXZpSmIwMEQtMjljZXpaQUtDalVmaUR5NlZVaDFDc1RiVS1iUTlFNk53cVZURjNYYjVxc2lHamNldmdtcFN3ek9XMjktVktuWDFoczhtYTNiT1JwVWxVUmJldWNUbkhidkhCOWx5eVFUTUVhVlRfeU1JUlE?oc=5",
-      "updated": "Thu, 03 Sep 2026 23:26:51 GMT"
-    },
-    {
-      "id": "news-9175541238437926178",
+      "id": "news-774687374877620765",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +345,7 @@
       "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
     },
     {
-      "id": "news-2322901695480729665",
+      "id": "news-9051120029476625611",
       "title": "\"הקיטוב שלנו הוא לא אידיאולוגי, הוא רגשי - יש לנו זיכרונות היסטוריים של קיפוח\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +355,7 @@
       "updated": "Wed, 02 Sep 2026 10:56:42 GMT"
     },
     {
-      "id": "news-3036212898235596166",
+      "id": "news-7658418620325978280",
       "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +365,7 @@
       "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
     },
     {
-      "id": "news-2937220891054629095",
+      "id": "news-4839240027849821941",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,7 +375,17 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6722353524264347177",
+      "id": "news-3195674710287253402",
+      "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון למדיניות העם היהודי - JPPI",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWw4UjdSQVF4T2ZvQnpLXzJuNnNtUXYwVnpBSEdmZnhqMV9OVEw1RThEU2ptVUI1NGxjMkhqY0xqQ1N6UWEyejREUzZrY3NRYVJSNWkxdDA4UkZRSUoxOXpoR1NSNWF3bHQ3VnczV05KeU9JSmxqX29ITFhNQUtwY21CeEZjbFFFSVJRWGpta3hhSHVCWnpaNldXWW9PWTFTdEo2ZjRYNzBsUlo4TEQzRkphV3h3YWI5eEQ3eU5CdDVwOHZWaFRONQ?oc=5",
+      "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-8647818902831042604",
       "title": "ועדת החוקה אישרה תקנות לנפגעי עבירה בוועדות שחרורים - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Thu, 03 Sep 2026 12:13:00 GMT"
     },
     {
-      "id": "news-347877651005642544",
+      "id": "news-4375451531545531750",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,27 +405,27 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3019059697151836497",
-      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
-      "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-8094522715698444508",
-      "title": "נשיא העליון עמית: זו פעם ראשונה שהכנסת מצמצמת את יכולת הציבור להצביע - הארץ",
+      "id": "news-2865093195334662317",
+      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3JBQjVRTDVDQTd0ZTE0cjE4RU9JbmJ3eGVXeUpOOGZyNHBlbmdPUEI1aFZPdXpuemMzdi05U1ZBVzctSnNsZkJHRVFFcC0xeU1hOVNKMTNSQmxIVWJicG04bThCNFJ1OU5sdXpTV1htaUpfYklwQk5TdVdHZ3VqSnd4V19iR3RqZGlkbWhlX3FTV2MwU2xRbHRfdkpHZ0E4?oc=5",
-      "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4959200287450424321",
+      "id": "news-2380434833658295638",
+      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - srugim.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "srugim.co.il",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
+      "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4398522232594520584",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +435,7 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5645562083861392808",
+      "id": "news-2201561503154418651",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9105392546276014012",
+      "id": "news-4442818393722889092",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6828432085583748088",
+      "id": "news-1874818966105761730",
       "title": "גוטליב: \"אם הליכוד יקבל 19 מנדטים - אמצא את עצמי במתקני כליאה של שב\"כ\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
