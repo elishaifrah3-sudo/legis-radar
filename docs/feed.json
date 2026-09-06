@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:05:35.222324+00:00",
+  "generated_at": "2026-09-06T16:05:50.881595+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2900590911648125069",
+      "id": "news-250245167542483946",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-1849870703151720113",
+      "id": "news-9013144296254468883",
       "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 06 Sep 2026 06:48:31 GMT"
     },
     {
-      "id": "news-178397318743203944",
+      "id": "news-5740419016599876497",
       "title": "פה אחד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,17 +295,17 @@
       "updated": "Thu, 03 Sep 2026 17:38:00 GMT"
     },
     {
-      "id": "news-3402969186331691116",
-      "title": "זו השעה ל\"חוק המוסד\" - ynet",
+      "id": "news-3927664364751116756",
+      "title": "זו השעה ל\"חוק המוסד\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4293019620511477661",
+      "id": "news-1082378767166294928",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-4249113855283747848",
+      "id": "news-3777079601700248649",
       "title": "אושר סופית: הצעת חוק היועץ המשפטי לממשלה - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,27 +325,27 @@
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6639137219799463171",
-      "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - makorrishon.co.il",
+      "id": "news-6868257413737696252",
+      "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "makorrishon.co.il",
+      "outlet": "מקור ראשון",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GamozcXloMjd4QXNWckNLUFl1RnB0dzR0SnJLdXROUkpVWVZDTVZLbVlydlV3bmlmcXNESUVPNkxvWklOX05kbEdWSnlqa09PcThlQm5aTkdXNWhVN3JtZUJ4MA?oc=5",
       "updated": "Sat, 05 Sep 2026 16:48:58 GMT"
     },
     {
-      "id": "news-6205920620224613455",
-      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
+      "id": "news-657709438588633474",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
       "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7319570338421572565",
+      "id": "news-2017258937100785444",
       "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +355,17 @@
       "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
     },
     {
-      "id": "news-3811040394638518116",
-      "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - makorrishon.co.il",
+      "id": "news-5737527873619336481",
+      "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "makorrishon.co.il",
+      "outlet": "מקור ראשון",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5SWxwR1FwY3hKeDRtQ3RLTmRKVUp6M1RJR29lM3hXTHpVTmJhLUlNZHYxNlRkdlRNNDI3Q185NFc4VWcxRE5TamZsSWxkblQ1OEZYWHVkYWZTckhNSnV5SkNjMA?oc=5",
       "updated": "Thu, 03 Sep 2026 11:01:22 GMT"
     },
     {
-      "id": "news-749001315551436812",
+      "id": "news-6971595151925224281",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1887838671080409693",
+      "id": "news-1216006739362331176",
       "title": "ועדת החוקה אישרה תקנות לנפגעי עבירה בוועדות שחרורים - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Thu, 03 Sep 2026 12:13:00 GMT"
     },
     {
-      "id": "news-7918122687573999552",
+      "id": "news-1019570987892382806",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3433873251870094984",
+      "id": "news-1816648317400213679",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6394085367874783080",
+      "id": "news-5806964560815124679",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3687373839294002411",
+      "id": "news-8843855743405414690",
       "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,17 +425,17 @@
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7306679392596949037",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
+      "id": "news-7294349211434774478",
+      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1208722903964657512",
+      "id": "news-7286975398866216077",
       "title": "אלמוג כהן צרח, גוטליב חשפה סודות על \"עדת מדינה\" - ואז הגיע הרגע ששבר את בהרב-מיארה - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +445,7 @@
       "updated": "Sun, 06 Sep 2026 00:49:36 GMT"
     },
     {
-      "id": "news-5298588015727692734",
+      "id": "news-6543966390923074998",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,12 +455,12 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2226195271010827432",
-      "title": "טלטלה במפלגת דגל התורה: משה גפני ואורי מקלב הודחו, יעקב אשר יהיה יו\"ר יהדות התורה - ynet",
+      "id": "news-2404953933827389241",
+      "title": "טלטלה במפלגת דגל התורה: משה גפני ואורי מקלב הודחו, יעקב אשר יהיה יו\"ר יהדות התורה - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wWmFXRkFQUkdSenVWazZEbmpqUGNib0ZRT25ZeE92dzJQRlFnNE9GQ1dRMmRJd3Rqc28xTHBpTUc2Wjg5RTNhYUp1MnNTMERFMXh6WkNuVHUzNmtjVEd4aHpmTW5HOEN6Q2psTA?oc=5",
       "updated": "Sat, 05 Sep 2026 19:51:44 GMT"
     }
