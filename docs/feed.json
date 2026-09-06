@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:06:00.186621+00:00",
+  "generated_at": "2026-09-06T09:05:12.994693+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -11,6 +11,36 @@
     "news": 20
   },
   "knesset_bills": [
+    {
+      "id": "kns-174382",
+      "title": "חוק השמירה על מקומות קדושים, התשכ\"ז-1967",
+      "stage": "ממשלתית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=174382",
+      "updated": "2026-09-06T11:24:52.073"
+    },
+    {
+      "id": "kns-174309",
+      "title": "חוק רשות השידור (תיקון מס' 13), התשס\"ג-2002",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=174309",
+      "updated": "2026-09-06T11:21:44.017"
+    },
+    {
+      "id": "kns-147864",
+      "title": "חוק מס שבח מקרקעין (תיקון מס' 5), התשל\"ה-1974",
+      "stage": "ממשלתית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=147864",
+      "updated": "2026-09-06T11:10:44.093"
+    },
     {
       "id": "kns-147862",
       "title": "חוק מס שבח מקרקעין (תיקון מס' 2), התשכ\"ז-1967",
@@ -230,42 +260,12 @@
       "outlet": "אתר הכנסת (OData רשמי)",
       "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2228967",
       "updated": "2026-08-16T14:28:01.937"
-    },
-    {
-      "id": "kns-2228309",
-      "title": "הצעת חוק יום הרבי מלובביץ' (ציון פועלו), התשפ\"ה-2025",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2228309",
-      "updated": "2026-08-16T14:28:01.577"
-    },
-    {
-      "id": "kns-2227880",
-      "title": "הצעת חוק לביטול ההפליה ברכישת מקרקעין ביהודה והשומרון, התשפ\"ה- 2025",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2227880",
-      "updated": "2026-08-16T14:28:01.217"
-    },
-    {
-      "id": "kns-2227747",
-      "title": "הצעת חוק לעידוד השקעות הון (תיקון - מרכזים לוגיסטיים), התשפ\"ה-2025",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2227747",
-      "updated": "2026-08-16T14:28:00.857"
     }
   ],
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-5310596886096758641",
+      "id": "news-3256123500547679584",
       "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Sun, 06 Sep 2026 06:48:31 GMT"
     },
     {
-      "id": "news-8692470289291750348",
+      "id": "news-1353836898653834070",
       "title": "פה אחד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,27 +285,17 @@
       "updated": "Thu, 03 Sep 2026 17:38:00 GMT"
     },
     {
-      "id": "news-2129376499601349731",
-      "title": "זו השעה ל\"חוק המוסד\" - ynet.co.il",
+      "id": "news-8216840075486807132",
+      "title": "זו השעה ל\"חוק המוסד\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2161916974554887508",
-      "title": "ניסוח שגם AI לא היה מצליח להכשיל: התרגיל שמאחורי חוק העריקים - היום",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "היום",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2eEdYWm5pRnM4RjhYcVhPdHBGakFHVE5xTUl4MkRfcmxBUlJYWlQ3NmRZRnFoVi1SRnlHdUN1RjNVdzdTUUxRejc3andkZkRNQ0ljNjlyV1FXbGhjVXJoNUJ0bmxhQdIBbkFVX3lxTFA4SExQOUMxZGhWbUVEdHljQ1RjUkhVd3doMkZleHJrX1VnRTJYZEo5ZXhlRTBfRU1lSHhqbkprVFhScTdOZVBOYTJzUnBrbmloUHUzN1gtbVN2Ui0yU05kYmhzZXZIMWdLQjhPSDlR?oc=5",
-      "updated": "Sat, 05 Sep 2026 18:35:15 GMT"
-    },
-    {
-      "id": "news-8470829672110517192",
+      "id": "news-3957547851626416539",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +305,17 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-1733455099144557489",
+      "id": "news-3958880584887083032",
+      "title": "ניסוח שגם AI לא היה מצליח להכשיל: התרגיל שמאחורי חוק העריקים - היום",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "היום",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2eEdYWm5pRnM4RjhYcVhPdHBGakFHVE5xTUl4MkRfcmxBUlJYWlQ3NmRZRnFoVi1SRnlHdUN1RjNVdzdTUUxRejc3andkZkRNQ0ljNjlyV1FXbGhjVXJoNUJ0bmxhQdIBbkFVX3lxTFA4SExQOUMxZGhWbUVEdHljQ1RjUkhVd3doMkZleHJrX1VnRTJYZEo5ZXhlRTBfRU1lSHhqbkprVFhScTdOZVBOYTJzUnBrbmloUHUzN1gtbVN2Ui0yU05kYmhzZXZIMWdLQjhPSDlR?oc=5",
+      "updated": "Sat, 05 Sep 2026 18:35:15 GMT"
+    },
+    {
+      "id": "news-1648338555096141186",
       "title": "אושר סופית: הצעת חוק היועץ המשפטי לממשלה - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-380031853992486293",
+      "id": "news-3455649382112822599",
       "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Sat, 05 Sep 2026 16:48:58 GMT"
     },
     {
-      "id": "news-7527416136585838346",
+      "id": "news-4290425442571385022",
       "title": "אידה קידר-מליץ: חוק-יסוד לימוד תורה אינו פוטר חרדים מגיוס - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,17 +345,17 @@
       "updated": "Mon, 24 Aug 2026 06:12:32 GMT"
     },
     {
-      "id": "news-1641787294685983554",
-      "title": "\"הקיטוב שלנו הוא לא אידיאולוגי, הוא רגשי - יש לנו זיכרונות היסטוריים של קיפוח\" - ynet.co.il",
+      "id": "news-1113947634335480054",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bTREdGpLcVozR0dSM0pvdThad0djUTNnSWlJTmhRT0xWcVVEOWNFUVJOMFZGSU9YSk9zNFFlWjZHT2psUjFzUmVFQlo4YlUybEljdHFFeEZSZw?oc=5",
-      "updated": "Wed, 02 Sep 2026 10:56:42 GMT"
+      "outlet": "ynet",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
+      "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1102364556431726437",
+      "id": "news-1352281776319196395",
       "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +365,7 @@
       "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
     },
     {
-      "id": "news-8267863571256027609",
+      "id": "news-7538196768138269895",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Thu, 03 Sep 2026 11:01:22 GMT"
     },
     {
-      "id": "news-5967806752224182480",
+      "id": "news-2575316999796851276",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,7 +385,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8812384161118784957",
+      "id": "news-1284779068830551934",
       "title": "ועדת החוקה אישרה תקנות לנפגעי עבירה בוועדות שחרורים - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Thu, 03 Sep 2026 12:13:00 GMT"
     },
     {
-      "id": "news-5784613872703255569",
+      "id": "news-4749124415662027770",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5364389719394139754",
+      "id": "news-3199093639593795443",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6516385279829694736",
+      "id": "news-2508277398687997217",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1534808899807372626",
+      "id": "news-508370460790076221",
       "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,17 +435,17 @@
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5018465988968571429",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
+      "id": "news-2033970198117816956",
+      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8245647824268435896",
+      "id": "news-2802563171368637135",
       "title": "אלמוג כהן צרח, גוטליב חשפה סודות על \"עדת מדינה\" - ואז הגיע הרגע ששבר את בהרב-מיארה - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,12 +455,12 @@
       "updated": "Sun, 06 Sep 2026 00:49:36 GMT"
     },
     {
-      "id": "news-8645401974461262566",
-      "title": "טלטלה במפלגת דגל התורה: משה גפני ואורי מקלב הודחו, יעקב אשר יהיה יו\"ר יהדות התורה - ynet.co.il",
+      "id": "news-9057813881834503889",
+      "title": "טלטלה במפלגת דגל התורה: משה גפני ואורי מקלב הודחו, יעקב אשר יהיה יו\"ר יהדות התורה - ynet",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "ynet.co.il",
+      "outlet": "ynet",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wWmFXRkFQUkdSenVWazZEbmpqUGNib0ZRT25ZeE92dzJQRlFnNE9GQ1dRMmRJd3Rqc28xTHBpTUc2Wjg5RTNhYUp1MnNTMERFMXh6WkNuVHUzNmtjVEd4aHpmTW5HOEN6Q2psTA?oc=5",
       "updated": "Sat, 05 Sep 2026 19:51:44 GMT"
     }
