@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:04:59.173258+00:00",
+  "generated_at": "2026-09-07T20:06:19.543266+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2829322378938743047",
+      "id": "news-7700066855255784265",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-931523609003662052",
+      "id": "news-1042994351863756743",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-2004140219331340185",
+      "id": "news-6462578739856385693",
       "title": "בדיקת עובדות: פוסטים מעוותים את דבריו של אל-סייד מ-2022 על הצעת חוק השריעה באוקלהומה - Reuters",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,17 +295,17 @@
       "updated": "Mon, 07 Sep 2026 12:29:09 GMT"
     },
     {
-      "id": "news-3175675579518076112",
-      "title": "הצעת חוק בנושא אבטחת מידע: נקודות חדשות והשפעות על עסקים ואזרחים - vietnam.vn",
+      "id": "news-3097932015800881389",
+      "title": "הצעת חוק בנושא אבטחת מידע: נקודות חדשות והשפעות על עסקים ואזרחים - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "vietnam.vn",
+      "outlet": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGswWWJOZjBpYS1WUEdoZk94MmE4cjFrZElBYjEydzBwRWwxNXVzdVR2QkR5WFpfZlpjTDQ4Nk9KNVdvTS1MRFFPdUk5U0Y3LXRhMFJTWExETFVoQlN4MVdObUJYb0RuemxvM3lJVU9Rb3pPTTZIc1ZENnhVTFh3U2Ewb1QzSFNGb1ZpcE9mQzNja2IyQkI3NVJLcWxEckVBUTZwQkhiMUsza2FsOUduZnVR?oc=5",
       "updated": "Mon, 07 Sep 2026 16:19:47 GMT"
     },
     {
-      "id": "news-363100700279790486",
+      "id": "news-2514307631459316245",
       "title": "איני מבקשת \"יותר נשים\" אלא חמלה, יושרה וראיית האחר. ונשים יביאו אותן - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Sun, 06 Sep 2026 17:00:00 GMT"
     },
     {
-      "id": "news-1678376333660968290",
+      "id": "news-5565069771894540182",
       "title": "פה אחד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,47 +325,7 @@
       "updated": "Thu, 03 Sep 2026 17:38:00 GMT"
     },
     {
-      "id": "news-7032328631448916376",
-      "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5SWxwR1FwY3hKeDRtQ3RLTmRKVUp6M1RJR29lM3hXTHpVTmJhLUlNZHYxNlRkdlRNNDI3Q185NFc4VWcxRE5TamZsSWxkblQ1OEZYWHVkYWZTckhNSnV5SkNjMA?oc=5",
-      "updated": "Mon, 07 Sep 2026 09:55:14 GMT"
-    },
-    {
-      "id": "news-6815340826406602964",
-      "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sY2R5X2hlUHp1dHpKdFJTbnpkYlFuNFF1Y1Y0Z2F4ZWJzbDlmbjFzdHpTNHdpYzlBNjdzWUhWbENVZnBvdVJPaw?oc=5",
-      "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
-    },
-    {
-      "id": "news-6032917381898725160",
-      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
-      "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7188114706990584649",
-      "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CVXN2S1BfbG15a0dTSl9PWHZBc3BrY1lsV3htdVBSVWdOTHlLWHZ5bVRXLWxfYWdQazFfRHpLQkY0TFZxenZqbGtkdVhGTEEteDNhQUR0eDdkc1hpd2c?oc=5",
-      "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
-    },
-    {
-      "id": "news-2401370876283029454",
+      "id": "news-4252343028327836198",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +335,17 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-2844203546884059045",
-      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
+      "id": "news-7026804709279982075",
+      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103fm.maariv.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "103FM",
+      "outlet": "103fm.maariv.co.il",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8365252775082501225",
+      "id": "news-7359346731174762689",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +355,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6989860086838471065",
+      "id": "news-7619011049650569139",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,17 +365,17 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5633466868687880618",
-      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - srugim.co.il",
+      "id": "news-3040116791930795773",
+      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "srugim.co.il",
+      "outlet": "סרוגים",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3187889723096524543",
+      "id": "news-8527942674338696499",
       "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +385,7 @@
       "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4506330003988317671",
+      "id": "news-8612185259698859406",
       "title": "איתן מליץ: כיצד פועל מנגנון פסילת המפלגות מהתמודדות בבחירות לכנסת? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,34 +395,74 @@
       "updated": "Mon, 07 Sep 2026 12:42:10 GMT"
     },
     {
-      "id": "news-3945978935015856922",
-      "title": "בחירות 2026 נציגי המפלגות יגישו היום את הרשימות לכנסת ה־26 - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0NTSlpiWDY4eGltTmF1Z2ZzekF3a29VczlEdC1nWWpRTzJFRW56RHJWWS0xN0hwbjd1Zl92b3Y5b1c3emphWU1MVzV2RDFaaWhHTmhoSmw0enBKOUs4MlhyRWIzQW9MalgwaG1tS1lIMEkyTlJtczdhTS1acERHeVRRZXFiUldPWE82Tks5dnZwRHFKQXAyM0VTcE5vQmRlZlZFY2JPY3VDZW9F?oc=5",
-      "updated": "Mon, 07 Sep 2026 06:51:00 GMT"
-    },
-    {
-      "id": "news-2654816708248874289",
-      "title": "יו\"ר ועדת הבחירות המרכזית: ח\"כ איתן גינזבורג לא צריך להתפטר מהכנסת אם ברצונו להתמודד בבחירות הקרובות ברשימה של המפלגות \"ביחד בראשות בנט מחזירים את התקווה\" ו\"יש עתיד – בראשות יאיר לפיד\". ההכרעה תעבור למליאת ועדת הבחירות המרכזית - gov.il",
+      "id": "news-3280797476427912412",
+      "title": "יו\"ר ועדת הבחירות המרכזית: ח\"כ איתן גינזבורג לא צריך להתפטר מהכנסת אם ברצונו להתמודד בבחירות הקרובות ברשימה של המפלגות \"ביחד בראשות בנט מחזירים את התקווה\" ו\"יש עתיד – בראשות יאיר לפיד\". ההכרעה תעבור למליאת ועדת הבחירות המרכזית - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "gov.il",
+      "outlet": "Gov.il",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nR20xeFpOZEstRU42ckU2dkFUUmpYYkkwRFkyRXBJeVNyZHdhVmdsZUQ0Ym4tSk1BZW5OMVhiM3Ntcm5JQXNFZV9YWEk?oc=5",
       "updated": "Thu, 03 Sep 2026 09:04:57 GMT"
     },
     {
-      "id": "news-7422126928243112997",
-      "title": "אלמוג כהן צרח, גוטליב חשפה סודות על \"עדת מדינה\" - ואז הגיע הרגע ששבר את בהרב-מיארה - מעריב",
+      "id": "news-5856601454410222245",
+      "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvck5IVnpBUE1zQVlRZTBRTlJWMC1HVlJZcU03ejQzNTd4a3JEamg2eHpBVUhGLUhSVzA2Yi03U1RaamRnT1NJWFNpeG5UZFpFSURqeG5qTTMybzdtY0pYQkxYWDE?oc=5",
-      "updated": "Sun, 06 Sep 2026 10:31:00 GMT"
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zc1I2Y2hrNWhjRzg2UG9PZHJVRGV6M3p6LVNmenFreWxhaFlOQnEydjIxRGJlUXF1ZXZNRzBUZ2ZKZ1h3MUJ3LXRqNGhzaTVHNElmSTY5NFh2M0xlYXE1Y3FrX3ZhNHFuVEZhUA?oc=5",
+      "updated": "Mon, 07 Sep 2026 15:52:34 GMT"
+    },
+    {
+      "id": "news-1517874529839322407",
+      "title": "אלופים, מנכ”ליות וח״כים מכהנים: רשימת “ביחד” של בנט ולפיד - מקור ראשון",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMm1qMi1UaFNkMDdKNWJEckVCYVppcGZLeExzOHhxTy0wWlJ3eFZEeS1TM1MzSEFfQ2pZdDAwREVySmZaNjdYOHV1UlB5cHgwQVl5ZU1Ec3hDQXJTRFNjOEpVdGhwYng1amc?oc=5",
+      "updated": "Sun, 06 Sep 2026 14:32:07 GMT"
+    },
+    {
+      "id": "news-1755142111842596020",
+      "title": "העברות תקציביות: איך מזיזים מיליארדים בלי לחקוק תקציב חדש - ביזפורטל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ביזפורטל",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SUpFdzM0LTFPRnV4a2U5dkVZOG1BekxBTW9NOWh4ejd5b1NOWVVHWVNjSVRscUxyakdDbTlTRjJWRGNJZF9ORjZBaFp4akJUMkFXZHZQcmlZck9vRnZkVnlGNmJtSlk?oc=5",
+      "updated": "Thu, 03 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "id": "news-5730241266207715981",
+      "title": "ועדת הכנסת אישרה את חסינותה של טלי גוטליב בגין הדלפת שמו של איש שב\"כ בניגוד לחוק - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrNGl2OXhPSFFfbmI1d2dsVWRxQzVZV3JEWFc5UGhkUlFBRVZyRmo4bzhLNElyYmEtcTJHcU5qWlVDb0c4TzlSOEJLbE80VkZUU0paMTFfX0JEMFRvRGNzOUs4SWFENzg?oc=5",
+      "updated": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-1823523603155856021",
+      "title": "95% ממשקל הרכב למיחזור: אירופה משנה את הכללים - בישראל אין עדיין רגולציה - Calcalist",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Calcalist",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XN2JQT2hFSHBHc3haTmFZLURXTkZKSDJjTG9uM3ViV1ZKZTRMSndHRmkxaFVISXBHckJoZVJuZ1cxVF8xSzVoNU5LYjBocXBqM042RURMTFNYYTVJR0FHYlRtdjAxU3dQM1RFMDJ3?oc=5",
+      "updated": "Mon, 07 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "id": "news-9065519883977680716",
+      "title": "כך הופכת רגולציה סביבתית לדרישת סף מסחרית - Calcalist",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Calcalist",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4c2VBMWZnZ25YQ09RWHNYTHU0X0hpN1B3NTRkMXZnZGN0WjFLM0JOZG5LaWx0ZmRfVUhKUUhYZDJpZHozbEM5RUdjUzRvWEJiVkZOSTlyT3A1czVpd2FsYWZ4VUg3N2tDcHc?oc=5",
+      "updated": "Sun, 06 Sep 2026 07:15:00 GMT"
     }
   ]
 }
