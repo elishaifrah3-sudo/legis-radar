@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:05:12.734023+00:00",
+  "generated_at": "2026-09-08T20:05:56.401764+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1958782908103655265",
+      "id": "news-195640044244583714",
       "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-4435304198940394904",
+      "id": "news-4700602445017441216",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-8408259686628393846",
+      "id": "news-5156380864229840120",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-5862547624290401344",
+      "id": "news-4484041381412689049",
       "title": "הצעת חוק באוסטרליה: ענקיות הטכנולוגיה יחויבו לאפשר חסימת האלגוריתמים - News1 מחלקה ראשונה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Tue, 08 Sep 2026 05:20:25 GMT"
     },
     {
-      "id": "news-4352401146094175341",
+      "id": "news-4722228633554894035",
       "title": "הצעת חוק אוסטרלית חדשה תכריח פלטפורמות מדיה חברתית לאפשר למשתמשים להשבית את אלגוריתמי המלצות התוכן שלהן. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +315,17 @@
       "updated": "Tue, 08 Sep 2026 09:22:46 GMT"
     },
     {
-      "id": "news-5224700246873220104",
-      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
+      "id": "news-5804954216747367693",
+      "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - isoc.org.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "איגוד האינטרנט הישראלי – ISOC-IL",
+      "outlet": "isoc.org.il",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Z1NNcHBfcm45NnhBSTJQemNXZEd3M2hOMjlDbjROc3lVVnNkRTRkN0MxRzMtb19UTF9GQk1SaGUwbkNDRGVBVUUyYmJkZHhoRHhMcldqR095SVJ1MFMyNUs4cEZlWDZhbmRKZmdiYXNSZ2RZbmRnag?oc=5",
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-2507086227144656029",
+      "id": "news-539709491607058021",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Tue, 08 Sep 2026 08:53:18 GMT"
     },
     {
-      "id": "news-4132176921983860869",
+      "id": "news-9058662262957692824",
       "title": "ד\"ר רפי נץ-צנגוט: נבחרי הציבור אינם זכאים לפעול ללא מגבלות – בג\"ץ מוסמך להגבילם - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Tue, 08 Sep 2026 09:34:12 GMT"
     },
     {
-      "id": "news-4186496561375177105",
+      "id": "news-3408729067223967532",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-3817171500213274402",
+      "id": "news-8085255244898996246",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,17 +365,7 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6756865250746950892",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
-      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7124298220426354613",
+      "id": "news-6967790325952835163",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,27 +375,7 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-8161026028532550288",
-      "title": "ועדת החוקה של הליכוד תתכנס ב-16:00 לדיון חוזר: \"מנסים ליצור סיעה בתוך סיעה\" - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibEpRaDFxa0RlcEhmSWpURmNSaHBXLVBWVENuQWxmMDNycFkwSnVtdlVSOTJPcFhGQjNlMFhDTWkyZUlqQm1wWmt1UExNN3ZtdTBtU3lla3Q0dw?oc=5",
-      "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2532905265170144869",
-      "title": "הצעת חוק פיצול תפקיד היועץ המשפטי לממשלה, התשפ\"ד-2024 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUkNPM1NwdXk4cHJVS01KN0hrVVR1ajVhOGVuUVY0UXR5RENLN1FFMWZBdDNtd2h4c19UcFc3NGZ6bW5ia3QtWFlnb04tOVlXMHduRTYtWjhtSVlOU0FMcEtGeG1nTEV4c1lwMGl4REI?oc=5",
-      "updated": "Fri, 29 May 2026 13:12:25 GMT"
-    },
-    {
-      "id": "news-6702569899864075691",
+      "id": "news-3766500978453749774",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +385,47 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6124811098083208288",
-      "title": "שעות אחרונות להגשת הרשימות לכנסת: כל המועמדים שכבר בפנים לבחירות 2026 - YNET",
+      "id": "news-4507423239651360325",
+      "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "103FM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnFtLWU2blVxcnFxckNMQ2dZVFZWVTkzTHZqeGRVdkZHWnF3dkc3QzNGVmVFUkRLQzRlY1pJcDJVaXpPRFh6TjlTSVVvd2xYYlNjaHFPczE5a3QySno4OV93RVFaVFdOSnJKZm85UllTbFR1V21yMHh6VWZXWW8?oc=5",
+      "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4374358676062993076",
+      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "YNET",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-1054112063140924553",
+      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
+      "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-2820397542514440666",
+      "title": "שעות אחרונות להגשת הרשימות לכנסת: כל המועמדים שכבר בפנים לבחירות 2026 - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
       "updated": "Tue, 08 Sep 2026 17:55:03 GMT"
     },
     {
-      "id": "news-6952901677433347898",
+      "id": "news-6729886740045108692",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Tue, 08 Sep 2026 01:52:13 GMT"
     },
     {
-      "id": "news-5427534329699654640",
+      "id": "news-995946505606370121",
       "title": "יו\"ר ועדת הבחירות המרכזית: ח\"כ איתן גינזבורג לא צריך להתפטר מהכנסת אם ברצונו להתמודד בבחירות הקרובות ברשימה של המפלגות \"ביחד בראשות בנט מחזירים את התקווה\" ו\"יש עתיד – בראשות יאיר לפיד\". ההכרעה תעבור למליאת ועדת הבחירות המרכזית - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,22 +445,22 @@
       "updated": "Thu, 03 Sep 2026 09:04:57 GMT"
     },
     {
-      "id": "news-8410819817963302123",
-      "title": "הכנסת ה-25 במספרים - idi.org.il",
+      "id": "news-401808410078932717",
+      "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "idi.org.il",
+      "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2344537795149176464",
-      "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - YNET",
+      "id": "news-2159868028387035256",
+      "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "YNET",
+      "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zc1I2Y2hrNWhjRzg2UG9PZHJVRGV6M3p6LVNmenFreWxhaFlOQnEydjIxRGJlUXF1ZXZNRzBUZ2ZKZ1h3MUJ3LXRqNGhzaTVHNElmSTY5NFh2M0xlYXE1Y3FrX3ZhNHFuVEZhUA?oc=5",
       "updated": "Tue, 08 Sep 2026 10:56:45 GMT"
     }
