@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:06:17.863615+00:00",
+  "generated_at": "2026-09-08T02:05:34.206684+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6807876471128435668",
+      "id": "news-6033449703103240686",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-5723000846699051572",
+      "id": "news-38142412771956232",
       "title": "בדיקת עובדות: פוסטים מעוותים את דבריו של אל-סייד מ-2022 על הצעת חוק השריעה באוקלהומה - Reuters",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Mon, 07 Sep 2026 12:29:09 GMT"
     },
     {
-      "id": "news-1846548406519483978",
+      "id": "news-5385012192084186346",
       "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Sun, 06 Sep 2026 06:48:31 GMT"
     },
     {
-      "id": "news-4256999851824150554",
+      "id": "news-3010188721983937695",
       "title": "הצעת חוק בנושא אבטחת מידע: נקודות חדשות והשפעות על עסקים ואזרחים - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Mon, 07 Sep 2026 16:19:47 GMT"
     },
     {
-      "id": "news-6813356887878146728",
+      "id": "news-407929833102475200",
       "title": "איני מבקשת \"יותר נשים\" אלא חמלה, יושרה וראיית האחר. ונשים יביאו אותן - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Sun, 06 Sep 2026 17:00:00 GMT"
     },
     {
-      "id": "news-5828904079140171500",
+      "id": "news-4057700359963520200",
       "title": "פה אחד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים - Calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Thu, 03 Sep 2026 17:38:00 GMT"
     },
     {
-      "id": "news-8765553396817999928",
+      "id": "news-7931505877996028394",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Mon, 07 Sep 2026 09:55:14 GMT"
     },
     {
-      "id": "news-8231661965603251472",
+      "id": "news-3224450459697659744",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-6520358755387169687",
+      "id": "news-8235256429227141271",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-3900164374390160592",
+      "id": "news-527355495424374247",
       "title": "האם אנו קרובים להכרעת ויכוח בן 80? - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +365,7 @@
       "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4872466092767154934",
+      "id": "news-6177600657687515777",
       "title": "הזכות לבחור? 100 הישראלים שעתרו לבג\"ץ יישארו מחוץ לקלפי - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Thu, 03 Sep 2026 08:08:52 GMT"
     },
     {
-      "id": "news-2250863544255623335",
+      "id": "news-6823515973201606429",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - kikar.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,17 +385,17 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3574280936107779362",
-      "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - israelhayom.co.il",
+      "id": "news-4103993788206615964",
+      "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "israelhayom.co.il",
+      "outlet": "היום",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JTDBnV2xJMGliOGtjU0xGVHVMYVZYVWVwU29hdm54MXBWOWxiYVVXY05HSC1xOHI3dEd5d3BEb3ZUQmJ4QlhwQWVFeFJFT0dmbTVGWTNHVmZ4TFV2ZzZiYVJ3QVROTmgyRVBhc09BcWzSAXhBVV95cUxQVmxBNEp2U3UwOTFrTUhabG1fRGFVVm9QNnpySTl2Wk5RXy1QbkU1T1E4cXI0TUQ1cFR3MUFuejlPSk9QTWFaX21TVUxIelpXSkdHc2pjNi1GeWhfaDZWWnB4MGYwOVBQYVBTOTEzMjg3Q2RLSURWYXg?oc=5",
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-6449576626431305472",
+      "id": "news-2074411846379303577",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4407146008050827167",
+      "id": "news-5175136813172613248",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-627376105092786739",
+      "id": "news-3240228566855972612",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,17 +425,17 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2728167524676047945",
-      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - srugim.co.il",
+      "id": "news-3369332486389759919",
+      "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "srugim.co.il",
+      "outlet": "סרוגים",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZkRBTmJsckxRV045cnA0Mll4YUxpT3BZWUJUMWp5XzducG40LTNSbnZnMER4ejlIQ3gyRHhITTdpc21Ickk4S21QZUZRWXZWWnA1NWR3WXhDVGw4RE4wSVAxdTVkTWNQZzExamxIRUxJUGhWdFI5NjVJV056YXRzcng3M3Vfbl96Uno3ZTNidnNHR2prb3NfN0hKNlFjSzZOLS1xd1B0STZIVE5xWDBBSldGNldPQzdSS09KV1ExTDRRX3QzUUVfMVNsWlZyWnF0NHlkUFJWSzdFczJjRWtxci03Tjl6ZEVCaFZTT0p3R2tsM1ozdTdUal9XWlNya1h5SFprUGdMVVpxNjhhUmxqZzBtb2ttcFJBZUdVZk1IVGtQQ0FrQ1RHdFFqdkVicHZROGhnRzd2T1F4cWtMX2NfbWlwMVdvNXNtYnN0QnU0QkZrZw?oc=5",
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9008550157925352156",
+      "id": "news-579818877704725570",
       "title": "איתן מליץ: כיצד פועל מנגנון פסילת המפלגות מהתמודדות בבחירות לכנסת? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,24 +445,24 @@
       "updated": "Mon, 07 Sep 2026 12:42:10 GMT"
     },
     {
-      "id": "news-5139981776327435476",
-      "title": "יו\"ר ועדת הבחירות המרכזית: ח\"כ איתן גינזבורג לא צריך להתפטר מהכנסת אם ברצונו להתמודד בבחירות הקרובות ברשימה של המפלגות \"ביחד בראשות בנט מחזירים את התקווה\" ו\"יש עתיד – בראשות יאיר לפיד\". ההכרעה תעבור למליאת ועדת הבחירות המרכזית - gov.il",
+      "id": "news-6584545453269385823",
+      "title": "יו\"ר ועדת הבחירות המרכזית: ח\"כ איתן גינזבורג לא צריך להתפטר מהכנסת אם ברצונו להתמודד בבחירות הקרובות ברשימה של המפלגות \"ביחד בראשות בנט מחזירים את התקווה\" ו\"יש עתיד – בראשות יאיר לפיד\". ההכרעה תעבור למליאת ועדת הבחירות המרכזית - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "gov.il",
+      "outlet": "Gov.il",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nR20xeFpOZEstRU42ckU2dkFUUmpYYkkwRFkyRXBJeVNyZHdhVmdsZUQ0Ym4tSk1BZW5OMVhiM3Ntcm5JQXNFZV9YWEk?oc=5",
       "updated": "Thu, 03 Sep 2026 09:04:57 GMT"
     },
     {
-      "id": "news-5721503184849385962",
-      "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - YNET",
+      "id": "news-7174551933965444870",
+      "title": "בחירות 2026 נציגי המפלגות יגישו היום את הרשימות לכנסת ה־26 - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zc1I2Y2hrNWhjRzg2UG9PZHJVRGV6M3p6LVNmenFreWxhaFlOQnEydjIxRGJlUXF1ZXZNRzBUZ2ZKZ1h3MUJ3LXRqNGhzaTVHNElmSTY5NFh2M0xlYXE1Y3FrX3ZhNHFuVEZhUA?oc=5",
-      "updated": "Mon, 07 Sep 2026 15:52:34 GMT"
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0NTSlpiWDY4eGltTmF1Z2ZzekF3a29VczlEdC1nWWpRTzJFRW56RHJWWS0xN0hwbjd1Zl92b3Y5b1c3emphWU1MVzV2RDFaaWhHTmhoSmw0enBKOUs4MlhyRWIzQW9MalgwaG1tS1lIMEkyTlJtczdhTS1acERHeVRRZXFiUldPWE82Tks5dnZwRHFKQXAyM0VTcE5vQmRlZlZFY2JPY3VDZW9F?oc=5",
+      "updated": "Mon, 07 Sep 2026 06:51:00 GMT"
     }
   ]
 }
