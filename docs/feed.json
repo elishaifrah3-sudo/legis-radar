@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:05:25.937391+00:00",
+  "generated_at": "2026-09-09T12:07:16.074380+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -11,6 +11,16 @@
     "news": 20
   },
   "knesset_bills": [
+    {
+      "id": "kns-320633",
+      "title": "הצעת חוק מס הבולים על מסמכים (תיקון - ביטול הדרגתי של מס הבולים), התשס\"ד-2004",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=320633",
+      "updated": "2026-09-09T14:45:35.4"
+    },
     {
       "id": "kns-84767",
       "title": "הצעת חוק צער בעלי-חיים (הגנה על בעלי-חיים) (תיקון - תוספות לענין החזקה והובלה של בעלי-חיים), התשס\"ד-2004",
@@ -250,22 +260,12 @@
       "outlet": "אתר הכנסת (OData רשמי)",
       "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=164012",
       "updated": "2026-09-06T00:10:48.1"
-    },
-    {
-      "id": "kns-164720",
-      "title": "הצעת חוק שעות עבודה ומנוחה (תיקון - עבודה בימי מנוחה בחנות של אגודהשיתופית), התשנ\"ט-1998",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=164720",
-      "updated": "2026-09-05T23:36:28.293"
     }
   ],
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-3567956511506776205",
+      "id": "news-9043124017729562816",
       "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-5177027539347564329",
+      "id": "news-1646977688642118591",
       "title": "הצעת חוק יסוד לימוד תורה אושרה בוועדת הכנסת לקריאה שנייה ושלישית - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5759577483040328019",
+      "id": "news-1552415542088089414",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,17 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-251458321523271622",
-      "title": "זו השעה ל\"חוק המוסד\" - ynet.co.il",
+      "id": "news-5776348003874848346",
+      "title": "מכה ל-Airbnb? האיחוד האירופי יוצא נגד דירות הנופש - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVjNhYXoxVDIxWG9DR3NvcjN6N0xVdEtiZVBMLVpfMTc4WkNyR090ZHZ2dnFURTg1X2dyUmNvODJma2dDRm9CQzlfdnpOQ0JyMmp3Q1FyS0IxeDlpX2c?oc=5",
-      "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQnhRRWJQRGt3Z1I2d1RLZTA3aEFkRXE0M2FGRmVsUEU0bF92YUpTcWc5SXV2elZDTjdLWXZFbVhfYUZsRnJkSFFEenF2M3lVeUJvbEYzSlJkLUtKb2p5aGdaOWNVYjVkYmc?oc=5",
+      "updated": "Wed, 09 Sep 2026 11:50:23 GMT"
     },
     {
-      "id": "news-7619469280373157633",
+      "id": "news-8496267883632560246",
       "title": "ראש הממשלה ניהל ישיבה בנושא הצעת חוק לתיקון והשלמה של מספר סעיפים בחוק המקרקעין. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Wed, 09 Sep 2026 02:11:15 GMT"
     },
     {
-      "id": "news-371650733043188558",
+      "id": "news-5749148896041153741",
       "title": "איני מבקשת \"יותר נשים\" אלא חמלה, יושרה וראיית האחר. ונשים יביאו אותן - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,7 @@
       "updated": "Sun, 06 Sep 2026 17:00:00 GMT"
     },
     {
-      "id": "news-3052480866195899181",
+      "id": "news-1022730264356936933",
       "title": "ד\"ר רפי נץ-צנגוט: נבחרי הציבור אינם זכאים לפעול ללא מגבלות – בג\"ץ מוסמך להגבילם - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Tue, 08 Sep 2026 17:24:09 GMT"
     },
     {
-      "id": "news-8043743564692297820",
+      "id": "news-6606365530942070939",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,17 +345,7 @@
       "updated": "Tue, 08 Sep 2026 08:53:18 GMT"
     },
     {
-      "id": "news-7770730413466273890",
-      "title": "גולדקנופף עורר סערה: \"המשתמטים מתל אביב! אישור מהמונדיאל זה בסדר?\" - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZjQtcDIzS3ZFMk5NRnNQYV9tR1NaVXJ1emtxUk1OOU0yMkEwWFI3c3J1UVpSbnBOUUQtXzBUS1EydWpFY3hZeTc4b1RFNE9Gd3pHdFRpRTU1YnlSbXA1c0hxY3BteDFLMkpBOGxETEYzU29EQ1pQdXF3WEpGQQ?oc=5",
-      "updated": "Tue, 08 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "id": "news-6516179455820723910",
+      "id": "news-704749406315775832",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,17 +355,27 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-7750302455905113766",
-      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
+      "id": "news-2724208540441369680",
+      "title": "גולדקנופף עורר סערה: \"המשתמטים מתל אביב! אישור מהמונדיאל זה בסדר?\" - kikar.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "כיכר השבת",
+      "outlet": "kikar.co.il",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZjQtcDIzS3ZFMk5NRnNQYV9tR1NaVXJ1emtxUk1OOU0yMkEwWFI3c3J1UVpSbnBOUUQtXzBUS1EydWpFY3hZeTc4b1RFNE9Gd3pHdFRpRTU1YnlSbXA1c0hxY3BteDFLMkpBOGxETEYzU29EQ1pQdXF3WEpGQQ?oc=5",
+      "updated": "Tue, 08 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "id": "news-7830826322357976575",
+      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - kikar.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "kikar.co.il",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1762555364019215874",
+      "id": "news-8290246642678307688",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-6876258670686513446",
+      "id": "news-5145175581005293199",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7004700760943058165",
+      "id": "news-396642053708304519",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103fm.maariv.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7321004419341557367",
+      "id": "news-999644198322662590",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5143570743823199910",
+      "id": "news-6393098962386882038",
       "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-113271742677173724",
+      "id": "news-1392311653511684556",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,17 @@
       "updated": "Tue, 08 Sep 2026 01:52:13 GMT"
     },
     {
-      "id": "news-2897127605619925000",
+      "id": "news-7542602802175848519",
+      "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
+      "updated": "Tue, 08 Sep 2026 22:03:40 GMT"
+    },
+    {
+      "id": "news-198780878222965447",
       "title": "איתן מליץ: כיצד פועל מנגנון פסילת המפלגות מהתמודדות בבחירות לכנסת? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,17 +455,7 @@
       "updated": "Mon, 07 Sep 2026 12:42:10 GMT"
     },
     {
-      "id": "news-1549933820517613709",
-      "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
-      "updated": "Tue, 08 Sep 2026 14:16:00 GMT"
-    },
-    {
-      "id": "news-4315195053476366624",
+      "id": "news-5806158922983294748",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
