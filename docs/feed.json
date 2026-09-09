@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:05:57.137598+00:00",
+  "generated_at": "2026-09-09T02:05:42.816498+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2004003276022807819",
+      "id": "news-4960729023050158355",
       "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-8281333056936100816",
+      "id": "news-8061301495475095573",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-569687246296243692",
+      "id": "news-6339422257526890035",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-5544206645884349738",
+      "id": "news-2829794064512444912",
       "title": "הצעת חוק באוסטרליה: ענקיות הטכנולוגיה יחויבו לאפשר חסימת האלגוריתמים - News1 מחלקה ראשונה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Tue, 08 Sep 2026 05:20:25 GMT"
     },
     {
-      "id": "news-789407359686969598",
+      "id": "news-5219894508536829180",
       "title": "הצעת חוק אוסטרלית חדשה תכריח פלטפורמות מדיה חברתית לאפשר למשתמשים להשבית את אלגוריתמי המלצות התוכן שלהן. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Tue, 08 Sep 2026 09:22:46 GMT"
     },
     {
-      "id": "news-7665310992608961363",
+      "id": "news-2732335907605242658",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - איגוד האינטרנט הישראלי – ISOC-IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-7472542465196383584",
+      "id": "news-2049068635337405344",
       "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,17 +335,7 @@
       "updated": "Tue, 08 Sep 2026 08:53:18 GMT"
     },
     {
-      "id": "news-5400162883514684937",
-      "title": "ד\"ר רפי נץ-צנגוט: נבחרי הציבור אינם זכאים לפעול ללא מגבלות – בג\"ץ מוסמך להגבילם - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92SUY4SGRoTzZITWNWOEE3OGJ4dnJuSGxpZThHdlVyeDUzeFVGU0FQdUhNU0x4dkRSUUNMRU9GWlRHeFc0?oc=5",
-      "updated": "Tue, 08 Sep 2026 09:34:12 GMT"
-    },
-    {
-      "id": "news-7051652974236986548",
+      "id": "news-5840976230042353700",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,17 +345,27 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-5975107539338629456",
-      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
+      "id": "news-6627705027770681957",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
+      "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-6626700788191732164",
+      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - kikar.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "כיכר השבת",
+      "outlet": "kikar.co.il",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3763585683370889259",
+      "id": "news-4798517206864038380",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-5912150671065874893",
+      "id": "news-2060808443263872805",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3798221524584279553",
+      "id": "news-5364298386986942272",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1108799020759628968",
+      "id": "news-1080433791388160965",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1581034120315407567",
+      "id": "news-8014735695203538450",
       "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +415,17 @@
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7179272168901558926",
+      "id": "news-5694192810363093548",
       "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "ynet.co.il",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
-      "updated": "Tue, 08 Sep 2026 22:03:40 GMT"
+      "updated": "Tue, 08 Sep 2026 14:16:00 GMT"
     },
     {
-      "id": "news-8012943743955889693",
+      "id": "news-6923815888164462378",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Tue, 08 Sep 2026 01:52:13 GMT"
     },
     {
-      "id": "news-8524461950032441244",
+      "id": "news-6571946940493333770",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8933870727247489634",
+      "id": "news-4523516891983909094",
       "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,12 +455,12 @@
       "updated": "Tue, 08 Sep 2026 10:56:45 GMT"
     },
     {
-      "id": "news-277029261730205489",
-      "title": "מועמדות לתפקיד מזכיר/ת ועדת קלפי בבחירות לכנסת ה-26 ועדת הבחירות המרכזית לכנסת - Gov.il",
+      "id": "news-7904108960665454388",
+      "title": "מועמדות לתפקיד מזכיר/ת ועדת קלפי בבחירות לכנסת ה-26 ועדת הבחירות המרכזית לכנסת - gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "Gov.il",
+      "outlet": "gov.il",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qR1o4LVBiQXBOQTNKMEpBZnNIZEN6VjNiN0xfckdJTE91U0Z0RTlicE5nS1RBbVRtZmNGcHBHWFBNX0RQekZDQVAxR1pKamM?oc=5",
       "updated": "Wed, 29 Jul 2026 07:00:00 GMT"
     }
