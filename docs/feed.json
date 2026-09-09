@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:05:09.498810+00:00",
+  "generated_at": "2026-09-09T18:07:14.506441+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-3625396781389347748",
+      "id": "news-5438330234433604812",
       "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-6169803841719227965",
+      "id": "news-209542987055728065",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-6138465910109197592",
+      "id": "news-8214974937095745582",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8636440062220039462",
-      "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0VHp2bUxvWWlhUVNyYnpNcDFxVk5sYkpkQTRTVzJ2bENWMjQ2LVFHSG1CVGtCbGgzZlFiMkVFaVFfOEt0?oc=5",
-      "updated": "Sun, 06 Sep 2026 06:48:31 GMT"
-    },
-    {
-      "id": "news-8883332389567415154",
+      "id": "news-416205748304442516",
       "title": "איני מבקשת \"יותר נשים\" אלא חמלה, יושרה וראיית האחר. ונשים יביאו אותן - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +305,7 @@
       "updated": "Sun, 06 Sep 2026 17:00:00 GMT"
     },
     {
-      "id": "news-6031924835596736357",
+      "id": "news-6543915420702637940",
       "title": "ראש הממשלה ניהל ישיבה בנושא הצעת חוק לתיקון והשלמה של מספר סעיפים בחוק המקרקעין. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +315,17 @@
       "updated": "Wed, 09 Sep 2026 02:11:15 GMT"
     },
     {
-      "id": "news-1928406476927509680",
+      "id": "news-273069157439568359",
+      "title": "הצעת חוק באוסטרליה: ענקיות הטכנולוגיה יחויבו לאפשר חסימת האלגוריתמים - news1.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "news1.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hSmNRbEtiaDJnUXUyRktua29XQTNWOXE3dGM3VGM1Nm4wVE9JSk5uQW8yZHRyYmNzRFF6R3dwNDk1N19obW5vcEt3cnVCNGJucGlYU09NYWhBeFJzOC1fdHF3?oc=5",
+      "updated": "Tue, 08 Sep 2026 05:20:25 GMT"
+    },
+    {
+      "id": "news-5165206549506884676",
       "title": "ד\"ר רפי נץ-צנגוט: נבחרי הציבור אינם זכאים לפעול ללא מגבלות – בג\"ץ מוסמך להגבילם - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Wed, 09 Sep 2026 12:10:32 GMT"
     },
     {
-      "id": "news-6410076310451255125",
+      "id": "news-2617011300993736262",
       "title": "מה בעצם רוצות כל המפלגות שהוקמו לקראת הבחירות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Wed, 09 Sep 2026 13:23:00 GMT"
     },
     {
-      "id": "news-771709347157041237",
+      "id": "news-1135853948671404152",
       "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Sat, 05 Sep 2026 16:48:58 GMT"
     },
     {
-      "id": "news-7378420263185359547",
+      "id": "news-9199784570794402300",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,27 +365,17 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-3485845635983505412",
-      "title": "הצעת חוק יסוד לימוד תורה אושרה בוועדת הכנסת לקריאה שנייה ושלישית - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42VkxxSy1CdjljYjRQWDF6V3B0Wl9Nbl9ZM1pORVp5S0ZoVDFWRlVvbkRNcDQ2QUcxcmhsaEVPdjhiS3RybC1VUlIwQQ?oc=5",
-      "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-9170988038589928029",
+      "id": "news-4589148984731789431",
       "title": "כ-60% מהציבור מעוניינים בשינוי במערכת המשפט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "103FM",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VVh1TmZ4TWJiR3hyLUNPa2xJS2RnSnVzMnhGZ1ptdXN4cmpLbVpWZ1UxdmJQTVhGZExTZG5tMVNXWVhyWmVBNFYzWXlWU1dSWG9LcTJHM1FzTnpVYldNM1E3MU1TTnRzdHBFTWJnZVZLVVM3b0lkR2UwbWx0Rkk?oc=5",
-      "updated": "Wed, 09 Sep 2026 14:29:29 GMT"
+      "updated": "Wed, 09 Sep 2026 17:37:30 GMT"
     },
     {
-      "id": "news-1761921760376813154",
+      "id": "news-1817091622877333129",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +385,7 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8440597501564739220",
+      "id": "news-6105886316130295581",
       "title": "לקראת הכרעה: ועדת החוקה של הליכוד דנה בשינוי שיטת הפריימריז - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,17 +395,17 @@
       "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7988573307548096719",
-      "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
+      "id": "news-8461509034846178361",
+      "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - israelhayom.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "היום",
+      "outlet": "israelhayom.co.il",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JTDBnV2xJMGliOGtjU0xGVHVMYVZYVWVwU29hdm54MXBWOWxiYVVXY05HSC1xOHI3dEd5d3BEb3ZUQmJ4QlhwQWVFeFJFT0dmbTVGWTNHVmZ4TFV2ZzZiYVJ3QVROTmgyRVBhc09BcWzSAXhBVV95cUxQVmxBNEp2U3UwOTFrTUhabG1fRGFVVm9QNnpySTl2Wk5RXy1QbkU1T1E4cXI0TUQ1cFR3MUFuejlPSk9QTWFaX21TVUxIelpXSkdHc2pjNi1GeWhfaDZWWnB4MGYwOVBQYVBTOTEzMjg3Q2RLSURWYXg?oc=5",
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-2599581159922225968",
+      "id": "news-6822275422981122831",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +415,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6437759405955650879",
+      "id": "news-1554361651839557389",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +425,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6631862799332028626",
+      "id": "news-4223756691593897819",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +435,7 @@
       "updated": "Tue, 08 Sep 2026 01:52:13 GMT"
     },
     {
-      "id": "news-7674357313588282545",
+      "id": "news-7478913139219602140",
       "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +445,7 @@
       "updated": "Tue, 08 Sep 2026 22:03:40 GMT"
     },
     {
-      "id": "news-5934248516466117574",
+      "id": "news-4929111213371752447",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -463,6 +453,16 @@
       "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-6114027612476258476",
+      "title": "מועמדות לתפקיד מזכיר/ת ועדת קלפי בבחירות לכנסת ה-26 ועדת הבחירות המרכזית לכנסת - gov.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "gov.il",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qR1o4LVBiQXBOQTNKMEpBZnNIZEN6VjNiN0xfckdJTE91U0Z0RTlicE5nS1RBbVRtZmNGcHBHWFBNX0RQekZDQVAxR1pKamM?oc=5",
+      "updated": "Wed, 29 Jul 2026 07:00:00 GMT"
     }
   ]
 }
