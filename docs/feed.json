@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:05:25.080849+00:00",
+  "generated_at": "2026-09-09T06:07:12.041664+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1376749885295799159",
+      "id": "news-1823918127132171437",
       "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-6423052389982863426",
+      "id": "news-3513833886764904732",
       "title": "הלומי קרב זעמו בדיון על חוק יסוד לימוד תורה: \"עושים עלינו סיבוב\" - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,17 +285,7 @@
       "updated": "Mon, 07 Sep 2026 04:16:06 GMT"
     },
     {
-      "id": "news-5518935188669750944",
-      "title": "ראש הממשלה ניהל ישיבה בנושא הצעת חוק לתיקון והשלמה של מספר סעיפים בחוק המקרקעין. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkd3Mk9yandFQmV5VGM4ZTZMRVZDZWlnUTBYSDRmd0tzUDRpWEcyS1VxSUR4aV83LVZUdWJGR2JVWmRncDhNRUNSczVGcUNmRUR4TEpBT0pJMXhOSk9makZyTXVLbUpEUUxHNUE5YnlNZWJPUVFjTnVTQTZpMTZSQ3VUSmpTUEpDR0hZNkZxT0Z1cFRuRlF0QmlGMk53ckptTVRjRVRsQzkwdw?oc=5",
-      "updated": "Wed, 09 Sep 2026 02:11:15 GMT"
-    },
-    {
-      "id": "news-4502501641393287987",
+      "id": "news-757474927964588202",
       "title": "הפסילה המהירה בהיסטוריה: בפסק דין חוק המשתמטים, בג\"ץ מציב גבול למחטפי החקיקה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +295,17 @@
       "updated": "Sun, 06 Sep 2026 06:48:31 GMT"
     },
     {
-      "id": "news-7148559685760404165",
+      "id": "news-6975756415752164055",
+      "title": "ראש הממשלה ניהל ישיבה בנושא הצעת חוק לתיקון והשלמה של מספר סעיפים בחוק המקרקעין. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkd3Mk9yandFQmV5VGM4ZTZMRVZDZWlnUTBYSDRmd0tzUDRpWEcyS1VxSUR4aV83LVZUdWJGR2JVWmRncDhNRUNSczVGcUNmRUR4TEpBT0pJMXhOSk9makZyTXVLbUpEUUxHNUE5YnlNZWJPUVFjTnVTQTZpMTZSQ3VUSmpTUEpDR0hZNkZxT0Z1cFRuRlF0QmlGMk53ckptTVRjRVRsQzkwdw?oc=5",
+      "updated": "Wed, 09 Sep 2026 02:11:15 GMT"
+    },
+    {
+      "id": "news-1752815587466783931",
       "title": "הצעת חוק באוסטרליה: ענקיות הטכנולוגיה יחויבו לאפשר חסימת האלגוריתמים - News1 מחלקה ראשונה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Tue, 08 Sep 2026 05:20:25 GMT"
     },
     {
-      "id": "news-8636405510236417501",
+      "id": "news-5324105810434312722",
       "title": "הצעת חוק בקנדה מרחיבה את סמכויות הגישה של רשויות האכיפה למידע דיגיטלי: סקירת Bill C-22- Lawful Access Act - isoc.org.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,47 +325,7 @@
       "updated": "Sun, 16 Aug 2026 19:07:22 GMT"
     },
     {
-      "id": "news-9012006170805707295",
-      "title": "ד\"ר רפי נץ-צנגוט: נבחרי הציבור אינם זכאים לפעול ללא מגבלות – בג\"ץ מוסמך להגבילם - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92SUY4SGRoTzZITWNWOEE3OGJ4dnJuSGxpZThHdlVyeDUzeFVGU0FQdUhNU0x4dkRSUUNMRU9GWlRHeFc0?oc=5",
-      "updated": "Tue, 08 Sep 2026 17:24:09 GMT"
-    },
-    {
-      "id": "news-2653470419943693100",
-      "title": "מה קורה כשחוק יסוד וחוק רגיל מתנגשים? המחלוקת על הזכות לבחור לכנסת - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5SWxwR1FwY3hKeDRtQ3RLTmRKVUp6M1RJR29lM3hXTHpVTmJhLUlNZHYxNlRkdlRNNDI3Q185NFc4VWcxRE5TamZsSWxkblQ1OEZYWHVkYWZTckhNSnV5SkNjMA?oc=5",
-      "updated": "Tue, 08 Sep 2026 08:53:18 GMT"
-    },
-    {
-      "id": "news-7011919625953451738",
-      "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sY2R5X2hlUHp1dHpKdFJTbnpkYlFuNFF1Y1Y0Z2F4ZWJzbDlmbjFzdHpTNHdpYzlBNjdzWUhWbENVZnBvdVJPaw?oc=5",
-      "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
-    },
-    {
-      "id": "news-2412961583302247613",
-      "title": "הלומי הקרב התפרצו בדיון הגיוס: \"כמה אפשר להבטיח?\" - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UcjBaTWdHbFFlN0dCZnRzWHJZaFFaUkF0WE5FZjZEVEJwUms5bVpIMko0TEJFTi1KTW5tRm1uRW1NSnVjNGdUdFh3NWYtd0NvWEZOWUFvbm9KSVdmYWM5a0JrM1E?oc=5",
-      "updated": "Mon, 07 Sep 2026 10:42:00 GMT"
-    },
-    {
-      "id": "news-5680450572406055018",
+      "id": "news-2919980935793885955",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +335,7 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4536762463110298561",
+      "id": "news-5906403880209437832",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +345,7 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-6582640394624810267",
+      "id": "news-7898443937970830617",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +355,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3712669800996144254",
+      "id": "news-1156895577489894694",
       "title": "\"לחיי בית המשפט העליון, מאוד פשוט\" - 103fm.maariv.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +365,7 @@
       "updated": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-330278179350557588",
+      "id": "news-4597262223026328620",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +375,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2515249528015424621",
+      "id": "news-5132599929507822774",
       "title": "\"היועמ\"שית משתוללת כי היא מבינה שהחגיגה נגמרה\" - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,17 +385,7 @@
       "updated": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3080077897221724596",
-      "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
-      "updated": "Tue, 08 Sep 2026 22:03:40 GMT"
-    },
-    {
-      "id": "news-9158831541835842817",
+      "id": "news-7683827770837629818",
       "title": "110 תומכים, ללא מתנגדים: הכנסת אישרה בקריאה טרומית את ההצעה לפיזורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +395,17 @@
       "updated": "Tue, 08 Sep 2026 01:52:13 GMT"
     },
     {
-      "id": "news-4371048155162570162",
+      "id": "news-1270303940769024689",
+      "title": "38 מפלגות הגיעו, נסגרה הגשת הרשימות לכנסת: אלה המועמדים לבחירות 2026 - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95cjhSNDlmLVY2eG5GTV9TZGVXRWVyVUVvckR5ZEplRm5MWHZ3T3N6QmdVeUxMNGRiZ25nRXo2ZHpLdUFsSDh1VTFWQUVRMUt0dzFHNkRHSHZmTjU4ZzlXNl9QZGc3ZjVVeUEtZQ?oc=5",
+      "updated": "Tue, 08 Sep 2026 14:16:00 GMT"
+    },
+    {
+      "id": "news-3866388340410330054",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +415,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3834969649491307490",
+      "id": "news-4634167507514085853",
       "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -463,6 +423,46 @@
       "outlet": "YNET",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zc1I2Y2hrNWhjRzg2UG9PZHJVRGV6M3p6LVNmenFreWxhaFlOQnEydjIxRGJlUXF1ZXZNRzBUZ2ZKZ1h3MUJ3LXRqNGhzaTVHNElmSTY5NFh2M0xlYXE1Y3FrX3ZhNHFuVEZhUA?oc=5",
       "updated": "Tue, 08 Sep 2026 10:56:45 GMT"
+    },
+    {
+      "id": "news-6776762158837704021",
+      "title": "מועמדות לתפקיד מזכיר/ת ועדת קלפי בבחירות לכנסת ה-26 ועדת הבחירות המרכזית לכנסת - Gov.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Gov.il",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qR1o4LVBiQXBOQTNKMEpBZnNIZEN6VjNiN0xfckdJTE91U0Z0RTlicE5nS1RBbVRtZmNGcHBHWFBNX0RQekZDQVAxR1pKamM?oc=5",
+      "updated": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-2754049115481058265",
+      "title": "כך הופכת רגולציה סביבתית לדרישת סף מסחרית - Calcalist",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Calcalist",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4c2VBMWZnZ25YQ09RWHNYTHU0X0hpN1B3NTRkMXZnZGN0WjFLM0JOZG5LaWx0ZmRfVUhKUUhYZDJpZHozbEM5RUdjUzRvWEJiVkZOSTlyT3A1czVpd2FsYWZ4VUg3N2tDcHc?oc=5",
+      "updated": "Sun, 06 Sep 2026 07:15:00 GMT"
+    },
+    {
+      "id": "news-7714125097795701721",
+      "title": "שוק האנרגיה המקומי - פער ביצועים על רקע סיכוני רגולציה - פאנדר",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "פאנדר",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85OHdQUkFvOFBIaTA3cWJPV2lDZzJzYzZuRnFKbXhPSXRpMnVPRnRrS3lnaVVfaXFkY0JOazRiQWJ3cm1ENzdBRGlVbk9CcVdw?oc=5",
+      "updated": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4609614744012985030",
+      "title": "גמ\"חים, עמותות ופעילות קהילתית: כשהעשייה החברתית פוגשת מס, רגולציה ואחריות - mako",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "mako",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjRIQ1E4eHAxeEt1WmVWNGJoTUZTODV1NHZqcHQ0OUstNVFyR1lQVWp0ckt0RjdKWno2VVJDdHZ2VHFsRmY5SHZZZkVFWjJpRG5SbXN4SWVXbDRpSTJZMktUekxyN1pMT3JGRlR2WWRiMkdJTzJWMl9zN3R4N2hOZDZoNFJ5cjgwR2ZNRw?oc=5",
+      "updated": "Sun, 30 Aug 2026 13:15:00 GMT"
     }
   ]
 }
