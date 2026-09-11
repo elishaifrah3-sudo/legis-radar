@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:07:33.370514+00:00",
+  "generated_at": "2026-09-11T13:05:05.051669+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6792598519883939785",
+      "id": "news-1855018211321189240",
       "title": "הצעת חוק יסוד לימוד תורה אושרה בוועדת הכנסת לקריאה שנייה ושלישית - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,17 +275,17 @@
       "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5928976923913943937",
-      "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
+      "id": "news-5854856930057934037",
+      "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - themarker.com",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "TheMarker",
+      "outlet": "themarker.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTnNLaFc1QVBPcXM1UXM2My12Wk5sb3RselUzWG1mZ0plR0M4RnJmZnZhMUFub0JtN2pKai12OEdQamhQWmJYd3lVUEs0d1VvWkp0cko0eFl3dTZEYnZPUVZPbkFhUmU3SEpMVnpTZnB5LTQ3d2l2eFZXTEthZjVTdjR2ekNoaEMxbDd5Ry1fOW84T2ZnZmxaVTR4Z2JWZmU0clZXc3NvQQ?oc=5",
       "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
     },
     {
-      "id": "news-1454084915296440501",
+      "id": "news-8157845654995341840",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4796542242808684274",
+      "id": "news-5713993474562907951",
       "title": "אושר סופית: הצעת חוק היועץ המשפטי לממשלה - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3245755839667740560",
+      "id": "news-1188663674809730967",
       "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2272724102431058733",
+      "id": "news-1638063198227706533",
       "title": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4408459380163525892",
+      "id": "news-4324539700097278206",
       "title": "מה בעצם רוצות כל המפלגות שהוקמו לקראת הבחירות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Wed, 09 Sep 2026 13:23:00 GMT"
     },
     {
-      "id": "news-2084830726465225386",
+      "id": "news-8535084249953431906",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-953002517336489936",
+      "id": "news-1523537298096662560",
       "title": "מצמצו בשנייה האחרונה: רגע האמת של החרדים הסתיים בוויתור ענק - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Sun, 06 Sep 2026 21:41:26 GMT"
     },
     {
-      "id": "news-1781171549637477716",
+      "id": "news-4085404431258389452",
       "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Sat, 05 Sep 2026 16:48:58 GMT"
     },
     {
-      "id": "news-4867952650656131620",
+      "id": "news-1987934045364500816",
       "title": "כ-60% מהציבור מעוניינים בשינוי במערכת המשפט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Wed, 09 Sep 2026 20:04:05 GMT"
     },
     {
-      "id": "news-5968616158702305008",
+      "id": "news-7763517219399366547",
       "title": "לקראת הכרעה: ועדת החוקה של הליכוד דנה בשינוי שיטת הפריימריז - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,17 +385,17 @@
       "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7289959799414430478",
-      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
+      "id": "news-2637291623341648829",
+      "title": "מלחמת הכוסות בכנסת: הספל החדש שהסעיר את ועדת החוקה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
-      "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XVG4yYUc3dEhyZDF0czNSMFBOT3loMVhIVUIwUXN6RVJBWWc0bWprajVoamVuc0JmeEVuWnc1MW5oWFpzaHNQd0xEcVVFalVPSnZTaEhwalZ6d3lwOVJOTHFPNkFaamJZdDhHd2l6aUFyZkhzLUE?oc=5",
+      "updated": "Thu, 10 Sep 2026 17:11:16 GMT"
     },
     {
-      "id": "news-5417214131881768865",
+      "id": "news-5012980423696313195",
       "title": "שמחה רוטמן: “מי שמבטיח שוויון (בגיוס) – מספר סיפורים\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,17 +405,7 @@
       "updated": "Mon, 07 Sep 2026 12:01:35 GMT"
     },
     {
-      "id": "news-7985586597401505491",
-      "title": "שמחה רוטמן: היועמ\"שית ובג\"ץ מונעים מהממשלה להקים ועדת חקירה כפי שצריך להקים - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UVpvNngwV0hKSlJvV3VILXo3NkxIVnJYbFVWR2VyN0d4X2t2SXJvcEZTREFYLWY4MGt5c29yMnBNU2Y5NU00ckp1OW5KNE54N2d6TTI3UmFZdklRemtvTHF1RVdrQWpSRTNBamJB?oc=5",
-      "updated": "Wed, 19 Aug 2026 05:22:12 GMT"
-    },
-    {
-      "id": "news-7273091257195349505",
+      "id": "news-3706300305645711647",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +415,17 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8975013293130781889",
+      "id": "news-6603514697834916499",
+      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-7401806155933423228",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4999482049888535151",
+      "id": "news-3953341019014125336",
       "title": "השמות והרשימות: אלה המועמדים של בחירות 2026 - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +445,7 @@
       "updated": "Tue, 08 Sep 2026 10:56:45 GMT"
     },
     {
-      "id": "news-2775472704445953240",
+      "id": "news-4501832136882500092",
       "title": "חוק לעניין ועדות הכנסת (תיקוני חקיקה והוראת שעה), התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Thu, 28 May 2026 17:43:13 GMT"
     },
     {
-      "id": "news-5286136982846703315",
+      "id": "news-9072288396067547115",
       "title": "איתן מליץ: כיצד פועל מנגנון פסילת המפלגות מהתמודדות בבחירות לכנסת? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
