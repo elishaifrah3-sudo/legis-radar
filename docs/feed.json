@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:07:04.079772+00:00",
+  "generated_at": "2026-09-15T05:37:43.955849+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,37 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-3515034004020871753",
-      "title": "נורווגיה מקדמת חוק: עד 3 שנות מאסר למי שיסחור עם התנחלויות - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iMElmMmVpNVExb2hxT3Y5RlNzMjgxRUFZMG9aNnBaZm91UTVELVluekh3YldKYklScy1Ycl9tRloyckJaUndiT1RlV1lhUU5VWldYS3NqMGlON0FTS1d5MGJ4aW4?oc=5",
-      "updated": "Mon, 14 Sep 2026 08:36:24 GMT"
-    },
-    {
-      "id": "news-3351532919702877674",
-      "title": "הצעת חוק יסוד לימוד תורה אושרה בוועדת הכנסת לקריאה שנייה ושלישית - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42VkxxSy1CdjljYjRQWDF6V3B0Wl9Nbl9ZM1pORVp5S0ZoVDFWRlVvbkRNcDQ2QUcxcmhsaEVPdjhiS3RybC1VUlIwQQ?oc=5",
-      "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7555722215511132412",
-      "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - themarker.com",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "themarker.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTnNLaFc1QVBPcXM1UXM2My12Wk5sb3RselUzWG1mZ0plR0M4RnJmZnZhMUFub0JtN2pKai12OEdQamhQWmJYd3lVUEs0d1VvWkp0cko0eFl3dTZEYnZPUVZPbkFhUmU3SEpMVnpTZnB5LTQ3d2l2eFZXTEthZjVTdjR2ekNoaEMxbDd5Ry1fOW84T2ZnZmxaVTR4Z2JWZmU0clZXc3NvQQ?oc=5",
-      "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
-    },
-    {
-      "id": "news-6738087593797461491",
+      "id": "news-896263509719047885",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,7 +275,27 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2435934361519867735",
+      "id": "news-3547607241597042611",
+      "title": "נורווגיה מקדמת חוק: עד 3 שנות מאסר למי שיסחור עם התנחלויות - מעריב",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iMElmMmVpNVExb2hxT3Y5RlNzMjgxRUFZMG9aNnBaZm91UTVELVluekh3YldKYklScy1Ycl9tRloyckJaUndiT1RlV1lhUU5VWldYS3NqMGlON0FTS1d5MGJ4aW4?oc=5",
+      "updated": "Mon, 14 Sep 2026 08:36:24 GMT"
+    },
+    {
+      "id": "news-1989166679201157820",
+      "title": "אוסטרליה מעלה הילוך: הצעת חוק דורשת אפשרות לכבות את האלגוריתם ברשתות חברתיות - TheMarker",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTnNLaFc1QVBPcXM1UXM2My12Wk5sb3RselUzWG1mZ0plR0M4RnJmZnZhMUFub0JtN2pKai12OEdQamhQWmJYd3lVUEs0d1VvWkp0cko0eFl3dTZEYnZPUVZPbkFhUmU3SEpMVnpTZnB5LTQ3d2l2eFZXTEthZjVTdjR2ekNoaEMxbDd5Ry1fOW84T2ZnZmxaVTR4Z2JWZmU0clZXc3NvQQ?oc=5",
+      "updated": "Tue, 08 Sep 2026 07:36:00 GMT"
+    },
+    {
+      "id": "news-1366893377544343629",
       "title": "אושר סופית: הצעת חוק היועץ המשפטי לממשלה - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +305,37 @@
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7538124124085567812",
-      "title": "נורווגיה בדרך לחוק נגד סחר עם ההתנחלויות; במדינות אחרות העונש מגיע לעשור - ערוץ 7",
+      "id": "news-661668346228013132",
+      "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS2FSODdkVlNIMFVZWU9laW5ZUFRIdjZFSkhQOGoxRDlxaURaTzZDUm01OHI4eWE2ZUlrZHpWV1g2YUZjcmdLbUttYVpjeGxoQ3dQaTRSR2REb1B6dmJiMnNGUFVCcWVU?oc=5",
+      "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-936170850409183230",
+      "title": "הכנסת אישרה את פיצול הצעת חוק היועמ\"ש והתובע הכללי - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tSWtLYmd4dEh6OTZYUFdtLVVvOUoxeWhPV0F4UENyWXB6di1WaE84NFN5eGduN05hT04ydE92b0I5NnI5NExsRQ?oc=5",
-      "updated": "Mon, 14 Sep 2026 06:10:00 GMT"
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaEtYdGRXbk1NYzB2UWdBQUlpZXIzV2E2SlFFTi1fMndBZXBLUVhJVl90UXJaSDdOa3ZJeHNiUnVpa2lMbTVVbGVvWWR5cUgwazBLcUhIbENXcjBDSUgtLThBTGZEcy1RV2R3LVRWdjF6UFZYUFJrQUlJTG5YczFHTXBTY1BTWlFPcXV0Qlpac0kxNUpTMnk3Z0tnY1UwT181NE9YZEQ3bzBOa2V0YlBsbnNYamV2LVhNQTYyelFKSlZDVjRZNXNmN2pmUVVGN3N3WnVDOGJZMTdPaXZtaVJ5ekhwN282TWdLVFRWOVZWZ21INU1mamFyOEswcE1wNEU3NTV0Rlc0MFFtUXFyZ1ZrbjhXQkFaNm1XQW8wendjU2RacE9uWG9BSVgwemdvcUVfWHhmWXZrTFVYN3ZCb0RPYmo5VQ?oc=5",
+      "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2754904754442417301",
+      "id": "news-8691321291035735000",
+      "title": "מאל־ארד ועד מרזל: הפסיקות שעיצבו לאורך השנים את פסילת המפלגות - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9TMkFxaGg4ZURoY1BPdEk2RWZFZi1IR2JSQ3BIemRFWktYLTkxZ0lmUFpQaEc0QlUxSXF3aWJOLUgzOVlmT0VBRnJsc2hIWFpENHdjb0VfbUZSWnhoODhOUFJHQTUxQ3RIdmpqaU9pY3Z2TnM4a1h2RkFTR3pyQTV4QlNsQzdPWnFqR1g1al9JS0Fmd3FGcVIwZjhUdkpWQllPMXdLZFEzN29CSndxUW9nemZVZw?oc=5",
+      "updated": "Tue, 15 Sep 2026 03:01:00 GMT"
+    },
+    {
+      "id": "news-6715415941687214861",
       "title": "הרשות השופטת מעלה הילוך: כל ההתערבויות בעבודת הממשלה והכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +345,7 @@
       "updated": "Mon, 14 Sep 2026 13:44:40 GMT"
     },
     {
-      "id": "news-5449215133251016865",
+      "id": "news-4563526102900638924",
       "title": "כך נפסול את תומכי הטרור: התיקון לחוק היסוד שיעקוף את בג\"ץ - מידה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +355,7 @@
       "updated": "Mon, 14 Sep 2026 15:07:15 GMT"
     },
     {
-      "id": "news-4141134112034416138",
+      "id": "news-7806514258325471439",
       "title": "בנט בגוון חדש - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +365,17 @@
       "updated": "Sun, 13 Sep 2026 21:00:00 GMT"
     },
     {
-      "id": "news-1395635100303965629",
-      "title": "מה בעצם רוצות כל המפלגות שהוקמו לקראת הבחירות - הארץ",
+      "id": "news-2815383014098020553",
+      "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelktdlZpZjdTakVuSVJsMUU3VUNMMEF5LVhTT0xXY2Y4WUZfNncwdjFqUmxSc3lVcHJkcUNDSjdrbTlxT2g2UHZ5M1paeFlfYzFmRG11QW1qOFBqbG5FQnd3cm1NckVBc0NJNk1KT2VaVGZVWWh3TjltRTYzUl9taFZldExXZlZleHM3SzNCc3k5elJ1ZnBuTE55UjNtWDhIcWlJdkU5RQ?oc=5",
-      "updated": "Wed, 09 Sep 2026 13:23:00 GMT"
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDTmd5VEl0RHEtLXNZMF9rX1NPejBZLURjRkhuNGJ0dmVNM1FxSnE4U0xETms1Q0Z4M2RKa05CSXdiQlh5?oc=5",
+      "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-8961750210507161161",
+      "id": "news-8644768505627734246",
       "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +385,17 @@
       "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
     },
     {
-      "id": "news-3785034430758525824",
-      "title": "סמוטריץ' ורוטמן ישיקו תוכנית חדשה לתיקון מערכת המשפט - C14",
+      "id": "news-1776333767424539211",
+      "title": "סמוטריץ' ורוטמן ישיקו תוכנית חדשה לתיקון מערכת המשפט - ערוץ 14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "C14",
+      "outlet": "ערוץ 14",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lR0VENmRNUVZxazVMRFZGODlCTlFlUHNYVy1YWDVOWi0yd29XUUNNb2swQTBIRm1IWlhTWFBleWR3Zkw2LWdzZElWamU3UQ?oc=5",
       "updated": "Mon, 14 Sep 2026 15:27:05 GMT"
     },
     {
-      "id": "news-6560435755562735855",
+      "id": "news-4242571471709450782",
       "title": "כ-60% מהציבור מעוניינים בשינוי במערכת המשפט\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +405,17 @@
       "updated": "Wed, 09 Sep 2026 20:04:05 GMT"
     },
     {
-      "id": "news-5337726894139864084",
+      "id": "news-2430737765802905906",
+      "title": "ח\"כ רוטמן חושף את הסיבה שמפלגתו לא ממריאה בסקרים - kol-barama.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "kol-barama.co.il",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPM0Jscy1FdWNHZXdqU05yQzhmTzJrcjFTcmlVSU41Q1RhVzhUTU9fY1QzbVhxTWJQSzVlRlRRcVRaYWJVSk12YUxHNFhaX1BrZTNxcS03bkM3RGNuT3RKeHo3NEpMazNCQkVlaDAzZmdUa3d5bHp2Y0xZTnVuX2NRMm80dVBXWG1ab3JIcmlvTUY2MGJhZXlUY3VBaEpSTlUyaFExTXdPbEx2czhtM0FKQmw5OEwyU1lTdS1SWEJITlVMOWwwWUY3R1ZNSEd5UFRKbC1XMmdRVHl1dnpNODRvd2t6RnFxRGNtTHNMci1HcG1EYU1QS3ZyU2Z1aFFMaDRKYlFadHZKWXBKVUdWUzlMYXRWeW1NcTJlWkc1c1dNQmtfVnllZV81SXg3XzQ4ZVN4QlFoVC16c1ZnSXRaRk5EY2F2Z0hmXzQ?oc=5",
+      "updated": "Mon, 14 Sep 2026 11:32:42 GMT"
+    },
+    {
+      "id": "news-6161400324174998009",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +425,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5652399088767575853",
+      "id": "news-8062188751799426330",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +435,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7346147835284068470",
+      "id": "news-9091195280603787555",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,17 +445,7 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7155419256193981341",
-      "title": "ח\"כ רוטמן: \"כשבג\"ץ מצפצף על החוקים - אנחנו נקשיב לחוק\" - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSTNVNHRRWHVabnh5SERDdWljemZ4REtkaEpmRzJuc29IZmZkQ2tHSmdLNU1QR1N3QzFHWVRCM19PaDBXNEY5dkt6c2JfZmt0NHZhX3pLZW9KZw?oc=5",
-      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-9221834219212459875",
+      "id": "news-414941360478842603",
       "title": "כשהכנסת מתגייסת לממשלה: נתניהו נכשל במדד הפרדת הרשויות - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +455,7 @@
       "updated": "Mon, 14 Sep 2026 16:31:22 GMT"
     },
     {
-      "id": "news-583284059941197623",
+      "id": "news-8062785540517660872",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -453,16 +463,6 @@
       "outlet": "המכון הישראלי לדמוקרטיה",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-1546563079081309717",
-      "title": "חוק לעניין ועדות הכנסת (תיקוני חקיקה והוראת שעה), התשפ\"ג-2023 במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfbkxGQzR3a1J5QnBqa1lUT1ltU2V6bDJiQy1GQ29vcFNmdlBRVTlRM1g1dzhPZlIxY3ktS0N1WVNUbmZXT1o4T1FXVko4Y2RRYTlPUy1rTkhUN2YtUEVIeGJfa3ozci1HQzlDUEJFc3c?oc=5",
-      "updated": "Thu, 28 May 2026 17:43:13 GMT"
     }
   ]
 }
