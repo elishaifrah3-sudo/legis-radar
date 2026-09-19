@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:54:21.599934+00:00",
+  "generated_at": "2026-09-19T05:22:12.688445+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6701523689640643313",
+      "id": "news-7265625466861783317",
       "title": "נתניהו על יוצרי הסרט \"נז\"א\": נעביר הצעת חוק שתשלול את האזרחות למי שפוגע בחיילינו - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,17 +275,17 @@
       "updated": "Thu, 17 Sep 2026 18:22:48 GMT"
     },
     {
-      "id": "news-752702686508583989",
-      "title": "\"מעשי סדום ופגיעות מיניות\": הצעת חוק באינדונזיה להפללת להט\"בים - mako",
+      "id": "news-6752662469302341997",
+      "title": "\"מעשי סדום ופגיעות מיניות\": הצעת חוק באינדונזיה להפללת להט\"בים - mako.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "mako",
+      "outlet": "mako.co.il",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43dHRFNlREWWtzNGtQb3ZkMUdyMzVBVGR2YWRyTWsxT0ZMTTBBQml1Wjl2U0lVcUp5Q3o3Mk04ZDhJbDd3Z3dJaEgzT3VZTVY0V2g5V3d1dFJvN1VtWkxQOVpMUlQ5OFVucWhKQ2hoOFFWQQ?oc=5",
       "updated": "Thu, 17 Sep 2026 16:05:00 GMT"
     },
     {
-      "id": "news-1353209790005087771",
+      "id": "news-9088849378675403119",
       "title": "טלטלה נוספת בקריפטו: הצעת החוק נפלה בסנאט האמריקני - בחדרי חרדים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Wed, 16 Sep 2026 15:26:00 GMT"
     },
     {
-      "id": "news-2923662024131554176",
+      "id": "news-4678277016818137788",
       "title": "ארה\"ב: בית הנבחרים אישר את הצעת החוק לסנקציות על רוסיה - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Wed, 16 Sep 2026 23:05:05 GMT"
     },
     {
-      "id": "news-3671934693831108553",
+      "id": "news-1297428925593279512",
       "title": "החוק החדש בארה\"ב: מכה של מיליארדים לגוגל, מטא ומיקרוסופט - ice (אייס)",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +315,17 @@
       "updated": "Thu, 17 Sep 2026 05:24:00 GMT"
     },
     {
-      "id": "news-4529246292851755398",
-      "title": "יו\"ר ה-SEC מבטיח פעולה בנושא קריפטו לאחר כישלון הצעת החוק בסנאט מאת Investing.com - il.investing.com",
+      "id": "news-7820016987459910877",
+      "title": "יו\"ר ה-SEC מבטיח פעולה בנושא קריפטו לאחר כישלון הצעת החוק בסנאט מאת Investing.com - Investing.com",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "il.investing.com",
+      "outlet": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hc0RnMnpTUEI5QlAza1FRR2JwT181WHN0OFctY2Z2blNMNkpEOGZiUGRaZDlOV1hacllYM3BzMnJ2V3ZBQ3YyNnBUUWNJWWxLSVVtd2tqNVctZUdGbXNhSzRZVjRqcktnUFdvVDlsamRfX2RYR0xJaA?oc=5",
       "updated": "Wed, 16 Sep 2026 23:46:04 GMT"
     },
     {
-      "id": "news-6957025771376773427",
+      "id": "news-6328803137712969986",
       "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,27 +335,7 @@
       "updated": "Tue, 15 Sep 2026 15:16:00 GMT"
     },
     {
-      "id": "news-2375380222328025165",
-      "title": "צו מילואים למדינה: חוקה רזה היא הגמול הראוי לדור מסירות הנפש - ynet.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZDBvOWNiS0EtcTRSVDE0NzR2czEwSldOM3JvQzZyT2V6VUpnYkhhdFFEeWEtcHF0ZnFHSzkzMXdDYTZILUhsTnJHampDTW9QWHo0cjl4aUxXNHVqSFE?oc=5",
-      "updated": "Thu, 17 Sep 2026 04:00:00 GMT"
-    },
-    {
-      "id": "news-545335082049131840",
-      "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92cVZ4VHBVMDVfdEtPS2I5TVlOT2Y1SjRWOWxZWHMyaVh5aDYtUjZXQm5tWGdrOElGNmRuY2xlVFJkZEFt?oc=5",
-      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6325369805700238945",
+      "id": "news-2845762027638872626",
       "title": "מאל־ארד ועד מרזל: הפסיקות שעיצבו לאורך השנים את פסילת המפלגות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +345,7 @@
       "updated": "Tue, 15 Sep 2026 03:01:00 GMT"
     },
     {
-      "id": "news-7570572306831446647",
+      "id": "news-8593077036070973747",
       "title": "הרשות השופטת מעלה הילוך: כל ההתערבויות בעבודת הממשלה והכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +355,27 @@
       "updated": "Mon, 14 Sep 2026 13:44:40 GMT"
     },
     {
-      "id": "news-1072470155377274325",
+      "id": "news-888412884150592675",
+      "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92cVZ4VHBVMDVfdEtPS2I5TVlOT2Y1SjRWOWxZWHMyaVh5aDYtUjZXQm5tWGdrOElGNmRuY2xlVFJkZEFt?oc=5",
+      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4175516143878055371",
+      "title": "האם אנו קרובים להכרעת ויכוח בן 80? - ynet.co.il",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV2xBUWpvcExDLWM3aUUySDI4VkVpY3ZQUlE3dXNhZ0IzTUtUMS0wQ1M4WjBnc3oyc3QzaFVKX2RJNWtDV01uWmdTbEhxdE1fbmNGVFRVX1RsVHF5d1E?oc=5",
+      "updated": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-6837082324456072283",
       "title": "חוק יסוד לימוד תורה אושר בוועדת הכנסת וצפוי לעלות מחר לקריאה ראשונה במליאה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,7 +385,7 @@
       "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6303159266999057542",
+      "id": "news-3572860896460415697",
       "title": "\"יצחק עמית הוא האבא הרוחני של ההפגנות בקפלן\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +395,7 @@
       "updated": "Wed, 16 Sep 2026 08:29:36 GMT"
     },
     {
-      "id": "news-1582582237767969017",
-      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
-      "updated": "Wed, 16 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-4283816040812737208",
+      "id": "news-8592366611354322723",
       "title": "מכה למגישי התביעות הייצוגיות: החוק החדש יוצא לדרך - ice (אייס)",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +405,7 @@
       "updated": "Wed, 16 Sep 2026 22:58:59 GMT"
     },
     {
-      "id": "news-2581881129829937569",
+      "id": "news-5961133415738924312",
       "title": "חשיפה: סמוטריץ' ורוטמן ישיקו תוכנית חדשה לתיקון מערכת המשפט - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +415,7 @@
       "updated": "Mon, 14 Sep 2026 15:23:28 GMT"
     },
     {
-      "id": "news-8478178858431439234",
+      "id": "news-6134115184760406150",
       "title": "התוכנית של סמוטריץ' ורוטמן ליישום הרפורמה המשפטית - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +425,7 @@
       "updated": "Tue, 15 Sep 2026 12:57:15 GMT"
     },
     {
-      "id": "news-2359325484811836229",
+      "id": "news-1680205680188512543",
       "title": "\"למי שלא אהב, קבלו את התנצלותי. מי שאהב? אני שמח\" - רדיו צפון 104.5FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +435,27 @@
       "updated": "Wed, 16 Sep 2026 08:36:09 GMT"
     },
     {
-      "id": "news-9173257664890504736",
+      "id": "news-3621354134803073568",
+      "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dnhmY1BVUzNsbzNFWGpGODVkU0FnMWd5aHJ5UDZlWlhZbzh6b0NTTFBmd3FxNlVYZi0yNGJ6NkM2WVIwMzFNRlZwdw?oc=5",
+      "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-5658504686643358440",
+      "title": "ועדת הבחירות: אלו הרשימות שעלולות להיפסל - סרוגים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdUI0OUlNSkFHNHl6UmUzdkJJNW95SUM5TUJHX2kwXzNIMFcxdk1nc2o2X3J1OVppRk5iQ3lyQ0I0MTJseGJWSmxuVlBTa2ZKbmpLckw4TEdvR0pkaVJtRDIyMGtVNU80Q2ZTelAyWlVfVHM1cldlUy1GR3RrSlNNQng3X25LYW1FdmVQbWw4ejFmZDhBLUhqSTY5MjdPTVYyN1J0MHI1Wjl0MzhGU19uUkNDR0RSSUVlWHRsOGFSb04zN25mVlh4Rlc1TFdnZWVSd2w0dlAzNkQyVGZoRVg3bWdqb09FWW1fMkNudGhaekxzVDRsWDR4TUFIbDhhSWx4V2pESjBtMFl5S2NyeG92dDNacXREa3JHSFBCSGxGODEzMzJKQV8ydVloTWxva3d3ZmhEbmg3ZVJRTy1IQno5TU1R?oc=5",
+      "updated": "Thu, 17 Sep 2026 23:03:47 GMT"
+    },
+    {
+      "id": "news-2214002474057383635",
       "title": "כשהכנסת מתגייסת לממשלה: נתניהו נכשל במדד הפרדת הרשויות - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -453,16 +463,6 @@
       "outlet": "שקוף",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE94U2pKbUotM2Z2OElTTU1XbGdYUGdKdVU4bU1xMUdSbUFxQkdmd1oyMU5lZ3FrWllDemtkSm02aw?oc=5",
       "updated": "Mon, 14 Sep 2026 16:31:22 GMT"
-    },
-    {
-      "id": "news-4661117128411046552",
-      "title": "ועדת הבחירות: אלו הרשימות שעלולות להיפסל - srugim.co.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "srugim.co.il",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdUI0OUlNSkFHNHl6UmUzdkJJNW95SUM5TUJHX2kwXzNIMFcxdk1nc2o2X3J1OVppRk5iQ3lyQ0I0MTJseGJWSmxuVlBTa2ZKbmpLckw4TEdvR0pkaVJtRDIyMGtVNU80Q2ZTelAyWlVfVHM1cldlUy1GR3RrSlNNQng3X25LYW1FdmVQbWw4ejFmZDhBLUhqSTY5MjdPTVYyN1J0MHI1Wjl0MzhGU19uUkNDR0RSSUVlWHRsOGFSb04zN25mVlh4Rlc1TFdnZWVSd2w0dlAzNkQyVGZoRVg3bWdqb09FWW1fMkNudGhaekxzVDRsWDR4TUFIbDhhSWx4V2pESjBtMFl5S2NyeG92dDNacXREa3JHSFBCSGxGODEzMzJKQV8ydVloTWxva3d3ZmhEbmg3ZVJRTy1IQno5TU1R?oc=5",
-      "updated": "Thu, 17 Sep 2026 23:03:47 GMT"
     }
   ]
 }
