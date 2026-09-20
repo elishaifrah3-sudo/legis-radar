@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:11:55.362379+00:00",
+  "generated_at": "2026-09-20T20:05:01.135206+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-5242231192337860260",
+      "id": "news-8192255253722624434",
       "title": "נתניהו על יוצרי הסרט \"נז\"א\": נעביר הצעת חוק שתשלול את האזרחות למי שפוגע בחיילינו - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,17 +275,7 @@
       "updated": "Thu, 17 Sep 2026 18:16:35 GMT"
     },
     {
-      "id": "news-6237324620327200203",
-      "title": "הראשון שיוצא להורג? המחבל מהמעיין ושאלת יישום חוק עונש מוות - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMnhCRzdaVGlWZFRGcXpNcnJWUzUzYlV3SWE0MG8tdVRaQlU0ank5RHNWTUR0Tm9wYmVpNGhyekNSVlJLeVFPMDViQm9BTXl0eHlLaFd1TmVhZw?oc=5",
-      "updated": "Sun, 20 Sep 2026 13:20:05 GMT"
-    },
-    {
-      "id": "news-2262423808356607196",
+      "id": "news-4903796276567398549",
       "title": "מניות הקריפטו צונחות לאחר שהסנאט חסם הצעת חוק לרגולציה על נכסים דיגיטליים מאת Investing.com - Investing.com",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,17 +285,17 @@
       "updated": "Tue, 15 Sep 2026 19:55:58 GMT"
     },
     {
-      "id": "news-9089698213080255301",
-      "title": "תבוסה לתעשיית הקריפטו: חוק הדגל נבלם בסנאט, והביטקוין יורד - TheMarker",
+      "id": "news-1559316463813336833",
+      "title": "הראשון שיוצא להורג? המחבל מהמעיין ושאלת יישום חוק עונש מוות - YNET",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzFqZEprNk5QWUFLNDBiSWJxRDR4V2U3aWQ5Z1g2U25EcUM1X3FwVTZDbVF5V2laNVBYaWkxTVh6YVQ5N2phRlZ1bXlkbVZ1Y0hXQnpabXpwbzhiYnNYVmNYUG5sMl9TNjJYQzJCZUdqZ1VxNDJmZUc0VTRPOFFKWlFJOXVaQ1Vod1M5cGw0THlvQldfTTRsLWRGdFZfLTBzNjZaYWU4VQ?oc=5",
-      "updated": "Wed, 16 Sep 2026 07:17:00 GMT"
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMnhCRzdaVGlWZFRGcXpNcnJWUzUzYlV3SWE0MG8tdVRaQlU0ank5RHNWTUR0Tm9wYmVpNGhyekNSVlJLeVFPMDViQm9BTXl0eHlLaFd1TmVhZw?oc=5",
+      "updated": "Sun, 20 Sep 2026 13:20:05 GMT"
     },
     {
-      "id": "news-7286876868347044732",
+      "id": "news-7059031914353432767",
       "title": "\"מעשי סדום ופגיעות מיניות\": הצעת חוק באינדונזיה להפללת להט\"בים - mako",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +305,17 @@
       "updated": "Thu, 17 Sep 2026 16:05:00 GMT"
     },
     {
-      "id": "news-7967820148388155964",
+      "id": "news-8233389591504909923",
+      "title": "תבוסה לתעשיית הקריפטו: חוק הדגל נבלם בסנאט, והביטקוין יורד - themarker.com",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "themarker.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzFqZEprNk5QWUFLNDBiSWJxRDR4V2U3aWQ5Z1g2U25EcUM1X3FwVTZDbVF5V2laNVBYaWkxTVh6YVQ5N2phRlZ1bXlkbVZ1Y0hXQnpabXpwbzhiYnNYVmNYUG5sMl9TNjJYQzJCZUdqZ1VxNDJmZUc0VTRPOFFKWlFJOXVaQ1Vod1M5cGw0THlvQldfTTRsLWRGdFZfLTBzNjZaYWU4VQ?oc=5",
+      "updated": "Wed, 16 Sep 2026 07:17:00 GMT"
+    },
+    {
+      "id": "news-8614158372862868901",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-5521236276010641030",
+      "id": "news-7027652740827151959",
       "title": "מאהרן ברק ועד היום: הוויכוח על גבולות הכוח של בית המשפט | פרופ' משה כהן-אליה - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,27 +335,17 @@
       "updated": "Sat, 19 Sep 2026 18:06:29 GMT"
     },
     {
-      "id": "news-8644738089411169655",
-      "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - ביזפורטל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ביזפורטל",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5La0lONE83enFaNlB6ZWVFd1JTcElndnltWE50ZDBCeDJ3LWpTczRTWW5HWnZVSjJLZTBBX3JqQ0x2cG90YjF2MldtYmVKd1VJSHZlaUl2T19BN05KbV9RU0lwSzlneHM?oc=5",
-      "updated": "Tue, 15 Sep 2026 15:16:00 GMT"
-    },
-    {
-      "id": "news-6628676847628573198",
-      "title": "הקואליציה ריככה את חוק יסוד לימוד תורה, לא יצוין בו השוואת זכויות למשרתי צה\"ל - YNET",
+      "id": "news-5125621173662978143",
+      "title": "צו מילואים למדינה: חוקה רזה היא הגמול הראוי לדור מסירות הנפש - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mcnRrM0hVYS1laHBPZDBIUkt6Zk5ydG9wOFBtTjQ2dnhuUmR4dW5qMEJLclNOb3lXX0FNek9BVkM2bG1oUWZfd2NpMTJTUTN6c2N5SDdoaHFNdw?oc=5",
-      "updated": "Sun, 06 Sep 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZDBvOWNiS0EtcTRSVDE0NzR2czEwSldOM3JvQzZyT2V6VUpnYkhhdFFEeWEtcHF0ZnFHSzkzMXdDYTZILUhsTnJHampDTW9QWHo0cjl4aUxXNHVqSFE?oc=5",
+      "updated": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
-      "id": "news-7385082730173465362",
+      "id": "news-7146837864810762767",
       "title": "אבי בן הר: בכנסת היוצאת הוגשו 80 הצעות לחוקי יסוד. למה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +355,17 @@
       "updated": "Sun, 06 Sep 2026 09:13:57 GMT"
     },
     {
-      "id": "news-8284415494864433076",
+      "id": "news-6887631501261730427",
+      "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - ביזפורטל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ביזפורטל",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5La0lONE83enFaNlB6ZWVFd1JTcElndnltWE50ZDBCeDJ3LWpTczRTWW5HWnZVSjJLZTBBX3JqQ0x2cG90YjF2MldtYmVKd1VJSHZlaUl2T19BN05KbV9RU0lwSzlneHM?oc=5",
+      "updated": "Tue, 15 Sep 2026 15:16:00 GMT"
+    },
+    {
+      "id": "news-533915851402178251",
       "title": "מאל־ארד ועד מרזל: הפסיקות שעיצבו לאורך השנים את פסילת המפלגות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,17 +375,17 @@
       "updated": "Tue, 15 Sep 2026 03:01:00 GMT"
     },
     {
-      "id": "news-6182654001932870910",
-      "title": "אושר לקריאה שנייה ושלישית: חוק יסוד לימוד תורה ללא סעיף \"מאזני הצדק\" - ערוץ 7",
+      "id": "news-960425764063192085",
+      "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sY2R5X2hlUHp1dHpKdFJTbnpkYlFuNFF1Y1Y0Z2F4ZWJzbDlmbjFzdHpTNHdpYzlBNjdzWUhWbENVZnBvdVJPaw?oc=5",
-      "updated": "Mon, 07 Sep 2026 03:00:58 GMT"
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GamozcXloMjd4QXNWckNLUFl1RnB0dzR0SnJLdXROUkpVWVZDTVZLbVlydlV3bmlmcXNESUVPNkxvWklOX05kbEdWSnlqa09PcThlQm5aTkdXNWhVN3JtZUJ4MA?oc=5",
+      "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3189545123863964929",
+      "id": "news-7512129111810438225",
       "title": "\"יצחק עמית הוא האבא הרוחני של ההפגנות בקפלן\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +395,17 @@
       "updated": "Wed, 16 Sep 2026 08:29:36 GMT"
     },
     {
-      "id": "news-3894012697678838270",
-      "title": "התוכנית של סמוטריץ' ורוטמן ליישום הרפורמה המשפטית - israelhayom.co.il",
+      "id": "news-7874360061339281811",
+      "title": "התוכנית של סמוטריץ' ורוטמן ליישום הרפורמה המשפטית - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "israelhayom.co.il",
+      "outlet": "היום",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oQ20zcU9vaFNyd3BueEdnUnlrZjBuTDRzYU5hMEIzTkJRVVQzWTZ6RHAwcDNULUozX0dHZjV5eE1vWFRNLTU5WnNlTEppX2llVXlxdndGX1pXemhPV2pKcXNKZklHMFhtU3UwNlktQ3jSAXhBVV95cUxOeDd2djQ0VXY1X19uOURCVjJhM3dweGZqYVhnMUJYeS1QU2YxNndhOEJfN1FkUnc2dmtrT0ZnaFF0dlo1LVMyNjllQ2FnNk1XOXFCc0tFdURycTZpMHJWSGREMDZKbnpPT19ZNUVjeExYaFBCQVRFZGo?oc=5",
       "updated": "Tue, 15 Sep 2026 12:57:15 GMT"
     },
     {
-      "id": "news-3506903269598243468",
+      "id": "news-7019078388156438042",
       "title": "\"למי שלא אהב, קבלו את התנצלותי. מי שאהב? אני שמח\" - רדיו צפון 104.5FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Wed, 16 Sep 2026 08:36:09 GMT"
     },
     {
-      "id": "news-5819223298296460082",
+      "id": "news-6392071001155941219",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +425,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7013096733925963729",
+      "id": "news-7290470658298307696",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-454156887486016863",
+      "id": "news-5302134670834030357",
       "title": "כשהכנסת מתגייסת לממשלה: נתניהו נכשל במדד הפרדת הרשויות - shakuf.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Mon, 14 Sep 2026 16:31:22 GMT"
     },
     {
-      "id": "news-9141827248075600185",
+      "id": "news-7931435962559620037",
       "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3267363480864852240",
+      "id": "news-2039745429680502890",
       "title": "חוק איסור הונאה בכשרות (תיקון מס' 5), התשפ\"ו-2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
