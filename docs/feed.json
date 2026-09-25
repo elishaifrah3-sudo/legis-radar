@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:53:23.256060+00:00",
+  "generated_at": "2026-09-25T01:03:54.520681+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-5431369260364419714",
+      "id": "news-2599298252113317781",
       "title": "נתניהו על יוצרי הסרט \"נז\"א\": נעביר הצעת חוק שתשלול את האזרחות למי שפוגע בחיילינו - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,17 +275,7 @@
       "updated": "Thu, 17 Sep 2026 18:16:35 GMT"
     },
     {
-      "id": "news-1312372267181249997",
-      "title": "באמצעות הדוח על קבלת והסבר הצעת החוק למכירה פומבית של נכסים. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5LVW5HekVDSUNDZS1WNzVFMzVUazNFdUc3U2k1Y19INWNEelhfb1NGdGNDdm1Gb0haa2phNTRGNVZfbjkxSmc5eDJsUnBKLTdLaDB4V1VRX2lQV0VmcGtoTUgyWV8yMGlGMlU2WWVFMjJwLXB6ZjdjbjN6ZXp4eUtTdDlqbURmVzd5VGFoWnN6eWlXR3RJ?oc=5",
-      "updated": "Thu, 24 Sep 2026 13:04:54 GMT"
-    },
-    {
-      "id": "news-6315360072522996090",
+      "id": "news-3969555399512098761",
       "title": "זו השעה ל\"חוק המוסד\" - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +285,17 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3164775091804054881",
+      "id": "news-5409926272102419514",
+      "title": "באמצעות הדוח על קבלת והסבר הצעת החוק למכירה פומבית של נכסים. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5LVW5HekVDSUNDZS1WNzVFMzVUazNFdUc3U2k1Y19INWNEelhfb1NGdGNDdm1Gb0haa2phNTRGNVZfbjkxSmc5eDJsUnBKLTdLaDB4V1VRX2lQV0VmcGtoTUgyWV8yMGlGMlU2WWVFMjJwLXB6ZjdjbjN6ZXp4eUtTdDlqbURmVzd5VGFoWnN6eWlXR3RJ?oc=5",
+      "updated": "Thu, 24 Sep 2026 13:04:54 GMT"
+    },
+    {
+      "id": "news-1281671337413944351",
       "title": "\"פגמים מהותיים\": היועמ\"שית לבג\"ץ - תוציאו צו ביניים שיקפיא את חוק התקשורת של השר קרעי - וואלה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,7 +305,7 @@
       "updated": "Thu, 24 Sep 2026 20:44:23 GMT"
     },
     {
-      "id": "news-2792571612713774441",
+      "id": "news-6809925548281809202",
       "title": "סנאטורים מהמפלגה הדמוקרטית יוזמים הטלת סנקציות על מעורבים בבנייה ב־E1 - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Wed, 23 Sep 2026 11:44:00 GMT"
     },
     {
-      "id": "news-3718278101362685788",
+      "id": "news-5866093977040842556",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-6240506987712131992",
+      "id": "news-2076594955265836970",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Tue, 22 Sep 2026 15:27:18 GMT"
     },
     {
-      "id": "news-8758437381474587654",
+      "id": "news-8489634180593405824",
       "title": "\"שלא יגידו 'לא ידענו'\": מה התוכנית של כל מפלגה בנושא שהצית מחאה חסרת תקדים - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,17 +345,7 @@
       "updated": "Tue, 22 Sep 2026 11:00:20 GMT"
     },
     {
-      "id": "news-2144801210470129043",
-      "title": "חוקה רזה היא הגמול הראוי לדור מסירות הנפש - jppi.org.il",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "jppi.org.il",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONTRUaGtsVGJNbnB4emFfUzRjQVAxdUduQjA4ejlfX1dJOHE4ZFJtMWxTUWhnZTVMSzYxNmE3UXBqNzItQ1NRNlVDZnVkODBrdEZsQlJNUGJZOXFKOUw3R19CZGloVzkxMUdsTUZGWFFvMGVxb2ptdG9BV0VTSTYyaTdlT2ZfSEFQekl2UGFxeDl0M0hyQVBnU2VzVlN3dnNzTGd1MnR5M2RVNDR4cEhzdUZ2NWZWNzh0WlU0bzdOZkc3NmpReF9Pcm1kMzZqSnJZdnVyNzNfeHJPS2N2YU12dkhpdkducTRxMS1jQmFPUkZoZXBFQ0p3cjhxNEp1bEpwXzJ4Tmg3RjZQZXJYUVlkcUwtWUZwVHZ4UGplZkxXMUpGdzRmbUdBZE41SGU3VmFVWDdlVTc4cU9LY1ZmZWh6bk9EbHZDZw?oc=5",
-      "updated": "Wed, 23 Sep 2026 13:05:07 GMT"
-    },
-    {
-      "id": "news-7127514819574475064",
+      "id": "news-1202634296732289393",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +355,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4932187455217506202",
+      "id": "news-8698556659444773921",
       "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - ביזפורטל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +365,7 @@
       "updated": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6395323918892395431",
+      "id": "news-6673015938478887555",
       "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +375,17 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5124772313622744277",
+      "id": "news-136328338079561259",
+      "title": "מאל־ארד ועד מרזל: הפסיקות שעיצבו לאורך השנים את פסילת המפלגות - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9TMkFxaGg4ZURoY1BPdEk2RWZFZi1IR2JSQ3BIemRFWktYLTkxZ0lmUFpQaEc0QlUxSXF3aWJOLUgzOVlmT0VBRnJsc2hIWFpENHdjb0VfbUZSWnhoODhOUFJHQTUxQ3RIdmpqaU9pY3Z2TnM4a1h2RkFTR3pyQTV4QlNsQzdPWnFqR1g1al9JS0Fmd3FGcVIwZjhUdkpWQllPMXdLZFEzN29CSndxUW9nemZVZw?oc=5",
+      "updated": "Tue, 15 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-218335534054519523",
       "title": "המבצר: התיק המלא על שמחה רוטמן - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Wed, 23 Sep 2026 01:00:00 GMT"
     },
     {
-      "id": "news-6028156478356828507",
+      "id": "news-1659690186531016222",
       "title": "דווקא בתקופת בחירות: סט חוקים למען האזרח הקטן עברו בכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Wed, 23 Sep 2026 01:46:07 GMT"
     },
     {
-      "id": "news-3367541099822675257",
+      "id": "news-2854340036919228312",
       "title": "\"יצחק עמית הוא האבא הרוחני של ההפגנות בקפלן\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6665609763391938474",
+      "id": "news-3970051668545330358",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +425,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8647419918751410231",
+      "id": "news-4797733118611816814",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7231509541175744604",
+      "id": "news-4204370403513264193",
       "title": "סעדה: \"הכסף לרע\"מ הגיע לחמאס\". גינזבורג: \"העברתם דולרים במזוודות\" | זירת הבחירות - ynet.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +445,7 @@
       "updated": "Thu, 24 Sep 2026 15:34:31 GMT"
     },
     {
-      "id": "news-5352089325346767854",
+      "id": "news-8673905919826184524",
       "title": "בג\"ץ לעותרות: משכו את העתירה – או שנדחה אותה מיד - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Thu, 24 Sep 2026 14:04:10 GMT"
     },
     {
-      "id": "news-5292273282454649088",
+      "id": "news-8511698672791721375",
       "title": "ועדת הבחירות פסלה את סאמי אבו שחאדה, עופר כסיף, רע\"מ והמשותפת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
