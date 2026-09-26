@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:11:45.604592+00:00",
+  "generated_at": "2026-09-26T13:32:22.220677+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-2932009289743665071",
+      "id": "news-6975261125851299306",
       "title": "ארה\"ב: קבוצת סנאטורים הגישה הצעת חוק שתטיל סנקציות על מי שיקדם בנייה ב-E1 - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Wed, 23 Sep 2026 14:48:56 GMT"
     },
     {
-      "id": "news-8877328192237958765",
+      "id": "news-8290069919012274713",
       "title": "נתניהו על יוצרי הסרט \"נז\"א\": נעביר הצעת חוק שתשלול את האזרחות למי שפוגע בחיילינו - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Thu, 17 Sep 2026 18:16:35 GMT"
     },
     {
-      "id": "news-7821157340176135598",
+      "id": "news-948147838147467168",
       "title": "וואלה תגיות - הצעת חוק - וואלה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,17 @@
       "updated": "Wed, 23 Sep 2026 05:21:16 GMT"
     },
     {
-      "id": "news-5997769187251106388",
-      "title": "סנאטורים מהמפלגה הדמוקרטית יוזמים הטלת סנקציות על מעורבים בבנייה ב־E1 - הארץ",
+      "id": "news-2364989296230757207",
+      "title": "סנאטורים מהמפלגה הדמוקרטית יוזמים הטלת סנקציות על מעורבים בבנייה ב־E1 - haaretz.co.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "הארץ",
+      "outlet": "haaretz.co.il",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2lQcEFWa24zaTJqS2hIMHF6ZVEyT1pubGFuMVk5YmpXa0xQdGJScUJ5Y0ctU1pMNVNnZERoX0Q0NkR5RE9jazZTblZCRk1RMVdLUHByakhxS01zLVk2b1VfRWptaEZjWk1rakxxWElMRlpRYVRHRDV5dTlHT3pxMm5rLTk0TzYzT2s2UWkwWkpQYzRwWk5ZdDhjYi1mRnlkVjBBMkZUU09zMVE?oc=5",
       "updated": "Wed, 23 Sep 2026 11:44:00 GMT"
     },
     {
-      "id": "news-7700127334274695882",
+      "id": "news-4579713021487625350",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-4280954445749701636",
+      "id": "news-5784232389026523424",
       "title": "מאות אלפי מתקפות סייבר מדי שנה: הצעת חוק להקמת \"מחסום\" לאבטחת מידע. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Wed, 23 Sep 2026 11:21:19 GMT"
     },
     {
-      "id": "news-6005869466479049704",
+      "id": "news-224695950857430065",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Tue, 22 Sep 2026 15:22:47 GMT"
     },
     {
-      "id": "news-4658432321948627940",
+      "id": "news-6457522585378320924",
       "title": "\"שלא יגידו 'לא ידענו'\": מה התוכנית של כל מפלגה בנושא שהצית מחאה חסרת תקדים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Tue, 22 Sep 2026 11:00:20 GMT"
     },
     {
-      "id": "news-5468523942083757713",
+      "id": "news-4049155075124791013",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +355,17 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3333745266545302194",
-      "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - ביזפורטל",
+      "id": "news-452574583629257389",
+      "title": "הרצוג: לחוקק לאחר הבחירות את חוק יסוד השפיטה בהסכמה רחבה - bizportal.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "ביזפורטל",
+      "outlet": "bizportal.co.il",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5La0lONE83enFaNlB6ZWVFd1JTcElndnltWE50ZDBCeDJ3LWpTczRTWW5HWnZVSjJLZTBBX3JqQ0x2cG90YjF2MldtYmVKd1VJSHZlaUl2T19BN05KbV9RU0lwSzlneHM?oc=5",
       "updated": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2285478942039609009",
+      "id": "news-7387484288817726489",
       "title": "הפיכת מגילת העצמאות לחוק יסוד היא טעות חמורה - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2081484999136602336",
+      "id": "news-5494342271410808025",
       "title": "משרד החינוך: חוק היסוד שמקדמת הממשלה יחייב לשלב לימודי תורה על חשבון מקצועות אחרים - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4665892540595838877",
+      "id": "news-6337558499801652191",
       "title": "המבצר: התיק המלא על שמחה רוטמן - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Wed, 23 Sep 2026 01:00:00 GMT"
     },
     {
-      "id": "news-2743183745396965480",
+      "id": "news-4346338131703170636",
       "title": "\"יצחק עמית הוא האבא הרוחני של ההפגנות בקפלן\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,17 +405,17 @@
       "updated": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1593834873308110858",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
+      "id": "news-1969337133532136196",
+      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - haaretz.co.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "הארץ",
+      "outlet": "haaretz.co.il",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4623050695360532176",
+      "id": "news-8202444892106386370",
       "title": "באופן חריג: רוטמן הוציא את המשנה ליועמ\"שית מוועדת החוקה | צפו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +425,7 @@
       "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7779290728575585",
+      "id": "news-5226462269606985249",
       "title": "ועדת הכנסת תדון בהצעת חוק יסוד לימוד תורה - במקום ועדת חוקה - davar1.co.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,17 +435,17 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2860047078047762529",
-      "title": "ועדת הבחירות פסלה את סאמי אבו שחאדה, עופר כסיף, רע\"מ והמשותפת - הארץ",
+      "id": "news-8211140404567819947",
+      "title": "ועדת הבחירות פסלה את סאמי אבו שחאדה, עופר כסיף, רע\"מ והמשותפת - haaretz.co.il",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "הארץ",
+      "outlet": "haaretz.co.il",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUp5cWtxcTFfam9oRlZLdzFWcHVaYkVHc2VqWTVQTUpLeG9QZnJIbjBWNk0tT1B6Vm1KM3dRTFRPZmdCblE4X3QzUFJMTnR6Skl6dVVad3cyMTc1ckRJcmN2d1g0a2RHS196SzNHTlliSHlIUnUzNUVuVTVoUTdxc2dLa25QRWw1c0x2M2JGMjRkVVM0OFhja2Fub2NaNGdj?oc=5",
       "updated": "Wed, 23 Sep 2026 04:35:00 GMT"
     },
     {
-      "id": "news-6538371587130153553",
+      "id": "news-4515957186513784827",
       "title": "יו\"ר בל\"ד בדרך לפסילה, סולברג תמך; גם רע\"מ, המשותפת וכסיף נפסלו, העליון יכריע - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Wed, 23 Sep 2026 14:59:34 GMT"
     },
     {
-      "id": "news-6190060038603294276",
+      "id": "news-2790709444905226706",
       "title": "רע\"מ, בל\"ד והרשימה המשותפת נפסלו: מה יקרה עכשיו? - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
