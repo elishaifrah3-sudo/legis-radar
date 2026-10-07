@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:56:41.322664+00:00",
+  "generated_at": "2026-10-07T20:58:31.888500+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,17 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-8594759695733950339",
+      "id": "news-370447876769237443",
       "title": "הצעת החוק להרחבת סמכויות הממשלה למינויים ופיטורים של בכירים עברה בטרומית - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "אתר החדשות דבר",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zbkFiQTF4bUNyOUctSEZGVTByQ3k0WG9OXzlDcXFPNDAyNzNlT0VzY1I2Yk1mVXUzd3dTQmRrYV8yU28wdWxJ?oc=5",
-      "updated": "Tue, 06 Oct 2026 13:56:00 GMT"
+      "updated": "Mon, 05 Oct 2026 19:26:02 GMT"
     },
     {
-      "id": "news-9146304569854174572",
+      "id": "news-2034915421709779405",
       "title": "מצלמים בלי לשאול? נורבגיה תאסור שימוש במשקפי AI במרחב הציבורי - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Tue, 06 Oct 2026 13:02:39 GMT"
     },
     {
-      "id": "news-5116598888927973881",
+      "id": "news-3270022032122922849",
       "title": "המשבר מחריף: הפרלמנט בספרד דחה הצעה ממשלתית להגנה על שוכרי דירות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,7 @@
       "updated": "Sun, 04 Oct 2026 14:00:00 GMT"
     },
     {
-      "id": "news-1921789248426077061",
-      "title": "סקר על פתרון עתירות הבוחרים ומשוב על הצעת חוק הקרקעות (מתוקנת) בפוּ הוּאוּנְג - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXJIQ3dybEt5cEhydmI5SlFlQnpqUTFVOGcxSk1OWVdlc19xSnM5TXV5OXNSSFoteUZHZVd2ZGNqeW4wS19fMnB6OVZpd0FLaFJuRFNRMGp2VnR4bFF0Q3pELU00d25OdGdKUjJ1UXZ4Uk1odkNrdXMzdlNSUGFMcmthSVdqX2dIcFJncVIzVzNLdnd1Y3JILWRNb1UyTFd1QUQ3VDlObmhOMmxtZGctYzJ3ZC0zZw?oc=5",
-      "updated": "Wed, 07 Oct 2026 11:13:50 GMT"
-    },
-    {
-      "id": "news-6503888292513086765",
+      "id": "news-1537178667997973953",
       "title": "נתניהו על יוצרי הסרט \"נז\"א\": נעביר הצעת חוק שתשלול את האזרחות למי שפוגע בחיילינו - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +305,17 @@
       "updated": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8964911954497850866",
+      "id": "news-8418859630117115420",
+      "title": "סקר על פתרון עתירות הבוחרים ומשוב על הצעת חוק הקרקעות (מתוקנת) בפוּ הוּאוּנְג - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXJIQ3dybEt5cEhydmI5SlFlQnpqUTFVOGcxSk1OWVdlc19xSnM5TXV5OXNSSFoteUZHZVd2ZGNqeW4wS19fMnB6OVZpd0FLaFJuRFNRMGp2VnR4bFF0Q3pELU00d25OdGdKUjJ1UXZ4Uk1odkNrdXMzdlNSUGFMcmthSVdqX2dIcFJncVIzVzNLdnd1Y3JILWRNb1UyTFd1QUQ3VDlObmhOMmxtZGctYzJ3ZC0zZw?oc=5",
+      "updated": "Wed, 07 Oct 2026 11:13:50 GMT"
+    },
+    {
+      "id": "news-6886954217490754864",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4512161320992732914",
+      "id": "news-3386889100383118123",
       "title": "יועז הנדל: \"זה לא חוק יסוד לימוד תורה, זה חוק ביזיון תורה\" - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Mon, 05 Oct 2026 19:04:55 GMT"
     },
     {
-      "id": "news-8648174437574268188",
+      "id": "news-4959812532957864278",
       "title": "בנט: תנאי יסוד שלנו - חוק שימנע ממשתמטים או מעודדיהם לשבת בקבינט - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Tue, 06 Oct 2026 06:52:23 GMT"
     },
     {
-      "id": "news-5330498586797974343",
+      "id": "news-6174367163459710465",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3042611889988574885",
+      "id": "news-3580327354190382170",
       "title": "חוק לימוד תורה לא קשור לתורה: הוא נועד לבטל סנקציות על משתמטים - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +365,7 @@
       "updated": "Mon, 05 Oct 2026 21:23:18 GMT"
     },
     {
-      "id": "news-4517008718043099378",
+      "id": "news-1751460903033266420",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7075475708013495804",
+      "id": "news-7293260180515157515",
       "title": "עמדת הכנסת לבג״ץ: יש לקיים בהקדם הצבעה חוזרת לבחירת מבקר המדינה - וואלה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,17 +385,7 @@
       "updated": "Mon, 05 Oct 2026 07:13:28 GMT"
     },
     {
-      "id": "news-8939859437885793710",
-      "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר החדשות דבר",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IZVNqaFZGN2FhZEgtalFVWnFiRVpVckhBVUU1U0ZycUVtSzhzRV8tS2ZScUQ0WEE2b21yZ2hTTkpKcjNiQnNz?oc=5",
-      "updated": "Wed, 07 Oct 2026 13:46:48 GMT"
-    },
-    {
-      "id": "news-899852847230519916",
+      "id": "news-8135226486320138650",
       "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +395,17 @@
       "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
     },
     {
-      "id": "news-781991597181754843",
+      "id": "news-8543523880107808544",
+      "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר החדשות דבר",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IZVNqaFZGN2FhZEgtalFVWnFiRVpVckhBVUU1U0ZycUVtSzhzRV8tS2ZScUQ0WEE2b21yZ2hTTkpKcjNiQnNz?oc=5",
+      "updated": "Wed, 07 Oct 2026 13:46:48 GMT"
+    },
+    {
+      "id": "news-814504942301785739",
       "title": "שלוש שנים לטבח: ועדת החוקה דנה בהעמדת מחבלי הנוח'בה לדין - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Wed, 07 Oct 2026 08:09:00 GMT"
     },
     {
-      "id": "news-8753245225791644534",
+      "id": "news-9133220991172754586",
       "title": "ועדת החוקה תקיים מחר דיון מעקב דחוף אחר יישום חוק ההעמדה לדין של מחבלי הנוח'בה - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,17 @@
       "updated": "Tue, 06 Oct 2026 17:16:11 GMT"
     },
     {
-      "id": "news-1183932242389696745",
+      "id": "news-213154974538552639",
+      "title": "ועדת החוקה תדון ביישום החוק להעמדת מחבלי שבעה באוקטובר לדין - היום",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "היום",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSy14VURReG1wWjhsVnJzN0RLZlpQeTh3TjhyaGo4RkJ5ejZhOGtoa2wwT2RiSm1xUlNsaFlWd29jTnFhZTRPNkJLUkwxOG5BN29uVnd5b19hUkNYTHZacWNJc0hPUXfSAW9BVV95cUxObVAtR0lId2dnUzhsTTVLSkkxYjRVbGFVYll2X0pjWFhTWFNwRmhvdG9IN3hCZE5hZ01XcXZYd0ZHMlMyc182YXVKbVIzMW1NWHk3emkyNGlCUFM2UWh2WlljWHpuQkhTZlNicl9CTWc?oc=5",
+      "updated": "Sun, 04 Oct 2026 14:51:46 GMT"
+    },
+    {
+      "id": "news-4962978759778643161",
       "title": "המבצר: התיק המלא על שמחה רוטמן - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,17 +445,7 @@
       "updated": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9127195635775362737",
-      "title": "ח\"כ שמחה רוטמן לערוץ 7: העמדת מחבלי הנוח'בה לדין - בשנה הקרובה - ערוץ 7",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91ZjVtSDY4OHFaNUlZN3VBMDFHLVY2Qkt4T0tGWTZOdmxpRXFvaDRLUTdEZHN6WXphbU16RHRTcllXbzU0MjB6cQ?oc=5",
-      "updated": "Wed, 07 Oct 2026 13:12:00 GMT"
-    },
-    {
-      "id": "news-5831185889315593077",
+      "id": "news-5729847534213089840",
       "title": "היועצת המשפטית לכנסת: אוחנה מחויב לקיים בהקדם האפשרי בחירות חוזרות למבקר המדינה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Mon, 05 Oct 2026 06:45:25 GMT"
     },
     {
-      "id": "news-8697883261379121634",
+      "id": "news-3377836906930276917",
       "title": "ועדת הבחירות המרכזית מגייסת עובדות ועובדים למבצע ספירת קולות המעטפות החיצוניות לבחירות לכנסת ה-26 - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
