@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:45:58.658855+00:00",
+  "generated_at": "2026-10-16T12:55:03.707005+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6966734703436899825",
+      "id": "news-411720333634397078",
+      "title": "הצעת חוק בנושא בטיחות מזון: מעבר משליטה בכל שלב לניהול שרשרת הערך של המזון כולה. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWVWczZYazk5YWgzTVNOTWpVbDNfMUNNbGlzeXk0NmhXc2xlRUpzR2NpcGRaRkNHQ1p5ZldZYm5peFJKVWVvbV9fYktJWl8tZ0lnWURBdTdOZklZSFUzaU5mV2xPVTlfN2JoU084UDlINFotQ254SVhXb0o1RWxKZnhUNHBsZThhUkZRbnZjcnk2V2hVTkJZSWVvMFlITlJuS2x2ZHhKUFJILTNRNWhzNHRwbjFGVGJtaHRwWTJrQWdFbWRKNWFJ?oc=5",
+      "updated": "Fri, 16 Oct 2026 06:58:21 GMT"
+    },
+    {
+      "id": "news-2046489108118517256",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +285,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5669929039382089101",
+      "id": "news-2593020344568566139",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,37 +295,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-7250424394503889008",
-      "title": "המשבר מחריף: הפרלמנט בספרד דחה הצעה ממשלתית להגנה על שוכרי דירות - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2M2N0hXOHphNnNMbTJzNHlSS2gtQlNPR1FuNWlPVnNkNFdKblRDT0xhRzZ1cm9yYjJxQXgxZ3lhTmtsZGZ5MHRlb3VhNXhJQk9rQlQ2SEdLQlpuMzNnRzZvWEI1UXYzSHJaczByb0tKcTZxX1F5RTVGVUFUU05CV2pvdlhQdnlrbFc0bFRpWjRsSVdpUXBhVVJYdGI4Q1pZcHdnWA?oc=5",
-      "updated": "Sun, 04 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6245987209551089722",
-      "title": "ממשלת הולנד מקדמת חוק נגד תמיכה בטרור, אך מפגינים שתמכו ב-7 באוקטובר לא נעצרו - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EZE13bS04aEFqOWNLOUphTmxyMUlUdXczOUVQaHRTOUJHY1UzdjhoQTBxSU0tWWhiSDc2Qk5pNHd2ZjVXckNraUp1VTlsYlRGdDhxbGV5OEJDenkxejFIZUs3WDZJUQ?oc=5",
-      "updated": "Thu, 08 Oct 2026 18:47:05 GMT"
-    },
-    {
-      "id": "news-508904770619055558",
-      "title": "מחוקקים אמריקאים הציעו הצעת חוק שתמנע מטראמפ לרכוש נפט רוסי. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZU8xSWl6a0x2a0NPMkJ0a3A0N3l0cDZyQmpnbmg0ZXlRTm11YlVDMThhQl9Odk42a2I5a0dta0JCWDNQQnNWMUppWXBBM1F4b2EyME1aX2xHdmt3LXV2UUxhRl9Ld013XzhPUnd2d1pJeFhUaHhodXVjWDEySVpkRjFsNVRqUQ?oc=5",
-      "updated": "Sun, 11 Oct 2026 15:42:11 GMT"
-    },
-    {
-      "id": "news-6998653163347716773",
+      "id": "news-1757852393426457071",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +305,27 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6808511204617676096",
+      "id": "news-5035054962811691621",
+      "title": "המשבר מחריף: הפרלמנט בספרד דחה הצעה ממשלתית להגנה על שוכרי דירות - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2M2N0hXOHphNnNMbTJzNHlSS2gtQlNPR1FuNWlPVnNkNFdKblRDT0xhRzZ1cm9yYjJxQXgxZ3lhTmtsZGZ5MHRlb3VhNXhJQk9rQlQ2SEdLQlpuMzNnRzZvWEI1UXYzSHJaczByb0tKcTZxX1F5RTVGVUFUU05CV2pvdlhQdnlrbFc0bFRpWjRsSVdpUXBhVVJYdGI4Q1pZcHdnWA?oc=5",
+      "updated": "Sun, 04 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-108819039859672274",
+      "title": "ממשלת הולנד מקדמת חוק נגד תמיכה בטרור, אך מפגינים שתמכו ב-7 באוקטובר לא נעצרו - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EZE13bS04aEFqOWNLOUphTmxyMUlUdXczOUVQaHRTOUJHY1UzdjhoQTBxSU0tWWhiSDc2Qk5pNHd2ZjVXckNraUp1VTlsYlRGdDhxbGV5OEJDenkxejFIZUs3WDZJUQ?oc=5",
+      "updated": "Thu, 08 Oct 2026 18:47:05 GMT"
+    },
+    {
+      "id": "news-4294619788221489392",
       "title": "מי חייב לעבוד ביום הבחירות וכמה כסף ישלמו לכם? ‏ - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Sun, 11 Oct 2026 10:38:29 GMT"
     },
     {
-      "id": "news-5417917967986379704",
+      "id": "news-8566874558953559157",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6418413964634242514",
+      "id": "news-4054661002531481990",
       "title": "דחיית מועד הבחירות לכנסת – מגבלות ותנאים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Fri, 09 Oct 2026 09:32:55 GMT"
     },
     {
-      "id": "news-5804854685883284053",
+      "id": "news-375816727884460605",
       "title": "עדות מנדלבליט: אלו העבירות שלכאורה בוצעו בחקירת נתניהו - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Mon, 12 Oct 2026 12:10:28 GMT"
     },
     {
-      "id": "news-6361664515304933502",
+      "id": "news-2406788151896019618",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,7 +375,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6555749670997069716",
+      "id": "news-4277681605642303198",
       "title": "משרד החינוך: חוק היסוד שמקדמת הממשלה יחייב לשלב לימודי תורה על חשבון מקצועות אחרים - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,17 +385,17 @@
       "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6495997548939025175",
-      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
+      "id": "news-2773570704869886169",
+      "title": "רוטמן תוקף: 'הרפורמה לא גרמה לשסע - היא התוצאה שלו' - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
-      "updated": "Tue, 13 Oct 2026 18:50:52 GMT"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkRCd0dtTWZMQl9ZekpySXhkRVN4QjAzTmRLcUVyamRWb091dmx2TE84Y1JDcFR1MUNlMVdCOXNrZVM4aVhQLWVmbHhldmJsazZaaEJFMUJ2LUdRZmdmMzRpSGNEcEE2MDhjN1VHTnlpWllvWlhxNVo3NDFFZVJKX29yUmpFSkhtbGN5Vy05SEZ5UQ?oc=5",
+      "updated": "Fri, 16 Oct 2026 10:10:25 GMT"
     },
     {
-      "id": "news-5356397152808388504",
+      "id": "news-4069664142132600116",
       "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,17 +405,7 @@
       "updated": "Tue, 13 Oct 2026 14:45:21 GMT"
     },
     {
-      "id": "news-1363878032840645289",
-      "title": "אושר בוועדה: לא ניתן יהיה להגיש תביעה ייצוגית נגד עסקים קטנים - רשת 13",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "רשת 13",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSXU4Qi1rd0hWbVA5X3pJdU9jdklHRjdJZUxWSnB5alVTel80M2wzLURneDdiREh5RS1OTTJKWERrVkdJNkZDdUdITVJnQW5kSFlsSl9XaDR3ZXJpT2xWZDRKa0kzZERh?oc=5",
-      "updated": "Thu, 15 Oct 2026 08:46:27 GMT"
-    },
-    {
-      "id": "news-2743178188170273059",
+      "id": "news-7196669981395314501",
       "title": "יושב ראש ועדת החוקה, חוק ומשפט הביע תקווה שכתבי האישום נגד משתתפי הטבח יוגשו בשנה הבאה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +415,17 @@
       "updated": "Wed, 07 Oct 2026 17:10:09 GMT"
     },
     {
-      "id": "news-9135090450565738586",
+      "id": "news-3476770026944034924",
+      "title": "אושר בוועדה: לא ניתן יהיה להגיש תביעה ייצוגית נגד עסקים קטנים - רשת 13",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "רשת 13",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSXU4Qi1rd0hWbVA5X3pJdU9jdklHRjdJZUxWSnB5alVTel80M2wzLURneDdiREh5RS1OTTJKWERrVkdJNkZDdUdITVJnQW5kSFlsSl9XaDR3ZXJpT2xWZDRKa0kzZERh?oc=5",
+      "updated": "Thu, 15 Oct 2026 08:46:27 GMT"
+    },
+    {
+      "id": "news-2807210827633272784",
       "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Wed, 07 Oct 2026 13:46:48 GMT"
     },
     {
-      "id": "news-7712755578911084126",
+      "id": "news-3930427043098572600",
       "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +445,7 @@
       "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
     },
     {
-      "id": "news-3615019208210072288",
+      "id": "news-7201928178603006673",
       "title": "תלויים בקול שלכם: המועמדים המתנדנדים בדרך לכנסת - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,14 +455,14 @@
       "updated": "Sun, 11 Oct 2026 15:52:10 GMT"
     },
     {
-      "id": "news-955990803127761335",
-      "title": "היועצת המשפטית לכנסת: אוחנה מחויב לקיים בהקדם האפשרי בחירות חוזרות למבקר המדינה - זמן ישראל",
+      "id": "news-5240287924000723646",
+      "title": "ועדת הבחירות פסלה את סאמי אבו שחאדה, עופר כסיף, רע\"מ והמשותפת - הארץ",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ySDdQaDBidlZmZ3J0aUlFYUhWVkV2UGl5eEY1SVFQOE1YZmZfNTRJSS10SXo1ZGNOVjQ1MXpSV1pDYVpzRUo0V0lqSQ?oc=5",
-      "updated": "Mon, 05 Oct 2026 06:45:25 GMT"
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUp5cWtxcTFfam9oRlZLdzFWcHVaYkVHc2VqWTVQTUpLeG9QZnJIbjBWNk0tT1B6Vm1KM3dRTFRPZmdCblE4X3QzUFJMTnR6Skl6dVVad3cyMTc1ckRJcmN2d1g0a2RHS196SzNHTlliSHlIUnUzNUVuVTVoUTdxc2dLa25QRWw1c0x2M2JGMjRkVVM0OFhja2Fub2NaNGdj?oc=5",
+      "updated": "Wed, 23 Sep 2026 07:00:00 GMT"
     }
   ]
 }
