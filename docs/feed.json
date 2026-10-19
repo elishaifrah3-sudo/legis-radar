@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:04:35.221906+00:00",
+  "generated_at": "2026-10-19T22:43:03.816584+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-4633455349311882730",
+      "id": "news-5320975302775526872",
       "title": "אידה קידר-מליץ: מה היא נבחרת הדירקטורים ומה הבעיה בכך שהממשלה השתלטה עליה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Mon, 19 Oct 2026 14:43:06 GMT"
     },
     {
-      "id": "news-4669040117750383993",
+      "id": "news-3594040906193113819",
       "title": "הצעת חוק בארצות הברית: קניתם משחק? הוא צריך להיות שלכם - TGspot",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 18 Oct 2026 11:49:03 GMT"
     },
     {
-      "id": "news-8401128169875900751",
+      "id": "news-2728041434004330460",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,7 +295,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2782317597872797025",
+      "id": "news-1043686705693344806",
       "title": "מושב שני: הוצעו תקנות חדשות רבות בנושא עיסוק במשפט ובאימוץ. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Mon, 19 Oct 2026 04:27:04 GMT"
     },
     {
-      "id": "news-4720632527265935576",
+      "id": "news-5014762485579456091",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-7161959499897895561",
+      "id": "news-2346785345320883871",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6385797795172583863",
+      "id": "news-2383709482169175954",
       "title": "דחיית מועד הבחירות לכנסת – מגבלות ותנאים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4065856035945951660",
+      "id": "news-2635520432439465491",
       "title": "\"לא אעשה שקר בנפשי\": סמוטריץ' העניש ח\"כ שמרד בהצבעה על \"חוק יסוד לימוד תורה\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7894129981098287492",
+      "id": "news-7136598342617062609",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2665439753507297753",
+      "id": "news-862985907627828514",
       "title": "חוק יסוד לימוד תורה אושר בוועדת הכנסת וצפוי לעלות מחר לקריאה ראשונה במליאה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,17 +365,7 @@
       "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2330759520008695229",
-      "title": "עדות מנדלבליט: אלו העבירות שלכאורה בוצעו בחקירת נתניהו - C14",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR0pzb20wUXBqbFJPN0U5R25hWmE2RVgxeWVYTlFGWWNaV1BIcnpOM29lR0Nad0JnODRaNGlBNVU4X3pnNVZjeHp0YTRrZw?oc=5",
-      "updated": "Mon, 12 Oct 2026 12:10:28 GMT"
-    },
-    {
-      "id": "news-8721337116888435758",
+      "id": "news-6061764244712965509",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,27 +375,27 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-895736146879824273",
-      "title": "רוטמן תוקף: 'הרפורמה לא גרמה לשסע - היא התוצאה שלו' - כיכר השבת",
+      "id": "news-8039077116206044691",
+      "title": "מי חייב לעבוד ביום הבחירות וכמה כסף ישלמו לכם? ‏ - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96N3o4NTB1SHlTSXFUSVFPdlZ4SDZLSzB2WkZDRTB2b2tsd2YwLS10eFEyTkJMWlJTWDdyYlpWYXl5MHJIcDFyMnp1ZlNRaGxlN00ta3R1b05xZnFDWHc?oc=5",
+      "updated": "Sun, 11 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4555233825747847371",
+      "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkRCd0dtTWZMQl9ZekpySXhkRVN4QjAzTmRLcUVyamRWb091dmx2TE84Y1JDcFR1MUNlMVdCOXNrZVM4aVhQLWVmbHhldmJsazZaaEJFMUJ2LUdRZmdmMzRpSGNEcEE2MDhjN1VHTnlpWllvWlhxNVo3NDFFZVJKX29yUmpFSkhtbGN5Vy05SEZ5UQ?oc=5",
-      "updated": "Sun, 18 Oct 2026 18:40:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
+      "updated": "Fri, 16 Oct 2026 12:33:04 GMT"
     },
     {
-      "id": "news-4239740885062518745",
-      "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "103FM",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dGVCYVFLcXBZWWZoZ29SX1BYUXFYSTlxM1pZNmdLRnc3REItcWdRV2VzdmNXNkdCWVNnU0hzUmdwS3dQM25tTk5RcDR2SldaNXBaMjBsNld0U2RwSXNQbDBsR1NaSGdBOGtDN2hoai1aeEx5QmZKRExTT2FtMm8?oc=5",
-      "updated": "Tue, 13 Oct 2026 14:45:21 GMT"
-    },
-    {
-      "id": "news-260917352734758932",
+      "id": "news-4300969933361064615",
       "title": "יושב ראש ועדת החוקה, חוק ומשפט הביע תקווה שכתבי האישום נגד משתתפי הטבח יוגשו בשנה הבאה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +405,17 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9111804398073587570",
+      "id": "news-8868829748137868194",
+      "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "103FM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dGVCYVFLcXBZWWZoZ29SX1BYUXFYSTlxM1pZNmdLRnc3REItcWdRV2VzdmNXNkdCWVNnU0hzUmdwS3dQM25tTk5RcDR2SldaNXBaMjBsNld0U2RwSXNQbDBsR1NaSGdBOGtDN2hoai1aeEx5QmZKRExTT2FtMm8?oc=5",
+      "updated": "Tue, 13 Oct 2026 14:45:21 GMT"
+    },
+    {
+      "id": "news-3073416988013274122",
       "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +425,7 @@
       "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
     },
     {
-      "id": "news-771220191458053659",
+      "id": "news-7087732628891018606",
       "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1363451044625928958",
+      "id": "news-3703212644706610918",
       "title": "אושר בוועדה: לא ניתן יהיה להגיש תביעה ייצוגית נגד עסקים קטנים - רשת 13",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Thu, 15 Oct 2026 08:46:27 GMT"
     },
     {
-      "id": "news-6279246225626869077",
+      "id": "news-6842646617774834340",
       "title": "מספרי 2 להתפקד: אלה הסגנים של ראשי המפלגות - והתיקים שהם רוצים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Thu, 15 Oct 2026 10:39:19 GMT"
     },
     {
-      "id": "news-2723316201919458230",
+      "id": "news-344792837478437710",
       "title": "היועצת המשפטית לכנסת: אוחנה מחויב לקיים בהקדם האפשרי בחירות חוזרות למבקר המדינה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
