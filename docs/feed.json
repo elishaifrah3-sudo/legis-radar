@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T05:32:52.337750+00:00",
+  "generated_at": "2026-10-19T11:44:25.398224+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
-    "news": "ok"
+    "news": "stale_fallback"
   },
   "counts": {
     "knesset": 25,
