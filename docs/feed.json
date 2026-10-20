@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:40:42.806165+00:00",
+  "generated_at": "2026-10-20T21:04:56.375059+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-4415408145849307141",
+      "id": "news-5664473734826192546",
       "title": "אידה קידר-מליץ: מה היא נבחרת הדירקטורים ומה הבעיה בכך שהממשלה השתלטה עליה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,27 +275,7 @@
       "updated": "Mon, 19 Oct 2026 14:43:06 GMT"
     },
     {
-      "id": "news-1129322990610863164",
-      "title": "הצעת חוק בארצות הברית: קניתם משחק? הוא צריך להיות שלכם - TGspot",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "TGspot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTdDZ20zV1hzTTkzUVNIc3dxVWxWNzZncDI3b0I2SnFramgzYXlHbzZ1a0c5N2NpcjVoTUt3NmhLczhoMW9MSGV4MlFsVkNiTGFVb1VzZVE3VFMzTnVQaXljVHFFWXlaUWE2Y21kbEZ4OTRCU2hIU1dRTmYyR0lhMldVbDlhc1EySHRHZjRVRQ?oc=5",
-      "updated": "Sun, 18 Oct 2026 11:49:03 GMT"
-    },
-    {
-      "id": "news-4338333934029952976",
-      "title": "השר לה מאן הונג: לתקן את חוק החשמל כדי להסיר מכשולים מעשיים ולגייס משאבים לפיתוח חשמל. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMHJEazlhcEtOMnNlY25RbjgybXZ5bWNQbG5RemFOTVFtc25BS2F1dzNwZE42WDBNRC1Cd0dzemZfQzFCeEpzT2YyTTlReUxTdmNwLUNLSlVYcnA2ay12RVI4S29fYWlPTnBDaTZQS0VIeS1DZTJDWHN1X0pwdlU4c293NktVU1dqSnZPelJTeUEyZFpZSHVqcTlmMERxMkxvUDdYQUQzX1loV3dwQW42TTZNZkxqSjB5ZUNralhCTlN1U3JNNWUwczVfNHg?oc=5",
-      "updated": "Tue, 20 Oct 2026 13:45:20 GMT"
-    },
-    {
-      "id": "news-4396236446944314243",
+      "id": "news-1322123365079852690",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,7 +285,17 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4012781972496735851",
+      "id": "news-8708920115095266602",
+      "title": "השר לה מאן הונג: לתקן את חוק החשמל כדי להסיר מכשולים מעשיים ולגייס משאבים לפיתוח חשמל. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMHJEazlhcEtOMnNlY25RbjgybXZ5bWNQbG5RemFOTVFtc25BS2F1dzNwZE42WDBNRC1Cd0dzemZfQzFCeEpzT2YyTTlReUxTdmNwLUNLSlVYcnA2ay12RVI4S29fYWlPTnBDaTZQS0VIeS1DZTJDWHN1X0pwdlU4c293NktVU1dqSnZPelJTeUEyZFpZSHVqcTlmMERxMkxvUDdYQUQzX1loV3dwQW42TTZNZkxqSjB5ZUNralhCTlN1U3JNNWUwczVfNHg?oc=5",
+      "updated": "Tue, 20 Oct 2026 13:45:20 GMT"
+    },
+    {
+      "id": "news-978136255455802937",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +305,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-7879767809022122621",
+      "id": "news-2930142894120713973",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +315,17 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-436578390479966743",
+      "id": "news-1386827859475620313",
+      "title": "המשבר מחריף: הפרלמנט בספרד דחה הצעה ממשלתית להגנה על שוכרי דירות - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2M2N0hXOHphNnNMbTJzNHlSS2gtQlNPR1FuNWlPVnNkNFdKblRDT0xhRzZ1cm9yYjJxQXgxZ3lhTmtsZGZ5MHRlb3VhNXhJQk9rQlQ2SEdLQlpuMzNnRzZvWEI1UXYzSHJaczByb0tKcTZxX1F5RTVGVUFUU05CV2pvdlhQdnlrbFc0bFRpWjRsSVdpUXBhVVJYdGI4Q1pZcHdnWA?oc=5",
+      "updated": "Sun, 04 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-3921767065840278898",
       "title": "בחירות 2026 | מפלגותיהם של בנט וליברמן לא מתחייבות לבטל את החוק להחלשת תפקיד היועמ\"ש בכנסת הבאה - בחירות 2026 - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Tue, 20 Oct 2026 11:37:00 GMT"
     },
     {
-      "id": "news-4507762802067464216",
+      "id": "news-2666113928806811936",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4213287911078038129",
+      "id": "news-1595654033703650908",
       "title": "מי חייב לעבוד ביום הבחירות וכמה כסף ישלמו לכם? ‏ - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-953375378913919322",
+      "id": "news-5943370382860137577",
       "title": "חוק יסוד לימוד תורה אושר בוועדת הכנסת וצפוי לעלות מחר לקריאה ראשונה במליאה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -365,7 +365,7 @@
       "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-448834958515069600",
+      "id": "news-4072825460574898303",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3554883168428793251",
+      "id": "news-5526782393897793617",
       "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-960208637174806195",
+      "id": "news-6015520838098337203",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Fri, 16 Oct 2026 12:33:04 GMT"
     },
     {
-      "id": "news-3865938500666082416",
+      "id": "news-2115791035376560699",
       "title": "יושב ראש ועדת החוקה, חוק ומשפט הביע תקווה שכתבי האישום נגד משתתפי הטבח יוגשו בשנה הבאה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3581271530966342710",
+      "id": "news-8608948717483681554",
       "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
     },
     {
-      "id": "news-4818351863442728544",
+      "id": "news-890244228276004069",
       "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8030397858381562391",
+      "id": "news-585442552133902251",
       "title": "ועדת החוקה תקיים מחר דיון מעקב דחוף אחר יישום חוק ההעמדה לדין של מחבלי הנוח'בה - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6502229929766374842",
+      "id": "news-4167276935587050814",
       "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Tue, 13 Oct 2026 14:45:21 GMT"
     },
     {
-      "id": "news-2816156811808005053",
+      "id": "news-2037088144375062917",
       "title": "מספרי 2 להתפקד: אלה הסגנים של ראשי המפלגות - והתיקים שהם רוצים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Thu, 15 Oct 2026 10:39:19 GMT"
     },
     {
-      "id": "news-2518332209590677473",
+      "id": "news-874062920035115770",
       "title": "דחיית מועד הבחירות לכנסת – מגבלות ותנאים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
