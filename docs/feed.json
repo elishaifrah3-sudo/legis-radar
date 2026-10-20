@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:57:00.761538+00:00",
+  "generated_at": "2026-10-20T12:31:15.123725+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1832400207601596832",
+      "id": "news-4936918425030367873",
       "title": "אידה קידר-מליץ: מה היא נבחרת הדירקטורים ומה הבעיה בכך שהממשלה השתלטה עליה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,17 +275,17 @@
       "updated": "Mon, 19 Oct 2026 14:43:06 GMT"
     },
     {
-      "id": "news-1313157642841564511",
-      "title": "אחר הצהריים דנה האסיפה הלאומית בהצעת חוק לתיקון והשלמה של מספר סעיפים מתוך 7 חוקים בתחום התרבות, הספורט והתיירות. - Vietnam.vn",
+      "id": "news-7083463725457810967",
+      "title": "תיקונים ותוספות ל-4 חוקים: יצירת מומנטום לפריצת דרך בסביבת ההשקעות והעסקים. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2lmYUo2V2xCTUxWY2pSd2hfYnlZUks2dDZWeFZCOVlsWWVVckxFQ0dydFFkMnJpOTUxLW15LU44U3hkRGVibXpnRkpLY1NLbTBCMF9jSnJqS24xS3pPdHFiaFdTSWUtM28yTm1sNVJRQ0FVQVNwYzlFRXg2ZUpjeG9NNVpkQUtVXzk4N2Z2TEd0ckg4X0d4c0RBMzlwOGR1TVdKNGZGWWxmMHRJVGRZUkxvelFmZnM2a1NpM3hJblBTNTc4RzB1dg?oc=5",
-      "updated": "Tue, 20 Oct 2026 06:07:15 GMT"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkpIRU9vRGtBMnRySGpvQ1d1WDlIcmhwWEM0SjdWZ2J0MzdTTER2dVpKUjdGTms0UXZWMEhqVUxGSVRKVzlnaWxrREJ3WFVDQ1FQT0NxZ1ZUMl82RWlpNGxmZ2hpbmpkcHktaWhzWHkzZWRoTEF2TkhYWG9ZM2pEX2dxYnh2R3VMeWFrd1BBTXNEWDVKTDk4YlVBWEF2Q01hUUMtcQ?oc=5",
+      "updated": "Tue, 20 Oct 2026 09:52:40 GMT"
     },
     {
-      "id": "news-4399224232383988714",
+      "id": "news-2095142227541133656",
       "title": "הצעת חוק בארצות הברית: קניתם משחק? הוא צריך להיות שלכם - TGspot",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Sun, 18 Oct 2026 11:49:03 GMT"
     },
     {
-      "id": "news-4102503845950681128",
+      "id": "news-1262738021586901507",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -305,7 +305,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1209346964530847563",
+      "id": "news-5730516691316025298",
       "title": "חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח), התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Fri, 29 May 2026 15:51:53 GMT"
     },
     {
-      "id": "news-2896038976699102663",
+      "id": "news-7828069406727947491",
       "title": "המשבר מחריף: הפרלמנט בספרד דחה הצעה ממשלתית להגנה על שוכרי דירות - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,17 @@
       "updated": "Sun, 04 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1403158049567159793",
+      "id": "news-7946115557875721857",
+      "title": "מפלגותיהם של בנט וליברמן לא מתחייבות לבטל את החוק להחלשת תפקיד היועמ\"ש בממשלה הבאה - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPem1WZG80cHJPT2dCVjU0d1E4R2V5d01hZmhiRlBxWFFqZEI3REN6alRnWFBjdWhrN1dOTldrN25vZWc0UUM2YUcxRHFIMDU2V05lUDFSbHk2WkxIeWFtd1gtdlVfem95aEM0ZmJlRUR6MHlOYW0wYWtnMTRTV09femlWUXJBTWRnQmt0ZHhybG9hRjVHRGNWVnlnOUxGUDZwYTdvOUFIcHNqcG13?oc=5",
+      "updated": "Tue, 20 Oct 2026 11:37:00 GMT"
+    },
+    {
+      "id": "news-6704312751343314653",
       "title": "אדוה לוטן: מה המטרה האמיתית של חוק יסוד לימוד תורה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +345,7 @@
       "updated": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3546533593994758657",
+      "id": "news-4088195328999254689",
       "title": "מי חייב לעבוד ביום הבחירות וכמה כסף ישלמו לכם? ‏ - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +355,7 @@
       "updated": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6545829245273539185",
+      "id": "news-648229110660658633",
       "title": "חוק יסוד לימוד תורה אושר בוועדת הכנסת וצפוי לעלות מחר לקריאה ראשונה במליאה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +365,7 @@
       "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1608262710796881471",
+      "id": "news-8742672084688146617",
       "title": "חוק יסוד: ביזוי התורה - המכון למדיניות העם היהודי - JPPI",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +375,7 @@
       "updated": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4972566417781561447",
+      "id": "news-5185327848250000176",
       "title": "פרשנות / עיגון הפטור מגיוס או הצהרה סמלית: המשמעות של חוק יסוד לימוד תורה נותרה עמומה - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +385,7 @@
       "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2633650454208996381",
-      "title": "אחרי הפשרה: חוק יסוד לימוד תורה אושר לקריאה שנייה ושלישית - calcalist",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "calcalist",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52N0pxdGYtU0hwcGxXcTRBbmNJWTI2MkZmTnc3Tkg0cGFnUm9EbElJMDlyQkRqcERCZkhRVlUxOXg2SmpIZ0lLOWI4WUM1Zkd4c1JIWEc4WHRZZW9GdFZjcjZYNlN0emNa?oc=5",
-      "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-976948415456133885",
+      "id": "news-6487173739063496633",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Fri, 16 Oct 2026 12:33:04 GMT"
     },
     {
-      "id": "news-7375645292402423888",
+      "id": "news-3346065763239560545",
       "title": "יושב ראש ועדת החוקה, חוק ומשפט הביע תקווה שכתבי האישום נגד משתתפי הטבח יוגשו בשנה הבאה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2962768506693486963",
+      "id": "news-8051657467457187232",
       "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,27 +415,7 @@
       "updated": "Tue, 13 Oct 2026 14:45:21 GMT"
     },
     {
-      "id": "news-7022151264121865668",
-      "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZDdZeW9Yay11ajhnRXFCeGxDS292ejhtWG00REE1WTJ1d2ZIaXVhR054SVFoNlowZ1RqZDB6WFFZZE5LUE53RlUwQkN2RzRIYXd5NTFFR0lMQQ?oc=5",
-      "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
-    },
-    {
-      "id": "news-1198751592348745721",
-      "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר החדשות דבר",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IZVNqaFZGN2FhZEgtalFVWnFiRVpVckhBVUU1U0ZycUVtSzhzRV8tS2ZScUQ0WEE2b21yZ2hTTkpKcjNiQnNz?oc=5",
-      "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6987963093431158906",
+      "id": "news-1994795360273007616",
       "title": "אושר בוועדה: לא ניתן יהיה להגיש תביעה ייצוגית נגד עסקים קטנים - רשת 13",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +425,27 @@
       "updated": "Thu, 15 Oct 2026 08:46:27 GMT"
     },
     {
-      "id": "news-4627790876396360997",
+      "id": "news-3951090903028388507",
+      "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZDdZeW9Yay11ajhnRXFCeGxDS292ejhtWG00REE1WTJ1d2ZIaXVhR054SVFoNlowZ1RqZDB6WFFZZE5LUE53RlUwQkN2RzRIYXd5NTFFR0lMQQ?oc=5",
+      "updated": "Wed, 07 Oct 2026 07:29:50 GMT"
+    },
+    {
+      "id": "news-6189734271384137557",
+      "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר החדשות דבר",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IZVNqaFZGN2FhZEgtalFVWnFiRVpVckhBVUU1U0ZycUVtSzhzRV8tS2ZScUQ0WEE2b21yZ2hTTkpKcjNiQnNz?oc=5",
+      "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-1364667204887684375",
       "title": "מספרי 2 להתפקד: אלה הסגנים של ראשי המפלגות - והתיקים שהם רוצים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Thu, 15 Oct 2026 10:39:19 GMT"
     },
     {
-      "id": "news-7942320230340816473",
+      "id": "news-7747096554837174305",
       "title": "דחיית מועד הבחירות לכנסת – מגבלות ותנאים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
