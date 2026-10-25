@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:13:17.307883+00:00",
+  "generated_at": "2026-10-25T22:57:24.124233+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-7225114243882459251",
+      "id": "news-818460447658270183",
       "title": "משה פייגלין: \"אפיל הצעת חוק שתאסור תחבורה ציבורית בשבת\" - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Sun, 25 Oct 2026 17:29:05 GMT"
     },
     {
-      "id": "news-6473877554703574275",
+      "id": "news-1352388963994566342",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,17 +285,17 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7473329242914532147",
-      "title": "הצעת חוק בנושא בטיחות מזון (מתוקנת): מעבר חד לניהול סיכונים וחיזוק הפיקוח לאחר מכן. - Vietnam.vn",
+      "id": "news-2768929348168466500",
+      "title": "הצעת חוק לתקציב המדינה (מאוחד): ניהול גמיש תוך שמירה על משמעת פיסקלית. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXotd2x6NjI5VjFTdHhEcWs0RG9rNU9EOGhpM1Vfd1didW0yU1RRcGgwRHNfbzZLS1FnU0JpeVFNcVF4eXhNaUo5OEM2WnBldUhQVjFQYm9GSHpFRVZLZUZzOHltVWVrby04Y1c1ZUpKaFl4WWxaQlhwZm0yYVU5TW9nVGxNQmxvUkxEcjM1a1VBYzdvZ0dNUGhKdmJSdlMwcmtSeDJuT04zY2NFYlVnNmttNWhsUQ?oc=5",
-      "updated": "Sat, 24 Oct 2026 05:14:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVFFamtXU2hISDdqVmtRc01tVmhpcTlxWjFMRU9wOW9HSUNLcTc5VWUxc1YzZjY5MGd5elRWaUE3a3ZjcC1RaThMZHRiTWdCbTdsX0RKckVhN1BPWTRBX3JqUllQRXBUMzFXU0xYOExpV1RPdFB2R1F4blRROW9wa3hndlYtX1NqRXh5aFlVSTkwc28xc2F0WHlSdEZHM0VwMkh6c3llNGp4ZGdsekVtQXpkeXBlT0tQeHJpcA?oc=5",
+      "updated": "Sun, 25 Oct 2026 16:03:29 GMT"
     },
     {
-      "id": "news-1137202887218449939",
+      "id": "news-4236782429095955306",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-599304477873032504",
+      "id": "news-855086848878861012",
       "title": "הדוח שמזהיר: הצעות חוק נגד הקהילה הגאה מוכנות - ומחכות לכנסת הבאה - mako",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Thu, 22 Oct 2026 16:58:00 GMT"
     },
     {
-      "id": "news-377504758993155548",
+      "id": "news-4475837218549493119",
       "title": "\"אתה לא מחליט, אני מחליטה\": עורך הדין שעזב את משרד ראש הממשלה שובר שתיקה - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,7 @@
       "updated": "Thu, 22 Oct 2026 03:00:00 GMT"
     },
     {
-      "id": "news-4082819322410851762",
+      "id": "news-3279683176956143711",
       "title": "\"זו עבירה על חוק יסוד במדינת ישראל\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Wed, 21 Oct 2026 06:47:46 GMT"
     },
     {
-      "id": "news-3649553288486680459",
+      "id": "news-4204616407788424948",
       "title": "אחרי הפרסום ב\"הארץ\", בנט התחייב לבטל את כל חוקי ההפיכה המשטרית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,17 +345,7 @@
       "updated": "Wed, 21 Oct 2026 12:49:00 GMT"
     },
     {
-      "id": "news-7710217082387752369",
-      "title": "הזכות להגיד לא לסקס, גם אחרי 20 שנות נישואים - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RUFNVRm9Yc1lGSW9aWUdIOUxXUzB3M2thbUhTcThpVU1DWnJZVnQ5d3hDV0lkODVLcHhWUWdiS3JCZzd4eUZXcEFRZUE4Mm9Fb3ZoTWk5SWplVE1rUGVHN0Zn?oc=5",
-      "updated": "Sun, 25 Oct 2026 05:34:00 GMT"
-    },
-    {
-      "id": "news-3112108772181947837",
+      "id": "news-7429349526938358452",
       "title": "הציוץ של בנט ששימח את יאיר גולן - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +355,7 @@
       "updated": "Wed, 21 Oct 2026 12:59:06 GMT"
     },
     {
-      "id": "news-3937985456625351123",
+      "id": "news-6668112366382940115",
       "title": "בנט: \"נבטל את ההפיכה המשטרית - מגילת העצמאות תהיה חוק יסוד\" - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +365,7 @@
       "updated": "Wed, 21 Oct 2026 11:26:27 GMT"
     },
     {
-      "id": "news-2912201772291264050",
+      "id": "news-350854676379082842",
       "title": "היועמ\"שית לבג\"ץ: מספר המשתמטים עלה ל-110 אלף; יש לשלול הטבות כלכליות - וואלה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -385,17 +375,27 @@
       "updated": "Wed, 21 Oct 2026 17:18:18 GMT"
     },
     {
-      "id": "news-6691583550859919533",
+      "id": "news-2586192685710155819",
+      "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lOENiUHZVU19SMS1XakdYTDVpX1I1MTc3VlVyR2s4d0YwM1NrN3d2a1FUdmd5Z1ZVQlhZQk9CVG5NQjhJRzlhaEhYaFZva0pjcm1fM0ZsVGpTTUNOb2U5RTVFcm9ULTQ?oc=5",
+      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-8604653374757613882",
       "title": "כל ה-6 הגיעו לוועדה: רוטמן הוציא את לימון על הפרעה - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "כיכר השבת",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkIydG9SVFNiY1gtRTREUkhnRlAwQVBhVmstb3NwN0ZqMnVoV1ktTWIzR2czZ2dhR0o2eDl2eTBhYXF6cmY5SzlZOG1oM1hEQTRLcVdBelpIN0pwczZIWFJ3WDNkaDJXWGFSQldTMWtWUXR2cFJ0X3I4ck1RQmwyMkJMUVFQTU9NXzhScUNYSmZ3Y29WZHpV?oc=5",
-      "updated": "Wed, 21 Oct 2026 17:25:14 GMT"
+      "updated": "Thu, 22 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6272857970345984190",
+      "id": "news-2656163841613633103",
       "title": "יושב ראש ועדת החוקה, חוק ומשפט הביע תקווה שכתבי האישום נגד משתתפי הטבח יוגשו בשנה הבאה - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5838121888916411679",
+      "id": "news-4352418927182769430",
       "title": "שלוש שנים אחרי: בוועדת החוקה נחשף כי יש מחבלים שטרם נחקרו על מעורבותם בטבח - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +415,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5384411046166817379",
+      "id": "news-4032567251222905679",
       "title": "חברי הכנסת עמדו דקת דומייה לזכר קורבנות 7.10 בפתח דיון ועדת החוקה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +425,7 @@
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8686871851405993338",
+      "id": "news-6263408414660004169",
       "title": "ועדת החוקה תקיים מחר דיון מעקב דחוף אחר יישום חוק ההעמדה לדין של מחבלי הנוח'בה - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2214078209987348911",
+      "id": "news-7976798248755305303",
       "title": "שמחה רוטמן: קטאר מבחינתי היא מדינת אויב - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Tue, 13 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5002676462109094992",
+      "id": "news-7670926051506278787",
       "title": "בג\"ץ מעניק לכנסת פטור מהחוק כי הח\"כים עסוקים בקמפיינים - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Wed, 21 Oct 2026 08:00:03 GMT"
     },
     {
-      "id": "news-323139315729451713",
+      "id": "news-5217660853866276456",
       "title": "עבודת הכנסת בזמן פגרת הבחירות - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
