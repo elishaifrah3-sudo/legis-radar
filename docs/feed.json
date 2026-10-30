@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:49:26.562108+00:00",
+  "generated_at": "2026-10-30T10:39:28.877839+00:00",
   "leg_status": {
     "knesset": "stale_fallback",
     "gov": "stale_fallback",
@@ -265,7 +265,17 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-505280822879400322",
+      "id": "news-2892698742117972133",
+      "title": "הצעת כלים להגנה על עובדים בהקשר של התפתחויות חדשות. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTml3ZWY3c3RIY3U3cTlfSnFVVV9zWVNUdGt2M24tRl9RRS1kb2ZfMktGT1pZVTJYN1gxNlZHVlZTLXF4R3RmSEJSVWtFbk1MVFVyZFhyVGZGclZIdmhXeWtHSGhTbTI5UVZnRnl2bmZDbVprRllMQndzbW5VaFRiY2lDd2xDTUM1N2lkbG1Nd2xCeWhaZVRuMA?oc=5",
+      "updated": "Fri, 30 Oct 2026 06:16:57 GMT"
+    },
+    {
+      "id": "news-128602681505688186",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,27 +285,17 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9126324148475261532",
-      "title": "הימין בעד, השמאל נגד: החוק החדש בצרפת נגד האנרכיסטים - C14",
+      "id": "news-6455512028484112718",
+      "title": "משה פייגלין: \"אפיל הצעת חוק שתאסור תחבורה ציבורית בשבת\" - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sMmZyelNpVTAwcXh0N1dTRDRKZ0c2RV92cERBb2ktYl9rNURuU1daR2M5UU1wek9TWUh1NjlZUm5vUTdyNzlXNzBIa1dOdw?oc=5",
-      "updated": "Tue, 27 Oct 2026 19:44:19 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vbmJUeUh1WHZZdy1SQnJOeHh5clcyYUNyZkpxRk1fX3JPVWRlZGd1RDVMRWdDa09ld2l1cXRYQ1U3cFZWUllWTzN0Rkk2Zw?oc=5",
+      "updated": "Sun, 25 Oct 2026 17:29:05 GMT"
     },
     {
-      "id": "news-6000198234168582105",
-      "title": "יש לעדכן את נתוני הקרקע בזמן אמת ולחבר אותם ביניהם. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1lUX25FRlN1UGVaWGZBcE5Qd205TGNULWx1OS1UYkl3V1lqcUZTeTBBUlZ6T1RLQ3VTVHFkVWZHVU0yazdEbDRyLU1VWXdDNGZrVU1rRjhLeGFLYUFWenFaMDA5cXhlSVRJRVEwSXF3b183WGhWdFI3aVVyZlllbmI1ZVYxZlhjNFVFbmRrUHl1MTBwQkhweUxR?oc=5",
-      "updated": "Thu, 29 Oct 2026 09:24:48 GMT"
-    },
-    {
-      "id": "news-7824502735805722328",
+      "id": "news-7127380967226386257",
       "title": "מליאת הכנסת אישרה אמש את הצעת חוק הגנת הסייבר הלאומית בקריאה ראשונה בכנסת מערך הסייבר הלאומי - Gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,17 +305,17 @@
       "updated": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6678005425781638291",
-      "title": "הצעת החוק שנכשלה מצביעה על שינוי במדיניות ארה\"ב כלפי ישראל - גלובס",
+      "id": "news-3540100587626623713",
+      "title": "הדוח שמזהיר: הצעות חוק נגד הקהילה הגאה מוכנות - ומחכות לכנסת הבאה - mako",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS2FSODdkVlNIMFVZWU9laW5ZUFRIdjZFSkhQOGoxRDlxaURaTzZDUm01OHI4eWE2ZUlrZHpWV1g2YUZjcmdLbUttYVpjeGxoQ3dQaTRSR2REb1B6dmJiMnNGUFVCcWVU?oc=5",
-      "updated": "Thu, 16 Jul 2026 07:00:00 GMT"
+      "outlet": "mako",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95SW9vbFZQZVBzaTg3VElzSHA4ZzU4OHN2UDRFWDJCdlVPdWEydnFyVndNQlpJY3k5QjI2Xy1DcTR2YzhTaXQybGRnWEExSUlyVU5xZWQxejM5cUlMU1UzWXNsN2ZoSzF6Wm01UTZKMTVNdw?oc=5",
+      "updated": "Thu, 22 Oct 2026 16:58:00 GMT"
     },
     {
-      "id": "news-8718936494159147901",
+      "id": "news-20563320261369427",
       "title": "\"אתה לא מחליט, אני מחליטה\": עורך הדין שעזב את משרד ראש הממשלה שובר שתיקה - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +325,7 @@
       "updated": "Thu, 22 Oct 2026 03:00:00 GMT"
     },
     {
-      "id": "news-6501966465762354614",
+      "id": "news-1932829583730930607",
       "title": "יום חופש? שכר כפול? הכירו את זכויותיכם ביום הבחירות - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Sat, 24 Oct 2026 20:06:00 GMT"
     },
     {
-      "id": "news-2075915741453183990",
+      "id": "news-2672124625777878067",
       "title": "\"זו עבירה על חוק יסוד במדינת ישראל\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,17 @@
       "updated": "Wed, 21 Oct 2026 06:47:46 GMT"
     },
     {
-      "id": "news-5904619242855865820",
+      "id": "news-6562188967453623838",
+      "title": "אחרי הפרסום ב\"הארץ\", בנט התחייב לבטל את כל חוקי ההפיכה המשטרית - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlhORXNqSThEbWdjYnQ5aHVLQzloaUJFRWU3Skd4U0FwM284NjhlaDVTN0F4WW0wZmZkajhjTlQ3ZnlYaXhsM1NxRXI4d2ZwMXN4eUJObkNhYjBMV2xlTmJzcVE0V1JjV19hNGUyT3c0a3p1dlJUbnBQRUJuQnNtREJqU3BHRHh5TXI4ZHNxRGNRUzgtbzBOb0N5ZlE1QkZ0VnRqWTdtRG9Zamk0?oc=5",
+      "updated": "Wed, 21 Oct 2026 12:49:00 GMT"
+    },
+    {
+      "id": "news-3270378480565702288",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +365,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3580972872733678491",
-      "title": "שבתון בתשלום או 200% שכר: מדריך הזכויות המלא ליום הבחירות - TheMarker",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXl3dTlnNTZYMkZUNjVpdnU2cndfMU02eUNlN2pFeDQzaEJlUVVYWFhpdTBZbUNfRTVqaTdyOVp1MFlFaWZ2VmJJc2ppVGYtRi1HSTJZaXBua0g1TVdVNVlpczNWSEZvaHVGWmJVTHNSUkFERHUxdVlXYnRTbk1MNVY0dDdZel9wV0lHQWZ2NjNFOXZiX1VDTVpmVm5yb2piRnc?oc=5",
-      "updated": "Wed, 21 Oct 2026 03:03:00 GMT"
-    },
-    {
-      "id": "news-7774885759430960759",
+      "id": "news-3552236041627665702",
       "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +375,17 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4149291619198495781",
-      "title": "הכנסת אישרה את חוק יסוד לימוד תורה; הוגשה עתירה ראשונה לבג\"ץ - כלכליסט",
+      "id": "news-3195309304322406837",
+      "title": "הציוץ של בנט ששימח את יאיר גולן - C14",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "כלכליסט",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82V01PQWsyX0tkMjByNVdxY2U1ZHF1LVhlYXZvYVNfZW9adUJCWVJseWg1VUkzOWpfUEFSZ3JVUGowV3UwOGoyNGJ4MnhETUpfYzByM1Y4aFBuRzRvS1lCU3VpR3RBUjNL?oc=5",
-      "updated": "Mon, 13 Jul 2026 07:00:00 GMT"
+      "outlet": "C14",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VbW1nLTlDekhTYVZsQnlURHBhZ29nVGM0eUVqbno5dVgwRWNVSnlCRnpsQXpEa1NubzR0UmVlcnlFS2JvemdZcDJ2MC1VUQ?oc=5",
+      "updated": "Wed, 21 Oct 2026 12:59:06 GMT"
     },
     {
-      "id": "news-84829165105851676",
+      "id": "news-4414860819625344937",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-7669342432178099988",
+      "id": "news-3426416459343623109",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1959526979864077217",
+      "id": "news-7044921308664378168",
       "title": "ועדת חוקה אישרה את הצעת החוק למניעת מימון סנגורי מחבלי נוחבה מקופת המדינה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +415,7 @@
       "updated": "Tue, 16 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-8217056379885468199",
+      "id": "news-1444305432763075175",
       "title": "\"הסכמה חסרת תקדים\": ועדת חוקה אישרה את ביטול חוק החילופים - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +425,7 @@
       "updated": "Thu, 18 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-6818750077798868920",
+      "id": "news-4512643428906125831",
       "title": "האופוזיציה החרימה: ועדת חוקה אישרה לדון במתווה לוין-סער - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +435,7 @@
       "updated": "Wed, 15 Jan 2025 08:00:00 GMT"
     },
     {
-      "id": "news-3725203150538297524",
+      "id": "news-6309015262745749682",
       "title": "ועדת החוקה אישרה לקריאה ראשונה את פסקת ההתגברות, האופוזיציה החרימה ההצבעה - calcalist",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Wed, 01 Mar 2023 08:00:00 GMT"
     },
     {
-      "id": "news-2138202895076337308",
+      "id": "news-3845093974364640091",
       "title": "לפיד כיו\"ר הכנסת והקמת ועדת חקירה: האפשרויות שבוחנים בגוש השינוי - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,14 +455,14 @@
       "updated": "Wed, 28 Oct 2026 17:58:57 GMT"
     },
     {
-      "id": "news-694693303205716542",
-      "title": "הדרך להחלפת נתניהו סלולה בחוק - זמן ישראל",
+      "id": "news-6347228084131064795",
+      "title": "מה יכולה כנסת חדשה לעשות בינתיים? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95ejhVdVczNmJ2SGJVUElqRWg2b2R5RUlVYVVLWEVNakppNEZqYTRzSWU5ZGIwQjRWaXgtUDE0Q2xfNVJB?oc=5",
-      "updated": "Wed, 28 Oct 2026 13:30:02 GMT"
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sS2hzV2FtQnUtOXFpVVV3UXp6N2Z0SlN3UTVRY2dyR19hTUNjQ0JkSnd6YnNPSGdiaHZCSTlGRE9Ib3R5SUxxVnU5U21KZw?oc=5",
+      "updated": "Wed, 28 Oct 2026 22:00:00 GMT"
     }
   ]
 }
