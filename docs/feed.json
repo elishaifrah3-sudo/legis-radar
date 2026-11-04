@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:42:50.982571+00:00",
+  "generated_at": "2026-11-04T22:17:37.979158+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-6445431640908250107",
+      "id": "news-2849569805140390983",
       "title": "עוד עשרות אלפי יורו: מכה לישראלים שמתכננים לקנות דירה ביוון או קפריסין - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,7 +275,7 @@
       "updated": "Wed, 04 Nov 2026 04:03:00 GMT"
     },
     {
-      "id": "news-1869957301775569257",
+      "id": "news-5772196986903126984",
       "title": "בנסיכות הזעירה של אירופה, וטו נדיר שהטיל השליט הוציא את התושבים לרחוב - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Wed, 04 Nov 2026 14:01:00 GMT"
     },
     {
-      "id": "news-5155784823393717569",
+      "id": "news-7867849992857429223",
       "title": "טראמפ בהודאה משתמעת בתבוסתו: אמשיך להשתמש שוב ושוב בזכות הווטו - تسنیم",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Wed, 04 Nov 2026 09:51:40 GMT"
     },
     {
-      "id": "news-5665913335074879019",
+      "id": "news-7781021281370326482",
       "title": "תכנית המגירה של הליכוד: המהלך שיאפשר להדיח את לפיד מראשות הכנסת - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Tue, 03 Nov 2026 20:04:25 GMT"
     },
     {
-      "id": "news-6874047274044149687",
+      "id": "news-4376187070290518872",
       "title": "זו השעה ל\"חוק המוסד\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1295731539571222404",
+      "id": "news-8724886841591999952",
       "title": "הפחתת הנטל ההליכי על אזרחים ועסקים תוך שמירה על זכויות האזרחים. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Wed, 04 Nov 2026 09:50:33 GMT"
     },
     {
-      "id": "news-3469160234725365606",
+      "id": "news-5258062102426221173",
       "title": "בליכוד שוקלים שלא להכיר בתוצאות הבחירות, אך פרסומן לא יעוכב בכל מצב - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Mon, 02 Nov 2026 20:23:00 GMT"
     },
     {
-      "id": "news-7166254064877292724",
+      "id": "news-1055292675718032015",
       "title": "אופציית הצ'יקן שיכולה להוביל את איזנקוט ללשכת רה״מ - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Sat, 31 Oct 2026 18:10:00 GMT"
     },
     {
-      "id": "news-913562060102493885",
+      "id": "news-7538609407294094599",
       "title": "הדרך להחלפת נתניהו סלולה בחוק - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,7 @@
       "updated": "Wed, 28 Oct 2026 13:30:02 GMT"
     },
     {
-      "id": "news-8423745143140868138",
+      "id": "news-2333490840214677191",
       "title": "עימות במשפט נתניהו: האם אפשר לחקור רה\"מ בלי אישור בכתב? - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +365,7 @@
       "updated": "Mon, 02 Nov 2026 09:40:03 GMT"
     },
     {
-      "id": "news-5278928632021424269",
+      "id": "news-1441393538627302813",
       "title": "הבחירות לכנסת ה-26 - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Thu, 22 Oct 2026 11:31:17 GMT"
     },
     {
-      "id": "news-2423404903995092918",
+      "id": "news-8664662522667083256",
       "title": "\"זו עבירה על חוק יסוד במדינת ישראל\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,17 +385,7 @@
       "updated": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1313480142273818451",
-      "title": "שמחה רוטמן בתגובה ראשונה לסערה סביבו - סרוגים",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNUWtPemxNYi1TVDVNNDJNWW9oRlc1SnloczJqTENzZnFpSE5rcFJxZ1dMM2FORzluc25HOVF0YUw2eTljV2tBUGE0Q3duVWJoZFpXNmkzWE1MaVRxd241YkpNOTJOMWNsWlp4bzJVWUN3V2JGb0hpQVlRUk94RFFySXV3V2dmWEE1Nm5MZG4tbnphdWo5S1BqTk1ONlp5NVRzREZMUE5TQnI5VmFLdTBrU1FXdkMweHR6OS1ua3JqSHM3bjQ5QzkyRmVoYXpSYTM5aXNUdDVtNEtrQmh5UV9uSEZZZ2hLZndNN1FSN2w0VVltNGJkN0tkSWJRVEFoakR0NXlUM25kdXFteFZZUmIzVm1VYWVaaDNFLXp1eUtpUGVMZHB3VTRPSGFtNjlnSzBiTXRvRHRROGFrTjRRbEFxNkkxN2pXUFE4VGc?oc=5",
-      "updated": "Tue, 03 Nov 2026 06:54:23 GMT"
-    },
-    {
-      "id": "news-8723532835180829251",
+      "id": "news-5630385765323320886",
       "title": "טרור הקלפיות - מתקפה חריפה על היועמ\"שית: \"גלי אל תתערבי\" - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +395,7 @@
       "updated": "Mon, 02 Nov 2026 07:03:21 GMT"
     },
     {
-      "id": "news-2236761065317482948",
+      "id": "news-6404633482574715159",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +405,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1056362220955438784",
+      "id": "news-7584828476299758855",
       "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,7 +415,7 @@
       "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9080771380194548868",
+      "id": "news-8432706833400687443",
       "title": "ועדת חוקה אישרה את הצעת החוק למניעת מימון סנגורי מחבלי נוחבה מקופת המדינה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +425,7 @@
       "updated": "Tue, 16 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-7234166725259930212",
+      "id": "news-1481109194401244199",
       "title": "\"הסכמה חסרת תקדים\": ועדת חוקה אישרה את ביטול חוק החילופים - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +435,27 @@
       "updated": "Thu, 18 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-5299399910998643391",
+      "id": "news-8524289713249808018",
+      "title": "ועדת חוקה דנה בניגוד עניינים של שופטים - ורוטמן תקף את נציגת בתי המשפט: \"לא תבקרי אותנו, אתלונן\" - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Oc3NpLU9LNWZCZ1NxVUhEY19tTDZ4N1d3MnlPNlJNTVVhRHlCZ0J2cGNJNTZrUEo5U1FVSjhQaUJSbFhIbml3ZW5pcDNuSUUyaFp6VmtiN3k?oc=5",
+      "updated": "Wed, 20 Sep 2023 07:00:00 GMT"
+    },
+    {
+      "id": "news-7617429061558160667",
+      "title": "תוצאות הבחירות לכנסת העשרים-ושש - אתר הכנסת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר הכנסת",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PTWlSbTVFZTZVZURENlE3aHAtNDZpTExWSWNGYV9HbTltNFZocDRoMVRnSDlDcHhNVWhXeFQzYlBvd09pcTJocnZBUWV6RDFXMVJiajZFeThvQUVtcVNpY1lGNXptZ3lXekZQcmFXT0FOa1gxLW1ZbE53?oc=5",
+      "updated": "Mon, 02 Nov 2026 11:24:50 GMT"
+    },
+    {
+      "id": "news-191857299370730973",
       "title": "ועדת חקירה ממלכתית כן, אבל לא במחיר של חקיקה פרסונלית - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -453,16 +463,6 @@
       "outlet": "זמן ישראל",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE81M01FNzE1MVc2UzBURkNzTlZEa28xS1Npc2VQUllzN2NHN2hpd2laYjJEMDR3a2JxVE10UllraExma1I4?oc=5",
       "updated": "Wed, 04 Nov 2026 04:57:22 GMT"
-    },
-    {
-      "id": "news-4828071142188574292",
-      "title": "לפיד כיו\"ר הכנסת והקמת ועדת חקירה: האפשרויות שבוחנים בגוש השינוי - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeHV5dnJDNk1lbmUzbXZZek5USkdhckd6VlJGX1ZmMTY5SVJ1aEZXRFVWTFNOOFNuRkRQWmNhS1dPVnM3Z3RBOVBlb1hHV19RWkMyYXA3a3pXT2I5MVNKUHJvcWRUWDQ?oc=5",
-      "updated": "Wed, 28 Oct 2026 17:58:57 GMT"
     }
   ]
 }
