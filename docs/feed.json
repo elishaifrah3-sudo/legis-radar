@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:43:32.446031+00:00",
+  "generated_at": "2026-11-09T21:13:40.690757+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-878833348043219493",
+      "id": "news-6424997529621369127",
       "title": "חוק הבסיס של ליברמן, והתנאי החדש: \"לא נבזבז דקה, רק אם יעבור את בג\"ץ\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Sun, 08 Nov 2026 19:14:34 GMT"
     },
     {
-      "id": "news-933961014927003517",
+      "id": "news-6591701032656397858",
       "title": "האם הצעתו של ליברמן היא תרגיל סחיטה שנועד לאלץ את איזנקוט להציע לו רוטציה? - פוליטי - TheMarker - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Sun, 08 Nov 2026 15:48:00 GMT"
     },
     {
-      "id": "news-8418804941456240218",
+      "id": "news-3164332726566419229",
       "title": "ליברמן: \"ניתן להתפשר עם החרדים על בסיס חוק הגיוס שהצעתי ב-2018\" - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Sun, 08 Nov 2026 12:48:00 GMT"
     },
     {
-      "id": "news-4829501552930198798",
+      "id": "news-1226970216344420099",
       "title": "חוק הגיוס של ליברמן מ-2018 מול מתווה ביסמוט: כל ההבדלים והסנקציות - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Sun, 08 Nov 2026 16:29:22 GMT"
     },
     {
-      "id": "news-5043909550842843697",
+      "id": "news-7317310124827766013",
       "title": "כמו ב-2018: החוק שליברמן דורש לגיוס חרדים - וההבדל ממתווה ביסמוט - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -315,7 +315,7 @@
       "updated": "Sun, 08 Nov 2026 12:23:00 GMT"
     },
     {
-      "id": "news-1010966505013484248",
+      "id": "news-5076260461498313980",
       "title": "החוק שהציע ליברמן לפני כעשור עשוי להוביל לממשלת איזנקוט עם החרדים - mako",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Thu, 05 Nov 2026 19:03:55 GMT"
     },
     {
-      "id": "news-2789911934309278758",
+      "id": "news-8230492099537331810",
       "title": "ברית המשרתים נדחקה לשוליים והחרדים חוגגים - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Fri, 06 Nov 2026 08:15:55 GMT"
     },
     {
-      "id": "news-461651273911818635",
+      "id": "news-210037105585343280",
       "title": "הבחירות לכנסת ה-26 - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +345,7 @@
       "updated": "Thu, 22 Oct 2026 11:31:17 GMT"
     },
     {
-      "id": "news-4178475003888914964",
+      "id": "news-5603791049013145361",
       "title": "סעידיאן זעק בדיון על חוק יסוד לימוד תורה: תתייחסו קודם למי שמוכן למות בקרב - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,7 +355,7 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-6589036226582514705",
+      "id": "news-1075033583169041601",
       "title": "האשליה של חוק יסוד הצהרתי עלולה להעניק ללימוד התורה מעמד חוקתי עליון - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,17 +365,7 @@
       "updated": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1477411197813017072",
-      "title": "זה לא חוק יסוד, זה צחוק יסוד - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZF9IU1YyX00zQXZfMDIzUFpRY0xfS0tEalhZREljd1J3MklFc3kxd2Q1TDE4UUs4MkdwanBEWlJLUXVsSVZfM2RfSmx1QlBlUGRSaWZUcnZtWmh5cVE?oc=5",
-      "updated": "Sat, 18 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-7656267101115532551",
+      "id": "news-2970711671121329963",
       "title": "עימות במשפט נתניהו: האם אפשר לחקור רה\"מ בלי אישור בכתב? - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +375,17 @@
       "updated": "Mon, 02 Nov 2026 09:40:03 GMT"
     },
     {
-      "id": "news-4405100372877074177",
+      "id": "news-8450088550254137592",
+      "title": "זה לא חוק יסוד, זה צחוק יסוד - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZF9IU1YyX00zQXZfMDIzUFpRY0xfS0tEalhZREljd1J3MklFc3kxd2Q1TDE4UUs4MkdwanBEWlJLUXVsSVZfM2RfSmx1QlBlUGRSaWZUcnZtWmh5cVE?oc=5",
+      "updated": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4949877018128504145",
       "title": "רוטמן בעקבות ההקלטות: \"מערכת המשפט חולה מאוד\" - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +395,7 @@
       "updated": "Mon, 09 Nov 2026 07:31:00 GMT"
     },
     {
-      "id": "news-7227051414379792332",
-      "title": "ועדת חוקה אישרה את הצעת החוק להחלשת תפקיד היועמ\"ש לקריאה שנייה ושלישית - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExlbFE3MXlYX09OZHlfOWJBOGVCclRUUlE4YzZpRXRNSi0wNFFlN2JYSzFMWDBBdXJIU09haWszOElKcEZUWE9RanBLcUl1dVZtNzNyZ2RvdEtyOFgxTHhTY3ZJV2k2SXJHWnVxTFlqcWVtUlljaEdJbXpzNjhTS2hQUmFETXpLZDAtZG8xZWtXNGpETzczUkJyUHJpb1F4emZicHU1dmhZZ0NT?oc=5",
-      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-981116325551468643",
+      "id": "news-727199342749898043",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +405,17 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1798016971618263907",
+      "id": "news-3473776419489851883",
+      "title": "ועדת חוקה, חוק ומשפט של הכנסת אישרה כי יש לאפשר למועצה האזורית חוף הכרמל לאכוף הגבלת שימוש בכלי אוכל ושתייה חד-פעמיים מפלסטיק בחופיה ולהטיל קנס על מפירי ההגבלה - GOV.IL",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "GOV.IL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNTJLdmpGSGtHRDRpb0RIbmhCZ3l5UWJKQUtEVjdpQlpVcjhpZzh5VTE5cXpZX3FJbjhTMzRPeFp5Qk5JTkpRU1hTeUI2c1RUb2VhVWFFaERUbXdxQW9tcXBfM2dpdzdfREhPcFhPTVNHb1EwVmY4YmFpbUNtUWRLU2JhUUhTWTRyZ01JVGlDZE5sNU95M05n?oc=5",
+      "updated": "Tue, 17 May 2022 07:00:00 GMT"
+    },
+    {
+      "id": "news-3738437587599070712",
       "title": "ועדת חוקה אישרה את הצעת החוק למניעת מימון סנגורי מחבלי נוחבה מקופת המדינה - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -425,17 +425,7 @@
       "updated": "Tue, 16 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-7349554896832140667",
-      "title": "חוק-יסוד: השפיטה (תיקון מס' 4) במאגר החקיקה הלאומי - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkFDalRSaEpMQkdrT3NaRnJOLVgwTnJtMnZINnExZFZITEt0S0txYmpETnBZanI0bmp2cUdXa2pYQzFNWnNFb1pNUzl1S3JnTWJZQ08tS2MwUnRIdGp6dzlDM3RnYXhZVWpmc244YnozZVBRVVprWkdzVWdZSmN2YzVIMTRXS1IxNTFTMlQ2M3ZjeWJ2N0VOT2ctSGVfc1lzdHB6NzdOdThDMkFBSjNFQkJ3dw?oc=5",
-      "updated": "Wed, 17 May 2023 02:18:23 GMT"
-    },
-    {
-      "id": "news-7898632057365768637",
+      "id": "news-7546426989676263271",
       "title": "ועדת החוקה אישרה את ההצעה לבחירת נציב התלונות על שופטים על ידי הכנסת - כלכליסט",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,8 +435,8 @@
       "updated": "Sun, 21 Jul 2024 07:00:00 GMT"
     },
     {
-      "id": "news-4860468745762222411",
-      "title": "לפני שהכנסת מתחילה לעבוד, כללי המשחק נקבעים על ידי גוף אחד - גלובס",
+      "id": "news-6327171875409037251",
+      "title": "לפני שהכנסת מתחילה לעבוד, כללי המשחק נקבעים ע\"י גוף אחד - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
@@ -455,14 +445,24 @@
       "updated": "Mon, 09 Nov 2026 09:50:25 GMT"
     },
     {
-      "id": "news-1639055617302283682",
-      "title": "הוועדה המסדרת: הסמכויות שיאפשרו לגוש השינוי לקדם חקיקה מזורזת - mako",
+      "id": "news-936632682104177308",
+      "title": "המינוי הראשון של איזנקוט בכנסת: הח\"כ לשעבר יהפוך לראש הוועדה החזקה במשכן - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CZE9pZEVMNTVvaUxyM0FhaGxDbWZfTFBBeG9VNXEwMk95cDlCRV8zaHR5ODBPaW9VaGFkQnpfZ3hnUkhlbGlCbWtXLWRkMW9oMVgxc2EyNkxaUQ?oc=5",
+      "updated": "Sun, 08 Nov 2026 18:54:19 GMT"
+    },
+    {
+      "id": "news-3061147960380164949",
+      "title": "חרדים וערבים ביחד: מה מספרת לנו מפת הישיבה החדשה בכנסת? - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "mako",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0J5dzktbWdFa3ZaMUN3Sl96YUo5VFYtMUZfZGhnY0JrQ0o4SHNsLXBVajRscjlub0liUXRrTXVFcjUwVFJSY0JuNmRrUElFd1N5eUZPdGJReGs5Qm1OaVhnY2JRVkkzX2FKZUk5Z21yelFZTjFHUXRjRlVyakRrYg?oc=5",
-      "updated": "Mon, 09 Nov 2026 05:41:00 GMT"
+      "outlet": "C14",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WOUVFcm5yZm1scURzVlZBTWNvMUt4VWEzd0hqU18wbWxER3VUTF9ReGxROTNwMkR0MVEtbHFITzRhRks5djg2VWczTDJVUQ?oc=5",
+      "updated": "Mon, 09 Nov 2026 15:51:48 GMT"
     }
   ]
 }
