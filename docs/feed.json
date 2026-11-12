@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:24:06.110585+00:00",
+  "generated_at": "2026-11-12T03:30:48.503563+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1566284461073574234",
+      "id": "news-291214775601391314",
       "title": "בנט והחרדים מתנגחים בהצעות חוק, אשר הציג: אלה התנאים לממשלה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Wed, 11 Nov 2026 08:58:33 GMT"
     },
     {
-      "id": "news-5593118696624624256",
+      "id": "news-8703250362925482508",
       "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת - תקשורת ומדיה - TheMarker - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -285,7 +285,7 @@
       "updated": "Wed, 11 Nov 2026 08:15:00 GMT"
     },
     {
-      "id": "news-7982908586527051736",
+      "id": "news-1931016095077664904",
       "title": "ישר: הגשנו לאוחנה יותר מ־61 חתימות של ח\"כים בדרישה להחליפו כיו\"ר הכנסת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -295,17 +295,7 @@
       "updated": "Tue, 10 Nov 2026 15:57:00 GMT"
     },
     {
-      "id": "news-7653190453480327204",
-      "title": "עם כינון הכנסת ה-26: הצעת חוק להסדרת מעמד בני הישיבות - חב\"ד אינפו",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "חב\"ד אינפו",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOS0ZYTzh6cHNJckhBUkp6WUNlQU1BczM2VUVpcjhJbjJ3bFBZQ09IQ2JkeFVPaWpTN3VHY1RDd3hsT1daT2ZNaA?oc=5",
-      "updated": "Wed, 11 Nov 2026 12:25:28 GMT"
-    },
-    {
-      "id": "news-2831978848879659269",
+      "id": "news-7250523457420461682",
       "title": "\"הבטחתי ואקיים\": האב השכול הגיש הצעת חוק - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +305,7 @@
       "updated": "Wed, 11 Nov 2026 18:18:22 GMT"
     },
     {
-      "id": "news-2963488726497883307",
+      "id": "news-7289679869260986031",
       "title": "חוק המשרתים והגבלת כהונה: אלו חוקים מקדם גוש השינוי? - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -325,7 +315,17 @@
       "updated": "Wed, 11 Nov 2026 08:23:42 GMT"
     },
     {
-      "id": "news-3687561065082968370",
+      "id": "news-5939011219039963995",
+      "title": "עם כינון הכנסת ה-26: הצעת חוק להסדרת מעמד בני הישיבות - חב\"ד אינפו",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "חב\"ד אינפו",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOS0ZYTzh6cHNJckhBUkp6WUNlQU1BczM2VUVpcjhJbjJ3bFBZQ09IQ2JkeFVPaWpTN3VHY1RDd3hsT1daT2ZNaA?oc=5",
+      "updated": "Wed, 11 Nov 2026 12:25:28 GMT"
+    },
+    {
+      "id": "news-8830361172192016161",
       "title": "לפיד יגיש הצעות חוק לברית הזוגיות, הגבלת כהונה ועיגון מגילת העצמאות בחוק יסוד - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,17 +335,7 @@
       "updated": "Tue, 10 Nov 2026 15:16:37 GMT"
     },
     {
-      "id": "news-1147624495821219534",
-      "title": "הרפורמה המשפטית חוזרת לשולחן: שמחה רוטמן הגיש 85 הצעות חוק - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95N2dqV2JvbmZnOERXLTFDcGd2ZXh2YlI3ZERhdEs5d0Y0RTVOcHo1bGFraVhFcFB6UWkyMDdBSHhmcjQ0ak1tSXJMT0l4ZFJVSWlfV1BVWG0wUUx4SnJhOW9tdEE?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:11:28 GMT"
-    },
-    {
-      "id": "news-3447960825001639922",
+      "id": "news-8791585346393656796",
       "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +345,27 @@
       "updated": "Tue, 10 Nov 2026 16:14:25 GMT"
     },
     {
-      "id": "news-3962554653860210493",
-      "title": "גוש המיעוט בבליץ חוקתי: מתו ימי ההסכמה הרחבה - סרוגים",
+      "id": "news-3962576323111577811",
+      "title": "הרפורמה המשפטית חוזרת לשולחן: שמחה רוטמן הגיש 85 הצעות חוק - מעריב",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95N2dqV2JvbmZnOERXLTFDcGd2ZXh2YlI3ZERhdEs5d0Y0RTVOcHo1bGFraVhFcFB6UWkyMDdBSHhmcjQ0ak1tSXJMT0l4ZFJVSWlfV1BVWG0wUUx4SnJhOW9tdEE?oc=5",
+      "updated": "Wed, 11 Nov 2026 08:11:28 GMT"
+    },
+    {
+      "id": "news-5414193122089867356",
+      "title": "מיד אחרי ההשבעה: אלו הצעות החוק הראשונות של איזנקוט - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDFOMzVERzllcWZWcXpVd25VWVdReVdCQ3VkN29VWV9Uc0FHc2NQcFdnc0JOQ0daQl9FSEkyVTVJWmpaVE1wYzUzd183cTROQlh2NXg2WHY4RUlKMU9wWFhPT1RCVWpLRDFPOXMwb2s4dmt2SkxPcXNOdVdvMnBHNU03QXVHWVdoUXoxeDhjRGU2VDhrZWRpM0pNbFBiYWQ4VE9nanh3TVV2c2JBREowV2F4Tndta0ZDLWZTOTUyaVZtbHpPWkdYbHNkZTNSS3dGTkN3bDlYWXZaYU1DeHBXR1FPUTRUVjI4TzVaVFU1N1RQd1RRcUlqVXh0d2xlNkprQWZNX2pDVzZBaS1UZlZldVBBSlBRTk5xNHRBYkN3NDVMVWVWMzFiTWoySDZwSDdET1I2b2F4SzN3Z21sTTBWREVadGxkNnhsOWRz?oc=5",
-      "updated": "Wed, 11 Nov 2026 15:19:16 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQeVZMZ1ZpeVp6ZWU4LUtCZG9GVmM5RkZuNlB0VU5xT2ZWWUlLSmZPZkhTX3psSUhpQU5uamFQdTJFdGFfX091SE5oY3g5Sjd5V3JqYlprRHdPZXVVRVdLYzJYYXAtdlFDSDhtd1ZDb2ppRmJaOWFiMTh4T2pJdXZlRklOSFM0aWVnYkd5ZFFFaHE4SXdPQndNeVpmVUpLYktCbWR6Nm9wMWVJS1dvc2RNRzJfd3puUTl5Wkh3SnB5YlF6MDVDbGxYR0hXaTlUdjBFM2tzRDdPTTJuRDdJMExZWEROSnJFR2ZxS1hrM19TcGVwU2twWkFLREFhQTlSandhTlB6RElwcDNnT05mMnFhT2ZYS0dNNHB1N2lOZ3lPY1FDcmg4YlZRR1NYX216elR5WmJXU0dNVXBkTVBWWVBMMzJLMHpjTjhOYWFKRmdTdmR1WlkyQV9Eb0JITQ?oc=5",
+      "updated": "Tue, 10 Nov 2026 15:06:52 GMT"
     },
     {
-      "id": "news-3340819918454793684",
+      "id": "news-8842634609935631537",
       "title": "בדמוקרטים מודיעים על בליץ חקיקה: שורת הצעות חוק בנושאים שונים יעלו עם השבע - i24NEWS",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,7 +375,7 @@
       "updated": "Tue, 10 Nov 2026 09:24:02 GMT"
     },
     {
-      "id": "news-8935855009270833402",
+      "id": "news-8864621174770057096",
       "title": "\"האנשים שיצאו בזמן שירת התקווה? תומכי חמאס\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -385,7 +385,7 @@
       "updated": "Tue, 10 Nov 2026 21:33:02 GMT"
     },
     {
-      "id": "news-9073921811255407398",
+      "id": "news-961909234027068286",
       "title": "85 הצעות חוק ביום אחד: רוטמן מתכנן להמשיך את הרפורמה המשפטית בכנסת החדשה - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Wed, 11 Nov 2026 07:09:00 GMT"
     },
     {
-      "id": "news-7498013251110514391",
+      "id": "news-360365041438614348",
       "title": "חוק הבסיס של ליברמן, והתנאי החדש: \"לא נבזבז דקה, רק אם יעבור את בג\"ץ\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,7 @@
       "updated": "Sun, 08 Nov 2026 19:14:34 GMT"
     },
     {
-      "id": "news-3354154188848970144",
+      "id": "news-2454314174160002133",
       "title": "הכנסת התחלפה, הרפורמה נמשכת: רוטמן הגיש יותר מ-85 הצעות חוק - וואלה",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,17 +415,7 @@
       "updated": "Tue, 10 Nov 2026 20:34:43 GMT"
     },
     {
-      "id": "news-8270796829245537879",
-      "title": "הרפורמה המשפטית חוזרת? שמחה רוטמן הגיש 85 הצעות חוק - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ack8tNmxEekMxT1ZSeVdKSDAtYkpuN19iOUR2cHhsZ1c2a0tyYzg3Z2pPSVhjT0VBaUo1akNqei1RU1pUZmtPQ2VwSzJ4NXlMb2ZWN1RxWkdxdU5lZXoyZkc2Rlc?oc=5",
-      "updated": "Wed, 11 Nov 2026 07:02:13 GMT"
-    },
-    {
-      "id": "news-8059788856353224402",
+      "id": "news-2578502748320654722",
       "title": "בליץ החקיקה שמתכנן גוש השינוי - והמגבלות - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,7 +425,7 @@
       "updated": "Thu, 05 Nov 2026 23:29:00 GMT"
     },
     {
-      "id": "news-8262546755316636377",
+      "id": "news-1290117395261907535",
       "title": "הוועדה המסדרת אישרה את הקמת ועדת הכספים וועדת החוץ והביטחון - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +435,7 @@
       "updated": "Wed, 11 Nov 2026 12:40:00 GMT"
     },
     {
-      "id": "news-6872099448058854135",
+      "id": "news-4862842185544743563",
       "title": "הכנסת אישרה את הרכב הוועדה המסדרת בתמיכת הסיעות הערביות; הליכוד: \"שת\"פ עם תומכי טרור\" - i24NEWS",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +445,7 @@
       "updated": "Wed, 11 Nov 2026 12:45:46 GMT"
     },
     {
-      "id": "news-9184762946840976560",
+      "id": "news-3220757038605539100",
       "title": "הישג ראשון לגוש השינוי: הוועדה המסדרת אושרה - אלו הרכבי ועדות הכספים וחוץ וביטחון - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -463,6 +453,16 @@
       "outlet": "מעריב",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VGgyTDhXMTJnbDdGNk52YmkyQ0s2WWVhLWVFd2tOY2RaaHNNb1lONTZjZDJmRWVDR29qdFlhaERMbW5aajR4VE1GX2FRMWdvRy1UWlp3UzhENFpWdjNGQWdDTVk?oc=5",
       "updated": "Wed, 11 Nov 2026 14:34:00 GMT"
+    },
+    {
+      "id": "news-4289948422645104888",
+      "title": "הקמת ועדות הכנסת: ליברמן ואבישר בן חורין בראש הוועדות הזמניות; אושר הרכב הוועדה המסדרת - Calcalist",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Calcalist",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51WHBaOUNjeEMzSkhMTEh5YmtaTnJENTBPRFBYMGpDamFoejY2R0g1T3otX2xRRWtWXzV4LWdiM29HY19GRmtienZHeldUYlQ2ZWpuUTZFUmtkUmF2bmpkWWNjdmZLUTB6?oc=5",
+      "updated": "Wed, 11 Nov 2026 16:00:00 GMT"
     }
   ]
 }
