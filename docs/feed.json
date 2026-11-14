@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:16:20.264405+00:00",
+  "generated_at": "2026-11-14T21:01:37.613293+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-1689521452759211226",
+      "id": "news-6198123548906236044",
       "title": "עוצמה יהודית מקדמת שינוי בחוק השבות - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -275,27 +275,17 @@
       "updated": "Thu, 12 Nov 2026 13:12:00 GMT"
     },
     {
-      "id": "news-2489341866838958305",
-      "title": "בנט והחרדים מתנגחים בהצעות חוק, אשר הציג: אלה התנאים לממשלה - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hY1o0QzFRZ3FqcW8yZU9fdHpvaUVhY1RKSGE0NXZmYWRZeXFZRzlnT0RPQ3dHOENvZ0M0TGNqVEhaZVdJWGV0R21SWDZ2TnJXbXpHWjlaejZMUQ?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:58:33 GMT"
-    },
-    {
-      "id": "news-6016734138216507735",
-      "title": "\"חוק השידורים — בטל\": הצעות למחיקת חוק קרעי הוגשו לכנסת - TheMarker",
+      "id": "news-4048064544734270775",
+      "title": "סיעתו של בנט הגישה 17 הצעות חוק ביום הראשון בכנסת: \"תהיה פה אוטוסטרדה של עשייה ותיקון שהמדינה לא ראתה מימיה\" - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlOTUN5akhvN09YMzZpdFJTdU1VejNTa0dDYTZfUW92V2UweHUteE9LOFRIaW00UTlMS1d3cmQ4c1BEb1NDTGFRVGxsTHpOdVl6VTN2Rm5RZ3VObmVCdlpfa1c2aEFUNFRST24tcUNPc1FtcXJnWkpYWURIWnk3dkdFeXN5NjdFUVdCVE55N1hpa09rbEwxRTFZVUVWSVZFQ3RscFhMQ3F6VmM?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:15:00 GMT"
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13ZmFubEQtTjJfT3p6WWdESzl5X0lzQkM5dkwzV2MzeWdZaUhKM05WNUJLZDRKOUZTWW9NV0I2bjl1NTJrU3lyYVIxOA?oc=5",
+      "updated": "Fri, 13 Nov 2026 12:45:54 GMT"
     },
     {
-      "id": "news-1106187407589907281",
+      "id": "news-8954448879489430187",
       "title": "\"הבטחתי ואקיים\": האב השכול הגיש הצעת חוק - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +295,7 @@
       "updated": "Wed, 11 Nov 2026 18:18:22 GMT"
     },
     {
-      "id": "news-7809605430005460065",
+      "id": "news-7893514762630119366",
       "title": "באו לעבוד: בן גביר הגיש הצעת חוק שיקבע מיהו יהודי - כבר בשבוע הראשון - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,17 +305,27 @@
       "updated": "Thu, 12 Nov 2026 13:05:49 GMT"
     },
     {
-      "id": "news-8586064085886544067",
-      "title": "חוק המשרתים והגבלת כהונה: אלו חוקים מקדם גוש השינוי? - גלובס",
+      "id": "news-1598455486630272050",
+      "title": "הצעת חוק המשרתים הוגשה ביומה הראשון של הכנסת ה-26 - חי פה - חדשות חיפה",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaU51dFhYLW9RQVlQV3ZxdHBKOTU3VXR5NUZ0VThUS1c2MzVRMlo5b1JJUzdYOWg4V2U4OE1ibGpRQS02S2JlUnJMR2x5T1pRdlBBLXdCQzJfRkw3VWVkWWtCRU9sRXpB?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:22:28 GMT"
+      "outlet": "חי פה - חדשות חיפה",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wYng3R2FLRWJKZTNsTTJhblh2NzNha3NTTW1xNHZiei1ESTg4WU5kbUdQZXVodVAtcnY2UkpoRFlRT1dIOEE?oc=5",
+      "updated": "Wed, 11 Nov 2026 10:18:10 GMT"
     },
     {
-      "id": "news-2086352856364073499",
+      "id": "news-9101467011055780806",
+      "title": "גוש השינוי מקדם שתי הצעות לביטול חוק השידורים של קרעי - וצלח מבחן ראשון בכנסת - Calcalist",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Calcalist",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NFR2Vi1NMXRvc0hESXBZbTlnWDZ0aFB5X0o3bllGakI3bU5ObHFXaHBPMzhTQmJUV05Md2hKWUlZbG5Zb3FGdzRGUzFQUXJXZ3Nyd2gxdXJhYThjT1VCbXVvWTlweHhn?oc=5",
+      "updated": "Wed, 11 Nov 2026 13:22:00 GMT"
+    },
+    {
+      "id": "news-3746233369525034784",
       "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -335,7 +335,7 @@
       "updated": "Tue, 10 Nov 2026 16:14:25 GMT"
     },
     {
-      "id": "news-6013046473053035103",
+      "id": "news-2499622911481908961",
       "title": "ישר: הגשנו לאוחנה יותר מ־61 חתימות של ח\"כים בדרישה להחליפו כיו\"ר הכנסת - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Tue, 10 Nov 2026 15:57:00 GMT"
     },
     {
-      "id": "news-5287486776534216925",
+      "id": "news-761998592685382996",
       "title": "אדוה לוטן: האם הכנסת יכולה לבטל את הרפורמה המשפטית בלי שאיזנקוט יקים ממשלה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,7 +355,17 @@
       "updated": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "news-3301885625740725867",
+      "id": "news-2228550872629411850",
+      "title": "מצטרפים לחרדים? הצחקתם את לפיד: הצעת החוק שהגיש - כבר ביום הראשון - כיכר השבת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "כיכר השבת",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWI3eGs1a0ZNUENGYnNENTRCaFFMRTgtc1VUcWJDbDZDQXpZdWo2MjV5cFdDTjVCekd5RW1TSzhDVUpMTDFVWVJEVkVkb3Jac0YzM2g1VkZwbjd4cnVfS08zZUd1QzNwOXc2V3FIdG0xQ1VBd0FRWDR1V3ZSempBWlFoeFBsaWUxVlBaTXBmMlRkeFU?oc=5",
+      "updated": "Tue, 10 Nov 2026 15:49:50 GMT"
+    },
+    {
+      "id": "news-8713033256143608240",
       "title": "בדמוקרטים מודיעים על בליץ חקיקה: שורת הצעות חוק בנושאים שונים יעלו עם השבע - i24NEWS",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -365,7 +375,7 @@
       "updated": "Tue, 10 Nov 2026 09:24:02 GMT"
     },
     {
-      "id": "news-8726066394981015393",
+      "id": "news-2739593958962007327",
       "title": "יאיר לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -375,17 +385,7 @@
       "updated": "Tue, 10 Nov 2026 19:23:00 GMT"
     },
     {
-      "id": "news-5789779239647667113",
-      "title": "ברית המשרתים נדחקה לשוליים והחרדים חוגגים - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1faEF0X2tQekM4NzhQbXVXQW1XeUZIVW9Nd2MzMHJTVnEwWi1ub29jUHpneGdONVFiQXUzWVRLZkZoZ1hST2h3XzAycGRxZTJnRThobDBhYTB6RXpGMlRNTk9BMjliZmw2MUE?oc=5",
-      "updated": "Fri, 06 Nov 2026 08:15:55 GMT"
-    },
-    {
-      "id": "news-7425848049698940870",
+      "id": "news-7230846051131299200",
       "title": "איזנקוט מסתבך: פחות ועדות, יותר כוח למפלגות הערביות - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,7 +395,7 @@
       "updated": "Thu, 12 Nov 2026 16:00:54 GMT"
     },
     {
-      "id": "news-8203548711617899771",
+      "id": "news-2733641753798014774",
       "title": "חוק הבסיס של ליברמן, והתנאי החדש: \"לא נבזבז דקה, רק אם יעבור את בג\"ץ\" - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,17 @@
       "updated": "Sun, 08 Nov 2026 19:14:34 GMT"
     },
     {
-      "id": "news-6565149206780365175",
+      "id": "news-7268267785113545425",
+      "title": "רוטמן בעקבות ההקלטות: \"מערכת המשפט חולה מאוד\" - ערוץ 7",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyUW41MVc4blpfMExhSlUwQUtISFQ4UUxLQUQ2SzBWM0xzMDhVdUVOUXF1aGRxQnJoX2MzQ0QxWHhTcnFyZll6Ug?oc=5",
+      "updated": "Mon, 09 Nov 2026 07:31:00 GMT"
+    },
+    {
+      "id": "news-2571105889312473393",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +425,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5989851166035809282",
-      "title": "בליץ החקיקה שמתכנן גוש השינוי - והמגבלות - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lLUlvX0w0V0Y3NFk3UkxPWUx1SW5jVWoycUgxbXVlckxfZHRDNVU3ZG9pdHJQbGlhTzJ2Z1BfQlhfOW1JRGtMQXZOUkJPUjYyajVoanVBeGdxQk1UdkE?oc=5",
-      "updated": "Thu, 05 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "news-4761628911013656663",
+      "id": "news-1902317598524385730",
       "title": "ועדת חוקה, חוק ומשפט של הכנסת אישרה כי יש לאפשר למועצה האזורית חוף הכרמל לאכוף הגבלת שימוש בכלי אוכל ושתייה חד-פעמיים מפלסטיק בחופיה ולהטיל קנס על מפירי ההגבלה - GOV.IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +435,7 @@
       "updated": "Tue, 17 May 2022 07:00:00 GMT"
     },
     {
-      "id": "news-5058817938135006526",
+      "id": "news-6107626098751382087",
       "title": "ועדת חוקה התפזרה ללא אישור הגבלת ההפגנות - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -445,7 +445,7 @@
       "updated": "Tue, 08 Jul 2025 00:37:01 GMT"
     },
     {
-      "id": "news-2678494407627807692",
+      "id": "news-2620128653490866143",
       "title": "הוועדה המסדרת אישרה את הקמת ועדת הכספים וועדת החוץ והביטחון - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -455,7 +455,7 @@
       "updated": "Wed, 11 Nov 2026 12:40:00 GMT"
     },
     {
-      "id": "news-3213324759407588797",
+      "id": "news-7312816814498053930",
       "title": "השבעת הכנסת ה-26: 120 ח\"כים הצהירו אמונים - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
