@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:30:40.264628+00:00",
+  "generated_at": "2026-11-16T17:43:37.490416+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -12,270 +12,310 @@
   },
   "knesset_bills": [
     {
-      "id": "kns-2198763",
-      "title": "הצעת חוק לעידוד השקעות הון בחקלאות (תיקון - השוואת ההטבות בתעשייה להטבות בחקלאות), התשפ\"ג-2023",
+      "id": "kns-2199885",
+      "title": "הצעת חוק הביטוח הלאומי (תיקון - ביטוח שאירים לאלמן), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198763",
-      "updated": "2026-11-16T09:11:07.317"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199885",
+      "updated": "2026-11-16T18:03:00.07"
     },
     {
-      "id": "kns-2199169",
-      "title": "הצעת חוק לעידוד השקעות הון בחקלאות (תיקון - השוואת ההטבות בתעשייה להטבות בחקלאות), התשפ\"ג-2023",
+      "id": "kns-2198769",
+      "title": "הצעת חוק לתיקון פקודת התעבורה (הגבלת דמי חניה בחניוני בתי חולים), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199169",
-      "updated": "2026-11-16T09:06:19.69"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198769",
+      "updated": "2026-11-16T17:17:49.4"
     },
     {
-      "id": "kns-2223725",
-      "title": "הצעת חוק הביטוח הלאומי (תיקון - הארכת הזכאות לדמי אבטלה למשרתי מילואים), התשפ\"ה-2024",
+      "id": "kns-2156830",
+      "title": "הצעת חוק להרחבת הייצוג ההולם של בני האוכלוסייה החרדית ברשויות ובתאגידים ציבוריים (תיקוני חקיקה), התשפ\"א-2021",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2223725",
-      "updated": "2026-11-16T08:06:52.077"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2156830",
+      "updated": "2026-11-16T17:02:36.103"
     },
     {
-      "id": "kns-2198950",
-      "title": "הצעת חוק תאגידי מים וביוב (תיקון - הפעלת שירותי מים וביוב על ידי רשות מקומית), התשפ\"ג-2023",
+      "id": "kns-2198919",
+      "title": "הצעת חוק המאבק בטרור (תיקון - איסור החזרת גופות מחבלים), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198950",
-      "updated": "2026-11-16T07:54:55.947"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198919",
+      "updated": "2026-11-16T16:58:22.787"
     },
     {
-      "id": "kns-2224149",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - תקופה מרבית לכהונה בתפקיד כראש הממשלה)",
+      "id": "kns-2200574",
+      "title": "הצעת חוק המאבק בטרור (תיקון - אי-החזרת גופות מחבלים), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2224149",
-      "updated": "2026-11-15T20:11:26.91"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2200574",
+      "updated": "2026-11-16T16:56:05.32"
     },
     {
-      "id": "kns-2205476",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות)",
+      "id": "kns-2237195",
+      "title": "הצעת חוק לתיקון פקודת בריאות העם (מרכזים אקוטיים), התשפ\"ו-2025",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2205476",
-      "updated": "2026-11-15T20:09:01.85"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2237195",
+      "updated": "2026-11-16T16:34:26.727"
     },
     {
-      "id": "kns-2203407",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות)",
+      "id": "kns-2199930",
+      "title": "הצעת חוק שירות ביטחון (תיקון - השוואת תהליכי המיון, השיבוץ, התקינה וההכשרה, המסלולים המקצועיים ואופקי הקידום לנשים וגברים), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-      "updated": "2026-11-15T20:08:12.77"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199930",
+      "updated": "2026-11-16T15:55:48.73"
     },
     {
-      "id": "kns-2214912",
-      "title": "הצעת חוק כליאתם של לוחמים בלתי חוקיים (תיקון - החלפת המונח לוחמים בלתי חוקיים), התשפ\"ד-2024 ",
+      "id": "kns-2207881",
+      "title": "הצעת חוק הבנקאות (שירות ללקוח) (תיקון - ריבית על יתרת זכות), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2214912",
-      "updated": "2026-11-15T20:07:37.153"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2207881",
+      "updated": "2026-11-16T15:52:14.137"
     },
     {
-      "id": "kns-2198963",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון – תקופת כהונה מרבית בתפקיד ראש הממשלה)",
+      "id": "kns-2219609",
+      "title": "הצעת חוק מנהלת מילואים, התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198963",
-      "updated": "2026-11-15T20:07:15.407"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2219609",
+      "updated": "2026-11-16T15:41:25.91"
     },
     {
-      "id": "kns-2199956",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות)",
+      "id": "kns-2204400",
+      "title": "הצעת חוק התכנון והבנייה (תיקון - ייצוג הולם לנשים במוסדות התכנון), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199956",
-      "updated": "2026-11-15T20:06:22.043"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2204400",
+      "updated": "2026-11-16T15:10:03.747"
     },
     {
-      "id": "kns-2198957",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות)",
-      "stage": "פרטית",
+      "id": "kns-2225520",
+      "title": "חוק שיקום נרחב לחבל התקומה כאזור מיקוד לאומי וסיוע ליישובים הסמוכים אליו, התשפ\"ה–2025 ",
+      "stage": "ממשלתית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198957",
-      "updated": "2026-11-15T20:03:58.313"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2225520",
+      "updated": "2026-11-16T14:47:19.607"
     },
     {
-      "id": "kns-2196684",
-      "title": "הצעת חוק-יסוד: הממשלה (תיקון - תקופה מרבית לכהונה בתפקיד כראש הממשלה)",
+      "id": "kns-2236922",
+      "title": "חוק שיקום נרחב לחבל התקומה כאזור מיקוד לאומי וסיוע ליישובים הסמוכים אליו (תיקון מס' 2), התשפ\"ו–2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2196684",
-      "updated": "2026-11-15T20:01:20.427"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2236922",
+      "updated": "2026-11-16T14:47:03.723"
     },
     {
-      "id": "kns-2235553",
-      "title": "הצעת חוק הקמת ועדת חקירה ממלכתית לאירועי 7 באוקטובר, התשפ\"ו-2025",
+      "id": "kns-563603",
+      "title": "חוק חופשה שנתית (תיקון מס' 15 והוראת שעה), התשע\"ו-2016",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2235553",
-      "updated": "2026-11-15T18:15:37.027"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=563603",
+      "updated": "2026-11-16T14:33:48.733"
     },
     {
-      "id": "kns-2226911",
-      "title": "הצעת חוק הקמת ועדת חקירה ממלכתית לאירועי 7 באוקטובר, התשפ\"ה-2025",
+      "id": "kns-2222432",
+      "title": "הצעת חוק חסינות חברי הכנסת, זכויותיהם וחובותיהם (תיקון - כינוס ועדת האתיקה וסמכויותיה בקשר למסירת מידע לכנסת על ידי שרים), התשפ\"ה-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2226911",
-      "updated": "2026-11-15T18:14:54.65"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2222432",
+      "updated": "2026-11-16T14:33:17.61"
     },
     {
-      "id": "kns-2209838",
-      "title": "הצעת חוק איסור טיפול המרה לקטין, התשפ\"ד-2023 ",
+      "id": "kns-2157023",
+      "title": "הצעת חוק חובת המכרזים (תיקון - עידוד עסקים להעסקת בני החברה הערבית והחרדית), התשפ\"א-2021",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2209838",
-      "updated": "2026-11-15T18:05:25.463"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2157023",
+      "updated": "2026-11-16T14:24:47.487"
     },
     {
-      "id": "kns-2200328",
-      "title": "הצעת חוק איסור טיפול המרה לקטין, התשפ\"ג-2023",
+      "id": "kns-2218701",
+      "title": "הצעת חוק רשות מקרקעי ישראל (תיקון - העדפת רכישת קרקע בפריפריה לחיילי מילואים), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2200328",
-      "updated": "2026-11-15T18:04:56.59"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2218701",
+      "updated": "2026-11-16T13:19:39.63"
     },
     {
-      "id": "kns-2199914",
-      "title": "הצעת חוק איסור טיפול המרה לקטין, התשפ\"ג-2023",
+      "id": "kns-2238135",
+      "title": "הצעת חוק לפיתוח העיר קריית שמונה ומתן עדיפות למשרתי מילואים ונכי צה\"ל בדיור, התשפ״ו-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199914",
-      "updated": "2026-11-15T18:04:29.063"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2238135",
+      "updated": "2026-11-16T13:15:06.957"
     },
     {
-      "id": "kns-2197656",
-      "title": "הצעת חוק איסור טיפול המרה לקטין, התשפ\"ג-2022",
+      "id": "kns-2210668",
+      "title": "הצעת חוק חינוך מיוחד (תיקון - שילוב בתנועות נוער), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2197656",
-      "updated": "2026-11-15T17:58:32.4"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2210668",
+      "updated": "2026-11-16T13:01:33.717"
     },
     {
-      "id": "kns-2198975",
-      "title": "הצעת חוק הביטוח הלאומי (תיקון - דמי אבטלה לעצמאים), התשפ\"ג-2023",
+      "id": "kns-2213828",
+      "title": "הצעת חוק רשות מקרקעי ישראל (תיקון - העדפת רכישת קרקע בפריפריה לחיילי מילואים), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198975",
-      "updated": "2026-11-15T16:51:20.297"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2213828",
+      "updated": "2026-11-16T12:54:03.497"
     },
     {
-      "id": "kns-2230549",
-      "title": "הצעת חוק הביטוח הלאומי (תיקון - דמי אבטלה לעצמאים), התשפ\"ה-2025",
+      "id": "kns-2213778",
+      "title": "הצעת חוק דמי מחלה (היעדרות בשל מחלת ילד) (תיקון - ימי מחלה נוספים בשל מחלת ילד לבני זוג של משרתי מילואים), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2230549",
-      "updated": "2026-11-15T16:43:06.02"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2213778",
+      "updated": "2026-11-16T12:24:29.547"
     },
     {
-      "id": "kns-2220999",
-      "title": "הצעת חוק-יסוד: הכרה במדינה פלסטינית",
+      "id": "kns-2197535",
+      "title": "הצעת חוק חינוך ממלכתי (תיקון - שלילת השתתפות בתקציב עקב הפליה), התשפ\"ג-2022",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220999",
-      "updated": "2026-11-15T16:36:18.057"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2197535",
+      "updated": "2026-11-16T12:24:15.737"
     },
     {
-      "id": "kns-2196906",
-      "title": "הצעת חוק החלת תקצוב מגדרי על תקציבים ציבוריים בישראל, התשפ\"ג-2022",
+      "id": "kns-2201651",
+      "title": "הצעת חוק שירותי רווחה (זכויות נשים ששהו במקלט לנשים מוכות) (תיקון - זכות למגורים בדיור ציבורי), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2196906",
-      "updated": "2026-11-15T16:32:38.553"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2201651",
+      "updated": "2026-11-16T12:23:44.92"
     },
     {
-      "id": "kns-2209019",
-      "title": "הצעת חוק זכויות החולה (תיקון - טיפול בזמן סביר), התשפ\"ג-2023",
+      "id": "kns-2203622",
+      "title": "הצעת חוק שירותי רווחה (זכויות נשים ששהו במקלט לנשים מוכות) (תיקון - זכות למגורים בדיור ציבורי), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2209019",
-      "updated": "2026-11-15T16:28:21.003"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203622",
+      "updated": "2026-11-16T12:23:40.213"
     },
     {
-      "id": "kns-2220281",
-      "title": "הצעת חוק החברות (תיקון - מכסות ייצוג לנשים בדירקטוריונים של חברות ציבוריות), התשפ\"ד-2024",
+      "id": "kns-251022",
+      "title": "הצעת חוק נופשונים לילדים עם נכות, התשס\"ז-2007",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220281",
-      "updated": "2026-11-15T16:28:01.627"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=251022",
+      "updated": "2026-11-16T12:17:48.353"
     },
     {
-      "id": "kns-2220960",
-      "title": "הצעת חוק שירות המדינה (מינויים) (תיקון - ייצוג הולם ללוחמים), התשפ\"ד-2024",
+      "id": "kns-2199014",
+      "title": "הצעת חוק שלילת תקצוב מוסדות חינוך המפלים תלמידים ברישום אליהם (תיקוני חקיקה), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220960",
-      "updated": "2026-11-15T16:10:42.89"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2199014",
+      "updated": "2026-11-16T11:45:15.103"
     }
   ],
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-3798163313077975568",
-      "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו - YNET",
+      "id": "news-7087281224997957736",
+      "title": "בעקבות יציאת הח\"כים הערבים בזמן התקווה: הצעת חוק תחייב נאמנות לסמלי המדינה - ערוץ 7",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KckMzTi02UHM5WERaRWVRN01XQWlBN1l2YmNHVkItU1FrOWtuajRGbUt3Y2ROX0NJT1NVenZEUUdMS0hJQ19VNg?oc=5",
+      "updated": "Mon, 16 Nov 2026 09:47:00 GMT"
+    },
+    {
+      "id": "news-673592324759364584",
+      "title": "בנט והחרדים מתנגחים בהצעות חוק, אשר הציג: אלה התנאים לממשלה - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yUmRBSFdqSnFCeDFkYmd2T25sS3lkc0ltdXlITzRjMEVYZ2FlbHBrbU1yTU5MVERlamRocGIwRWtONmpMbTA3YXlCQm51YXRBYW1ubGVYcGt0dw?oc=5",
-      "updated": "Tue, 10 Nov 2026 16:14:25 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hY1o0QzFRZ3FqcW8yZU9fdHpvaUVhY1RKSGE0NXZmYWRZeXFZRzlnT0RPQ3dHOENvZ0M0TGNqVEhaZVdJWGV0R21SWDZ2TnJXbXpHWjlaejZMUQ?oc=5",
+      "updated": "Wed, 11 Nov 2026 08:58:33 GMT"
     },
     {
-      "id": "news-8911319860999613735",
+      "id": "news-7085035134888942414",
+      "title": "שיתוף פעולה מפתיע בכנסת: המאבק שעשוי לשנות את החוק בישראל - מעריב",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CU185LWRSREpOVUJmc1BZUm1SeVZkbEdYTVJzUFc3Z0luRDVuY1V3NjBMZlNfUE9aVkJEU2JDdDV5RFFndmM4V2dFOHdIdVNvdklyMGVfMGdNVEpVQU5qdTdleUY?oc=5",
+      "updated": "Mon, 16 Nov 2026 12:05:44 GMT"
+    },
+    {
+      "id": "news-5549719190672632077",
+      "title": "עוד הבטחה נתקעת: השמאל מקפיא את חוק ועדת החקירה - אמס",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אמס",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EdUcyMzRZakx4dUoyUGJCeWFQS19lM2hsWjVZV3Blc0IxOHZELXozUUxvQW1Fc3R0WGN4LS12d09RcHlGSWt2MHBSZWVFUQ?oc=5",
+      "updated": "Mon, 16 Nov 2026 08:23:55 GMT"
+    },
+    {
+      "id": "news-2776515180968614467",
+      "title": "בשבוע הראשון לכנסת: עוצמה יהודית הגישה הצעת חוק \"מיהו יהודי\" - חב\"ד אינפו",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "חב\"ד אינפו",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tcFBNUFdrSU5zT2dSMDZ6ektYLU5TY2lKcXprQmREOWJNa0tpVUlydVlJMHo4YkNVdU5OWU4zX0tVTzduWkoyeQ?oc=5",
+      "updated": "Thu, 12 Nov 2026 12:53:28 GMT"
+    },
+    {
+      "id": "news-5916141412922598241",
       "title": "חוק המשרתים והגבלת כהונה: אלו חוקים מקדם גוש השינוי? - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,47 +325,7 @@
       "updated": "Wed, 11 Nov 2026 08:22:28 GMT"
     },
     {
-      "id": "news-1755825963065424247",
-      "title": "ישר: הגשנו לאוחנה יותר מ־61 חתימות של ח\"כים בדרישה להחליפו כיו\"ר הכנסת - הארץ",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeW1HWVNoTjZiaXl5UmgwcWwwSTRHWlpwdDVxTmN3OGF2ZjR0MzlVU2JCaFQ0ZktFOUNuQlpNanc1UXMzSmprdk5KVjhXTXAtMDZUb292dTNGS0JHbElDZnRzV1ZfLUJjd3VEaWE3UERLRWNVMzlTaVNvYVk0T1pYUDdqVWc3NE5UVEZUbGI1STI3cHRmaWg3aUZqVXliZ1pq?oc=5",
-      "updated": "Tue, 10 Nov 2026 15:57:00 GMT"
-    },
-    {
-      "id": "news-4546502116297254184",
-      "title": "צביקה מור קורא לממשלת אחדות ומציג חוק להגבלת עסקאות חטופים - אמס",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אמס",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oMXF5VUw5Wmxhc0FRYmx6Sm85Rkp0RGFsaWlnT3VvRXRBZU12OFpEVGdpZVQ1YlhhU0taRUpSSnVYUGg4UVdJU2hhaDJadw?oc=5",
-      "updated": "Sun, 15 Nov 2026 21:23:07 GMT"
-    },
-    {
-      "id": "news-3628571954156727592",
-      "title": "לקראת הוזלה של מאות שקלים בחודש? הבשורה להורי תינוקות בישראל - מעריב",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WcXBWRHQzYzhNSU4tNDUtbF9SNU56bGhONF9RbFc1QUNOY3g0UTVVOVBoYTRBdC1wVTZ0UUU1SXFSYjYtbVlRSDN5MjBLMGxPaWFDaVJtNGhJalRobGs3UUN0TVo?oc=5",
-      "updated": "Sun, 15 Nov 2026 16:16:46 GMT"
-    },
-    {
-      "id": "news-6393966867382738155",
-      "title": "אוחנה: ההצבעה על החלפת יו\"ר הכנסת תתקיים עוד שבוע - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BalpiSXJ5emFSaXJfMk5UZEFXaEctZHlSS1JhT1JoQVBuWEwxcDdFTW85S1lCUmVVRlk5a25qbkNUV2tLTm84ZjEtajdaVmZ4V1lpaUNpOWgtSmJIdHdYRlQzSGlheGQxVkNRU3NB?oc=5",
-      "updated": "Tue, 10 Nov 2026 07:59:09 GMT"
-    },
-    {
-      "id": "news-6048651613866642118",
+      "id": "news-6300242097821152457",
       "title": "מהן הסמכויות של ממשלת מעבר? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,27 @@
       "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-8236375906173285931",
+      "id": "news-230927566048986920",
+      "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yUmRBSFdqSnFCeDFkYmd2T25sS3lkc0ltdXlITzRjMEVYZ2FlbHBrbU1yTU5MVERlamRocGIwRWtONmpMbTA3YXlCQm51YXRBYW1ubGVYcGt0dw?oc=5",
+      "updated": "Tue, 10 Nov 2026 16:14:25 GMT"
+    },
+    {
+      "id": "news-5099430144230215019",
+      "title": "ישר: הגשנו לאוחנה יותר מ־61 חתימות של ח\"כים בדרישה להחליפו כיו\"ר הכנסת - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeW1HWVNoTjZiaXl5UmgwcWwwSTRHWlpwdDVxTmN3OGF2ZjR0MzlVU2JCaFQ0ZktFOUNuQlpNanc1UXMzSmprdk5KVjhXTXAtMDZUb292dTNGS0JHbElDZnRzV1ZfLUJjd3VEaWE3UERLRWNVMzlTaVNvYVk0T1pYUDdqVWc3NE5UVEZUbGI1STI3cHRmaWg3aUZqVXliZ1pq?oc=5",
+      "updated": "Tue, 10 Nov 2026 15:57:00 GMT"
+    },
+    {
+      "id": "news-4598191561204075837",
       "title": "אדוה לוטן: האם הכנסת יכולה לבטל את הרפורמה המשפטית בלי שאיזנקוט יקים ממשלה? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +365,7 @@
       "updated": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "news-4201463961066687212",
+      "id": "news-417227763846061426",
       "title": "הרפורמה המשפטית חוזרת לשולחן: שמחה רוטמן הגיש 85 הצעות חוק - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +375,17 @@
       "updated": "Wed, 11 Nov 2026 08:11:28 GMT"
     },
     {
-      "id": "news-5507071796579352310",
-      "title": "מצטרפים לחרדים? הצחקתם את לפיד: הצעת החוק שהגיש - כבר ביום הראשון - כיכר השבת",
+      "id": "news-2650238572955683342",
+      "title": "\"האנשים שיצאו בזמן שירת התקווה? תומכי חמאס\" - 103FM",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWI3eGs1a0ZNUENGYnNENTRCaFFMRTgtc1VUcWJDbDZDQXpZdWo2MjV5cFdDTjVCekd5RW1TSzhDVUpMTDFVWVJEVkVkb3Jac0YzM2g1VkZwbjd4cnVfS08zZUd1QzNwOXc2V3FIdG0xQ1VBd0FRWDR1V3ZSempBWlFoeFBsaWUxVlBaTXBmMlRkeFU?oc=5",
-      "updated": "Tue, 10 Nov 2026 15:49:50 GMT"
+      "outlet": "103FM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRHdQaVVsVmx6bEJ6U0tOVk44VmF3Z2JZdGZkOE53SXN6WXBKR2hHNlItOVRFNWhKcUR4UnA3VGpmcVN4S3d4LS03WnVxSG1NNzhLQlhuVlJWdnk5TzdGcUVXaGNQcEZGZ3lhY3E3RTl0ZG51WjNJdi1QaElrS1k?oc=5",
+      "updated": "Tue, 10 Nov 2026 21:33:02 GMT"
     },
     {
-      "id": "news-4299449038109176733",
+      "id": "news-3392216385335389286",
       "title": "איזנקוט מסתבך: פחות ועדות, יותר כוח למפלגות הערביות - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +395,17 @@
       "updated": "Thu, 12 Nov 2026 16:00:54 GMT"
     },
     {
-      "id": "news-6014092826659554950",
-      "title": "חוק הבסיס של ליברמן, והתנאי החדש: \"לא נבזבז דקה, רק אם יעבור את בג\"ץ\" - YNET",
+      "id": "news-2310062550838373749",
+      "title": "85 הצעות חוק ביום אחד: רוטמן מתכנן להמשיך את הרפורמה המשפטית בכנסת החדשה - ערוץ 7",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYjlLMzdOY011WlhMaVlENS0yeEhVdVdHZmZ3YUtYZUZzeGg1dUJ3VnN3a3J4bWFGQ1RfVzNFQnR5UnROT1lGSTRCZW45bjZ6dTJUbmcwdFA2dw?oc=5",
-      "updated": "Sun, 08 Nov 2026 19:14:34 GMT"
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZeElkWWtmRm9NQU1IemVxMVFrVjhKMFdhVTFab2o2LUJoa3BYZlRYVnRRRWZqOXdwa3h3MVBqcno2VHdaR0dBLQ?oc=5",
+      "updated": "Wed, 11 Nov 2026 07:09:00 GMT"
     },
     {
-      "id": "news-8910703455648646754",
+      "id": "news-7845770052851297603",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -395,17 +415,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-961979529573549841",
-      "title": "רוטמן בעקבות ההקלטות: \"מערכת המשפט חולה מאוד\" - ערוץ 7",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyUW41MVc4blpfMExhSlUwQUtISFQ4UUxLQUQ2SzBWM0xzMDhVdUVOUXF1aGRxQnJoX2MzQ0QxWHhTcnFyZll6Ug?oc=5",
-      "updated": "Mon, 09 Nov 2026 07:31:00 GMT"
-    },
-    {
-      "id": "news-3906592837968971466",
+      "id": "news-3936951137361393793",
       "title": "ועדת חוקה התפזרה ללא אישור הגבלת ההפגנות - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -415,7 +425,7 @@
       "updated": "Tue, 08 Jul 2025 00:37:01 GMT"
     },
     {
-      "id": "news-2186111892702151355",
+      "id": "news-4731957670325955874",
       "title": "מהן סמכויותיו של יו\"ר הכנסת? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,8 +435,8 @@
       "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-8234816657514600389",
-      "title": "ועדות הכספים והחוץ והביטחון יתכנסו הבוקר למינוי יושבי הראש שלהן - הארץ",
+      "id": "news-2414725880917075306",
+      "title": "ליברמן: אזמן את הרמטכ\"ל לוועדת החוץ והביטחון; כץ: אאשר רק אחרי בירור - הארץ",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
@@ -435,34 +445,24 @@
       "updated": "Mon, 16 Nov 2026 06:06:00 GMT"
     },
     {
-      "id": "news-5914042128668793363",
-      "title": "ההבנה בגוש השינוי: ועדת חקירה ממלכתית תצטרך לחכות. אחדות? \"רק בהיעדר פתרון אחר\" - YNET",
+      "id": "news-2684061555176768592",
+      "title": "לירן אבישר בן חורין מונתה ליו\"רית ועדת הכספים הזמנית של הכנסת - TheMarker",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWTJYVnloX3BhREJCOEdyZnEyWVVJQlBNaENlNTV1eEZRQTlDaGNWQkhXb2lCREdVUDVoX003WmdQOU5BeTRjTjVkQUw3QnhiRy1WM3NENnVOc01ZNlNzR3h3cVhwNHhpZWRXZjQ5MGZXeFhSM2VnMDUxMmhfUWdUVE5KQnNfUWZCblgwMFZrc1J4UW0xQjY0Z0kydEJEdjg?oc=5",
+      "updated": "Mon, 16 Nov 2026 08:54:00 GMT"
+    },
+    {
+      "id": "news-7075998916635058336",
+      "title": "ליברמן מונה ליו\"ר ועדת חוץ וביטחון: נחיל חוק שיעבור את הרמטכ\"ל, בג\"ץ והרב לנדו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2RXltS2RJUC1ULUdVNGdwTDNnekdLRERHeGx6My1rRl94aDdmZFl3UnhnTmdBNnB1ek5zOVlkeDAtMWFhM0JscGtIdm1RZnJ1S1MxWEJTdzBuWTQ?oc=5",
-      "updated": "Sun, 15 Nov 2026 22:05:16 GMT"
-    },
-    {
-      "id": "news-6849562573659183933",
-      "title": "גוש השמאל סיכם: סגן יו\"ר הכנסת ל'משותפת' - אמס",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אמס",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNWUttdVVaaHVxNDk0RnpzMS03MnVKSW5HeHRuT2ZkdFl3NGdVOGc5STJiM1BQMTI3b2xhcElyR2hSXzM4VTVuYzlOUF9IUQ?oc=5",
-      "updated": "Sun, 15 Nov 2026 17:57:59 GMT"
-    },
-    {
-      "id": "news-6001610722617699213",
-      "title": "כדי לא להצביע בעד אחמד טיבי: המהלך החריג שמתוכנן בגוש הימין - C14",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BTHU5NElDbjdiZDFCSmVnX0V6b0R1MHVMV1c2Zi1ORUF2djBTLVVqSWsyRVItNmFKcVJyTjFSbHZrSTllaUsyYl9kTTlxUQ?oc=5",
-      "updated": "Mon, 16 Nov 2026 07:24:17 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tbURQZ0FjdkdrN0J0MllWM3ZFSUFINW0yZjJVRTZhMWpYUGJweWkyd3U2WXR6U0s5dUh1UFFZaFh2OU5vdjBFdVlyUlcwVUdLRlJRb25VSWNkdw?oc=5",
+      "updated": "Mon, 16 Nov 2026 08:01:13 GMT"
     }
   ]
 }
