@@ -2,8 +2,12 @@ name: עדכון מכ״ם חקיקה
 
 on:
   schedule:
-    - cron: "0 * * * *"   # כל שעה, בדיוק בשעה עגולה
+    - cron: "0 * * * *"
   workflow_dispatch: {}
+
+concurrency:
+  group: legislation-feed
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -24,19 +30,22 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run collector
+      - name: Collect existing feed
         run: python scripts/update_feed.py
 
-      - name: Commit updated feed
+      - name: Snapshot OData parliamentary entities
+        run: python scripts/collect_parliament.py
+
+      - name: Commit collected feed and snapshot
         run: |
           git config user.name "legis-radar-bot"
           git config user.email "actions@github.com"
-          git add docs/feed.json
-          git diff --quiet --cached || git commit -m "עדכון אוטומטי: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git add docs/feed.json docs/odata_snapshot.json docs/odata_changes.json
+          git diff --quiet --cached || git commit -m "Daily parliamentary OData snapshot $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
       - name: Run health check
-        continue-on-error: true  # תפקידו להתריע (Issue), לא לצבוע את כל הריצה באדום
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
