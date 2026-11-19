@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-11-19T17:52:22.719372+00:00",
+  "first_snapshot": true,
+  "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
+  "coverage": {
+    "bills": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated": false,
+      "limit": 1200
+    },
+    "agendas": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated": false,
+      "limit": 1200
+    },
+    "questions": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated": false,
+      "limit": 1200
+    },
+    "committee_sessions": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated": false,
+      "limit": 1200
+    },
+    "committee_agenda": {
+      "status": "error",
+      "errors": [
+        "v4/ordered: 404 Client Error: Not Found for url: https://knesset.gov.il/OdataV4/ParliamentInfo/KNS_CommitteeSessionAgenda?%24format=json&%24top=100&%24orderby=Las",
+        "v4/unordered: 404 Client Error: Not Found for url: https://knesset.gov.il/OdataV4/ParliamentInfo/KNS_CommitteeSessionAgenda?%24format=json&%24top=100",
+        "v3/ordered: 404 Client Error: Not Found for url: https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_CommitteeSessionAgenda?%24format=json&%24top=100&%24orderby=L",
+        "v3/unordered: 404 Client Error: Not Found for url: https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_CommitteeSessionAgenda?%24format=json&%24top=100"
+      ]
+    },
+    "positions": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated": false,
+      "limit": 1200
+    }
+  },
+  "changes": {
+    "bills": {
+      "status": "baseline_initialized",
+      "added_to_sample_not_necessarily_new": [],
+      "modified_records": [],
+      "added_count": 0,
+      "modified_count": 0
+    },
+    "agendas": {
+      "status": "baseline_initialized",
+      "added_to_sample_not_necessarily_new": [],
+      "modified_records": [],
+      "added_count": 0,
+      "modified_count": 0
+    },
+    "questions": {
+      "status": "baseline_initialized",
+      "added_to_sample_not_necessarily_new": [],
+      "modified_records": [],
+      "added_count": 0,
+      "modified_count": 0
+    },
+    "committee_sessions": {
+      "status": "baseline_initialized",
+      "added_to_sample_not_necessarily_new": [],
+      "modified_records": [],
+      "added_count": 0,
+      "modified_count": 0
+    },
+    "committee_agenda": {
+      "status": "unavailable",
+      "added": [],
+      "changed": []
+    },
+    "positions": {
+      "status": "baseline_initialized",
+      "added_to_sample_not_necessarily_new": [],
+      "modified_records": [],
+      "added_count": 0,
+      "modified_count": 0
+    }
+  },
+  "business_bills_added_to_sample": [],
+  "warning": "This is a bounded sample. New-to-sample IDs and LastUpdatedDate do NOT prove legislative creation or full coverage; verify CreationDate/KnessetNum and source before reporting as new."
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:14:52.713535+00:00",
+  "generated_at": "2026-11-19T17:52:22.613262+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -12,14 +12,74 @@
   },
   "knesset_bills": [
     {
-      "id": "kns-2198073",
-      "title": "הצעת חוק קביעת הזמן (תיקון - ביטול שעון חורף), התשפ\"ג- 2022",
+      "id": "kns-2234796",
+      "title": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+      "stage": "ממשלתית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2234796",
+      "updated": "2026-11-19T14:22:12.31"
+    },
+    {
+      "id": "kns-2204139",
+      "title": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198073",
-      "updated": "2026-11-19T09:36:12.147"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2204139",
+      "updated": "2026-11-19T13:20:39.02"
+    },
+    {
+      "id": "kns-2200245",
+      "title": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2200245",
+      "updated": "2026-11-19T13:19:24.71"
+    },
+    {
+      "id": "kns-2231207",
+      "title": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ה-2025",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2231207",
+      "updated": "2026-11-19T12:34:34.697"
+    },
+    {
+      "id": "kns-2196755",
+      "title": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ג-2022",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2196755",
+      "updated": "2026-11-19T12:33:47.52"
+    },
+    {
+      "id": "kns-2210217",
+      "title": "הצעת חוק-יסוד: מגילת העצמאות",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2210217",
+      "updated": "2026-11-19T11:41:18.917"
+    },
+    {
+      "id": "kns-2245767",
+      "title": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245767",
+      "updated": "2026-11-19T11:10:51.393"
     },
     {
       "id": "kns-2245672",
@@ -29,7 +89,77 @@
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
       "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245672",
-      "updated": "2026-11-19T09:27:00.447"
+      "updated": "2026-11-19T11:10:23.567"
+    },
+    {
+      "id": "kns-2245641",
+      "title": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245641",
+      "updated": "2026-11-19T11:10:04.467"
+    },
+    {
+      "id": "kns-2245597",
+      "title": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245597",
+      "updated": "2026-11-19T11:08:39.243"
+    },
+    {
+      "id": "kns-2161547",
+      "title": "הצעת חוק הסדרת מקומות רחצה (תיקון - קביעת מקומות לרחצה נפרדת), התשפ\"ב-2021",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2161547",
+      "updated": "2026-11-19T11:04:12.683"
+    },
+    {
+      "id": "kns-2231157",
+      "title": "הצעת חוק התגמולים לנפגעי פעולות איבה (תיקון - קבורה בחלקה לבחירת המשפחה), התשפ\"ה-2025",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2231157",
+      "updated": "2026-11-19T10:55:16.317"
+    },
+    {
+      "id": "kns-2235479",
+      "title": "הצעת חוק החברות (תיקון - פרסום דוחות כספיים של מונופול), התשפ\"ו-2025",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2235479",
+      "updated": "2026-11-19T10:27:37.947"
+    },
+    {
+      "id": "kns-2164596",
+      "title": "הצעת חוק איסור הפליה במוצרים, בשירותים ובכניסה למקומות בידור ולמקומות ציבוריים (תיקון - איסור הפליה בשל נשיאת נשק), התשפ\"ב-2021",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2164596",
+      "updated": "2026-11-19T10:20:12.163"
+    },
+    {
+      "id": "kns-2198073",
+      "title": "הצעת חוק קביעת הזמן (תיקון - ביטול שעון חורף), התשפ\"ג- 2022",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198073",
+      "updated": "2026-11-19T09:36:12.147"
     },
     {
       "id": "kns-2226063",
@@ -130,152 +260,32 @@
       "outlet": "אתר הכנסת (OData רשמי)",
       "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2223797",
       "updated": "2026-11-18T14:56:38.623"
-    },
-    {
-      "id": "kns-2246968",
-      "title": " הצעת חוק איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך, התשפ\"ז-2026",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246968",
-      "updated": "2026-11-18T14:24:08.897"
-    },
-    {
-      "id": "kns-2246966",
-      "title": "הצעת חוק-יסוד: הכנסת (תיקון - שלילת זכויות בגין אי-הכרה בארגון טרור)",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246966",
-      "updated": "2026-11-18T14:23:32.823"
-    },
-    {
-      "id": "kns-2215695",
-      "title": "הצעת חוק שירות המדינה (מינויים) (תיקון - הצהרת אמונים), התשפ\"ד-2024",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2215695",
-      "updated": "2026-11-18T14:17:22.327"
-    },
-    {
-      "id": "kns-2197743",
-      "title": "הצעת חוק לתיקון פקודת העיריות (קיצור תקופת הפטור מתשלום ארנונה לבניין שנהרס או ניזוק), התשפ\"ג-2022",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2197743",
-      "updated": "2026-11-18T13:44:49.867"
-    },
-    {
-      "id": "kns-2245767",
-      "title": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245767",
-      "updated": "2026-11-18T13:24:32.44"
-    },
-    {
-      "id": "kns-2234467",
-      "title": "הצעת חוק לתיקון פקודת מס הכנסה (שלילת הכרה בעמותות המעודדות השתמטות משירות ביטחון), התשפ״ה-2025",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2234467",
-      "updated": "2026-11-18T12:51:09.327"
-    },
-    {
-      "id": "kns-2245597",
-      "title": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245597",
-      "updated": "2026-11-18T12:45:55"
-    },
-    {
-      "id": "kns-2245641",
-      "title": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245641",
-      "updated": "2026-11-18T12:02:35.563"
-    },
-    {
-      "id": "kns-2203828",
-      "title": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203828",
-      "updated": "2026-11-18T10:59:07.11"
-    },
-    {
-      "id": "kns-2235206",
-      "title": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2235206",
-      "updated": "2026-11-18T10:58:46.543"
-    },
-    {
-      "id": "kns-2215240",
-      "title": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ד-2024 ",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2215240",
-      "updated": "2026-11-18T10:53:41.33"
-    },
-    {
-      "id": "kns-2198751",
-      "title": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ג-2023 ",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2198751",
-      "updated": "2026-11-18T10:45:33.717"
-    },
-    {
-      "id": "kns-2156482",
-      "title": "הצעת חוק המוסד העליון ללשון העברית (תיקון מס' 5) (כתיב ותעתיק של שמות מקומות ציבוריים), התשפ\"ב–2022",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2156482",
-      "updated": "2026-11-18T10:39:39.41"
     }
   ],
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-3440981362987752659",
+      "id": "news-5343296203219516287",
       "title": "בניסיון להביך את גוש איזנקוט: \"חוקי ההטרלה\" שהליכוד העלה - ואושרו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "YNET",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpWjZodW1EWXFIdXhHU2VnN2kxZmZtbnhHTkozU0xTTVg3dm14MFY5dTRwZVJydko1c3JQZkswWlRUUnFlNl9peGd6STEtejF2WGFXN3VDeHEyQQ?oc=5",
-      "updated": "Wed, 18 Nov 2026 08:23:00 GMT"
+      "updated": "Wed, 18 Nov 2026 11:29:38 GMT"
     },
     {
-      "id": "news-1124970671600194756",
+      "id": "news-7935865084354694353",
+      "title": "הצעת החוק הוגשה: ראש ממשלה לא יוכל לכהן יותר משמונה שנים - בחדרי חרדים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "בחדרי חרדים",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxN0tkaXQxbmJWeFpRbmZ5N0ZITzhGQmMzaTRqcXp0cmpscXhxODBENW42eVNBWTFhckNwYnN1NGpoZ3dzdUQ3WjZvTQ?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:59:00 GMT"
+    },
+    {
+      "id": "news-6294796123674608725",
       "title": "מפרקים את חוקי ההפיכה המשטרית: שלוש הצעות ביטול אושרו בקריאה טרומית - כלכליסט",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +295,7 @@
       "updated": "Wed, 18 Nov 2026 12:04:00 GMT"
     },
     {
-      "id": "news-8120602419635381073",
+      "id": "news-4116577894528242281",
       "title": "הכנסת: אושר בקריאה טרומית הצעת חוק שתגן על מבצע תפילין - חב\"ד אינפו",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +305,7 @@
       "updated": "Wed, 18 Nov 2026 15:06:26 GMT"
     },
     {
-      "id": "news-8525937192203733709",
+      "id": "news-7368206079764240109",
       "title": "מבחן לשמאל: ש\"ס יוזמת הצעת חוק שתביך את איזנקוט וחבריו - המחדש",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,37 +315,37 @@
       "updated": "Wed, 18 Nov 2026 18:31:46 GMT"
     },
     {
-      "id": "news-2729210148017137310",
-      "title": "חוק מהפכני של יעקב אשר: נגד שלילת הטבות שרירותית על ידי הפקידים - כיכר השבת",
+      "id": "news-2480278614962594170",
+      "title": "פוחדים מנתניהו? השמאל מקדם את הצעת החוק להגבלת כהונת רה\"מ - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmkzRFZVV2lxNmVCOF8tM0tNZ3hfVHlqNFY0X0VLdTRzdzVZdnRIMTdBejBNbjBmV0lPRmc5M055UC1pVEcxVFJSNnd0WDhwSXhQRk5WUE1aQ3d6UTdxSHFqQ0FQU2c3elFGRjUyQ3hqcEhFQ2ZtWTR2ZTZXWXUzaGthZUN0ekxsZDVhOERSTQ?oc=5",
-      "updated": "Wed, 18 Nov 2026 11:20:46 GMT"
+      "outlet": "C14",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00TlNVWlVwYkVPVW5UcVVZb3ZoV0FRdGJHZFdIT3NkVjZCOHhmYm55Wmp0cDMxejJrcGRMUlBNRWt3U0k2bXBXX2w0cEg0QQ?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:21:10 GMT"
     },
     {
-      "id": "news-7667116298832777226",
-      "title": "הצעת 'חוק התפילין' תעלה היום במליאת הכנסת - בחדרי חרדים",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "בחדרי חרדים",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLOHY2aGctcExzSWtSN2VNeHg0SF9FdkgzXzd6OVNsbTFOekI3LWlUVUpBQWloYjFZYnpmYW5sNGQ1bDNvdVR3b0tIZw?oc=5",
-      "updated": "Wed, 18 Nov 2026 10:22:00 GMT"
-    },
-    {
-      "id": "news-6716914737165003681",
-      "title": "החוק לשלילת זכויות מחבר כנסת בגין אי-הכרה בחמאס כארגון טרור אושר בטרומית: \"זה אבסורד\" - מעריב",
+      "id": "news-4005772607479324421",
+      "title": "חוק הנאשם, נבצרות והגבלת כהונה: ההצעה שהניחו בגוש השינוי על שולחן הכנסת - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
-      "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIeEx1cVEzc2thM3ZQcUpXZHdpWUo5dWlNczZwWE1QWlNPQkU3M0t5eXk5OGV2Zk0zc1ItaEFEdTJSdl9YQjl4RUxrOVpSelo0Smp5WUZtbmpPc0tFM09JYnVLbXQ?oc=5",
-      "updated": "Wed, 18 Nov 2026 12:22:17 GMT"
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41X3MtMWNpTk5FM3VkWGFvRkJSVVBaQno4UzVGQ3FfR1F0UGc5S2pCN1l5NUNxTnIwNkJsUHhUbzNjNEN0MVZlWEN1Q09LeFJwY2xkaDVNM2FXUQ?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:57:13 GMT"
     },
     {
-      "id": "news-5725404583747202694",
+      "id": "news-1916401114491211060",
+      "title": "הוגש החוק שימנע מנתניהו להרכיב ממשלה - סרוגים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTTQ0Ml85a21lODliS0Z5b3p6QWNJam5uT0tuQmlmcEwwSV9CZUQ2bFZYenFibFhaY1dvRjNUZERVN0w0dlFrT2p3VmRLS1BwQ2ZzTFA5enphVHVaaEJnaU9ZdG1wcjlhbG01eHlheElXeGtpWXNSa1Azc3Vjc2JheFFSRi1IWGQ0S2hwZERVN0FnbjdKNnVrOU0wX0FSUTFIekhSWmRuQUdCZ2ZUMlA5aVZJN1hHSnF2aEx3bG1vZGdsWkcwYWtQbHA3OWhPcEp1NWRsMjQ5RGhZaHV6SzhLS1I2SXhzdEM0NHc2WEp2NnZsNzdrNEY3allpb0xLcmdrbWNmTGduc1hDZnMwcGhMMHhXamFZTDBxNHVtV2R3TlpmVTZpX2MzV3BPampPWmNiWUx4clQwTVB3SnF1bDRhanVaalNqWEY2d1E?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:09:36 GMT"
+    },
+    {
+      "id": "news-2698518702870504099",
       "title": "מהן הסמכויות של ממשלת מעבר? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -345,7 +355,27 @@
       "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-2450603933840295838",
+      "id": "news-5886456464843990461",
+      "title": "החוק לשלילת זכויות מחבר כנסת בגין אי-הכרה בחמאס כארגון טרור אושר בטרומית: \"זה אבסורד\" - מעריב",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIeEx1cVEzc2thM3ZQcUpXZHdpWUo5dWlNczZwWE1QWlNPQkU3M0t5eXk5OGV2Zk0zc1ItaEFEdTJSdl9YQjl4RUxrOVpSelo0Smp5WUZtbmpPc0tFM09JYnVLbXQ?oc=5",
+      "updated": "Wed, 18 Nov 2026 12:22:17 GMT"
+    },
+    {
+      "id": "news-2346863581844969230",
+      "title": "הוגשה הצעת חוק להגבלת כהונת ראש הממשלה - היום",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "היום",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTYldHVG9RNFd6ZWN4QjNOVHl0blFWV2dZVTdsWFBpUGctUEZGSFRqNEhaUmVWTHhIMXlxZUs4c3pRVFdxQWlhclJEYjNFVFFOem9UU21HclNheHY3V29MYms2UlpfcHpRelpPMA?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:01:47 GMT"
+    },
+    {
+      "id": "news-6858068121470045417",
       "title": "החרדים יתמכו: איסור הפרעה להנחת תפילין ותיקון חוק יסוד הכנסת - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -355,47 +385,17 @@
       "updated": "Wed, 18 Nov 2026 11:21:20 GMT"
     },
     {
-      "id": "news-2007233373657423688",
-      "title": "בדרך להחזרת שלטון בג\"ץ: שינוי הרכב הוועדה לבחירת שופטים - בוטל בטרומית - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTHJaNU9NUTBEQTJWNXdfekhSa2duRGNoTl9HNTdOZy1yMDlLMWtTYXpSTl8zU0JEOThhQk9BYlpoZlhSN3BoeXZFTFJQakRsQTJjUVRkVXRwc0t6Q016MktRV1pRUDA2RWc?oc=5",
-      "updated": "Wed, 18 Nov 2026 13:37:20 GMT"
-    },
-    {
-      "id": "news-7373779540225832288",
-      "title": "דרישה לפסול את הצבעתו של יונתן שלו: \"הפרת חוק יסוד\" - C14",
+      "id": "news-243323064327152030",
+      "title": "שמחה רוטמן נגד כינוס הוועדה המיוחדת: \"לא מקובל הזלזול הזה\" - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IZjNacmt0TVdTZWI2NV9fY0lGMGVab3cwUmZsWG12RzFOMTZrbmYyWEQ4NnVSTHBmenllcFRFUzdqa1BQa1o5TjdrSXpkdw?oc=5",
-      "updated": "Tue, 17 Nov 2026 13:25:37 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ja1dMS01QRWg2U1ROV1N6UnZFZ1ZpWi1YaWRwWWlrMU8tQ1IxeHp0ZW1aU2dXaUp2bE9EYm1qaExqN0hqalV0dlFYNkRPUQ?oc=5",
+      "updated": "Thu, 19 Nov 2026 10:50:08 GMT"
     },
     {
-      "id": "news-8868426235369633567",
-      "title": "הוועדה המסדרת אישרה פטור מהנחה ל-6 הצעות חוק - כולל ביטול חוקי הממשלה - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmhTY3lKVXgtZGRFM0N5NW1OQ09jSlZZeFd6SUpXVnNtekM2d2g3a2tFT0xINkxmaWRGd3pHd2F6X09SeWx5THVLY2cwNXRTU0M4aEt4QnkzbHlzWm1LZHNIZFZicExDSVBRaDJCUTVzTU5VZjZjR1hYZHR4LUdvNjVTMnNnaTdSbFJSeFVJZ00wSEE?oc=5",
-      "updated": "Wed, 18 Nov 2026 09:34:30 GMT"
-    },
-    {
-      "id": "news-4005552204894180800",
-      "title": "התובעים הסדרתיים גיבורים על חלשים במקום לטפל בעוולות אמיתיות - מקור ראשון",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CbzdBcnpqOEFYc1htQ2djNGVTam9UalBTQVRGR3VIQk1yS0t6dWJ4anlUSmQ1d3dqUXplTFBOaDdoVnVPOEFnMVV0Tk9FM1NVU1dEdUFmbm5JZmlwQUZTQ2dERlJDSnFh?oc=5",
-      "updated": "Thu, 19 Nov 2026 06:18:23 GMT"
-    },
-    {
-      "id": "news-5792219145377547489",
+      "id": "news-8075785653714372160",
       "title": "ליברמן מונה ליו\"ר ועדת חוץ וביטחון: נחיל חוק שיעבור את הרמטכ\"ל, בג\"ץ והרב לנדו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -405,7 +405,17 @@
       "updated": "Mon, 16 Nov 2026 08:01:13 GMT"
     },
     {
-      "id": "news-897554229444600218",
+      "id": "news-1945546037328288701",
+      "title": "רוטמן תוקף את כינוס הוועדה המיוחדת ללא יו\"ר: \"זלזול בחברי הוועדה\" - JDN",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "JDN",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RkNBTlNmSkdQYXdvLWJQakxrM2JZLVRrbXo1WUVha1BDbU1Ub0dEbjdBc3BjLUowQ1JEVWw0LWEzN2hoRkp2Y1M2cw?oc=5",
+      "updated": "Thu, 19 Nov 2026 11:40:52 GMT"
+    },
+    {
+      "id": "news-392913473989493468",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,7 +425,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8161755143122762919",
+      "id": "news-345853442197901824",
       "title": "ועדת חוקה, חוק ומשפט של הכנסת אישרה כי יש לאפשר למועצה האזורית חוף הכרמל לאכוף הגבלת שימוש בכלי אוכל ושתייה חד-פעמיים מפלסטיק בחופיה ולהטיל קנס על מפירי ההגבלה - GOV.IL",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -425,7 +435,7 @@
       "updated": "Tue, 17 May 2022 07:00:00 GMT"
     },
     {
-      "id": "news-976972374712198505",
+      "id": "news-6297657973545009059",
       "title": "ועדת חוקה התפזרה ללא אישור הגבלת ההפגנות - כאן 11",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -435,17 +445,7 @@
       "updated": "Tue, 08 Jul 2025 00:37:01 GMT"
     },
     {
-      "id": "news-3516226740943498297",
-      "title": "יו\"ר ועדת חוקה ח\"כ קריב הציג נוסח מעודכן להרכב הוועדה למינוי הדיינים בהסכמה עם הממשלה: \"לייצר איזונים ולא לכבול את ידי נבחרי הציבור\" - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85X1o1QkZjYWVUUTJVNV91bVZURFBRQ0ZyaGNfeEhFZGZOUUxhUURDSzJPclhRODRzZ2gwSllPOTZJMm1OWUM3NlVsUmVWaFBsQksxLVJPdFFVWEF3T0NJazh2MUo1RnE3cmQ2bDE0anFYcEZGSFVjcEhkYjQ?oc=5",
-      "updated": "Mon, 12 Jul 2021 07:00:00 GMT"
-    },
-    {
-      "id": "news-435780192267681397",
+      "id": "news-3618862080813912047",
       "title": "מהן סמכויותיו של יו\"ר הכנסת? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-1461197393396736241",
+      "id": "news-9014647070239160260",
       "title": "הליכוד מציב מתמודד מול מועמד איזנקוט ליו\"ר הכנסת, כך יצביעו החרדים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
