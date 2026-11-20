@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:05:57.061585+00:00",
+  "generated_at": "2026-11-20T07:56:38.145543+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -265,7 +265,7 @@
   "gov_announcements": [],
   "news_feed": [
     {
-      "id": "news-4874433017850017396",
+      "id": "news-2288365347997606803",
       "title": "בניסיון להביך את גוש איזנקוט: \"חוקי ההטרלה\" שהליכוד העלה - ואושרו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -275,7 +275,7 @@
       "updated": "Wed, 18 Nov 2026 08:23:00 GMT"
     },
     {
-      "id": "news-415489197392494649",
+      "id": "news-6864314225432755227",
       "title": "מפרקים את חוקי ההפיכה המשטרית: שלוש הצעות ביטול אושרו בקריאה טרומית - כלכליסט",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -285,7 +285,7 @@
       "updated": "Wed, 18 Nov 2026 12:04:00 GMT"
     },
     {
-      "id": "news-1109480155097520118",
+      "id": "news-8212696498478823215",
       "title": "הצעת החוק הוגשה: ראש ממשלה לא יוכל לכהן יותר משמונה שנים - בחדרי חרדים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -295,7 +295,7 @@
       "updated": "Thu, 19 Nov 2026 12:59:00 GMT"
     },
     {
-      "id": "news-1667750614237230922",
+      "id": "news-549497957790418055",
       "title": "הכנסת: אושר בקריאה טרומית הצעת חוק שתגן על מבצע תפילין - חב\"ד אינפו",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -305,7 +305,7 @@
       "updated": "Wed, 18 Nov 2026 15:06:26 GMT"
     },
     {
-      "id": "news-5370201575072959613",
+      "id": "news-5975540490929071303",
       "title": "חוק מהפכני של יעקב אשר: נגד שלילת הטבות שרירותית על ידי הפקידים - כיכר השבת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -315,7 +315,7 @@
       "updated": "Wed, 18 Nov 2026 11:20:46 GMT"
     },
     {
-      "id": "news-715552264686120253",
+      "id": "news-842350458762541331",
       "title": "מבחן לשמאל: ש\"ס יוזמת הצעת חוק שתביך את איזנקוט וחבריו - המחדש",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -325,7 +325,7 @@
       "updated": "Wed, 18 Nov 2026 18:31:46 GMT"
     },
     {
-      "id": "news-2537402646693137328",
+      "id": "news-4937448956497539568",
       "title": "ביטול תיקון מס' 4 להצעת חוק-יסוד: השפיטה וביטול תיקון מס' 105 להצעת חוק בתי המשפט - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -335,7 +335,7 @@
       "updated": "Wed, 18 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-3364736751116300884",
+      "id": "news-8411411427326400681",
       "title": "חוק הנאשם, נבצרות והגבלת כהונה: ההצעה שהניחו בגוש השינוי על שולחן הכנסת - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -345,7 +345,7 @@
       "updated": "Thu, 19 Nov 2026 12:57:13 GMT"
     },
     {
-      "id": "news-5215641605596016742",
+      "id": "news-4268727853090111134",
       "title": "החוק לשלילת זכויות מחבר כנסת בגין אי-הכרה בחמאס כארגון טרור אושר בטרומית: \"זה אבסורד\" - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -355,17 +355,7 @@
       "updated": "Wed, 18 Nov 2026 12:22:17 GMT"
     },
     {
-      "id": "news-6847851850747832548",
-      "title": "הוגש החוק שימנע מנתניהו להרכיב ממשלה - סרוגים",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTTQ0Ml85a21lODliS0Z5b3p6QWNJam5uT0tuQmlmcEwwSV9CZUQ2bFZYenFibFhaY1dvRjNUZERVN0w0dlFrT2p3VmRLS1BwQ2ZzTFA5enphVHVaaEJnaU9ZdG1wcjlhbG01eHlheElXeGtpWXNSa1Azc3Vjc2JheFFSRi1IWGQ0S2hwZERVN0FnbjdKNnVrOU0wX0FSUTFIekhSWmRuQUdCZ2ZUMlA5aVZJN1hHSnF2aEx3bG1vZGdsWkcwYWtQbHA3OWhPcEp1NWRsMjQ5RGhZaHV6SzhLS1I2SXhzdEM0NHc2WEp2NnZsNzdrNEY3allpb0xLcmdrbWNmTGduc1hDZnMwcGhMMHhXamFZTDBxNHVtV2R3TlpmVTZpX2MzV3BPampPWmNiWUx4clQwTVB3SnF1bDRhanVaalNqWEY2d1E?oc=5",
-      "updated": "Thu, 19 Nov 2026 12:09:36 GMT"
-    },
-    {
-      "id": "news-4546509707076568568",
+      "id": "news-3513039471088762445",
       "title": "החרדים יתמכו: איסור הפרעה להנחת תפילין ותיקון חוק יסוד הכנסת - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -375,17 +365,27 @@
       "updated": "Wed, 18 Nov 2026 11:21:20 GMT"
     },
     {
-      "id": "news-8749668494022805460",
-      "title": "דרישה לפסול את הצבעתו של יונתן שלו: \"הפרת חוק יסוד\" - C14",
+      "id": "news-5264576019877395177",
+      "title": "בדרך להחזרת שלטון בג\"ץ: שינוי הרכב הוועדה לבחירת שופטים - בוטל בטרומית - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IZjNacmt0TVdTZWI2NV9fY0lGMGVab3cwUmZsWG12RzFOMTZrbmYyWEQ4NnVSTHBmenllcFRFUzdqa1BQa1o5TjdrSXpkdw?oc=5",
-      "updated": "Tue, 17 Nov 2026 13:25:37 GMT"
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTHJaNU9NUTBEQTJWNXdfekhSa2duRGNoTl9HNTdOZy1yMDlLMWtTYXpSTl8zU0JEOThhQk9BYlpoZlhSN3BoeXZFTFJQakRsQTJjUVRkVXRwc0t6Q016MktRV1pRUDA2RWc?oc=5",
+      "updated": "Wed, 18 Nov 2026 13:37:20 GMT"
     },
     {
-      "id": "news-4874789013228801172",
+      "id": "news-3269467552623433027",
+      "title": "הוגש החוק שימנע מנתניהו להרכיב ממשלה - סרוגים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTTQ0Ml85a21lODliS0Z5b3p6QWNJam5uT0tuQmlmcEwwSV9CZUQ2bFZYenFibFhaY1dvRjNUZERVN0w0dlFrT2p3VmRLS1BwQ2ZzTFA5enphVHVaaEJnaU9ZdG1wcjlhbG01eHlheElXeGtpWXNSa1Azc3Vjc2JheFFSRi1IWGQ0S2hwZERVN0FnbjdKNnVrOU0wX0FSUTFIekhSWmRuQUdCZ2ZUMlA5aVZJN1hHSnF2aEx3bG1vZGdsWkcwYWtQbHA3OWhPcEp1NWRsMjQ5RGhZaHV6SzhLS1I2SXhzdEM0NHc2WEp2NnZsNzdrNEY3allpb0xLcmdrbWNmTGduc1hDZnMwcGhMMHhXamFZTDBxNHVtV2R3TlpmVTZpX2MzV3BPampPWmNiWUx4clQwTVB3SnF1bDRhanVaalNqWEY2d1E?oc=5",
+      "updated": "Thu, 19 Nov 2026 12:09:36 GMT"
+    },
+    {
+      "id": "news-4267703227758186757",
       "title": "ליברמן מונה ליו\"ר ועדת חוץ וביטחון: נחיל חוק שיעבור את הרמטכ\"ל, בג\"ץ והרב לנדו - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
@@ -395,7 +395,7 @@
       "updated": "Mon, 16 Nov 2026 08:01:13 GMT"
     },
     {
-      "id": "news-4502083667373657536",
+      "id": "news-1454551504506839220",
       "title": "שמחה רוטמן נגד כינוס הוועדה המיוחדת: \"לא מקובל הזלזול הזה\" - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -405,7 +405,7 @@
       "updated": "Thu, 19 Nov 2026 10:50:08 GMT"
     },
     {
-      "id": "news-6557037570784368792",
+      "id": "news-4967836069164108551",
       "title": "ועדת חוקה תדון השבוע בחוקי הבחירות. האם יוצבו קלפיות בבתי אבות? - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -415,17 +415,7 @@
       "updated": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-4673455081808877560",
-      "title": "ועדת חוקה התפזרה ללא אישור הגבלת ההפגנות - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3V0lFWU5UaGdVNTFOVGxreHVQSWVOTTRXaHFsUjA5VXp4NnVabHJtZ2p4X2FXZF9JNmd2encyZDMtSlFIMmVRTWJfUGZ5QWtUUlJ0SlRjNzFBM0pkNi1kSjVPTVFqdw?oc=5",
-      "updated": "Tue, 08 Jul 2025 00:37:01 GMT"
-    },
-    {
-      "id": "news-3333294767907926829",
+      "id": "news-3540854856320965623",
       "title": "ועדת חוקה, חוק ומשפט של הכנסת אישרה כי יש לאפשר למועצה האזורית חוף הכרמל לאכוף הגבלת שימוש בכלי אוכל ושתייה חד-פעמיים מפלסטיק בחופיה ולהטיל קנס על מפירי ההגבלה - gov.il",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -435,7 +425,17 @@
       "updated": "Tue, 17 May 2022 07:00:00 GMT"
     },
     {
-      "id": "news-7225581659642010478",
+      "id": "news-8757159943761376596",
+      "title": "ועדת חוקה התפזרה ללא אישור הגבלת ההפגנות - כאן 11",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3V0lFWU5UaGdVNTFOVGxreHVQSWVOTTRXaHFsUjA5VXp4NnVabHJtZ2p4X2FXZF9JNmd2encyZDMtSlFIMmVRTWJfUGZ5QWtUUlJ0SlRjNzFBM0pkNi1kSjVPTVFqdw?oc=5",
+      "updated": "Tue, 08 Jul 2025 00:37:01 GMT"
+    },
+    {
+      "id": "news-690082020376626369",
       "title": "יו\"ר ועדת חוקה ח\"כ קריב הציג נוסח מעודכן להרכב הוועדה למינוי הדיינים בהסכמה עם הממשלה: \"לייצר איזונים ולא לכבול את ידי נבחרי הציבור\" - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -445,7 +445,7 @@
       "updated": "Mon, 12 Jul 2021 07:00:00 GMT"
     },
     {
-      "id": "news-4070708357656012952",
+      "id": "news-8959764139299888392",
       "title": "מהן סמכויותיו של יו\"ר הכנסת? - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
@@ -455,7 +455,7 @@
       "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "news-7266692736446472613",
+      "id": "news-6143174294693048525",
       "title": "הליכוד מציב מתמודד מול מועמד איזנקוט ליו\"ר הכנסת, כך יצביעו החרדים - YNET",
       "stage": "סיקור תקשורתי",
       "tier": 2,
