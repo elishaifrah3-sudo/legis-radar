@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T17:52:22.719372+00:00",
-  "first_snapshot": true,
+  "generated_at": "2026-11-20T00:05:57.212046+00:00",
+  "first_snapshot": false,
   "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
   "coverage": {
     "bills": {
@@ -55,28 +55,28 @@
   },
   "changes": {
     "bills": {
-      "status": "baseline_initialized",
+      "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [],
       "modified_records": [],
       "added_count": 0,
       "modified_count": 0
     },
     "agendas": {
-      "status": "baseline_initialized",
+      "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [],
       "modified_records": [],
       "added_count": 0,
       "modified_count": 0
     },
     "questions": {
-      "status": "baseline_initialized",
+      "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [],
       "modified_records": [],
       "added_count": 0,
       "modified_count": 0
     },
     "committee_sessions": {
-      "status": "baseline_initialized",
+      "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [],
       "modified_records": [],
       "added_count": 0,
@@ -88,7 +88,7 @@
       "changed": []
     },
     "positions": {
-      "status": "baseline_initialized",
+      "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [],
       "modified_records": [],
       "added_count": 0,
