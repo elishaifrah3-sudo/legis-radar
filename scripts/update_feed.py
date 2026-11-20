@@ -17,6 +17,7 @@ update_feed.py
 """
 
 import json
+import hashlib
 import re
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -38,9 +39,12 @@ GOV_MINISTRIES = [
 ]
 
 KEYWORDS = [
-    "הצעת חוק", "חוק יסוד", "ועדת חוקה", "ועדת הכנסת",
-    "רגולציה", "תקנות", "קריאה ראשונה", "קריאה שנייה",
-    "היועץ המשפטי לממשלה", "ביקורת המדינה",
+    "הצעת חוק עסקים", "הצעת חוק מסחר", "חקיקה רגולציה",
+    "ועדת הכספים", "ועדת הכלכלה", "ועדת העבודה",
+    "ועדת התקשורת", "עובדים זרים הכנסת", "שדולה הכנסת",
+    "שאילתא הכנסת", "הצעה לסדר הכנסת", "יבוא ומכס",
+    "עסקים קטנים", "תחרות ומונופולים", "תחבורה תעופה הכנסת",
+    "מיסוי מעסיקים", "דיון ועדה כנסת", "הצעת חוק",
 ]
 
 OUTLET_TIER = {
@@ -105,10 +109,10 @@ def fetch_gov_rss():
             any_success = True
             for item in root.findall(".//item")[:10]:
                 title = (item.findtext("title") or "").strip()
-                if not any(k in title for k in KEYWORDS):
+                if not any(k in title for k in ("חוק", "רגולציה", "תקנות", "כנסת", "עסק", "תחרות", "עובד", "מסחר", "יבוא", "תעסוק", "כלכל")):
                     continue
                 items.append({
-                    "id": f"gov-{abs(hash(title))}",
+                    "id": f"gov-{hashlib.sha256(title.encode()).hexdigest()[:16]}",
                     "title": title,
                     "stage": "הודעת משרד ממשלתי",
                     "tier": 1,
@@ -123,10 +127,10 @@ def fetch_gov_rss():
     return items if any_success else None
 
 
-def fetch_news_rss(max_items=20):
+def fetch_news_rss(max_items=150):
     items = []
     any_success = False
-    for kw in KEYWORDS[:5]:
+    for kw in KEYWORDS:
         q = urllib.parse.quote(kw)
         url = f"https://news.google.com/rss/search?q={q}&hl=iw&gl=IL&ceid=IL:iw"
         try:
@@ -134,7 +138,7 @@ def fetch_news_rss(max_items=20):
             resp.raise_for_status()
             root = ET.fromstring(resp.content)
             any_success = True
-            for item in root.findall(".//item")[:6]:
+            for item in root.findall(".//item")[:8]:
                 title = (item.findtext("title") or "").strip()
                 source_el = item.find("source")
                 outlet = source_el.text if source_el is not None else "לא ידוע"
@@ -144,7 +148,7 @@ def fetch_news_rss(max_items=20):
                         tier = t
                         break
                 items.append({
-                    "id": f"news-{abs(hash(title))}",
+                    "id": f"news-{hashlib.sha256((title + (item.findtext('link') or '')).encode()).hexdigest()[:16]}",
                     "title": title,
                     "stage": "סיקור תקשורתי",
                     "tier": tier,
