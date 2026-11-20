@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:56:38.230494+00:00",
+  "generated_at": "2026-11-20T16:39:58.481385+00:00",
   "first_snapshot": false,
   "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
   "coverage": {
@@ -8,7 +8,7 @@
       "version": "v4",
       "ordered_by_last_update": true,
       "count_sampled": 100,
-      "truncated": false,
+      "truncated_or_more_unchecked": true,
       "limit": 1200
     },
     "agendas": {
@@ -16,7 +16,7 @@
       "version": "v4",
       "ordered_by_last_update": true,
       "count_sampled": 100,
-      "truncated": false,
+      "truncated_or_more_unchecked": true,
       "limit": 1200
     },
     "questions": {
@@ -24,7 +24,7 @@
       "version": "v4",
       "ordered_by_last_update": true,
       "count_sampled": 100,
-      "truncated": false,
+      "truncated_or_more_unchecked": true,
       "limit": 1200
     },
     "committee_sessions": {
@@ -32,24 +32,47 @@
       "version": "v4",
       "ordered_by_last_update": true,
       "count_sampled": 100,
-      "truncated": false,
+      "truncated_or_more_unchecked": true,
       "limit": 1200
     },
     "committee_agenda": {
-      "status": "error",
-      "errors": [
-        "v4/ordered: 404 Client Error: Not Found for url: https://knesset.gov.il/OdataV4/ParliamentInfo/KNS_CommitteeSessionAgenda?%24format=json&%24top=100&%24orderby=Las",
-        "v4/unordered: 404 Client Error: Not Found for url: https://knesset.gov.il/OdataV4/ParliamentInfo/KNS_CommitteeSessionAgenda?%24format=json&%24top=100",
-        "v3/ordered: 404 Client Error: Not Found for url: https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_CommitteeSessionAgenda?%24format=json&%24top=100&%24orderby=L",
-        "v3/unordered: 404 Client Error: Not Found for url: https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_CommitteeSessionAgenda?%24format=json&%24top=100"
-      ]
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated_or_more_unchecked": true,
+      "limit": 1200
     },
     "positions": {
       "status": "ok",
       "version": "v4",
       "ordered_by_last_update": true,
       "count_sampled": 100,
-      "truncated": false,
+      "truncated_or_more_unchecked": true,
+      "limit": 1200
+    },
+    "plenum_sessions": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated_or_more_unchecked": true,
+      "limit": 1200
+    },
+    "plenum_items": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated_or_more_unchecked": true,
+      "limit": 1200
+    },
+    "bill_initiators": {
+      "status": "ok",
+      "version": "v4",
+      "ordered_by_last_update": true,
+      "count_sampled": 100,
+      "truncated_or_more_unchecked": true,
       "limit": 1200
     }
   },
@@ -83,9 +106,1012 @@
       "modified_count": 0
     },
     "committee_agenda": {
-      "status": "unavailable",
-      "added": [],
-      "changed": []
+      "status": "comparison_available",
+      "added_to_sample_not_necessarily_new": [
+        {
+          "Id": 919221,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2234660,
+          "Ordinal": 4,
+          "StatusID": 111,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 919250,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2234862,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 920403,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2235899,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 921578,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2236126,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 922009,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2236713,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 922010,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2236714,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 922019,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2236716,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 922157,
+          "ItemID": 2234796,
+          "CommitteeSessionID": 2236995,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 927514,
+          "ItemID": 2245672,
+          "CommitteeSessionID": 2247407,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T13:18:41.59+02:00"
+        },
+        {
+          "Id": 927515,
+          "ItemID": 2245641,
+          "CommitteeSessionID": 2247407,
+          "Ordinal": 2,
+          "StatusID": 108,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T13:18:41.59+02:00"
+        },
+        {
+          "Id": 927518,
+          "ItemID": 2245767,
+          "CommitteeSessionID": 2247417,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T12:52:15.74+02:00"
+        },
+        {
+          "Id": 927517,
+          "ItemID": 2245767,
+          "CommitteeSessionID": 2247416,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T12:51:46.363+02:00"
+        },
+        {
+          "Id": 927519,
+          "ItemID": 2247414,
+          "CommitteeSessionID": 2247419,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "בחירת יושב ראש לוועדה המיוחדת לדיון בהצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026 (פ/10/26)",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-19T12:51:34.303+02:00"
+        },
+        {
+          "Id": 927516,
+          "ItemID": 2245767,
+          "CommitteeSessionID": 2247413,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T12:51:21.63+02:00"
+        },
+        {
+          "Id": 927512,
+          "ItemID": 2245672,
+          "CommitteeSessionID": 2247405,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:13:18.08+02:00"
+        },
+        {
+          "Id": 927513,
+          "ItemID": 2245641,
+          "CommitteeSessionID": 2247405,
+          "Ordinal": 2,
+          "StatusID": 108,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:13:18.08+02:00"
+        },
+        {
+          "Id": 927488,
+          "ItemID": 2245767,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 4,
+          "StatusID": 104,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:51.39+02:00"
+        },
+        {
+          "Id": 927503,
+          "ItemID": 2245767,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 4,
+          "StatusID": 106,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:51.39+02:00"
+        },
+        {
+          "Id": 927485,
+          "ItemID": 2245672,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 1,
+          "StatusID": 104,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:23.567+02:00"
+        },
+        {
+          "Id": 927498,
+          "ItemID": 2245672,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 1,
+          "StatusID": 106,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:23.567+02:00"
+        },
+        {
+          "Id": 927486,
+          "ItemID": 2245641,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 2,
+          "StatusID": 104,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:04.467+02:00"
+        },
+        {
+          "Id": 927499,
+          "ItemID": 2245641,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 2,
+          "StatusID": 106,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:10:04.467+02:00"
+        },
+        {
+          "Id": 927487,
+          "ItemID": 2245597,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 3,
+          "StatusID": 104,
+          "Name": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:08:39.24+02:00"
+        },
+        {
+          "Id": 927500,
+          "ItemID": 2245597,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 3,
+          "StatusID": 106,
+          "Name": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T11:08:39.24+02:00"
+        },
+        {
+          "Id": 927511,
+          "ItemID": 2247411,
+          "CommitteeSessionID": 2247410,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "הקמת הרשות הלאומית לטיפול ושיקום פצועי צה\"ל וכוחות הביטחון",
+          "ItemTypeID": 11,
+          "LastUpdatedDate": "2026-11-19T10:21:44.177+02:00"
+        },
+        {
+          "Id": 912761,
+          "ItemID": 2226063,
+          "CommitteeSessionID": 2227398,
+          "Ordinal": 4,
+          "StatusID": 106,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (קרן השתלמות לחקלאי שומר שמיטה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T09:18:55.753+02:00"
+        },
+        {
+          "Id": 926227,
+          "ItemID": 2226063,
+          "CommitteeSessionID": 2243412,
+          "Ordinal": 2,
+          "StatusID": 108,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (קרן השתלמות לחקלאי שומר שמיטה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-19T09:18:55.753+02:00"
+        },
+        {
+          "Id": 904542,
+          "ItemID": 2198805,
+          "CommitteeSessionID": 2219490,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק הפיקוח על שירותים פיננסיים (קופות גמל) (תיקון - הגדלת הסכום המרבי להפקדה בקופות גמל להשקעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T20:52:49.71+02:00"
+        },
+        {
+          "Id": 927457,
+          "ItemID": 2247036,
+          "CommitteeSessionID": 2247042,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "הקמת ועדה משותפת לוועדה הזמנית לענייני חוץ וביטחון ולוועדה הזמנית לענייני כספים, לתקציב הביטחון",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T19:10:56.4+02:00"
+        },
+        {
+          "Id": 927446,
+          "ItemID": 2246554,
+          "CommitteeSessionID": 2246552,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "בקשת הממשלה בעניין הארכת ההכרזה על מצב חירום לפי סעיף 38 לחוק-יסוד: הממשלה (מתאריך 7 בספטמבר 26)",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T19:06:17.947+02:00"
+        },
+        {
+          "Id": 927509,
+          "ItemID": 2247354,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 6,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק התקשורת (שידורים) (תיקון -ביטול החוק), התשפ\"ז-2026 (פ/10/26), בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T19:06:02.9+02:00"
+        },
+        {
+          "Id": 927508,
+          "ItemID": 2247397,
+          "CommitteeSessionID": 2247333,
+          "Ordinal": 5,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק-יסוד: השפיטה (תיקון מס' 4) (תיקון - ביטול החוק) (פ/59/26), הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026 (פ/102/26), והצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז- 2026 (פ/48/26), בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T19:05:52.213+02:00"
+        },
+        {
+          "Id": 888455,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2202818,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 890657,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2205874,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 900598,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2214602,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 904044,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2218694,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 913992,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2229327,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 914088,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2229338,
+          "Ordinal": 5,
+          "StatusID": 113,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 914179,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2229622,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 914354,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2229883,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 914494,
+          "ItemID": 2195679,
+          "CommitteeSessionID": 2230263,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 927495,
+          "ItemID": 2244627,
+          "CommitteeSessionID": 2247316,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "הצעת תקנות מס חברות מזערי בקבוצה רב-לאומית, התשפ\"ו-2026 ",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T15:26:32.43+02:00"
+        },
+        {
+          "Id": 910876,
+          "ItemID": 2223797,
+          "CommitteeSessionID": 2225090,
+          "Ordinal": 5,
+          "StatusID": 106,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 911097,
+          "ItemID": 2223797,
+          "CommitteeSessionID": 2225378,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 922523,
+          "ItemID": 2223797,
+          "CommitteeSessionID": 2237532,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 922602,
+          "ItemID": 2223797,
+          "CommitteeSessionID": 2237691,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 923379,
+          "ItemID": 2223797,
+          "CommitteeSessionID": 2239085,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 927505,
+          "ItemID": 2247315,
+          "CommitteeSessionID": 2247329,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "דיון בנושא: \"המשמעות הכלכלית של היקף ההשתתפות בשירות החובה והמילואים על המשק והכלכלה\"",
+          "ItemTypeID": 11,
+          "LastUpdatedDate": "2026-11-18T14:44:47.653+02:00"
+        },
+        {
+          "Id": 927491,
+          "ItemID": 2246768,
+          "CommitteeSessionID": 2247314,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "שינויים בתקציב לשנת 2026",
+          "ItemTypeID": 11,
+          "LastUpdatedDate": "2026-11-18T14:44:30.337+02:00"
+        },
+        {
+          "Id": 927494,
+          "ItemID": 2247318,
+          "CommitteeSessionID": 2247311,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "הצעת מינוי מנהל כללי לכנסת בהתאם לסעיף 12 ולסעיף 41 לחוק שירות המדינה (מינויים), התשי\"ט – 1959\n",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-18T14:44:14.877+02:00"
+        },
+        {
+          "Id": 927490,
+          "ItemID": 2246968,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 6,
+          "StatusID": 104,
+          "Name": " הצעת חוק איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך, התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:24:08.897+02:00"
+        },
+        {
+          "Id": 927489,
+          "ItemID": 2246966,
+          "CommitteeSessionID": 2247245,
+          "Ordinal": 5,
+          "StatusID": 104,
+          "Name": "הצעת חוק-יסוד: הכנסת (תיקון - שלילת זכויות בגין אי-הכרה בארגון טרור)",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T14:23:32.82+02:00"
+        },
+        {
+          "Id": 889170,
+          "ItemID": 2203828,
+          "CommitteeSessionID": 2204284,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 889932,
+          "ItemID": 2203828,
+          "CommitteeSessionID": 2204964,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 890246,
+          "ItemID": 2203828,
+          "CommitteeSessionID": 2204955,
+          "Ordinal": 3,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 890407,
+          "ItemID": 2203828,
+          "CommitteeSessionID": 2205386,
+          "Ordinal": 3,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 890497,
+          "ItemID": 2203828,
+          "CommitteeSessionID": 2205558,
+          "Ordinal": 6,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 919683,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235295,
+          "Ordinal": 1,
+          "StatusID": 142,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919702,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235210,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919731,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235269,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919735,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235258,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919737,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235263,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919742,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235307,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919766,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235271,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919830,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235385,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 919919,
+          "ItemID": 2235206,
+          "CommitteeSessionID": 2235428,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 884023,
+          "ItemID": 2156482,
+          "CommitteeSessionID": 2191998,
+          "Ordinal": 1,
+          "StatusID": 106,
+          "Name": "הצעת חוק המוסד העליון ללשון העברית (תיקון מס' 5) (כתיב ותעתיק של שמות מקומות ציבוריים), התשפ\"ב–2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:39:39.41+02:00"
+        },
+        {
+          "Id": 884212,
+          "ItemID": 2156482,
+          "CommitteeSessionID": 2192527,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק המוסד העליון ללשון העברית (תיקון מס' 5) (כתיב ותעתיק של שמות מקומות ציבוריים), התשפ\"ב–2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:39:39.41+02:00"
+        },
+        {
+          "Id": 884581,
+          "ItemID": 2156482,
+          "CommitteeSessionID": 2193560,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק המוסד העליון ללשון העברית (תיקון מס' 5) (כתיב ותעתיק של שמות מקומות ציבוריים), התשפ\"ב–2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:39:39.41+02:00"
+        },
+        {
+          "Id": 882690,
+          "ItemID": 2157930,
+          "CommitteeSessionID": 2169803,
+          "Ordinal": 7,
+          "StatusID": 106,
+          "Name": "הצעת חוק ברל כצנלסון (ציון זכרו ופועלו), התשפ\"ב-2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:14:35.32+02:00"
+        },
+        {
+          "Id": 882815,
+          "ItemID": 2157930,
+          "CommitteeSessionID": 2170072,
+          "Ordinal": 3,
+          "StatusID": 108,
+          "Name": "הצעת חוק ברל כצנלסון (ציון זכרו ופועלו), התשפ\"ב-2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:14:35.32+02:00"
+        },
+        {
+          "Id": 890954,
+          "ItemID": 2200251,
+          "CommitteeSessionID": 2206706,
+          "Ordinal": 2,
+          "StatusID": 108,
+          "Name": "הצעת חוק לתיקון פקודת התעבורה (הגבלת תשלום בעד חניה במוסד רפואי), התשפ\"ג-2023",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:10:20.547+02:00"
+        },
+        {
+          "Id": 890750,
+          "ItemID": 2200261,
+          "CommitteeSessionID": 2206170,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון מס' 68) (שירות טלפוני לביטול עסקה עם חברת תעופה), התשפ\"ג–2023",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:00:25.603+02:00"
+        },
+        {
+          "Id": 913651,
+          "ItemID": 2200261,
+          "CommitteeSessionID": 2228733,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון מס' 68) (שירות טלפוני לביטול עסקה עם חברת תעופה), התשפ\"ג–2023",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T10:00:25.603+02:00"
+        },
+        {
+          "Id": 892013,
+          "ItemID": 2203535,
+          "CommitteeSessionID": 2208641,
+          "Ordinal": 3,
+          "StatusID": 106,
+          "Name": "חוק לתיקון פקודת העיריות (מס' 157) , התשפ\"ד–2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:54:37.19+02:00"
+        },
+        {
+          "Id": 892075,
+          "ItemID": 2203535,
+          "CommitteeSessionID": 2208775,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק לתיקון פקודת העיריות (מס' 157) , התשפ\"ד–2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:54:37.19+02:00"
+        },
+        {
+          "Id": 892331,
+          "ItemID": 2203535,
+          "CommitteeSessionID": 2209110,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק לתיקון פקודת העיריות (מס' 157) , התשפ\"ד–2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:54:37.19+02:00"
+        },
+        {
+          "Id": 893409,
+          "ItemID": 2203535,
+          "CommitteeSessionID": 2210408,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת העיריות (מס' 157) , התשפ\"ד–2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:54:37.19+02:00"
+        },
+        {
+          "Id": 901936,
+          "ItemID": 2203535,
+          "CommitteeSessionID": 2216051,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת העיריות (מס' 157) , התשפ\"ד–2024",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:54:37.19+02:00"
+        },
+        {
+          "Id": 904929,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2220009,
+          "Ordinal": 7,
+          "StatusID": 106,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 908264,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2221788,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 909289,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2222692,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 911318,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2225676,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 912388,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2227069,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 916701,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2231980,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 916733,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2232015,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 917300,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2232759,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 918897,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2234476,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 918965,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2234523,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 919003,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2234596,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 921931,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2236633,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922136,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2236955,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922492,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2237469,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922500,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2237463,
+          "Ordinal": 3,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922544,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2237556,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922629,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2237737,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 922719,
+          "ItemID": 2218391,
+          "CommitteeSessionID": 2237878,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק מניעת פגיעת גוף שידורים זר בביטחון המדינה (הוראת שעה), התשפ\"ו–2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:52:09.32+02:00"
+        },
+        {
+          "Id": 916786,
+          "ItemID": 2229620,
+          "CommitteeSessionID": 2232111,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לייעול האכיפה והפיקוח העירוניים ברשויות המקומיות (הוראת שעה) (תיקון מס' 18), התשפ\"ה–2025 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:49:23.21+02:00"
+        },
+        {
+          "Id": 916856,
+          "ItemID": 2229620,
+          "CommitteeSessionID": 2232230,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לייעול האכיפה והפיקוח העירוניים ברשויות המקומיות (הוראת שעה) (תיקון מס' 18), התשפ\"ה–2025 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:49:23.21+02:00"
+        },
+        {
+          "Id": 917125,
+          "ItemID": 2229620,
+          "CommitteeSessionID": 2232475,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לייעול האכיפה והפיקוח העירוניים ברשויות המקומיות (הוראת שעה) (תיקון מס' 18), התשפ\"ה–2025 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-18T09:49:23.21+02:00"
+        }
+      ],
+      "modified_records": [],
+      "added_count": 100,
+      "modified_count": 0
     },
     "positions": {
       "status": "comparison_available",
@@ -93,8 +1119,3032 @@
       "modified_records": [],
       "added_count": 0,
       "modified_count": 0
+    },
+    "plenum_sessions": {
+      "status": "comparison_available",
+      "added_to_sample_not_necessarily_new": [
+        {
+          "Id": 2246406,
+          "Number": 5,
+          "KnessetNum": 26,
+          "Name": "ישיבת מליאה בתאריך 18/11/2026 בשעה 11:00",
+          "StartDate": "2026-11-18T11:00:00+02:00",
+          "FinishDate": "2026-11-18T18:27:10+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-18T18:28:12.317+02:00"
+        },
+        {
+          "Id": 2246405,
+          "Number": 4,
+          "KnessetNum": 26,
+          "Name": "ישיבת מליאה בתאריך 17/11/2026 בשעה 16:00",
+          "StartDate": "2026-11-17T16:00:00+02:00",
+          "FinishDate": "2026-11-18T09:22:03+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-18T09:22:38.183+02:00"
+        },
+        {
+          "Id": 2246403,
+          "Number": 3,
+          "KnessetNum": 26,
+          "Name": "ישיבת מליאה בתאריך 16/11/2026 בשעה 16:00",
+          "StartDate": "2026-11-16T16:00:00+02:00",
+          "FinishDate": "2026-11-16T17:37:35+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-16T17:38:07.087+02:00"
+        },
+        {
+          "Id": 2245727,
+          "Number": 2,
+          "KnessetNum": 26,
+          "Name": "ישיבת מליאה בתאריך 11/11/2026 בשעה 11:00",
+          "StartDate": "2026-11-11T11:00:00+02:00",
+          "FinishDate": "2026-11-11T17:20:26+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-11T17:21:28.907+02:00"
+        },
+        {
+          "Id": 2245487,
+          "Number": 1,
+          "KnessetNum": 26,
+          "Name": "ישיבת מליאה בתאריך 10/11/2026 בשעה 16:00",
+          "StartDate": "2026-11-10T16:00:00+02:00",
+          "FinishDate": "2026-11-10T16:53:45+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-10T16:54:36.537+02:00"
+        },
+        {
+          "Id": 2195640,
+          "Number": 1,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 15/11/2022 בשעה 16:00",
+          "StartDate": "2022-11-15T16:00:00+02:00",
+          "FinishDate": "2022-11-15T16:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2196130,
+          "Number": 2,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 16/11/2022 בשעה 11:00",
+          "StartDate": "2022-11-16T11:00:00+02:00",
+          "FinishDate": "2022-11-16T18:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197500,
+          "Number": 3,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 21/11/2022 בשעה 16:00",
+          "StartDate": "2022-11-21T16:00:00+02:00",
+          "FinishDate": "2022-11-21T17:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197501,
+          "Number": 4,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 22/11/2022 בשעה 16:00",
+          "StartDate": "2022-11-22T16:00:00+02:00",
+          "FinishDate": "2022-11-22T18:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197502,
+          "Number": 5,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 23/11/2022 בשעה 11:00",
+          "StartDate": "2022-11-23T11:00:00+02:00",
+          "FinishDate": "2022-11-23T13:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197802,
+          "Number": 6,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 28/11/2022 בשעה 16:00",
+          "StartDate": "2022-11-28T16:00:00+02:00",
+          "FinishDate": "2022-11-28T19:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197803,
+          "Number": 7,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 29/11/2022 בשעה 16:00",
+          "StartDate": "2022-11-29T16:00:00+02:00",
+          "FinishDate": "2022-11-29T17:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2197804,
+          "Number": 8,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 30/11/2022 בשעה 11:00",
+          "StartDate": "2022-11-30T11:00:00+02:00",
+          "FinishDate": "2022-11-30T12:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198003,
+          "Number": 9,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 05/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-05T16:00:00+02:00",
+          "FinishDate": "2022-12-05T16:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198004,
+          "Number": 10,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 06/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-06T16:00:00+02:00",
+          "FinishDate": "2022-12-06T17:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198005,
+          "Number": 11,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 07/12/2022 בשעה 11:00",
+          "StartDate": "2022-12-07T11:00:00+02:00",
+          "FinishDate": "2022-12-07T15:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198207,
+          "Number": 12,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 12/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-12T16:00:00+02:00",
+          "FinishDate": "2022-12-13T12:53:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198208,
+          "Number": 13,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 13/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-13T16:00:00+02:00",
+          "FinishDate": "2022-12-14T10:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198209,
+          "Number": 14,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 14/12/2022 בשעה 11:00",
+          "StartDate": "2022-12-14T11:00:00+02:00",
+          "FinishDate": "2022-12-16T02:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198475,
+          "Number": 15,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 18/12/2022 בשעה 10:00",
+          "StartDate": "2022-12-18T10:00:00+02:00",
+          "FinishDate": "2022-12-18T15:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198476,
+          "Number": 16,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 19/12/2022 בשעה 10:00",
+          "StartDate": "2022-12-19T10:00:00+02:00",
+          "FinishDate": "2022-12-19T13:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198477,
+          "Number": 17,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 20/12/2022 בשעה 10:00",
+          "StartDate": "2022-12-20T10:00:00+02:00",
+          "FinishDate": "2022-12-20T14:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198542,
+          "Number": 18,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 21/12/2022 בשעה 11:00",
+          "StartDate": "2022-12-21T11:00:00+02:00",
+          "FinishDate": "2022-12-21T11:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198573,
+          "Number": 19,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 26/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-26T16:00:00+02:00",
+          "FinishDate": "2022-12-27T07:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198574,
+          "Number": 20,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 27/12/2022 בשעה 16:00",
+          "StartDate": "2022-12-27T16:00:00+02:00",
+          "FinishDate": "2022-12-28T13:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198735,
+          "Number": 21,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 29/12/2022 בשעה 11:00",
+          "StartDate": "2022-12-29T11:00:00+02:00",
+          "FinishDate": "2022-12-29T17:36:41+02:00",
+          "IsSpecialMeeting": true,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198828,
+          "Number": 22,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 02/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-02T16:00:00+02:00",
+          "FinishDate": "2023-01-02T19:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198829,
+          "Number": 23,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 03/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-03T16:00:00+02:00",
+          "FinishDate": "2023-01-03T17:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2198830,
+          "Number": 24,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 04/01/2023 בשעה 11:00",
+          "StartDate": "2023-01-04T11:00:00+02:00",
+          "FinishDate": "2023-01-04T13:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199232,
+          "Number": 25,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 09/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-09T16:00:00+02:00",
+          "FinishDate": "2023-01-10T00:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199233,
+          "Number": 26,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 10/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-10T16:00:00+02:00",
+          "FinishDate": "2023-01-10T16:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199234,
+          "Number": 27,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 11/01/2023 בשעה 11:00",
+          "StartDate": "2023-01-11T11:00:00+02:00",
+          "FinishDate": "2023-01-11T13:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199595,
+          "Number": 28,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 16/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-16T16:00:00+02:00",
+          "FinishDate": "2023-01-17T07:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199596,
+          "Number": 29,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 17/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-17T16:00:00+02:00",
+          "FinishDate": "2023-01-17T16:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199597,
+          "Number": 30,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 18/01/2023 בשעה 11:00",
+          "StartDate": "2023-01-18T11:00:00+02:00",
+          "FinishDate": "2023-01-18T14:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199943,
+          "Number": 31,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 23/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-23T16:00:00+02:00",
+          "FinishDate": "2023-01-24T07:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199944,
+          "Number": 32,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 24/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-24T16:00:00+02:00",
+          "FinishDate": "2023-01-24T20:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2199945,
+          "Number": 33,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 25/01/2023 בשעה 11:00",
+          "StartDate": "2023-01-25T11:00:00+02:00",
+          "FinishDate": "2023-01-25T13:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200451,
+          "Number": 34,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 30/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-30T16:00:00+02:00",
+          "FinishDate": "2023-01-31T07:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200452,
+          "Number": 35,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 31/01/2023 בשעה 16:00",
+          "StartDate": "2023-01-31T16:00:00+02:00",
+          "FinishDate": "2023-01-31T16:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200453,
+          "Number": 36,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 01/02/2023 בשעה 11:00",
+          "StartDate": "2023-02-01T11:00:00+02:00",
+          "FinishDate": "2023-02-01T16:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200860,
+          "Number": 37,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 06/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-06T16:00:00+02:00",
+          "FinishDate": "2023-02-07T03:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200862,
+          "Number": 38,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 07/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-07T16:00:00+02:00",
+          "FinishDate": "2023-02-07T17:10:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2200863,
+          "Number": 39,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 08/02/2023 בשעה 11:00",
+          "StartDate": "2023-02-08T11:00:00+02:00",
+          "FinishDate": "2023-02-08T21:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201030,
+          "Number": 40,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 13/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-13T16:00:00+02:00",
+          "FinishDate": "2023-02-14T08:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201031,
+          "Number": 41,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 14/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-14T16:00:00+02:00",
+          "FinishDate": "2023-02-14T17:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201032,
+          "Number": 42,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 15/02/2023 בשעה 11:00",
+          "StartDate": "2023-02-15T11:00:00+02:00",
+          "FinishDate": "2023-02-15T21:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201366,
+          "Number": 43,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 20/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-20T16:00:00+02:00",
+          "FinishDate": "2023-02-21T04:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201367,
+          "Number": 44,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 21/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-21T16:00:00+02:00",
+          "FinishDate": "2023-02-21T18:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201368,
+          "Number": 45,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 22/02/2023 בשעה 11:00",
+          "StartDate": "2023-02-22T11:00:00+02:00",
+          "FinishDate": "2023-02-22T19:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201938,
+          "Number": 46,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 27/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-27T16:00:00+02:00",
+          "FinishDate": "2023-02-28T08:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201939,
+          "Number": 47,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 28/02/2023 בשעה 16:00",
+          "StartDate": "2023-02-28T16:00:00+02:00",
+          "FinishDate": "2023-02-28T17:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2201940,
+          "Number": 48,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 01/03/2023 בשעה 11:00",
+          "StartDate": "2023-03-01T11:00:00+02:00",
+          "FinishDate": "2023-03-01T16:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202474,
+          "Number": 49,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 05/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-05T16:00:00+02:00",
+          "FinishDate": "2023-03-06T01:00:48+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202475,
+          "Number": 50,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 06/03/2023 בשעה 09:00",
+          "StartDate": "2023-03-06T09:00:00+02:00",
+          "FinishDate": "2023-03-06T13:50:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202526,
+          "Number": 51,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 13/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-13T16:00:00+02:00",
+          "FinishDate": "2023-03-14T08:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202527,
+          "Number": 52,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 14/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-14T16:00:00+02:00",
+          "FinishDate": "2023-03-14T17:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202528,
+          "Number": 53,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 15/03/2023 בשעה 11:00",
+          "StartDate": "2023-03-15T11:00:00+02:00",
+          "FinishDate": "2023-03-15T17:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202711,
+          "Number": 54,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 20/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-20T16:00:00+02:00",
+          "FinishDate": "2023-03-21T02:30:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202712,
+          "Number": 55,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 21/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-21T16:00:00+02:00",
+          "FinishDate": "2023-03-21T18:20:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2202713,
+          "Number": 56,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 22/03/2023 בשעה 11:00",
+          "StartDate": "2023-03-22T11:00:00+02:00",
+          "FinishDate": "2023-03-23T06:00:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2203483,
+          "Number": 59,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 27/03/2023 בשעה 10:00",
+          "StartDate": "2023-03-27T10:00:00+03:00",
+          "FinishDate": "2023-03-28T15:00:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2203484,
+          "Number": 60,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 28/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-28T16:00:00+03:00",
+          "FinishDate": "2023-03-28T16:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2203485,
+          "Number": 61,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 29/03/2023 בשעה 11:00",
+          "StartDate": "2023-03-29T11:00:00+03:00",
+          "FinishDate": "2023-03-29T13:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2203738,
+          "Number": 58,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 26/03/2023 בשעה 16:00",
+          "StartDate": "2023-03-26T16:00:00+03:00",
+          "FinishDate": "2023-03-27T01:40:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2203826,
+          "Number": 57,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 23/03/2023 בשעה 09:00",
+          "StartDate": "2023-03-23T09:00:00+02:00",
+          "FinishDate": "2023-03-23T09:40:00+02:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204019,
+          "Number": 62,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 02/04/2023 בשעה 10:00",
+          "StartDate": "2023-04-02T10:00:00+03:00",
+          "FinishDate": "2023-04-02T11:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204151,
+          "Number": 64,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 01/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-01T16:00:00+03:00",
+          "FinishDate": "2023-05-01T22:22:35+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204152,
+          "Number": 65,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 02/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-02T16:00:00+03:00",
+          "FinishDate": "2023-05-02T18:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204153,
+          "Number": 66,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 03/05/2023 בשעה 11:00",
+          "StartDate": "2023-05-03T11:00:00+03:00",
+          "FinishDate": "2023-05-03T16:20:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204236,
+          "Number": 63,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 19/04/2023 בשעה 12:00",
+          "StartDate": "2023-04-19T12:00:00+03:00",
+          "FinishDate": "2023-04-19T15:42:35+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204601,
+          "Number": 67,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 09/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-09T16:00:00+03:00",
+          "FinishDate": "2023-05-09T17:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204602,
+          "Number": 68,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 10/05/2023 בשעה 11:00",
+          "StartDate": "2023-05-10T11:00:00+03:00",
+          "FinishDate": "2023-05-10T16:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204833,
+          "Number": 69,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 15/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-15T16:00:00+03:00",
+          "FinishDate": "2023-05-15T21:59:29+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204834,
+          "Number": 70,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 16/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-16T16:00:00+03:00",
+          "FinishDate": "2023-05-16T18:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2204835,
+          "Number": 71,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 17/05/2023 בשעה 11:00",
+          "StartDate": "2023-05-17T11:00:00+03:00",
+          "FinishDate": "2023-05-17T18:40:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205631,
+          "Number": 72,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 22/05/2023 בשעה 09:00",
+          "StartDate": "2023-05-22T09:00:00+03:00",
+          "FinishDate": "2023-05-24T06:15:11+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205632,
+          "Number": 73,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 29/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-29T16:00:00+03:00",
+          "FinishDate": "2023-05-30T00:40:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205633,
+          "Number": 74,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 30/05/2023 בשעה 16:00",
+          "StartDate": "2023-05-30T16:00:00+03:00",
+          "FinishDate": "2023-05-30T17:40:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205634,
+          "Number": 75,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 31/05/2023 בשעה 11:00",
+          "StartDate": "2023-05-31T11:00:00+03:00",
+          "FinishDate": "2023-05-31T18:00:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205695,
+          "Number": 76,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 05/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-05T16:00:00+03:00",
+          "FinishDate": "2023-06-05T23:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205696,
+          "Number": 77,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 06/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-06T16:00:00+03:00",
+          "FinishDate": "2023-06-06T17:20:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2205697,
+          "Number": 78,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 07/06/2023 בשעה 11:00",
+          "StartDate": "2023-06-07T11:00:00+03:00",
+          "FinishDate": "2023-06-07T18:20:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206463,
+          "Number": 79,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 12/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-12T16:00:00+03:00",
+          "FinishDate": "2023-06-13T01:20:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206464,
+          "Number": 80,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 13/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-13T16:00:00+03:00",
+          "FinishDate": "2023-06-13T18:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206465,
+          "Number": 81,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 14/06/2023 בשעה 11:00",
+          "StartDate": "2023-06-14T11:00:00+03:00",
+          "FinishDate": "2023-06-14T21:50:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206837,
+          "Number": 82,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 19/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-19T16:00:00+03:00",
+          "FinishDate": "2023-06-19T22:00:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206838,
+          "Number": 83,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 20/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-20T16:00:00+03:00",
+          "FinishDate": "2023-06-20T19:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2206839,
+          "Number": 84,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 21/06/2023 בשעה 11:00",
+          "StartDate": "2023-06-21T11:00:00+03:00",
+          "FinishDate": "2023-06-21T14:50:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207081,
+          "Number": 85,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 26/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-26T16:00:00+03:00",
+          "FinishDate": "2023-06-26T22:50:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207082,
+          "Number": 86,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 27/06/2023 בשעה 16:00",
+          "StartDate": "2023-06-27T16:00:00+03:00",
+          "FinishDate": "2023-06-27T18:10:59+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207083,
+          "Number": 87,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 28/06/2023 בשעה 11:00",
+          "StartDate": "2023-06-28T11:00:00+03:00",
+          "FinishDate": "2023-06-28T17:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207566,
+          "Number": 88,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 03/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-03T16:00:00+03:00",
+          "FinishDate": "2023-07-04T05:50:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207567,
+          "Number": 89,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 04/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-04T16:00:00+03:00",
+          "FinishDate": "2023-07-05T01:30:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2207568,
+          "Number": 90,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 05/07/2023 בשעה 11:00",
+          "StartDate": "2023-07-05T11:00:00+03:00",
+          "FinishDate": "2023-07-06T02:10:00+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2208049,
+          "Number": 91,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 10/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-10T16:00:00+03:00",
+          "FinishDate": "2023-07-11T01:31:20+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2208050,
+          "Number": 92,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 11/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-11T16:00:00+03:00",
+          "FinishDate": "2023-07-11T18:34:09+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2208051,
+          "Number": 93,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 12/07/2023 בשעה 11:00",
+          "StartDate": "2023-07-12T11:00:00+03:00",
+          "FinishDate": "2023-07-12T20:31:42+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2208510,
+          "Number": 94,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 17/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-17T16:00:00+03:00",
+          "FinishDate": "2023-07-17T20:28:25+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        },
+        {
+          "Id": 2208511,
+          "Number": 95,
+          "KnessetNum": 25,
+          "Name": "ישיבת מליאה בתאריך 18/07/2023 בשעה 16:00",
+          "StartDate": "2023-07-18T16:00:00+03:00",
+          "FinishDate": "2023-07-18T16:54:48+03:00",
+          "IsSpecialMeeting": false,
+          "LastUpdatedDate": "2026-11-04T09:59:24.443+02:00"
+        }
+      ],
+      "modified_records": [],
+      "added_count": 100,
+      "modified_count": 0
+    },
+    "plenum_items": {
+      "status": "comparison_available",
+      "added_to_sample_not_necessarily_new": [
+        {
+          "Id": 105291,
+          "ItemID": 2234796,
+          "PlenumSessionID": 2234752,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 105494,
+          "ItemID": 2234796,
+          "PlenumSessionID": 2236370,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 167385,
+          "ItemID": 2234796,
+          "PlenumSessionID": 2234752,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 4,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 167648,
+          "ItemID": 2234796,
+          "PlenumSessionID": 2236370,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 21,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 167649,
+          "ItemID": 2234796,
+          "PlenumSessionID": 2236370,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 22,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
+        },
+        {
+          "Id": 88523,
+          "ItemID": 2204139,
+          "PlenumSessionID": 2204151,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T13:20:39.02+02:00"
+        },
+        {
+          "Id": 163508,
+          "ItemID": 2204139,
+          "PlenumSessionID": 2207083,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 11,
+          "Name": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T13:20:39.02+02:00"
+        },
+        {
+          "Id": 86599,
+          "ItemID": 2200245,
+          "PlenumSessionID": 2200451,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T13:19:24.707+02:00"
+        },
+        {
+          "Id": 163559,
+          "ItemID": 2200245,
+          "PlenumSessionID": 2207083,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 12,
+          "Name": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T13:19:24.707+02:00"
+        },
+        {
+          "Id": 168964,
+          "ItemID": 2247036,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 3,
+          "Name": "הקמת ועדה משותפת לוועדה הזמנית לענייני חוץ וביטחון ולוועדה הזמנית לענייני כספים, לתקציב הביטחון",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:55:06.373+02:00"
+        },
+        {
+          "Id": 168977,
+          "ItemID": 2247429,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 5,
+          "Name": "דברי יושב-ראש הכנסת",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:54:15.583+02:00"
+        },
+        {
+          "Id": 168963,
+          "ItemID": 2247066,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 4,
+          "Name": "המלצת הוועדה המסדרת בדבר בחירת סגנים זמניים ליושב ראש הכנסת",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:53:29.96+02:00"
+        },
+        {
+          "Id": 168962,
+          "ItemID": 2247065,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 2,
+          "Name": "בחירת יושב ראש הכנסת ה-26",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:35:16.243+02:00"
+        },
+        {
+          "Id": 104546,
+          "ItemID": 2231207,
+          "PlenumSessionID": 2231456,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ה-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T12:34:34.693+02:00"
+        },
+        {
+          "Id": 167496,
+          "ItemID": 2231207,
+          "PlenumSessionID": 2235628,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 5,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ה-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:34:34.693+02:00"
+        },
+        {
+          "Id": 83751,
+          "ItemID": 2196755,
+          "PlenumSessionID": 2198476,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ג-2022",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T12:33:47.517+02:00"
+        },
+        {
+          "Id": 165930,
+          "ItemID": 2196755,
+          "PlenumSessionID": 2222818,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 14,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"ג-2022",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:33:47.517+02:00"
+        },
+        {
+          "Id": 168961,
+          "ItemID": 2246824,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 1,
+          "Name": "נאומים בני דקה",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:22:03.99+02:00"
+        },
+        {
+          "Id": 168974,
+          "ItemID": 2247354,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 8,
+          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק התקשורת (שידורים) (תיקון -ביטול החוק), התשפ\"ז-2026 (פ/10/26), בהתאם לסעיף 108 לתקנון הכנסת",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:11:46.88+02:00"
+        },
+        {
+          "Id": 168973,
+          "ItemID": 2247397,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 7,
+          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק-יסוד: השפיטה (תיקון מס' 4) (תיקון - ביטול החוק) (פ/59/26), הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026 (פ/102/26), והצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז- 2026 (פ/48/26), בהתאם לסעיף 108 לתקנון הכנסת",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:11:30.947+02:00"
+        },
+        {
+          "Id": 168976,
+          "ItemID": 2247420,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 10,
+          "Name": "חילופים בוועדות הכנסת",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:08:41.847+02:00"
+        },
+        {
+          "Id": 168972,
+          "ItemID": 2246554,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 6000,
+          "ItemTypeDesc": "פעולה על פי חוק",
+          "Ordinal": 9,
+          "Name": "בקשת הממשלה בעניין הארכת ההכרזה על מצב חירום לפי סעיף 38 לחוק-יסוד: הממשלה (מתאריך 7 בספטמבר 26)",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:08:17.15+02:00"
+        },
+        {
+          "Id": 168971,
+          "ItemID": 2246968,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": " הצעת חוק איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך, התשפ\"ז-2026",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:06:00.187+02:00"
+        },
+        {
+          "Id": 168970,
+          "ItemID": 2246966,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 5,
+          "Name": "הצעת חוק-יסוד: הכנסת (תיקון - שלילת זכויות בגין אי-הכרה בארגון טרור)",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:05:20.993+02:00"
+        },
+        {
+          "Id": 168969,
+          "ItemID": 2245767,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 4,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:04:18.52+02:00"
+        },
+        {
+          "Id": 168968,
+          "ItemID": 2245597,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 3,
+          "Name": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:02:51.203+02:00"
+        },
+        {
+          "Id": 168966,
+          "ItemID": 2245672,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T12:01:52.61+02:00"
+        },
+        {
+          "Id": 168967,
+          "ItemID": 2245641,
+          "PlenumSessionID": 2246406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 2,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:59:51.92+02:00"
+        },
+        {
+          "Id": 168975,
+          "ItemID": 2247418,
+          "PlenumSessionID": 2246403,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 3,
+          "Name": "הרכב ועדות הכנסת ",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:55:28.393+02:00"
+        },
+        {
+          "Id": 168959,
+          "ItemID": 2246551,
+          "PlenumSessionID": 2246403,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 2,
+          "Name": "יום הזיכרון הממלכתי לדוד בן גוריון ",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:53:26.22+02:00"
+        },
+        {
+          "Id": 168960,
+          "ItemID": 2246823,
+          "PlenumSessionID": 2246403,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 1,
+          "Name": "נאומים בני דקה",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:52:32.51+02:00"
+        },
+        {
+          "Id": 90614,
+          "ItemID": 2210217,
+          "PlenumSessionID": 2211213,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק-יסוד: מגילת העצמאות",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:41:18.917+02:00"
+        },
+        {
+          "Id": 168782,
+          "ItemID": 2210217,
+          "PlenumSessionID": 2244617,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 10,
+          "Name": "הצעת חוק-יסוד: מגילת העצמאות",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:41:18.917+02:00"
+        },
+        {
+          "Id": 107006,
+          "ItemID": 2245767,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ״ז-2026",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:10:51.39+02:00"
+        },
+        {
+          "Id": 107055,
+          "ItemID": 2245672,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק-יסוד: השפיטה (תיקון מס׳ 4) (תיקון - ביטול החוק)",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:10:23.567+02:00"
+        },
+        {
+          "Id": 107098,
+          "ItemID": 2245641,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:10:04.467+02:00"
+        },
+        {
+          "Id": 107044,
+          "ItemID": 2245597,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:08:39.24+02:00"
+        },
+        {
+          "Id": 78449,
+          "ItemID": 2161547,
+          "PlenumSessionID": 2163150,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הסדרת מקומות רחצה (תיקון - קביעת מקומות לרחצה נפרדת), התשפ\"ב-2021",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T11:04:12.683+02:00"
+        },
+        {
+          "Id": 160636,
+          "ItemID": 2161547,
+          "PlenumSessionID": 2165527,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 23,
+          "Name": "הצעת חוק הסדרת מקומות רחצה (תיקון - קביעת מקומות לרחצה נפרדת), התשפ\"ב-2021",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T11:04:12.683+02:00"
+        },
+        {
+          "Id": 104562,
+          "ItemID": 2231157,
+          "PlenumSessionID": 2231456,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק התגמולים לנפגעי פעולות איבה (תיקון - קבורה בחלקה לבחירת המשפחה), התשפ\"ה-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T10:55:16.317+02:00"
+        },
+        {
+          "Id": 167305,
+          "ItemID": 2231157,
+          "PlenumSessionID": 2233145,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 14,
+          "Name": "הצעת חוק התגמולים לנפגעי פעולות איבה (תיקון - קבורה בחלקה לבחירת המשפחה), התשפ\"ה-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T10:55:16.317+02:00"
+        },
+        {
+          "Id": 105352,
+          "ItemID": 2235479,
+          "PlenumSessionID": 2234643,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק החברות (תיקון - פרסום דוחות כספיים של מונופול), התשפ\"ו-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T10:27:37.947+02:00"
+        },
+        {
+          "Id": 167852,
+          "ItemID": 2235479,
+          "PlenumSessionID": 2237710,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 5,
+          "Name": "הצעת חוק החברות (תיקון - פרסום דוחות כספיים של מונופול), התשפ\"ו-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T10:27:37.947+02:00"
+        },
+        {
+          "Id": 78930,
+          "ItemID": 2164596,
+          "PlenumSessionID": 2164930,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק איסור הפליה במוצרים, בשירותים ובכניסה למקומות בידור ולמקומות ציבוריים (תיקון - איסור הפליה בשל נשיאת נשק), התשפ\"ב-2021",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T10:20:12.163+02:00"
+        },
+        {
+          "Id": 161085,
+          "ItemID": 2164596,
+          "PlenumSessionID": 2167703,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 27,
+          "Name": "הצעת חוק איסור הפליה במוצרים, בשירותים ובכניסה למקומות בידור ולמקומות ציבוריים (תיקון - איסור הפליה בשל נשיאת נשק), התשפ\"ב-2021",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T10:20:12.163+02:00"
+        },
+        {
+          "Id": 84633,
+          "ItemID": 2198073,
+          "PlenumSessionID": 2198573,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק קביעת הזמן (תיקון - ביטול שעון חורף), התשפ\"ג- 2022",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T09:36:12.143+02:00"
+        },
+        {
+          "Id": 167505,
+          "ItemID": 2198073,
+          "PlenumSessionID": 2235628,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 15,
+          "Name": "הצעת חוק קביעת הזמן (תיקון - ביטול שעון חורף), התשפ\"ג- 2022",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T09:36:12.143+02:00"
+        },
+        {
+          "Id": 103571,
+          "ItemID": 2226063,
+          "PlenumSessionID": 2225671,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (קרן השתלמות לחקלאי שומר שמיטה), התשפ\"ה-2024",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T09:18:55.753+02:00"
+        },
+        {
+          "Id": 166422,
+          "ItemID": 2226063,
+          "PlenumSessionID": 2226760,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (קרן השתלמות לחקלאי שומר שמיטה), התשפ\"ה-2024",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T09:18:55.753+02:00"
+        },
+        {
+          "Id": 166470,
+          "ItemID": 2226063,
+          "PlenumSessionID": 2227125,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 14,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (קרן השתלמות לחקלאי שומר שמיטה), התשפ\"ה-2024",
+          "StatusID": 106,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T09:18:55.753+02:00"
+        },
+        {
+          "Id": 105174,
+          "ItemID": 2221211,
+          "PlenumSessionID": 2234297,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק התכנון והבנייה (תיקון - הצללת המרחב הציבורי), התשפ\"ה-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T09:03:26.01+02:00"
+        },
+        {
+          "Id": 167736,
+          "ItemID": 2221211,
+          "PlenumSessionID": 2237001,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 17,
+          "Name": "הצעת חוק התכנון והבנייה (תיקון - הצללת המרחב הציבורי), התשפ\"ה-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T09:03:26.01+02:00"
+        },
+        {
+          "Id": 94672,
+          "ItemID": 2215554,
+          "PlenumSessionID": 2216352,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנכים (תגמולים ושיקום) (תיקון - קביעת זכאויות נוספות לנכים), התשפ\"ד-2024",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T08:44:43.557+02:00"
+        },
+        {
+          "Id": 166136,
+          "ItemID": 2215554,
+          "PlenumSessionID": 2224067,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 19,
+          "Name": "הצעת חוק הנכים (תגמולים ושיקום) (תיקון - קביעת זכאויות נוספות לנכים), התשפ\"ד-2024",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T08:44:43.557+02:00"
+        },
+        {
+          "Id": 167112,
+          "ItemID": 2215554,
+          "PlenumSessionID": 2231921,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 9,
+          "Name": "הצעת חוק הנכים (תגמולים ושיקום) (תיקון - קביעת זכאויות נוספות לנכים), התשפ\"ד-2024",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T08:44:43.557+02:00"
+        },
+        {
+          "Id": 4772,
+          "ItemID": 130132,
+          "PlenumSessionID": 177770,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשס\"ו-2006",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T00:44:48.11+02:00"
+        },
+        {
+          "Id": 7214,
+          "ItemID": 130132,
+          "PlenumSessionID": 135728,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשס\"ו-2006",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T00:44:48.11+02:00"
+        },
+        {
+          "Id": 10150,
+          "ItemID": 130132,
+          "PlenumSessionID": 253572,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 27,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשס\"ו-2006",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T00:44:48.11+02:00"
+        },
+        {
+          "Id": 57789,
+          "ItemID": 2008228,
+          "PlenumSessionID": 2011283,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשע\"ז-2016",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T00:43:45.55+02:00"
+        },
+        {
+          "Id": 153885,
+          "ItemID": 2008228,
+          "PlenumSessionID": 2022058,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשע\"ז-2016",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T00:43:45.55+02:00"
+        },
+        {
+          "Id": 76171,
+          "ItemID": 2157003,
+          "PlenumSessionID": 2158286,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"א-2021",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T00:42:52.78+02:00"
+        },
+        {
+          "Id": 160152,
+          "ItemID": 2157003,
+          "PlenumSessionID": 2163152,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 25,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשפ\"א-2021",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-19T00:42:52.78+02:00"
+        },
+        {
+          "Id": 87040,
+          "ItemID": 2198805,
+          "PlenumSessionID": 2201030,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הפיקוח על שירותים פיננסיים (קופות גמל) (תיקון - הגדלת הסכום המרבי להפקדה בקופות גמל להשקעה), התשפ\"ג-2023 ",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T20:52:49.71+02:00"
+        },
+        {
+          "Id": 165026,
+          "ItemID": 2198805,
+          "PlenumSessionID": 2216139,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 22,
+          "Name": "הצעת חוק הפיקוח על שירותים פיננסיים (קופות גמל) (תיקון - הגדלת הסכום המרבי להפקדה בקופות גמל להשקעה), התשפ\"ג-2023 ",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T20:52:49.71+02:00"
+        },
+        {
+          "Id": 168957,
+          "ItemID": 2246546,
+          "PlenumSessionID": 2245487,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 2,
+          "Name": "הצהרת אמונים של יושב-ראש הכנסת אמיר אוחנה\t",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T19:09:04.857+02:00"
+        },
+        {
+          "Id": 168958,
+          "ItemID": 2246547,
+          "PlenumSessionID": 2245487,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 3,
+          "Name": "הצהרת אמונים של חברי הכנסת העשרים-ושש",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T19:08:59.26+02:00"
+        },
+        {
+          "Id": 83972,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2198476,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 97445,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2218829,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 104251,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2230011,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 162793,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2201368,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 8,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 165387,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2218832,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 18,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 166798,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2230339,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 18,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 166845,
+          "ItemID": 2195679,
+          "PlenumSessionID": 2230339,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 19,
+          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
+        },
+        {
+          "Id": 106402,
+          "ItemID": 2238892,
+          "PlenumSessionID": 2239585,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק לעידוד השימוש בתחבורה ציבורית על ידי עובדים (תיקוני חקיקה), התשפ\"ו-2026",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T15:38:28.64+02:00"
+        },
+        {
+          "Id": 168612,
+          "ItemID": 2238892,
+          "PlenumSessionID": 2243511,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 12,
+          "Name": "הצעת חוק לעידוד השימוש בתחבורה ציבורית על ידי עובדים (תיקוני חקיקה), התשפ\"ו-2026",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T15:38:28.64+02:00"
+        },
+        {
+          "Id": 100563,
+          "ItemID": 2223797,
+          "PlenumSessionID": 2223649,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 166130,
+          "ItemID": 2223797,
+          "PlenumSessionID": 2224067,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 11,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 166192,
+          "ItemID": 2223797,
+          "PlenumSessionID": 2224436,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 8,
+          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
+          "StatusID": 106,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
+        },
+        {
+          "Id": 107070,
+          "ItemID": 2246968,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": " הצעת חוק איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך, התשפ\"ז-2026",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T14:24:08.897+02:00"
+        },
+        {
+          "Id": 107028,
+          "ItemID": 2246966,
+          "PlenumSessionID": 2246405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק-יסוד: הכנסת (תיקון - שלילת זכויות בגין אי-הכרה בארגון טרור)",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T14:23:32.82+02:00"
+        },
+        {
+          "Id": 94652,
+          "ItemID": 2215695,
+          "PlenumSessionID": 2216352,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק שירות המדינה (מינויים) (תיקון - הצהרת אמונים), התשפ\"ד-2024",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T14:17:22.327+02:00"
+        },
+        {
+          "Id": 167955,
+          "ItemID": 2215695,
+          "PlenumSessionID": 2238490,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק שירות המדינה (מינויים) (תיקון - הצהרת אמונים), התשפ\"ד-2024",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T14:17:22.327+02:00"
+        },
+        {
+          "Id": 84365,
+          "ItemID": 2197743,
+          "PlenumSessionID": 2198476,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק לתיקון פקודת העיריות (קיצור תקופת הפטור מתשלום ארנונה לבניין שנהרס או ניזוק), התשפ\"ג-2022",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T13:44:49.863+02:00"
+        },
+        {
+          "Id": 162869,
+          "ItemID": 2197743,
+          "PlenumSessionID": 2202475,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 8,
+          "Name": "הצעת חוק לתיקון פקודת העיריות (קיצור תקופת הפטור מתשלום ארנונה לבניין שנהרס או ניזוק), התשפ\"ג-2022",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T13:44:49.863+02:00"
+        },
+        {
+          "Id": 105255,
+          "ItemID": 2234467,
+          "PlenumSessionID": 2234297,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (שלילת הכרה בעמותות המעודדות השתמטות משירות ביטחון), התשפ״ה-2025",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T12:51:09.327+02:00"
+        },
+        {
+          "Id": 167495,
+          "ItemID": 2234467,
+          "PlenumSessionID": 2235628,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 4,
+          "Name": "הצעת חוק לתיקון פקודת מס הכנסה (שלילת הכרה בעמותות המעודדות השתמטות משירות ביטחון), התשפ״ה-2025",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T12:51:09.327+02:00"
+        },
+        {
+          "Id": 87952,
+          "ItemID": 2203828,
+          "PlenumSessionID": 2203826,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 88702,
+          "ItemID": 2203828,
+          "PlenumSessionID": 2204834,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 163005,
+          "ItemID": 2203828,
+          "PlenumSessionID": 2203483,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 163226,
+          "ItemID": 2203828,
+          "PlenumSessionID": 2205631,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 163260,
+          "ItemID": 2203828,
+          "PlenumSessionID": 2205631,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 2,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
+        },
+        {
+          "Id": 105298,
+          "ItemID": 2235206,
+          "PlenumSessionID": 2235135,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 105304,
+          "ItemID": 2235206,
+          "PlenumSessionID": 2235405,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 167416,
+          "ItemID": 2235206,
+          "PlenumSessionID": 2235170,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 2,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 167443,
+          "ItemID": 2235206,
+          "PlenumSessionID": 2235406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 167445,
+          "ItemID": 2235206,
+          "PlenumSessionID": 2235406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 2,
+          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
+        },
+        {
+          "Id": 94400,
+          "ItemID": 2215240,
+          "PlenumSessionID": 2215738,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ד-2024 ",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:53:41.327+02:00"
+        },
+        {
+          "Id": 165564,
+          "ItemID": 2215240,
+          "PlenumSessionID": 2219942,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 23,
+          "Name": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ד-2024 ",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:53:41.327+02:00"
+        },
+        {
+          "Id": 85591,
+          "ItemID": 2198751,
+          "PlenumSessionID": 2199232,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ג-2023 ",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-18T10:45:33.717+02:00"
+        },
+        {
+          "Id": 165577,
+          "ItemID": 2198751,
+          "PlenumSessionID": 2219942,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 24,
+          "Name": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ג-2023 ",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-18T10:45:33.717+02:00"
+        }
+      ],
+      "modified_records": [],
+      "added_count": 100,
+      "modified_count": 0
+    },
+    "bill_initiators": {
+      "status": "comparison_available",
+      "added_to_sample_not_necessarily_new": [
+        {
+          "Id": 232854,
+          "BillID": 2245609,
+          "PersonID": 30981,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-17T15:57:00.54+02:00"
+        },
+        {
+          "Id": 232851,
+          "BillID": 2245516,
+          "PersonID": 30981,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-17T15:53:33.563+02:00"
+        },
+        {
+          "Id": 232852,
+          "BillID": 2245516,
+          "PersonID": 30867,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-17T15:53:33.563+02:00"
+        },
+        {
+          "Id": 232646,
+          "BillID": 2245834,
+          "PersonID": 30981,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-16T15:59:35.383+02:00"
+        },
+        {
+          "Id": 232626,
+          "BillID": 2247053,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T13:02:08.8+02:00"
+        },
+        {
+          "Id": 232607,
+          "BillID": 2247046,
+          "PersonID": 30807,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T12:46:39.297+02:00"
+        },
+        {
+          "Id": 232606,
+          "BillID": 2247045,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T12:44:47.353+02:00"
+        },
+        {
+          "Id": 232605,
+          "BillID": 2247044,
+          "PersonID": 30807,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T12:43:38.317+02:00"
+        },
+        {
+          "Id": 232602,
+          "BillID": 2247040,
+          "PersonID": 30807,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T12:38:21.97+02:00"
+        },
+        {
+          "Id": 232576,
+          "BillID": 2247024,
+          "PersonID": 30470,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-16T11:12:00.547+02:00"
+        },
+        {
+          "Id": 232575,
+          "BillID": 2247024,
+          "PersonID": 30601,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-16T11:08:24.563+02:00"
+        },
+        {
+          "Id": 232507,
+          "BillID": 2246968,
+          "PersonID": 30701,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-15T19:50:00.783+02:00"
+        },
+        {
+          "Id": 232505,
+          "BillID": 2246966,
+          "PersonID": 30701,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-15T19:46:28.237+02:00"
+        },
+        {
+          "Id": 232356,
+          "BillID": 2246859,
+          "PersonID": 23653,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-15T12:09:22.557+02:00"
+        },
+        {
+          "Id": 232341,
+          "BillID": 2245563,
+          "PersonID": 30121,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-15T11:48:32.863+02:00"
+        },
+        {
+          "Id": 232342,
+          "BillID": 2245563,
+          "PersonID": 30840,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-15T11:48:32.863+02:00"
+        },
+        {
+          "Id": 232343,
+          "BillID": 2245563,
+          "PersonID": 30693,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-15T11:48:32.863+02:00"
+        },
+        {
+          "Id": 232344,
+          "BillID": 2245563,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-15T11:48:32.863+02:00"
+        },
+        {
+          "Id": 232345,
+          "BillID": 2245563,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-15T11:48:32.863+02:00"
+        },
+        {
+          "Id": 232328,
+          "BillID": 2245510,
+          "PersonID": 30121,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-15T11:41:05.63+02:00"
+        },
+        {
+          "Id": 232329,
+          "BillID": 2245510,
+          "PersonID": 30840,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-15T11:41:05.63+02:00"
+        },
+        {
+          "Id": 232330,
+          "BillID": 2245510,
+          "PersonID": 30693,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-15T11:41:05.63+02:00"
+        },
+        {
+          "Id": 232331,
+          "BillID": 2245510,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-15T11:41:05.63+02:00"
+        },
+        {
+          "Id": 232332,
+          "BillID": 2245510,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-15T11:41:05.63+02:00"
+        },
+        {
+          "Id": 232322,
+          "BillID": 2245530,
+          "PersonID": 30121,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-15T11:39:19.717+02:00"
+        },
+        {
+          "Id": 232323,
+          "BillID": 2245530,
+          "PersonID": 30840,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-15T11:39:19.717+02:00"
+        },
+        {
+          "Id": 232324,
+          "BillID": 2245530,
+          "PersonID": 30693,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-15T11:39:19.717+02:00"
+        },
+        {
+          "Id": 232325,
+          "BillID": 2245530,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-15T11:39:19.717+02:00"
+        },
+        {
+          "Id": 232326,
+          "BillID": 2245530,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-15T11:39:19.717+02:00"
+        },
+        {
+          "Id": 232317,
+          "BillID": 2245583,
+          "PersonID": 30121,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-15T11:36:50.757+02:00"
+        },
+        {
+          "Id": 232318,
+          "BillID": 2245583,
+          "PersonID": 30840,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-15T11:36:50.757+02:00"
+        },
+        {
+          "Id": 232319,
+          "BillID": 2245583,
+          "PersonID": 30693,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-15T11:36:50.757+02:00"
+        },
+        {
+          "Id": 232320,
+          "BillID": 2245583,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-15T11:36:50.757+02:00"
+        },
+        {
+          "Id": 232321,
+          "BillID": 2245583,
+          "PersonID": 30808,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-15T11:36:50.757+02:00"
+        },
+        {
+          "Id": 232292,
+          "BillID": 2246817,
+          "PersonID": 30860,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-15T10:15:10.363+02:00"
+        },
+        {
+          "Id": 232119,
+          "BillID": 2246673,
+          "PersonID": 30948,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T16:35:43.633+02:00"
+        },
+        {
+          "Id": 232112,
+          "BillID": 2246666,
+          "PersonID": 30948,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T16:22:14.08+02:00"
+        },
+        {
+          "Id": 232111,
+          "BillID": 2246665,
+          "PersonID": 30948,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T16:12:32.387+02:00"
+        },
+        {
+          "Id": 232065,
+          "BillID": 2246619,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T13:44:48.927+02:00"
+        },
+        {
+          "Id": 232060,
+          "BillID": 2246614,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T13:39:47.033+02:00"
+        },
+        {
+          "Id": 232048,
+          "BillID": 2246602,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T13:26:02.797+02:00"
+        },
+        {
+          "Id": 232023,
+          "BillID": 2246575,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T12:34:02.863+02:00"
+        },
+        {
+          "Id": 232012,
+          "BillID": 2246564,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T11:51:22.477+02:00"
+        },
+        {
+          "Id": 232008,
+          "BillID": 2246560,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T11:37:09.183+02:00"
+        },
+        {
+          "Id": 232006,
+          "BillID": 2246558,
+          "PersonID": 30818,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T11:30:52.59+02:00"
+        },
+        {
+          "Id": 231991,
+          "BillID": 2246539,
+          "PersonID": 30758,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-12T08:01:20.967+02:00"
+        },
+        {
+          "Id": 231972,
+          "BillID": 2246519,
+          "PersonID": 30693,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T18:41:03.523+02:00"
+        },
+        {
+          "Id": 231961,
+          "BillID": 2246511,
+          "PersonID": 30601,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T17:23:10.35+02:00"
+        },
+        {
+          "Id": 231962,
+          "BillID": 2246511,
+          "PersonID": 30470,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T17:23:10.35+02:00"
+        },
+        {
+          "Id": 230285,
+          "BillID": 2245595,
+          "PersonID": 30719,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231819,
+          "BillID": 2245595,
+          "PersonID": 30993,
+          "IsInitiator": true,
+          "Ordinal": 11,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231820,
+          "BillID": 2245595,
+          "PersonID": 30994,
+          "IsInitiator": true,
+          "Ordinal": 10,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231821,
+          "BillID": 2245595,
+          "PersonID": 30992,
+          "IsInitiator": true,
+          "Ordinal": 9,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231822,
+          "BillID": 2245595,
+          "PersonID": 30991,
+          "IsInitiator": true,
+          "Ordinal": 8,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231823,
+          "BillID": 2245595,
+          "PersonID": 30951,
+          "IsInitiator": true,
+          "Ordinal": 7,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231824,
+          "BillID": 2245595,
+          "PersonID": 30558,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231825,
+          "BillID": 2245595,
+          "PersonID": 30950,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231826,
+          "BillID": 2245595,
+          "PersonID": 30949,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231827,
+          "BillID": 2245595,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 231828,
+          "BillID": 2245595,
+          "PersonID": 30069,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T15:51:25.893+02:00"
+        },
+        {
+          "Id": 230311,
+          "BillID": 2245613,
+          "PersonID": 30719,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231794,
+          "BillID": 2245613,
+          "PersonID": 30994,
+          "IsInitiator": true,
+          "Ordinal": 11,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231795,
+          "BillID": 2245613,
+          "PersonID": 30993,
+          "IsInitiator": true,
+          "Ordinal": 10,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231796,
+          "BillID": 2245613,
+          "PersonID": 30992,
+          "IsInitiator": true,
+          "Ordinal": 9,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231797,
+          "BillID": 2245613,
+          "PersonID": 30991,
+          "IsInitiator": true,
+          "Ordinal": 8,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231798,
+          "BillID": 2245613,
+          "PersonID": 30951,
+          "IsInitiator": true,
+          "Ordinal": 7,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231799,
+          "BillID": 2245613,
+          "PersonID": 30558,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231800,
+          "BillID": 2245613,
+          "PersonID": 30950,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231801,
+          "BillID": 2245613,
+          "PersonID": 30949,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231802,
+          "BillID": 2245613,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 231803,
+          "BillID": 2245613,
+          "PersonID": 30069,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T15:47:46.653+02:00"
+        },
+        {
+          "Id": 230336,
+          "BillID": 2245636,
+          "PersonID": 30719,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231752,
+          "BillID": 2245636,
+          "PersonID": 30994,
+          "IsInitiator": true,
+          "Ordinal": 11,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231753,
+          "BillID": 2245636,
+          "PersonID": 30993,
+          "IsInitiator": true,
+          "Ordinal": 10,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231754,
+          "BillID": 2245636,
+          "PersonID": 30992,
+          "IsInitiator": true,
+          "Ordinal": 9,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231755,
+          "BillID": 2245636,
+          "PersonID": 30991,
+          "IsInitiator": true,
+          "Ordinal": 8,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231756,
+          "BillID": 2245636,
+          "PersonID": 30951,
+          "IsInitiator": true,
+          "Ordinal": 7,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231757,
+          "BillID": 2245636,
+          "PersonID": 30558,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231758,
+          "BillID": 2245636,
+          "PersonID": 30950,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231759,
+          "BillID": 2245636,
+          "PersonID": 30949,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231760,
+          "BillID": 2245636,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231761,
+          "BillID": 2245636,
+          "PersonID": 30069,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T15:40:37.687+02:00"
+        },
+        {
+          "Id": 231668,
+          "BillID": 2246031,
+          "PersonID": 30955,
+          "IsInitiator": false,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:27:30.727+02:00"
+        },
+        {
+          "Id": 231669,
+          "BillID": 2246031,
+          "PersonID": 30953,
+          "IsInitiator": false,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-11T15:27:30.727+02:00"
+        },
+        {
+          "Id": 231670,
+          "BillID": 2246031,
+          "PersonID": 563,
+          "IsInitiator": false,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-11T15:27:30.727+02:00"
+        },
+        {
+          "Id": 231671,
+          "BillID": 2246031,
+          "PersonID": 30672,
+          "IsInitiator": false,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T15:27:30.727+02:00"
+        },
+        {
+          "Id": 231672,
+          "BillID": 2246031,
+          "PersonID": 30846,
+          "IsInitiator": false,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T15:27:30.727+02:00"
+        },
+        {
+          "Id": 230316,
+          "BillID": 2245618,
+          "PersonID": 30719,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231599,
+          "BillID": 2245618,
+          "PersonID": 30994,
+          "IsInitiator": true,
+          "Ordinal": 11,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231600,
+          "BillID": 2245618,
+          "PersonID": 30993,
+          "IsInitiator": true,
+          "Ordinal": 10,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231601,
+          "BillID": 2245618,
+          "PersonID": 30992,
+          "IsInitiator": true,
+          "Ordinal": 9,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231602,
+          "BillID": 2245618,
+          "PersonID": 30991,
+          "IsInitiator": true,
+          "Ordinal": 8,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231603,
+          "BillID": 2245618,
+          "PersonID": 30951,
+          "IsInitiator": true,
+          "Ordinal": 7,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231604,
+          "BillID": 2245618,
+          "PersonID": 30558,
+          "IsInitiator": true,
+          "Ordinal": 6,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231605,
+          "BillID": 2245618,
+          "PersonID": 30950,
+          "IsInitiator": true,
+          "Ordinal": 4,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231606,
+          "BillID": 2245618,
+          "PersonID": 30949,
+          "IsInitiator": true,
+          "Ordinal": 3,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231607,
+          "BillID": 2245618,
+          "PersonID": 560,
+          "IsInitiator": true,
+          "Ordinal": 2,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 231608,
+          "BillID": 2245618,
+          "PersonID": 30069,
+          "IsInitiator": true,
+          "Ordinal": 1,
+          "LastUpdatedDate": "2026-11-11T15:15:55.933+02:00"
+        },
+        {
+          "Id": 230303,
+          "BillID": 2245607,
+          "PersonID": 30719,
+          "IsInitiator": true,
+          "Ordinal": 5,
+          "LastUpdatedDate": "2026-11-11T15:11:20.103+02:00"
+        },
+        {
+          "Id": 231580,
+          "BillID": 2245607,
+          "PersonID": 30992,
+          "IsInitiator": true,
+          "Ordinal": 11,
+          "LastUpdatedDate": "2026-11-11T15:11:20.103+02:00"
+        }
+      ],
+      "modified_records": [],
+      "added_count": 100,
+      "modified_count": 0
     }
   },
   "business_bills_added_to_sample": [],
-  "warning": "This is a bounded sample. New-to-sample IDs and LastUpdatedDate do NOT prove legislative creation or full coverage; verify CreationDate/KnessetNum and source before reporting as new."
+  "warning": "This is a bounded sample, not a full-table scan. New-to-sample IDs and LastUpdatedDate do NOT prove legislative creation or full coverage; verify CreationDate/KnessetNum and source before reporting as new."
 }
