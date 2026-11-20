@@ -13,8 +13,11 @@ ENTITIES = {
     "agendas": "KNS_Agenda",
     "questions": "KNS_Query",
     "committee_sessions": "KNS_CommitteeSession",
-    "committee_agenda": "KNS_CommitteeSessionAgenda",
+    "committee_agenda": "KNS_CmtSessionItem",
     "positions": "KNS_PersonToPosition",
+    "plenum_sessions": "KNS_PlenumSession",
+    "plenum_items": "KNS_PlmSessionItem",
+    "bill_initiators": "KNS_BillInitiator",
 }
 MAX_ROWS = 1200
 PAGE_SIZE = 100
@@ -37,7 +40,7 @@ def fetch_entity(entity):
                     payload = resp.json()
                     if isinstance(payload, dict) and "value" in payload:
                         chunk = payload["value"]
-                        next_url = payload.get("@odata.nextLink")
+                        next_url = payload.get("@odata.nextLink") or payload.get("odata.nextLink")
                     elif isinstance(payload, dict) and "d" in payload:
                         chunk = payload["d"].get("results", [])
                         next_url = payload["d"].get("__next")
@@ -52,7 +55,7 @@ def fetch_entity(entity):
                     if next_url and not next_url.startswith("http"):
                         next_url = urljoin(base, next_url)
                 return records, {"status": "ok", "version": version, "ordered_by_last_update": ordered,
-                                 "count_sampled": len(records), "truncated": bool(next_url),
+                                 "count_sampled": len(records), "truncated_or_more_unchecked": bool(next_url) or len(records) >= PAGE_SIZE,
                                  "limit": MAX_ROWS}
             except Exception as exc:
                 errors.append(f"{version}/{('ordered' if ordered else 'unordered')}: {str(exc)[:150]}")
@@ -68,7 +71,7 @@ def scrub(value):
     return value
 
 def record_id(row):
-    for key in ("Id", "BillID", "AgendaID", "QueryID", "CommitteeSessionID", "CommitteeSessionAgendaID", "PersonToPositionID"):
+    for key in ("Id", "BillID", "AgendaID", "QueryID", "CommitteeSessionID", "CommitteeSessionAgendaID", "CmtSessionItemID", "PersonToPositionID", "PlenumSessionID", "PlmSessionItemID", "BillInitiatorID"):
         if row.get(key) is not None:
             return str(row[key])
     return None
@@ -133,7 +136,7 @@ def main():
         "coverage": coverage,
         "changes": changes,
         "business_bills_added_to_sample": business,
-        "warning": "This is a bounded sample. New-to-sample IDs and LastUpdatedDate do NOT prove legislative creation or full coverage; verify CreationDate/KnessetNum and source before reporting as new."
+        "warning": "This is a bounded sample, not a full-table scan. New-to-sample IDs and LastUpdatedDate do NOT prove legislative creation or full coverage; verify CreationDate/KnessetNum and source before reporting as new."
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"generated_at": now, "entities": entities, "coverage": coverage}, ensure_ascii=False, indent=2), encoding="utf-8")
