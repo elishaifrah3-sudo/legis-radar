@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:53:29.884139+00:00",
+  "generated_at": "2026-11-21T03:40:26.594072+00:00",
   "entities": {
     "bills": {
       "2234796": {
@@ -13921,10 +13921,10 @@
           "LastUpdatedDate": "2026-11-19T13:20:39.02+02:00"
         }
       },
-      "86600": {
-        "hash": "f0c2a7508e205db83ad67cfa6bdae56924e00045a3bace17c43617d9ec5ee617",
+      "86599": {
+        "hash": "4731574e0899e34d345cb7bda8fad3ce59f4b4f1ecdd25975506b1a27264bcfd",
         "record": {
-          "Id": 86600,
+          "Id": 86599,
           "ItemID": 2200245,
           "PlenumSessionID": 2200451,
           "ItemTypeID": 2,
@@ -14281,10 +14281,10 @@
           "LastUpdatedDate": "2026-11-19T11:52:32.51+02:00"
         }
       },
-      "90615": {
-        "hash": "388fc04516f0288284de9b9570ba5bd34446efb3bba737ef4da3cc0826fc8c43",
+      "90614": {
+        "hash": "35c4dfa31037587f45632038fcf90fd354ae6a59a13e65bc39ab9f53967cd24b",
         "record": {
-          "Id": 90615,
+          "Id": 90614,
           "ItemID": 2210217,
           "PlenumSessionID": 2211213,
           "ItemTypeID": 2,
@@ -14686,10 +14686,10 @@
           "LastUpdatedDate": "2026-11-19T00:44:48.11+02:00"
         }
       },
-      "57789": {
-        "hash": "ee4f4c86535ad645251c365e3fa9401bc589bf965dbe31525712d800389000e4",
+      "57788": {
+        "hash": "ee33783221da2fd3db8b5f601f3e765964f78d5ff38e7f7e44b82eaead12738b",
         "record": {
-          "Id": 57789,
+          "Id": 57788,
           "ItemID": 2008228,
           "PlenumSessionID": 2011283,
           "ItemTypeID": 2,
@@ -15016,10 +15016,10 @@
           "LastUpdatedDate": "2026-11-18T14:23:32.82+02:00"
         }
       },
-      "94651": {
-        "hash": "553379b3cf7eb1638488d0baff63fc33b702fba31866798e486c985eafdd82ea",
+      "94652": {
+        "hash": "846f79577d3b67a84d78b3351ed774aa4e8bd51262b6ef1beb67286efd1f4908",
         "record": {
-          "Id": 94651,
+          "Id": 94652,
           "ItemID": 2215695,
           "PlenumSessionID": 2216352,
           "ItemTypeID": 2,
@@ -15256,10 +15256,10 @@
           "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
         }
       },
-      "94401": {
-        "hash": "9e17ff3bf2f3bd24557742a7eb491d7a5b4e7dd5c52d0eb36ccdcf20ee3c9ed7",
+      "94400": {
+        "hash": "d904e849cbf02ef6b8b83c917ae52c5875b28bce169c8453f6fc5e26468821b1",
         "record": {
-          "Id": 94401,
+          "Id": 94400,
           "ItemID": 2215240,
           "PlenumSessionID": 2215738,
           "ItemTypeID": 2,
