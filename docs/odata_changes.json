@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:39:28.549798+00:00",
+  "generated_at": "2026-11-21T23:39:46.374047+00:00",
   "first_snapshot": false,
   "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
   "coverage": {
@@ -130,7 +130,7 @@
       "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [
         {
-          "Id": 88524,
+          "Id": 88523,
           "ItemID": 2204139,
           "PlenumSessionID": 2204151,
           "ItemTypeID": 2,
@@ -142,19 +142,7 @@
           "LastUpdatedDate": "2026-11-19T13:20:39.02+02:00"
         },
         {
-          "Id": 86599,
-          "ItemID": 2200245,
-          "PlenumSessionID": 2200451,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "הצעת חוק הגנה על עיתונאים (תיקוני חקיקה), התשפ\"ג-2023",
-          "StatusID": 104,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-19T13:19:24.707+02:00"
-        },
-        {
-          "Id": 90614,
+          "Id": 90615,
           "ItemID": 2210217,
           "PlenumSessionID": 2211213,
           "ItemTypeID": 2,
@@ -166,16 +154,28 @@
           "LastUpdatedDate": "2026-11-19T11:41:18.917+02:00"
         },
         {
-          "Id": 94400,
-          "ItemID": 2215240,
-          "PlenumSessionID": 2215738,
+          "Id": 78929,
+          "ItemID": 2164596,
+          "PlenumSessionID": 2164930,
           "ItemTypeID": 2,
           "ItemTypeDesc": "הצעת חוק",
           "Ordinal": 1,
-          "Name": "הצעת חוק פיקוח על מחירי מצרכים ושירותים (תיקון - פיקוח על מוצרי מזון בריא בסיסיים), התשפ\"ד-2024 ",
+          "Name": "הצעת חוק איסור הפליה במוצרים, בשירותים ובכניסה למקומות בידור ולמקומות ציבוריים (תיקון - איסור הפליה בשל נשיאת נשק), התשפ\"ב-2021",
           "StatusID": 104,
           "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-18T10:53:41.327+02:00"
+          "LastUpdatedDate": "2026-11-19T10:20:12.163+02:00"
+        },
+        {
+          "Id": 57788,
+          "ItemID": 2008228,
+          "PlenumSessionID": 2011283,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הנצחת זכרם של קורבנות הטבח בכפר קאסם, התשע\"ז-2016",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-19T00:43:45.55+02:00"
         }
       ],
       "modified_records": [],
