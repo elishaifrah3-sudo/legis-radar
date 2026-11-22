@@ -1,7 +1,287 @@
 {
-  "generated_at": "2026-11-22T12:58:08.986933+00:00",
+  "generated_at": "2026-11-22T20:10:10.836772+00:00",
   "entities": {
     "bills": {
+      "563485": {
+        "hash": "0b9c89d0f10aecbeb47599e0437d66d4fa51060ffa44a58af5312926838365b5",
+        "record": {
+          "Id": 563485,
+          "KnessetNum": 20,
+          "Name": "הצעת חוק-יסוד: זכויות חברתיות",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 728,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T20:39:32.627+02:00"
+        }
+      },
+      "2212595": {
+        "hash": "437f758cf906af4263d3f7273ba8a4c8767a661014382607a8252f5307808298",
+        "record": {
+          "Id": 2212595,
+          "KnessetNum": 25,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ד-2023",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 4146,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T18:09:48.46+02:00"
+        }
+      },
+      "2200316": {
+        "hash": "7212b17bebc0b76b8b311610b270fa69c8a7a407081eb8b826d77297564d129b",
+        "record": {
+          "Id": 2200316,
+          "KnessetNum": 25,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ג-2023",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 2317,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T18:06:01.77+02:00"
+        }
+      },
+      "2085973": {
+        "hash": "6cf12a2b5b9a10e16d839b49e56d7ebd72b1b39e3d5551a3858ee40e26191cdf",
+        "record": {
+          "Id": 2085973,
+          "KnessetNum": 23,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע נטייה מינית או זהות מגדר), התש\"ף-2020",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 86,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T17:45:34.913+02:00"
+        }
+      },
+      "2168038": {
+        "hash": "645bb874517ace0548e145f7836d674fe64d0baab8dfa4525ceac46b4bdd16cf",
+        "record": {
+          "Id": 2168038,
+          "KnessetNum": 24,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון - משלוח חשבונית לצרכן בדרך מקוונת), התשפ\"ב-2022 ",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 3180,
+          "CommitteeID": 2222,
+          "StatusID": 108,
+          "Number": null,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T17:35:23.677+02:00"
+        }
+      },
+      "2197639": {
+        "hash": "c17fdf792a5cfb31d9f8d57d685955ac30bbcfb643b6960df9d97bdebb7fe0db",
+        "record": {
+          "Id": 2197639,
+          "KnessetNum": 25,
+          "Name": "הצעת חוק הקמת בית חולים בעיר סח'נין (תיקוני חקיקה), התשפ\"ג-2022",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 720,
+          "CommitteeID": null,
+          "StatusID": 106,
+          "Number": null,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T17:33:31.757+02:00"
+        }
+      },
+      "2206673": {
+        "hash": "4bc8ebb8654066b7960040ef66f281fc9c36352dfdc82dc98995f2a94463f8a5",
+        "record": {
+          "Id": 2206673,
+          "KnessetNum": 25,
+          "Name": "הצעת חוק ההסדרים במשק המדינה (תיקוני חקיקה להשגת יעדי התקציב) (תיקון - הנחה בארנונה לנכים), התשפ\"ג-2023",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 3834,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T17:26:30.427+02:00"
+        }
+      },
+      "568258": {
+        "hash": "b52b2ddf6db95ff511459ee0518f5b999d7cd280c69756d640f89f9b5be8e2f3",
+        "record": {
+          "Id": 568258,
+          "KnessetNum": 20,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 53,
+          "SubTypeDesc": "ממשלתית",
+          "PrivateNumber": null,
+          "CommitteeID": 933,
+          "StatusID": 118,
+          "Number": 944,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "2015-12-23T00:00:00+02:00",
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCallID": 462,
+          "PublicationSeriesFirstCallDesc": "הצעות חוק הממשלה - 944 ,מיום 11:00:00",
+          "MagazineNumber": "2516",
+          "PageNumber": "296",
+          "IsContinuationBill": null,
+          "SummaryLaw": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו–2015, מתקן כמה נושאים הנוגעים לאופן יישום חוק צער בעלי חיים (הגנה על בעלי חיים), התשנ\"ד–1994 ואכיפתו לרבות: הטלת חובה על בעלים או מחזיק של בעל חיים למנוע התעללות בו ולספק לו את צורכי מחייתו, שיפור ועדכון ההוראות בעניין תפיסה של בעלי חיים והתנאים להחזרתם לבעליהם, תשלום הוצאות בשל תפיסת בעל חיים ובשל הטיפול בו, החמרת הענישה על עבירות שנעברו בנסיבות מחמירות, אחריות נושאי משרה בתאגיד שעיסוקו בבעלי חיים לפקח ולפעול למניעת עבירות מסויימות לפי החוק בידי התאגיד והוראה בעניין שקילת שיקולי הגנה על בעלי חיים בעת הפעלת סמכויות לפי דינים אחרים הנוגעים לגידול, החזקה וטיפול בבעלי חיים ובתוצרתם.",
+          "LastUpdatedDate": "2026-11-22T16:50:41.783+02:00"
+        }
+      },
+      "2020671": {
+        "hash": "8adcc6fa36f529b6a89cdb3738bc5b0c06c9c9f96495e07a9cfbe5b13d8bd6a1",
+        "record": {
+          "Id": 2020671,
+          "KnessetNum": 20,
+          "Name": "הצעת חוק זכויות התלמיד (תיקון - שוויון הזדמנויות בחינוך), התשע\"ח-2017 ",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 54,
+          "SubTypeDesc": "פרטית",
+          "PrivateNumber": 4609,
+          "CommitteeID": -1,
+          "StatusID": 177,
+          "Number": null,
+          "PostponementReasonID": 2505,
+          "PostponementReasonDesc": "הסרה מסד\"י בד. מוקדם",
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-22T15:40:58.153+02:00"
+        }
+      },
+      "2219317": {
+        "hash": "fefbf5bc6500492f8668eff859fc01ceb1c89d6cb40f5c93012c49372174f8d7",
+        "record": {
+          "Id": 2219317,
+          "KnessetNum": 25,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 53,
+          "SubTypeDesc": "ממשלתית",
+          "PrivateNumber": null,
+          "CommitteeID": 4193,
+          "StatusID": 118,
+          "Number": 1767,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "2026-07-22T00:00:00+03:00",
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCallID": 462,
+          "PublicationSeriesFirstCallDesc": "הצעות חוק הממשלה - 1767 ,מיום 16:00:00",
+          "MagazineNumber": "3569",
+          "PageNumber": "904",
+          "IsContinuationBill": null,
+          "SummaryLaw": "התיקון לחוק קובע שעל עוסק להקליט שיחות קוליות למספר טלפון, שנערכות בינו לבין צרכן, כך שהחובה האמורה תחול לעניין עסקה שמחירה הכולל הוא 750 שקלים חדשים לפחות, בין שנכרתה העסקה ובין שלא, ובלבד שמדובר בעסקה מסוגי העסקאות המנויות בתוספת התשיעית לחוק, ובהן, בין השאר: עסקה למכירת מוצר, למעט מוצר מזון, שכללה פנייה שיווקית מטעם העוסק, ובלבד שלא מדובר בפנייה שיווקית שנעשתה לאחר שהצרכן פנה לעוסק וביקש ממנו שיחזור אליו; עסקה למתן שירותי טלפון, אינטרנט או להספקת שידורי טלוויזיה; עסקה להספקת גז; עסקה למתן שירות תיווך לקבלת הלוואה. כמו כן, לעניין עסקאות כאמור, התיקון לחוק קובע שעל עוסק להודיע לצרכן בתחילת השיחה כי השיחה מוקלטת וכי הוא יהיה זכאי לקבל מהעוסק את הקלטת השיחה אם יבקש זאת. בנוסף, התיקון לחוק קובע שעל עוסק לשמור הקלטות של שיחות לתקופה של שנתיים מיום ביצוען אם הושלמה העסקה, או לתקופה של 6 חודשים אם לא הושלמה העסקה. במהלך התקופות האמורות עוסק כאמור יהיה מחויב למסור לצרכן, לבקשתו, את הקלטת השיחה או את פירוט מועד השיחה, וככל שזו פעם ראשונה שהצרכן ביקש זאת – העוסק יעביר לו את המידע בלא תשלום. כמו כן, התיקון לחוק קובע שאם עוסק לא מסר לצרכן את ההקלטה או את פירוט מועד השיחה לבקשתו ולפי התנאים הקבועים בחוק, יראו את העוסק, בהליך אזרחי, כמי שהודה בגרסת הצרכן לגבי תוכן השיחה או לגבי קיומה, אלא אם כן בית המשפט נוכח כי היה לכך הצדק סביר והחליט לאפשר לעוסק לנסות לסתור את גרסת הצרכן. בנוסף, התיקון לחוק קובע שעוסק כאמור לא יהיה רשאי להגיש כראיה בהליך האזרחי את השיחה המוקלטת, את תמליל השיחה או את פירוט מועד השיחה, אלא אם כן תינתן לכך רשות מבית המשפט, לאחר שנוכח כי היה לכך הצדק סביר. עוד נקבע בתיקון לחוק כי אין בהוראותיו כדי לגרוע מהוראות חוק הגנת הפרטיות, התשמ\"א-1981, או מהוראות דין אחרות הקובעות חובה לשמור שיחות מוקלטות לתקופות ארוכות מאלה שנקבעו בתיקון לחוק. כמו כן, התיקון לחוק מסמיך את שר הכלכלה והתעשייה (להלן – השר) להרחיב, במסגרת תקנות באישור ועדת הכלכלה של הכנסת, את תחולתו של ההסדר האמור גם לעניין שיחות שאינן שיחות קוליות, ובכלל זה לעניין שיחות המתבצעות באמצעות החלפת מסרים כתובים, ורשאי הוא להחיל הסדר זה בשינויים כפי שיקבע. כמו כן, השר רשאי לתקן את התוספת התשיעית לחוק, בצו בהתייעצות עם שר האוצר ובאישור ועדת הכלכלה של הכנסת. \nבנוסף, נערכו כמה תיקונים עקיפים בחוקים נוספים המסדירים את פעילותם של גופים פיננסיים המוחרגים מתחולת חוק הגנת הצרכן, במטרה לקבוע בחוקים אלה הסדרים דומים לעניין חובת הקלטת שיחות, שמירתן ומסירתן ללקוח, שיחולו על שיחות שיווקיות שעורכים גופים פיננסיים אלה: תאגידים בנקאיים (בנקים וחברות כרטיסי אשראי), חברות ביטוח, סוכני ביטוח, גופים מוסדיים וכן נותני שירותים פיננסיים בעלי רישיון מורחב לפי חוק הפיקוח על שירותים פיננסים (שירותים פיננסים מוסדרים), התשע\"ו–2016 (הכוונה לחברות שעוסקות באופן נרחב במתן אשראי, מתן שירותי פיקדון ואשראי, שירותים לעניין נכסים פיננסיים כמו מזומן, שיקים, שטרות חוב, פיקדונות, ניירות ערך, מטבעות וירטואליים, או חברות המפעילות מערכת המשמשת לתיווך בין מלווים ללווים לשם ביצוע עסקאות למתן אשראי). \nהתיקון לחוק ייכנס לתוקף ב-22.3.2027, ואולם ניתנה סמכות לדחות את יום התחילה כמפורט להלן: לגבי התיקון לחוק הגנת הצרכן –  השר, באישור ועדת הכלכלה של הכנסת, רשאי לדחות את יום הכניסה לתוקף, לגבי סוגי עוסקים מסוימים או כל סוגי העוסקים שחל עליהם התיקון, וזאת בתקופות נוספות שלא יעלו במצטבר על ארבעה חודשים, אם שוכנע כי טרם הושלמה ההיערכות ליישום הוראות התיקון. לגבי התיקונים העקיפים בחוקים הנוגעים לגופים הפיננסיים – שר האוצר, באישור ועדת הכלכלה של הכנסת, רשאי לדחות את יום הכניסה לתוקף של כל התיקונים או חלקם, או ביחס לסוגי גופים פיננסיים כפי שיקבע, וזאת בתקופות נוספות שלא יעלו במצטבר על ארבעה חודשים, אם שוכנע כי טרם הושלמה ההיערכות ליישום הוראות התיקונים האמורים.",
+          "LastUpdatedDate": "2026-11-22T15:00:01.85+02:00"
+        }
+      },
       "2208152": {
         "hash": "a8e1d1ebc8a8fe36451e54ea4c78970396bfc4dd4cb3f6522df9ac0741cfa76a",
         "record": {
@@ -2520,286 +2800,6 @@
           "IsContinuationBill": null,
           "SummaryLaw": null,
           "LastUpdatedDate": "2026-11-18T01:31:00.067+02:00"
-        }
-      },
-      "2245563": {
-        "hash": "8e48ad77e1e5fc03909f1661aad7122ef0d78d91ee1180b279d85328a13aef3b",
-        "record": {
-          "Id": 2245563,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - תקופת כהונה מרבית בתפקיד ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 125,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:31:00.037+02:00"
-        }
-      },
-      "2245535": {
-        "hash": "aea3bc2e86631e63dca9ae3fcadf47ace757e9296f0043c8a1da8edb4c1f8dd2",
-        "record": {
-          "Id": 2245535,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונה ונבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 124,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.973+02:00"
-        }
-      },
-      "2247045": {
-        "hash": "6146404b2e68c467a1811fcd335614ac66bd948b5215f47d3513c4cd7f6ee035",
-        "record": {
-          "Id": 2247045,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 123,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.94+02:00"
-        }
-      },
-      "2246619": {
-        "hash": "d7345ae3662fc75a1fe12f68ca2ba02e5745c87dd0b0a92724c140a62dcef4be",
-        "record": {
-          "Id": 2246619,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 122,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.893+02:00"
-        }
-      },
-      "2246519": {
-        "hash": "cbaa00908106b18592e60d1de753818747f37a254d5aa3c6f5d0bb4176735336",
-        "record": {
-          "Id": 2246519,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 121,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.863+02:00"
-        }
-      },
-      "2246352": {
-        "hash": "9c9750af3106165042bb306634358d6947bd4328f4914e4b3e7021600e0079ec",
-        "record": {
-          "Id": 2246352,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 120,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.817+02:00"
-        }
-      },
-      "2245764": {
-        "hash": "e1de057dc463942785f5d9e5574bc49c6f24c6f0ff1a3fbd3ddc025b20ffbcac",
-        "record": {
-          "Id": 2245764,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 119,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.77+02:00"
-        }
-      },
-      "2245645": {
-        "hash": "d63ab02fd31eb193d4b281d1878cac6d9eec7d87aed6a972f7b9a96da137daa4",
-        "record": {
-          "Id": 2245645,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 118,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.723+02:00"
-        }
-      },
-      "2245571": {
-        "hash": "711cc8a8f5a57300c12938db0ba2249cb33ef1a33d87e3f69277c0c0a3df1cad",
-        "record": {
-          "Id": 2245571,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה)",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 117,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.69+02:00"
-        }
-      },
-      "2245510": {
-        "hash": "3404197b0a2123ed42448d6fa2c748f673f2276d102d7259b18afdc823051051",
-        "record": {
-          "Id": 2245510,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - נבצרות ראש הממשלה) ",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 116,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-18T01:30:59.66+02:00"
         }
       }
     },
@@ -7108,6 +7108,126 @@
       }
     },
     "committee_sessions": {
+      "2247522": {
+        "hash": "01f905af90cbda431550007d02728ea13a789735b75f9426ed223099d10b75bd",
+        "record": {
+          "Id": 2247522,
+          "Number": 7,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4288,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכנסת (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247522",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T09:00:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-22T16:55:10.597+02:00"
+        }
+      },
+      "2247517": {
+        "hash": "cec5d97c80866e91ea4315937e93ff2521866efb53d7eaaadbc43ab1c352a016",
+        "record": {
+          "Id": 2247517,
+          "Number": 6,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4288,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכנסת (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247517",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-23T09:00:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-22T16:54:57.267+02:00"
+        }
+      },
+      "2247404": {
+        "hash": "33750dde10ccdc6a9e9711f11153607e8af62d2f5d406d918048641aaf9068f3",
+        "record": {
+          "Id": 2247404,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4294,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת החוקה, חוק ומשפט (קומה 1, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247404",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-23T09:30:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-22T16:48:53.333+02:00"
+        }
+      },
+      "2044110": {
+        "hash": "719c4bb7dee32e02e7df72a4763c11d4d22ef7ae14b3a08f5dd3bc20587f9390",
+        "record": {
+          "Id": 2044110,
+          "Number": 408,
+          "KnessetNum": 10,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 316,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אחר",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2044110",
+          "BroadcastUrl": null,
+          "StartDate": "1984-02-07T10:00:00+02:00",
+          "FinishDate": "1984-02-07T12:50:00+02:00",
+          "Note": "הצעות לסדר-היום; חוק היטל על בעלי הכנסות גבוהות (הוראות שעה), התשמ\"ד-1983; חוק היטל על נסיעה לחוץ לארץ (תיקון), התשמ\"ד-1983; חוק יסוד: משק המדינה (הוראת שעה), התשמ\"ד-1984; חוק לתיקון פקודת מס הכנסת (מס' 58); חוק מלוות קצר מועד, התשמ\"ד-1984; חוק מיסוי נקודות קצבה (הוראת שעה), התשמ\"ד-1984; שינויים בתקציב לשנת 1983",
+          "LastUpdatedDate": "2026-11-22T15:17:18.673+02:00"
+        }
+      },
+      "2044098": {
+        "hash": "e101710791c0b16b40c31441c5538b7173decd62e42f88c24ef08aaca299657e",
+        "record": {
+          "Id": 2044098,
+          "Number": 396,
+          "KnessetNum": 10,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 316,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אחר",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2044098",
+          "BroadcastUrl": null,
+          "StartDate": "1984-01-17T10:00:00+02:00",
+          "FinishDate": "1984-01-17T13:00:00+02:00",
+          "Note": "גמלאות שרים; העלאת תעריפי החשמל; העלאת תעריפים של שירותי הטלפון והדואר; הצעות לסדר היום; שינויים בפיקוח על מטבע חוץ; שינויים בתקציב לשנת הכספים 1983; תיקון להסדר מגירת הבנקים",
+          "LastUpdatedDate": "2026-11-22T15:13:02.563+02:00"
+        }
+      },
+      "2044091": {
+        "hash": "615f951fed4e91e461292f0e478a5147a11c5002f69f592377c67a16002e1c73",
+        "record": {
+          "Id": 2044091,
+          "Number": 389,
+          "KnessetNum": 10,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 316,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אחר",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2044091",
+          "BroadcastUrl": null,
+          "StartDate": "1984-01-04T09:00:00+02:00",
+          "FinishDate": "1984-01-04T11:15:00+02:00",
+          "Note": "חוק מס הכנסה (תיקון מס' 58); שינויים בתקציב לשנת 1983 - פניה מס' 97 של הממונה על התקציבים (בתי-חולים)",
+          "LastUpdatedDate": "2026-11-22T15:09:49.037+02:00"
+        }
+      },
       "2246766": {
         "hash": "f56555ee21fcb2c9535088002c9181cc95b6f13e7185676079bccba3625dda41",
         "record": {
@@ -8987,129 +9107,347 @@
           "Note": "חוק ישוב סכסוכי עבודה (תיקון מס 2), התשל\"ב -1971",
           "LastUpdatedDate": "2026-11-12T14:15:47.717+02:00"
         }
-      },
-      "2035359": {
-        "hash": "0250fa8381858c024cec03302d2861a088c10382882857163df2b2d493a08d4d",
-        "record": {
-          "Id": 2035359,
-          "Number": 151,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035359",
-          "BroadcastUrl": null,
-          "StartDate": "1971-11-29T10:00:00+02:00",
-          "FinishDate": "1971-11-29T12:30:00+02:00",
-          "Note": "חוק יישוב סכסוכי עבודה (תיקון מס' 2), התשל\"ב-1971",
-          "LastUpdatedDate": "2026-11-12T14:14:33.14+02:00"
-        }
-      },
-      "2035360": {
-        "hash": "b58ef8871c9101734fdc4afd65f7e8ade3eea96733f53a827bfae84487433fde",
-        "record": {
-          "Id": 2035360,
-          "Number": 152,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035360",
-          "BroadcastUrl": null,
-          "StartDate": "1971-12-01T08:30:00+02:00",
-          "FinishDate": "1971-12-01T11:00:00+02:00",
-          "Note": "העלאת שכר הדירה ב\"עמידר\" והשפעותיו על קבוצות דיירים שונות; חוק שירות הקבע בצבא הגנה לישראל (גמלאות) (תיקון מס' 6), התשל\"א - 1971",
-          "LastUpdatedDate": "2026-11-12T14:13:29.993+02:00"
-        }
-      },
-      "2035358": {
-        "hash": "35ffb100e61ecb0697d32b873d55ba5ddc9a120e2f7a0123ca1c69ac6df688cf",
-        "record": {
-          "Id": 2035358,
-          "Number": 150,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035358",
-          "BroadcastUrl": null,
-          "StartDate": "1971-11-28T13:00:00+02:00",
-          "FinishDate": "1971-11-28T15:30:00+02:00",
-          "Note": "הסכם בדבר תשלום פיצוי זמני לפנסיונרים בעד התייקרות; חוק החניכות (תיקון), התשל\"א-1971",
-          "LastUpdatedDate": "2026-11-12T14:12:06.693+02:00"
-        }
-      },
-      "2035357": {
-        "hash": "be0cd0429809386b72f21dd310fffbe5cc134995d47cd88a80950394a8cf7ad4",
-        "record": {
-          "Id": 2035357,
-          "Number": 149,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035357",
-          "BroadcastUrl": null,
-          "StartDate": "1971-11-26T09:00:00+02:00",
-          "FinishDate": "1971-11-26T11:30:00+02:00",
-          "Note": "חוק יישוב סכסוכי עבודה (תיקון מס' 2), התשל\"ב-1971 (שמיעת הערות נציגי המרכז לשלטון מקומי לגבי החוק",
-          "LastUpdatedDate": "2026-11-12T14:11:07.817+02:00"
-        }
-      },
-      "2035356": {
-        "hash": "1039188327752a0730cace1d954209e034942935a4cd19a3e5a3047fae608334",
-        "record": {
-          "Id": 2035356,
-          "Number": 148,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035356",
-          "BroadcastUrl": null,
-          "StartDate": "1971-11-24T08:30:00+02:00",
-          "FinishDate": "1971-11-24T10:50:00+02:00",
-          "Note": "ימי פגרה לבילוי עממי כדי למנוע חילול שבת (הצעה לסדר-היום של חבר-הכנסת המר שהועברה לוועדת העבודה)",
-          "LastUpdatedDate": "2026-11-12T13:48:56.59+02:00"
-        }
-      },
-      "2035355": {
-        "hash": "bff948d2c84bf6a678150581837e8c5a6d904641b9a3589d8a03cb9e3163946d",
-        "record": {
-          "Id": 2035355,
-          "Number": 147,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035355",
-          "BroadcastUrl": null,
-          "StartDate": "1971-11-22T12:00:00+02:00",
-          "FinishDate": "1971-11-22T14:00:00+02:00",
-          "Note": "חוק יישוב סכסוכי עבודה (תיקון מס' 2), התשל\"ב-1971; פגישה עם ועד עובדי רשות החולה",
-          "LastUpdatedDate": "2026-11-12T13:48:13.323+02:00"
-        }
       }
     },
     "committee_agenda": {
+      "884844": {
+        "hash": "791d50e890f32611769270fdf3a75baabcb7d46406b4120fc36f23fb75e32326",
+        "record": {
+          "Id": 884844,
+          "ItemID": 2168038,
+          "CommitteeSessionID": 2194191,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון - משלוח חשבונית לצרכן בדרך מקוונת), התשפ\"ב-2022 ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T17:35:23.677+02:00"
+        }
+      },
+      "890084": {
+        "hash": "a84971618b08ae3d81176ce63c06fc96b7feeb862488d5815e1b20aec87ea9c8",
+        "record": {
+          "Id": 890084,
+          "ItemID": 2197639,
+          "CommitteeSessionID": 2205124,
+          "Ordinal": 9,
+          "StatusID": 106,
+          "Name": "הצעת חוק הקמת בית חולים בעיר סח'נין (תיקוני חקיקה), התשפ\"ג-2022",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T17:33:31.757+02:00"
+        }
+      },
+      "927528": {
+        "hash": "6e716e3252e6f2d47b9444cb06352139b78d05af0a325766d3c19c46b8d52b35",
+        "record": {
+          "Id": 927528,
+          "ItemID": 2247524,
+          "CommitteeSessionID": 2247522,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "בקשות חברי הכנסת להקדמת הדיון בהצעות חוק לפני הקריאה הטרומית - נוסח הצעות החוק ישלח בהמשך.",
+          "ItemTypeID": 11,
+          "LastUpdatedDate": "2026-11-22T16:55:08.877+02:00"
+        }
+      },
+      "927522": {
+        "hash": "f75d14ce12482652e9ad922d7b70e1e790c8d04218287ec9bf9f33a00e111d1f",
+        "record": {
+          "Id": 927522,
+          "ItemID": 2245597,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 1,
+          "StatusID": 108,
+          "Name": "הצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "927524": {
+        "hash": "e8ef4e6b096191cbce6bb84f9d764caba1f929e651b0de8c7d9b1690656775db",
+        "record": {
+          "Id": 927524,
+          "ItemID": 2247520,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 2,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026 (פ/48/26), בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "927529": {
+        "hash": "9e732154b11e9256e94080634992e770470cc66dba7f82364f410a0fdabf662f",
+        "record": {
+          "Id": 927529,
+          "ItemID": 2247523,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 5,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לפיקוח על יישום חוק העמדה לדין בשל אירועי טבח 7 באוקטובר 2023 (טבח שמיני עצרת), התשפ\"ו-2026, בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "927539": {
+        "hash": "cd7fc18b932f070204a4942a2aeaa773fe5b04a3ab2bbe7e2a8e0bba66c66441",
+        "record": {
+          "Id": 927539,
+          "ItemID": 2247519,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 3,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת למיגור הפשיעה והאלימות בחברה הערבית, בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "927540": {
+        "hash": "0e93f37f0e9e1b06bc5da741159f1f2618d7b4f7d59d890217d2b09308131bd6",
+        "record": {
+          "Id": 927540,
+          "ItemID": 2247521,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 4,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לשוויון חברתי-כלכלי, בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "927541": {
+        "hash": "cc1d078d54d9b8fe5e42fd92654bebcf33f0780f313944267356a2b073bd80ad",
+        "record": {
+          "Id": 927541,
+          "ItemID": 2247562,
+          "CommitteeSessionID": 2247517,
+          "Ordinal": 6,
+          "StatusID": null,
+          "Name": "הקמת ועדה מיוחדת לפיקוח על חיזוק הנגב והגליל, בהתאם לסעיף 108 לתקנון הכנסת",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:53:42.137+02:00"
+        }
+      },
+      "849029": {
+        "hash": "c410946469093aebc616f30e0ba15cf280aa47f30c5e00a799ed5c359779c13c",
+        "record": {
+          "Id": 849029,
+          "ItemID": 568258,
+          "CommitteeSessionID": 568631,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "849354": {
+        "hash": "3b18c9997de2aaf64272df242176a73691848a520596c925b415f116223f6fc8",
+        "record": {
+          "Id": 849354,
+          "ItemID": 568258,
+          "CommitteeSessionID": 569403,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "849393": {
+        "hash": "6d8e82d7341fb51d69c7fb7d64a49e9e1d551afe994bc6ddb4cf38e62c587ccb",
+        "record": {
+          "Id": 849393,
+          "ItemID": 568258,
+          "CommitteeSessionID": 569525,
+          "Ordinal": 4,
+          "StatusID": 169,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "849635": {
+        "hash": "128d2c29de586545797669813347b03e07f74babb3e053d1f195843508649971",
+        "record": {
+          "Id": 849635,
+          "ItemID": 568258,
+          "CommitteeSessionID": 570182,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "927510": {
+        "hash": "5e81477c9aad4db099e9b57a3526959f8a17e7ce37286153c06f88abad2e6dcd",
+        "record": {
+          "Id": 927510,
+          "ItemID": 2247406,
+          "CommitteeSessionID": 2247404,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "בחירת יו\"ר לוועדה המיוחדת לדיון בהצעת חוק-יסוד: השפיטה (תיקון מס' 4) (תיקון – ביטול החוק) (פ/26/59), הצעת חוק בתי המשפט (תיקון מס' 105) (תיקון – ביטול החוק), התשפ\"ז-2026 (פ/26/102), והצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון – ביטול החוק), התשפ\"ז-2026 (פ/26/48)",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-22T16:48:53.3+02:00"
+        }
+      },
+      "927538": {
+        "hash": "2788a262b3db5a47872a5d8c82197b75d586ad4b2fdc60aacb0461acc75db25a",
+        "record": {
+          "Id": 927538,
+          "ItemID": 150359,
+          "CommitteeSessionID": 2044110,
+          "Ordinal": 6,
+          "StatusID": 113,
+          "Name": "הצעת חוק-יסוד: משק המדינה (הוראות שעה) ",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:22:29.977+02:00"
+        }
+      },
+      "927537": {
+        "hash": "da16110c012d12295b214078eaf780c1605b27866ede21d2a15a297c7dd14b4e",
+        "record": {
+          "Id": 927537,
+          "ItemID": 149876,
+          "CommitteeSessionID": 2044110,
+          "Ordinal": 5,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 59), התשמ\"ד-1984",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:21:50.52+02:00"
+        }
+      },
+      "927536": {
+        "hash": "32986eea4f976dc1fb7627d7b8b6433e3bc952fb78c7e4cb7c5a5fbaf6a0fe3b",
+        "record": {
+          "Id": 927536,
+          "ItemID": 149852,
+          "CommitteeSessionID": 2044110,
+          "Ordinal": 4,
+          "StatusID": 113,
+          "Name": "חוק היטל על נסיעה לחוץ-לארץ (תיקון), התשמ\"ד-1984",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:21:18.333+02:00"
+        }
+      },
+      "927535": {
+        "hash": "e3637d278781b30905d89ffc8084aace562371aa0357e43b0f62c66a3df00e30",
+        "record": {
+          "Id": 927535,
+          "ItemID": 149870,
+          "CommitteeSessionID": 2044110,
+          "Ordinal": 3,
+          "StatusID": 113,
+          "Name": "חוק מילווה קצר מועד, התשמ\"ד-1984",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:20:23.707+02:00"
+        }
+      },
+      "927534": {
+        "hash": "e7346fa2341237c779e762750e701d411462376262696ef46a5c14878276bc41",
+        "record": {
+          "Id": 927534,
+          "ItemID": 149876,
+          "CommitteeSessionID": 2044098,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 59), התשמ\"ד-1984",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:13:28.61+02:00"
+        }
+      },
+      "927533": {
+        "hash": "287b0b03220f001899a2bad3800559d9fe4befd220230584243a8116b3e92411",
+        "record": {
+          "Id": 927533,
+          "ItemID": 149876,
+          "CommitteeSessionID": 2044091,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 59), התשמ\"ד-1984",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:10:23.507+02:00"
+        }
+      },
+      "908706": {
+        "hash": "23b3eaeb88903a6aa42380f167338417fdeeae810b16e24d3ff237e72e93b7ee",
+        "record": {
+          "Id": 908706,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2222220,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "909836": {
+        "hash": "89c7280b95e2f56acfd39dddbee98d1ed01ce9a56b6175dc9c0c8028a0d39417",
+        "record": {
+          "Id": 909836,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2223691,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "914814": {
+        "hash": "09b6bf0ed71eed51d86889c15d8b1f206b91a934c15713789b2f26c2a05f111f",
+        "record": {
+          "Id": 914814,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2230810,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "917208": {
+        "hash": "944030358da65493277cee4a841ff25b69205976df303938a4973b774e81e76f",
+        "record": {
+          "Id": 917208,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2232628,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "918464": {
+        "hash": "93cb668c189c1978261a3ef2641a497d3f85ecfd5e7ad3fbf39ccf393f1c2952",
+        "record": {
+          "Id": 918464,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2233903,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "918877": {
+        "hash": "25ac82fb5179aaa7bb5068f901c61893a3d2e3b1fa5f658f8df4203c91ce9bea",
+        "record": {
+          "Id": 918877,
+          "ItemID": 2219317,
+          "CommitteeSessionID": 2234448,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
       "914737": {
         "hash": "e1018fae0445671cb06e0aa6b021b48cdfa65d8ca11e95f877909b33c8a2708a",
         "record": {
@@ -10070,344 +10408,6 @@
           "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
           "ItemTypeID": 2,
           "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
-        }
-      },
-      "914179": {
-        "hash": "b15340c7d8b427211245c89c12431856ea7ae038ca9564a3f4032b6fc964bde8",
-        "record": {
-          "Id": 914179,
-          "ItemID": 2195679,
-          "CommitteeSessionID": 2229622,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
-        }
-      },
-      "914354": {
-        "hash": "e98ec23e42a407bc252acf3479876c6d1f64c6f95a79fadbb2c1c169698f8d96",
-        "record": {
-          "Id": 914354,
-          "ItemID": 2195679,
-          "CommitteeSessionID": 2229883,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
-        }
-      },
-      "914494": {
-        "hash": "694a1d042b916590e826a10f5e5b808743f82c018ff26e6589c4c966b5531f3a",
-        "record": {
-          "Id": 914494,
-          "ItemID": 2195679,
-          "CommitteeSessionID": 2230263,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הרשות הלאומית למאבק בעוני, התשפ\"ה-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T16:23:56.73+02:00"
-        }
-      },
-      "927495": {
-        "hash": "08e1ad3402261755fb0caf7557e7d96361678b57d3dd11b31b8cf697a22fab34",
-        "record": {
-          "Id": 927495,
-          "ItemID": 2244627,
-          "CommitteeSessionID": 2247316,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "הצעת תקנות מס חברות מזערי בקבוצה רב-לאומית, התשפ\"ו-2026 ",
-          "ItemTypeID": 6000,
-          "LastUpdatedDate": "2026-11-18T15:26:32.43+02:00"
-        }
-      },
-      "910876": {
-        "hash": "0b1f632f1ad57e101bc3043ac33db306b76f6d6b56687236f5697604b2379b6d",
-        "record": {
-          "Id": 910876,
-          "ItemID": 2223797,
-          "CommitteeSessionID": 2225090,
-          "Ordinal": 5,
-          "StatusID": 106,
-          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
-        }
-      },
-      "911097": {
-        "hash": "e2422ca423bd346cdb295dc8a1882774d4b4c664f3510031ca19fa0aeadc1e6b",
-        "record": {
-          "Id": 911097,
-          "ItemID": 2223797,
-          "CommitteeSessionID": 2225378,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
-        }
-      },
-      "922523": {
-        "hash": "6a995b0961b5dbfaaa170eb13e3643939ae0a749c3128fc832f5c73f6e6b4a19",
-        "record": {
-          "Id": 922523,
-          "ItemID": 2223797,
-          "CommitteeSessionID": 2237532,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
-        }
-      },
-      "922602": {
-        "hash": "32d39daf45e22fdf5c3ad41f5ef1bbca88e0882c6a35d9e7c6b739e864142243",
-        "record": {
-          "Id": 922602,
-          "ItemID": 2223797,
-          "CommitteeSessionID": 2237691,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
-        }
-      },
-      "923379": {
-        "hash": "d297635363cd6af261eb0095913d50986d022aa09fb32f6de360520f4725b48f",
-        "record": {
-          "Id": 923379,
-          "ItemID": 2223797,
-          "CommitteeSessionID": 2239085,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק מסירת מידע סודי לראש הממשלה ולשרים (תיקוני חקיקה), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:56:38.62+02:00"
-        }
-      },
-      "927505": {
-        "hash": "74b82ef439aeb915abbe5d369b6edd3a821e2fd49af4ed1345c7383879201793",
-        "record": {
-          "Id": 927505,
-          "ItemID": 2247315,
-          "CommitteeSessionID": 2247329,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "דיון בנושא: \"המשמעות הכלכלית של היקף ההשתתפות בשירות החובה והמילואים על המשק והכלכלה\"",
-          "ItemTypeID": 11,
-          "LastUpdatedDate": "2026-11-18T14:44:47.653+02:00"
-        }
-      },
-      "927491": {
-        "hash": "c7cd92cf0de17469d2ffd84266aa5f96ffb543589770542fd01b4e0059f77373",
-        "record": {
-          "Id": 927491,
-          "ItemID": 2246768,
-          "CommitteeSessionID": 2247314,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "שינויים בתקציב לשנת 2026",
-          "ItemTypeID": 11,
-          "LastUpdatedDate": "2026-11-18T14:44:30.337+02:00"
-        }
-      },
-      "927494": {
-        "hash": "4b5063f77f0576abd7407d17400b2c2f853a8fb0dd07d538aaecc7d7a8de42a0",
-        "record": {
-          "Id": 927494,
-          "ItemID": 2247318,
-          "CommitteeSessionID": 2247311,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "הצעת מינוי מנהל כללי לכנסת בהתאם לסעיף 12 ולסעיף 41 לחוק שירות המדינה (מינויים), התשי\"ט – 1959\n",
-          "ItemTypeID": 6000,
-          "LastUpdatedDate": "2026-11-18T14:44:14.877+02:00"
-        }
-      },
-      "927490": {
-        "hash": "754ca9ebc74186e966c792f35bda8738e403377304ea728258af114093befb46",
-        "record": {
-          "Id": 927490,
-          "ItemID": 2246968,
-          "CommitteeSessionID": 2247245,
-          "Ordinal": 6,
-          "StatusID": 104,
-          "Name": " הצעת חוק איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך, התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:24:08.897+02:00"
-        }
-      },
-      "927489": {
-        "hash": "09c7e2c09b89a20da4f9440ce642290e5090541999f35f886d46ae3c0385e169",
-        "record": {
-          "Id": 927489,
-          "ItemID": 2246966,
-          "CommitteeSessionID": 2247245,
-          "Ordinal": 5,
-          "StatusID": 104,
-          "Name": "הצעת חוק-יסוד: הכנסת (תיקון - שלילת זכויות בגין אי-הכרה בארגון טרור)",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T14:23:32.82+02:00"
-        }
-      },
-      "889170": {
-        "hash": "dd7b86faa1617f5fc9cdb2d67d9072be2ac9d81991191ec1fc95cf66c55af5c9",
-        "record": {
-          "Id": 889170,
-          "ItemID": 2203828,
-          "CommitteeSessionID": 2204284,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
-        }
-      },
-      "889932": {
-        "hash": "c4028d68119411a41259c122024793d4bbd0c2622689bbaf29c188d9263d1255",
-        "record": {
-          "Id": 889932,
-          "ItemID": 2203828,
-          "CommitteeSessionID": 2204964,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
-        }
-      },
-      "890246": {
-        "hash": "bbc0da4a225795785022d905155335d0cc43c70d5e804d8a7b926f6bbd82c7ac",
-        "record": {
-          "Id": 890246,
-          "ItemID": 2203828,
-          "CommitteeSessionID": 2204955,
-          "Ordinal": 3,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
-        }
-      },
-      "890407": {
-        "hash": "1cb61024508b29f75e90110297f08650ed01dc5b6cfbf102b39ca325a1ebd15b",
-        "record": {
-          "Id": 890407,
-          "ItemID": 2203828,
-          "CommitteeSessionID": 2205386,
-          "Ordinal": 3,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
-        }
-      },
-      "890497": {
-        "hash": "a03b050720b05043f7e99d1911e33934da573b1528e0c01de66d4eda22824e5f",
-        "record": {
-          "Id": 890497,
-          "ItemID": 2203828,
-          "CommitteeSessionID": 2205558,
-          "Ordinal": 6,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 23 - הוראת שעה), התשפ\"ג-2023 ",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:59:07.107+02:00"
-        }
-      },
-      "919683": {
-        "hash": "1fdcacfdd834dbd3512ed1fa4774d2778ae4b7da5d4f58b59df2739e5cf09f27",
-        "record": {
-          "Id": 919683,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235295,
-          "Ordinal": 1,
-          "StatusID": 142,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919702": {
-        "hash": "aa788080ef49f6dd0218e1b7e123418c9d9e0a2bf9b0481a832495f7e3b4c019",
-        "record": {
-          "Id": 919702,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235210,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919731": {
-        "hash": "9f756e7d2e5cb8092c15e87a994129f2f521e39ce69a4810c735f17ed1ce18b7",
-        "record": {
-          "Id": 919731,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235269,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919735": {
-        "hash": "108d3ddd7f32ead061ba76ea77781ac8af90fb5b0d836f7959922b11d806a374",
-        "record": {
-          "Id": 919735,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235258,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919737": {
-        "hash": "cff5ae39b63df79a2b731672e67792d862103edc3be4bfad2ba675a212d15e31",
-        "record": {
-          "Id": 919737,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235263,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919742": {
-        "hash": "b4e3fec183cfe9717c753c1305089bd20e0c021b659d079386aa0549b83a416e",
-        "record": {
-          "Id": 919742,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235307,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
-        }
-      },
-      "919766": {
-        "hash": "8535a787aa16e0596eb7e6477045d2549d05e9f3a47adadf95816f795c8c2193",
-        "record": {
-          "Id": 919766,
-          "ItemID": 2235206,
-          "CommitteeSessionID": 2235271,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק הפחתת הגירעון והגבלת ההוצאה התקציבית (תיקון מס' 29), התשפ\"ו-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-18T10:58:46.54+02:00"
         }
       }
     },
@@ -13816,10 +13816,400 @@
       }
     },
     "plenum_items": {
-      "89845": {
-        "hash": "6d993f183e17ad34d68ddfadc86861dea357d828b578682a5758a5c9a42b7b9b",
+      "35850": {
+        "hash": "107d5214115dee366999478c56b96babc925096593102c495668aa535cf64c84",
         "record": {
-          "Id": 89845,
+          "Id": 35850,
+          "ItemID": 563485,
+          "PlenumSessionID": 564450,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק-יסוד: זכויות חברתיות",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T20:39:32.62+02:00"
+        }
+      },
+      "151567": {
+        "hash": "7770e4c0e33662dedcfb302ce39c656cb75c69ad99ef07125a1cf5acab467853",
+        "record": {
+          "Id": 151567,
+          "ItemID": 563485,
+          "PlenumSessionID": 577530,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 9,
+          "Name": "הצעת חוק-יסוד: זכויות חברתיות",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T20:39:32.62+02:00"
+        }
+      },
+      "91073": {
+        "hash": "27bfac0b46cdbeea5410507aedc39a71a2e4e1c0df86eefda1f5b6c8af878b1d",
+        "record": {
+          "Id": 91073,
+          "ItemID": 2212595,
+          "PlenumSessionID": 2212406,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ד-2023",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T18:09:48.46+02:00"
+        }
+      },
+      "167898": {
+        "hash": "b573a9a9922cc9082cd0dc74a11963f879292997c7d4033cc54518897594faab",
+        "record": {
+          "Id": 167898,
+          "ItemID": 2212595,
+          "PlenumSessionID": 2237861,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 14,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ד-2023",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T18:09:48.46+02:00"
+        }
+      },
+      "87012": {
+        "hash": "54fa3a098fc2a42284107778578a46be644a044e27f347ac4af819a03550ce78",
+        "record": {
+          "Id": 87012,
+          "ItemID": 2200316,
+          "PlenumSessionID": 2201030,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ג-2023",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T18:06:01.77+02:00"
+        }
+      },
+      "163506": {
+        "hash": "f201d0326d6575794a30dce230919df9dad24b83f656c83edfbfa560a596c58d",
+        "record": {
+          "Id": 163506,
+          "ItemID": 2200316,
+          "PlenumSessionID": 2207083,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 8,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ג-2023",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T18:06:01.77+02:00"
+        }
+      },
+      "66519": {
+        "hash": "1f6cea0d086130fabe8bad8e1af745b83e6679848d273470cfe33d90afb2123b",
+        "record": {
+          "Id": 66519,
+          "ItemID": 2085973,
+          "PlenumSessionID": 2087387,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע נטייה מינית או זהות מגדר), התש\"ף-2020",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T17:45:34.913+02:00"
+        }
+      },
+      "157062": {
+        "hash": "b3b4e8eb746044f8f76bff48874a435d3c096037ed3d4cdcb805fdc28b91541e",
+        "record": {
+          "Id": 157062,
+          "ItemID": 2085973,
+          "PlenumSessionID": 2141423,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 28,
+          "Name": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע נטייה מינית או זהות מגדר), התש\"ף-2020",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T17:45:34.913+02:00"
+        }
+      },
+      "80450": {
+        "hash": "ef3ff6c5e3e384c9562ce91dde4d525dddf1dc0e97b9ed0d8d25edc1b2eec0c3",
+        "record": {
+          "Id": 80450,
+          "ItemID": 2168038,
+          "PlenumSessionID": 2168709,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון - משלוח חשבונית לצרכן בדרך מקוונת), התשפ\"ב-2022 ",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T17:35:23.677+02:00"
+        }
+      },
+      "162047": {
+        "hash": "c05813a37b7927265e8c41c7f79cb62285a2ea41de9a741fcfddd917da20cb5e",
+        "record": {
+          "Id": 162047,
+          "ItemID": 2168038,
+          "PlenumSessionID": 2192750,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 25,
+          "Name": "הצעת חוק הגנת הצרכן (תיקון - משלוח חשבונית לצרכן בדרך מקוונת), התשפ\"ב-2022 ",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T17:35:23.677+02:00"
+        }
+      },
+      "84404": {
+        "hash": "0a7cd9efd4aea0d06b7ebc07a00f843b1b017435868556cd82ae48481cb2b714",
+        "record": {
+          "Id": 84404,
+          "ItemID": 2197639,
+          "PlenumSessionID": 2198476,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק הקמת בית חולים בעיר סח'נין (תיקוני חקיקה), התשפ\"ג-2022",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T17:33:31.757+02:00"
+        }
+      },
+      "163101": {
+        "hash": "cfe639331de5c0449c2f13b0cb7a8c12539035575d89513f8970cc9cd5991d81",
+        "record": {
+          "Id": 163101,
+          "ItemID": 2197639,
+          "PlenumSessionID": 2204153,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 19,
+          "Name": "הצעת חוק הקמת בית חולים בעיר סח'נין (תיקוני חקיקה), התשפ\"ג-2022",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T17:33:31.757+02:00"
+        }
+      },
+      "89952": {
+        "hash": "af480d8e24ec3e557678eac7699978c13820bd3935f35edce9193840783060c4",
+        "record": {
+          "Id": 89952,
+          "ItemID": 2206673,
+          "PlenumSessionID": 2208849,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק ההסדרים במשק המדינה (תיקוני חקיקה להשגת יעדי התקציב) (תיקון - הנחה בארנונה לנכים), התשפ\"ג-2023",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T17:26:30.423+02:00"
+        }
+      },
+      "164834": {
+        "hash": "83fa25d1a7169cfd38cad3f97566eab6439799e75ac09e2c86c6871de28867c9",
+        "record": {
+          "Id": 164834,
+          "ItemID": 2206673,
+          "PlenumSessionID": 2215014,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 7,
+          "Name": "הצעת חוק ההסדרים במשק המדינה (תיקוני חקיקה להשגת יעדי התקציב) (תיקון - הנחה בארנונה לנכים), התשפ\"ג-2023",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T17:26:30.423+02:00"
+        }
+      },
+      "36819": {
+        "hash": "b0669b2c99dec8fe879e74cd875a8fe5f8c33d729844c7544b6285c40e9e9e7b",
+        "record": {
+          "Id": 36819,
+          "ItemID": 568258,
+          "PlenumSessionID": 567850,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "37306": {
+        "hash": "c9ed30fc29d169108d8aa7fa525c6a2f79155c122b4bd115cfd7177823079c16",
+        "record": {
+          "Id": 37306,
+          "ItemID": 568258,
+          "PlenumSessionID": 571941,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "48644": {
+        "hash": "c5279decfebbf091836cf0ad83a8f4564fcd665a812877d46d7e7e679f9b4042",
+        "record": {
+          "Id": 48644,
+          "ItemID": 568258,
+          "PlenumSessionID": 568292,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 22,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "50158": {
+        "hash": "db5e9e21b3b288784d15991841947b57a55fc95147d366f86c451a70d8e88649",
+        "record": {
+          "Id": 50158,
+          "ItemID": 568258,
+          "PlenumSessionID": 572668,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 8,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "50242": {
+        "hash": "32db6f1d6c07be168739fe7918df6d2d9172081c26790cd289cb26c6f6954d04",
+        "record": {
+          "Id": 50242,
+          "ItemID": 568258,
+          "PlenumSessionID": 572668,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 16,
+          "Name": "חוק צער בעלי חיים (הגנה על בעלי חיים) (תיקון מס' 10), התשע\"ו-2015",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T16:50:41.78+02:00"
+        }
+      },
+      "60049": {
+        "hash": "0aeea1fdbfbe25e68605705db25979ea0732cd47368ca4475193d93cd58fce67",
+        "record": {
+          "Id": 60049,
+          "ItemID": 2020671,
+          "PlenumSessionID": 2020737,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "הצעת חוק זכויות התלמיד (תיקון - שוויון הזדמנויות בחינוך), התשע\"ח-2017 ",
+          "StatusID": 104,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T15:40:58.15+02:00"
+        }
+      },
+      "154041": {
+        "hash": "59b85f7c5367d59115cb836f5ceba9de53af74b36b094f3601e398914d16bf85",
+        "record": {
+          "Id": 154041,
+          "ItemID": 2020671,
+          "PlenumSessionID": 2023535,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 18,
+          "Name": "הצעת חוק זכויות התלמיד (תיקון - שוויון הזדמנויות בחינוך), התשע\"ח-2017 ",
+          "StatusID": 150,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T15:40:58.15+02:00"
+        }
+      },
+      "97525": {
+        "hash": "66a290283f3e002e610708fa6adf8a3575b227ac60bfbe87d694206c2b968a02",
+        "record": {
+          "Id": 97525,
+          "ItemID": 2219317,
+          "PlenumSessionID": 2218830,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "105207": {
+        "hash": "6e9d06cdb3a9dd5e9c1c910da79ec8248ea62aa89f6b2a61863395f1c857d09f",
+        "record": {
+          "Id": 105207,
+          "ItemID": 2219317,
+          "PlenumSessionID": 2234297,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "165413": {
+        "hash": "47362fb84af1c81a47171d03d78994253273e7af14d5fedd5c02cc8f95c7cf68",
+        "record": {
+          "Id": 165413,
+          "ItemID": 2219317,
+          "PlenumSessionID": 2219138,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 10,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "168829": {
+        "hash": "e66be32fc67ee18b833a1b45e7e1b382750d55d8479fb48483fd115faa6ecbe4",
+        "record": {
+          "Id": 168829,
+          "ItemID": 2219317,
+          "PlenumSessionID": 2244869,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 54,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "168859": {
+        "hash": "a0b35e2a040833827b7b06b19595c0e8685089d41e4bc88321bed3d02a314ec2",
+        "record": {
+          "Id": 168859,
+          "ItemID": 2219317,
+          "PlenumSessionID": 2244869,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 55,
+          "Name": "חוק הגנת הצרכן (תיקון מס' 74), התשפ\"ו-2026",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-22T15:00:01.847+02:00"
+        }
+      },
+      "89846": {
+        "hash": "fb34b34f8f3cfb177dd864800b1e4da00caa4fe02c4fed8ccb31ab39d6d1f4c6",
+        "record": {
+          "Id": 89846,
           "ItemID": 2208152,
           "PlenumSessionID": 2208847,
           "ItemTypeID": 2,
@@ -13846,10 +14236,10 @@
           "LastUpdatedDate": "2026-11-22T14:29:43.927+02:00"
         }
       },
-      "85585": {
-        "hash": "93aefb7652e5bad730869cff18aa4944728c6c8af188b0be1b6dfb41a9acce1e",
+      "85584": {
+        "hash": "0e941ff4ccbb2dbcde0623ced439b72c4bbd5d7b76eb9faa1b8b78c6aca4a5f1",
         "record": {
-          "Id": 85585,
+          "Id": 85584,
           "ItemID": 2198753,
           "PlenumSessionID": 2199232,
           "ItemTypeID": 2,
@@ -13936,10 +14326,10 @@
           "LastUpdatedDate": "2026-11-22T14:04:58.587+02:00"
         }
       },
-      "61839": {
-        "hash": "c62c2e2505a3c9668f9da8ee1691ac2ca116b19ef9fec45e2e124517582b655e",
+      "61840": {
+        "hash": "767b13235a81ffc61878a542d39935f6ca8348fc7d63c95c95677feb3a4e36db",
         "record": {
-          "Id": 61839,
+          "Id": 61840,
           "ItemID": 2014624,
           "PlenumSessionID": 2071517,
           "ItemTypeID": 2,
@@ -14266,10 +14656,10 @@
           "LastUpdatedDate": "2026-11-22T13:59:05.59+02:00"
         }
       },
-      "54778": {
-        "hash": "690e3eee8ae63cb36928653ad7ae92f8e0b488ec025fa61855c01cea3e90aded",
+      "54779": {
+        "hash": "5865fd144453fb588f235e53413ead73bd5ba6b7fd72d71cfa24c2f53374d54a",
         "record": {
-          "Id": 54778,
+          "Id": 54779,
           "ItemID": 174341,
           "PlenumSessionID": 161237,
           "ItemTypeID": 2,
@@ -14341,10 +14731,10 @@
           "LastUpdatedDate": "2026-11-22T13:59:05.59+02:00"
         }
       },
-      "89839": {
-        "hash": "8a11120e9a088e70ed36632897b695f74c33044781d5f10d50b7d855633844b5",
+      "89840": {
+        "hash": "d51c6429cc1b7a2f25169faf55441962d3f435d514989a8bf144d8b076b7ac0d",
         "record": {
-          "Id": 89839,
+          "Id": 89840,
           "ItemID": 2207029,
           "PlenumSessionID": 2208847,
           "ItemTypeID": 2,
@@ -14416,10 +14806,10 @@
           "LastUpdatedDate": "2026-11-22T12:07:17.37+02:00"
         }
       },
-      "83324": {
-        "hash": "870ff8d6eeaa6d625baef08e1e600638763fede61d630f94a0fa0bee1b07c3c9",
+      "83323": {
+        "hash": "ade6c01724880a290bef595783171cd269270b8646c57237bddedc4f72a1d24f",
         "record": {
-          "Id": 83324,
+          "Id": 83323,
           "ItemID": 2195730,
           "PlenumSessionID": 2198207,
           "ItemTypeID": 2,
@@ -14924,396 +15314,6 @@
           "StatusID": 130,
           "IsDiscussion": 0,
           "LastUpdatedDate": "2026-11-22T10:46:51.933+02:00"
-        }
-      },
-      "163196": {
-        "hash": "c8668abe27486e229754904ff5db9c58ec863abb8e180c375b90e851bd3ddbbd",
-        "record": {
-          "Id": 163196,
-          "ItemID": 2197450,
-          "PlenumSessionID": 2204835,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 22,
-          "Name": "חוק ניוד מידע רפואי, התשפ\"ד-2024",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:46:51.933+02:00"
-        }
-      },
-      "165423": {
-        "hash": "8080037c5fb6ad8bdde76a2c29c628e170034ec82a961343d0830010d2d3fa92",
-        "record": {
-          "Id": 165423,
-          "ItemID": 2197450,
-          "PlenumSessionID": 2219139,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 6,
-          "Name": "חוק ניוד מידע רפואי, התשפ\"ד-2024",
-          "StatusID": 111,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:46:51.933+02:00"
-        }
-      },
-      "165693": {
-        "hash": "6c64671bebb7ccfc831e05d3e8e28f57bace43a4adaf45babd1a456caa83aafb",
-        "record": {
-          "Id": 165693,
-          "ItemID": 2197450,
-          "PlenumSessionID": 2220706,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 18,
-          "Name": "חוק ניוד מידע רפואי, התשפ\"ד-2024",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:46:51.933+02:00"
-        }
-      },
-      "165701": {
-        "hash": "f1699d35c6af61729bd4bc1462f7f879d856898dfe99fa8df6f64b19cf248ab5",
-        "record": {
-          "Id": 165701,
-          "ItemID": 2197450,
-          "PlenumSessionID": 2220706,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 19,
-          "Name": "חוק ניוד מידע רפואי, התשפ\"ד-2024",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:46:51.933+02:00"
-        }
-      },
-      "168982": {
-        "hash": "367ab6d25f2cdaa0e5aecac3ebf1e66f4e6a75fde51e7b3aadeb1b7fa2a2e2d1",
-        "record": {
-          "Id": 168982,
-          "ItemID": 377510,
-          "PlenumSessionID": 161482,
-          "ItemTypeID": 4,
-          "ItemTypeDesc": "הצעה לסדר היום",
-          "Ordinal": 44,
-          "Name": "הצעה לסדר היום בנושא: הטיית מי החצבני.",
-          "StatusID": 305,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:18:44.157+02:00"
-        }
-      },
-      "45373": {
-        "hash": "043f7d4d73160ddcf9f21e5de300e5c54a965d1e6becf70ac978df7f967f082e",
-        "record": {
-          "Id": 45373,
-          "ItemID": 174022,
-          "PlenumSessionID": 437654,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "הצעת חוק הזכות לקבורה אזרחית חלופית (תיקון - השר הממונה), התשס\"א-2000",
-          "StatusID": 104,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-22T10:07:00.447+02:00"
-        }
-      },
-      "93764": {
-        "hash": "439128d22729f7f4adf1c47150895a2dea05a625d19d417a7808f2a89a72af5d",
-        "record": {
-          "Id": 93764,
-          "ItemID": 174022,
-          "PlenumSessionID": 437682,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 42,
-          "Name": "הצעת חוק הזכות לקבורה אזרחית חלופית (תיקון - השר הממונה), התשס\"א-2000",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:07:00.447+02:00"
-        }
-      },
-      "168981": {
-        "hash": "a5247caf15798188c04a9a417798a5283dcd44cf354128a420c481f2494c3877",
-        "record": {
-          "Id": 168981,
-          "ItemID": 174022,
-          "PlenumSessionID": 437892,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 6,
-          "Name": "הצעת חוק הזכות לקבורה אזרחית חלופית (תיקון - השר הממונה), התשס\"א-2000",
-          "StatusID": 140,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:07:00.447+02:00"
-        }
-      },
-      "86826": {
-        "hash": "dfd2825105b6111e91fb56055e711f2b4e568997d7bfa55fee7f33fd15840345",
-        "record": {
-          "Id": 86826,
-          "ItemID": 2198927,
-          "PlenumSessionID": 2200860,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "הצעת חוק הביטוח הלאומי (תיקון - דמי אבטלה לעצמאים), התשפ\"ג-2023",
-          "StatusID": 104,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-22T10:05:46.233+02:00"
-        }
-      },
-      "163086": {
-        "hash": "576636630709bd4fe9fecd9f10f0a59ca49cbae3880c4fb1d980c30244a9aaa2",
-        "record": {
-          "Id": 163086,
-          "ItemID": 2198927,
-          "PlenumSessionID": 2204153,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 22,
-          "Name": "הצעת חוק הביטוח הלאומי (תיקון - דמי אבטלה לעצמאים), התשפ\"ג-2023",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:05:46.233+02:00"
-        }
-      },
-      "43256": {
-        "hash": "f055cbc28312c3c0865674b939febae47f917dd5579e44993dd9646d1df7cb20",
-        "record": {
-          "Id": 43256,
-          "ItemID": 174021,
-          "PlenumSessionID": 437601,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "הצעת חוק האזרחות (תיקון - אזרחות לקרובי חייל), התשנ\"ט-1999",
-          "StatusID": 104,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-22T10:01:38.207+02:00"
-        }
-      },
-      "93763": {
-        "hash": "9875ebaad5da4962bba9dc788a216683f4330399e0104f3b0686b701c76e8f18",
-        "record": {
-          "Id": 93763,
-          "ItemID": 174021,
-          "PlenumSessionID": 437638,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 22,
-          "Name": "הצעת חוק האזרחות (תיקון - אזרחות לקרובי חייל), התשנ\"ט-1999",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:01:38.207+02:00"
-        }
-      },
-      "168980": {
-        "hash": "665e31f3f160cf237797c428f54227a2cbcbcbc44d986c5fcf5d9e3d28a7111f",
-        "record": {
-          "Id": 168980,
-          "ItemID": 174021,
-          "PlenumSessionID": 437892,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 5,
-          "Name": "הצעת חוק האזרחות (תיקון - אזרחות לקרובי חייל), התשנ\"ט-1999",
-          "StatusID": 140,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T10:01:38.207+02:00"
-        }
-      },
-      "81219": {
-        "hash": "1d034799d66a965d705329ac8ff3555d5e021f617b08470cbe3433999209945d",
-        "record": {
-          "Id": 81219,
-          "ItemID": 157723,
-          "PlenumSessionID": 437358,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 4,
-          "Name": "חוק ביטוח בריאות ממלכתי, התשנ\"ד-1994",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:56:00.51+02:00"
-        }
-      },
-      "85865": {
-        "hash": "e863b1984ea35317a096babbd8379b183d7299877ce43525d96df94dead2dfdc",
-        "record": {
-          "Id": 85865,
-          "ItemID": 162638,
-          "PlenumSessionID": 437358,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 7,
-          "Name": "הצעת חוק לתיקון פקודת הרופאים (מס' 3) (פטור מחובת בחינות), התשנ\"ה-1995",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:56:00.51+02:00"
-        }
-      },
-      "39863": {
-        "hash": "b2f1271bd06750a63819cfe3bebe3517572c69f367dbecf7f2c2afcf7053e859",
-        "record": {
-          "Id": 39863,
-          "ItemID": 174020,
-          "PlenumSessionID": 437601,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "הצעת חוק האזרחות (תיקון - סיוג סמכות השר לשלילת אזרחות), התשנ\"ט-1999",
-          "StatusID": 104,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-22T09:48:58.643+02:00"
-        }
-      },
-      "93762": {
-        "hash": "94a66927552af9f7146946ac3e5faf82619afea70f65d1920d6434dd279ea281",
-        "record": {
-          "Id": 93762,
-          "ItemID": 174020,
-          "PlenumSessionID": 437638,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 21,
-          "Name": "הצעת חוק האזרחות (תיקון - סיוג סמכות השר לשלילת אזרחות), התשנ\"ט-1999",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:48:58.643+02:00"
-        }
-      },
-      "168979": {
-        "hash": "68e99ef786f7f0385d2e573651d50ded1f549f63831a5d4b5e3d3cff3e2411cf",
-        "record": {
-          "Id": 168979,
-          "ItemID": 174020,
-          "PlenumSessionID": 437892,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 4,
-          "Name": "הצעת חוק האזרחות (תיקון - סיוג סמכות השר לשלילת אזרחות), התשנ\"ט-1999",
-          "StatusID": 140,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:48:58.643+02:00"
-        }
-      },
-      "79873": {
-        "hash": "90c66fb1b7c616178dacf8a4efdd6ee5f10271e48b59394655a49ed62b0aaa7a",
-        "record": {
-          "Id": 79873,
-          "ItemID": 155102,
-          "PlenumSessionID": 437357,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "חוק הבנקאות (שירות ללקוח) (תיקון מס' 2), התשנ\"ד-1994",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:18:57.417+02:00"
-        }
-      },
-      "79935": {
-        "hash": "72d514bf748622504aa239221179a332ab89d27eb69b054671001172c26ec3f6",
-        "record": {
-          "Id": 79935,
-          "ItemID": 155169,
-          "PlenumSessionID": 437356,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "חוק לתיקון פקודת הרופאים (מס' 2), התשנ\"ד-1994",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:09:00.49+02:00"
-        }
-      },
-      "79939": {
-        "hash": "7c7424b39d7a5fd608eab88ec425fe395c1f48fe863305ec65b39f230e22fbcf",
-        "record": {
-          "Id": 79939,
-          "ItemID": 155169,
-          "PlenumSessionID": 437356,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 2,
-          "Name": "חוק לתיקון פקודת הרופאים (מס' 2), התשנ\"ד-1994",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:09:00.49+02:00"
-        }
-      },
-      "80191": {
-        "hash": "7132a2b14ade69a1e26342e381edf4adf35ee9972200a1f15609313d15d5ad46",
-        "record": {
-          "Id": 80191,
-          "ItemID": 155575,
-          "PlenumSessionID": 437356,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 3,
-          "Name": "הצעת חוק להגנה מפני נזקי שמש, התשנ\"ד-1994",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:09:00.49+02:00"
-        }
-      },
-      "80223": {
-        "hash": "8f6e6970466d7d648a40dffc658556e3473fc21003cd0b14da552c8f4cce3d89",
-        "record": {
-          "Id": 80223,
-          "ItemID": 155658,
-          "PlenumSessionID": 437356,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 4,
-          "Name": "חוק מבקר המדינה (הוראת שעה), התשנ\"ד-1994",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:09:00.49+02:00"
-        }
-      },
-      "80224": {
-        "hash": "443fdfc50f70f546de3f885af813dceafba4ce4d1972962456bd22ff42758c6d",
-        "record": {
-          "Id": 80224,
-          "ItemID": 155658,
-          "PlenumSessionID": 437356,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 5,
-          "Name": "חוק מבקר המדינה (הוראת שעה), התשנ\"ד-1994",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T09:09:00.49+02:00"
-        }
-      },
-      "168978": {
-        "hash": "159507eb9f19f8158810612a409e05038e770b86646f86844d91efc95d5a4027",
-        "record": {
-          "Id": 168978,
-          "ItemID": 172219,
-          "PlenumSessionID": 161480,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 22,
-          "Name": "הצעת חוק חוזה עבודה (שמירת תוקף בעת שינוי הבעלות על העסק), התשס\"ב-2002",
-          "StatusID": 150,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-22T08:59:17.74+02:00"
-        }
-      },
-      "105291": {
-        "hash": "33a5a33110566354dc0463a4ab10426113e6603719b81ea75f54adb36d2d4666",
-        "record": {
-          "Id": 105291,
-          "ItemID": 2234796,
-          "PlenumSessionID": 2234752,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "חוק לתיקון פקודת מס הכנסה (מס' 283), התשפ\"ו-2025",
-          "StatusID": 141,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-19T14:22:12.307+02:00"
         }
       }
     },
