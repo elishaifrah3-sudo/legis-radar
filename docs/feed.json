@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:04:10.827564+00:00",
+  "generated_at": "2026-11-23T22:21:06.247014+00:00",
   "leg_status": {
     "knesset": "ok",
     "gov": "stale_fallback",
@@ -12,258 +12,268 @@
   },
   "knesset_bills": [
     {
-      "id": "kns-2220190",
-      "title": "הצעת חוק למניעת חרם חברתי בבתי ספר, התשפ\"ד-2024",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220190",
-      "updated": "2026-11-23T11:51:16.353"
-    },
-    {
-      "id": "kns-2210642",
-      "title": "חוק לתיקון פקודת בריאות העם (מס' 43), התשפ\"ד–2024",
-      "stage": "פרטית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2210642",
-      "updated": "2026-11-23T11:39:30.213"
-    },
-    {
-      "id": "kns-2224349",
-      "title": "חוק ביטוח בריאות ממלכתי (תיקון מס' 72 והוראת שעה), התשפ\"ה-2025",
+      "id": "kns-2221105",
+      "title": "הצעת חוק העסקת עובדים על ידי קבלני כוח אדם (תיקון מס' 13), התשפ\"ו-2025",
       "stage": "ממשלתית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2224349",
-      "updated": "2026-11-23T11:38:23.977"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2221105",
+      "updated": "2026-11-23T21:15:23.283"
     },
     {
-      "id": "kns-2204257",
-      "title": "חוק לתיקון פקודת הרוקחים (מס' 38), התשפ\"ה–2025",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2204257",
-      "updated": "2026-11-23T11:34:39.777"
-    },
-    {
-      "id": "kns-2221190",
-      "title": "חוק הצבת מכשירי החייאה במקומות ציבוריים (תיקון מס' 3), התשפ\"ה–2025",
+      "id": "kns-2215399",
+      "title": "הצעת חוק העסקת עובדים על ידי קבלני כוח אדם (תיקון - קבלן שירות בתחום הסיעוד), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2221190",
-      "updated": "2026-11-23T11:33:53.663"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2215399",
+      "updated": "2026-11-23T21:15:02.35"
     },
     {
-      "id": "kns-2222372",
-      "title": "חוק ניוד מידע רפואי (תיקון מס' 2), התשפ\"ה–2025",
+      "id": "kns-2211486",
+      "title": "הצעת חוק הביטוח הלאומי (תיקון - הארכת תקופת הזכאות למענק עבודה מועדפת בחקלאות ובבנייה) (הוראת שעה), התשפ\"ד-2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2222372",
-      "updated": "2026-11-23T11:28:07.997"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2211486",
+      "updated": "2026-11-23T20:53:25.323"
     },
     {
-      "id": "kns-2018684",
-      "title": "חוק שמירת הניקיון (תיקון מס' 23), התשע\"ח-2018",
+      "id": "kns-2201054",
+      "title": "חוק קידום התחרות בענף המזון (תיקון מס' 8 והוראת שעה), התשפ\"ד–2024",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2018684",
-      "updated": "2026-11-23T11:26:42.09"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2201054",
+      "updated": "2026-11-23T20:27:50.65"
     },
     {
-      "id": "kns-2193186",
-      "title": "חוק הסדרת העיסוק במקצועות הבריאות (תיקון מס' 8), התשפ\"ג-2023 ",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2193186",
-      "updated": "2026-11-23T11:03:16.563"
-    },
-    {
-      "id": "kns-2245834",
-      "title": "הצעת חוק מניעת רעש בלתי סביר של המואזין, התשפ״ז-2026",
+      "id": "kns-2086693",
+      "title": "הצעת חוק הפסיכולוגים (תיקון - איסור טיפולי המרה), התש\"ף-2020",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245834",
-      "updated": "2026-11-23T10:58:47.387"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2086693",
+      "updated": "2026-11-23T18:59:20.093"
     },
     {
-      "id": "kns-2209401",
-      "title": "חוק לתיקון פקודת היבוא והיצוא (מס' 6), התשפ\"ד-2024",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2209401",
-      "updated": "2026-11-23T10:41:38.52"
-    },
-    {
-      "id": "kns-2220995",
-      "title": "חוק העונשין (תיקון מס' 152), התשפ\"ה–2025",
+      "id": "kns-562211",
+      "title": "הצעת חוק העונשין (תיקון - איסור עריכת טיפולי המרה), התשע\"ה-2015",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220995",
-      "updated": "2026-11-23T10:27:46.79"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=562211",
+      "updated": "2026-11-23T18:57:20.263"
     },
     {
-      "id": "kns-2230635",
-      "title": "חוק העונשין (תיקון מס' 133 – הוראת שעה) (תיקון מס' 3), התשפ\"ה-2025 ",
-      "stage": "ממשלתית",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2230635",
-      "updated": "2026-11-23T10:27:03.473"
-    },
-    {
-      "id": "kns-2224908",
-      "title": "הצעת חוק סדר הדין הפלילי (תיקון - מניעת ניגודי עניינים בחקירת היועץ המשפטי לממשלה ופרקליט המדינה), התשפ\"ה-2024",
+      "id": "kns-2238838",
+      "title": "הצעת חוק למניעת אלימות במשפחה (תיקון - הגדרת אלימות במשפחה), התשפ\"ו-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2224908",
-      "updated": "2026-11-23T10:05:55.377"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2238838",
+      "updated": "2026-11-23T17:44:46.563"
     },
     {
-      "id": "kns-2007749",
-      "title": "הצעת חוק ביטוח בריאות ממלכתי (תיקון - סייג לזכאות למי שלקח חלק בפעילות טרור), התשע\"ז-2016",
+      "id": "kns-2195999",
+      "title": "הצעת חוק למניעת אלימות במשפחה (תיקון - מניעת אלימות כלכלית), התשפ\"ג-2022",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2007749",
-      "updated": "2026-11-23T09:54:11.383"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195999",
+      "updated": "2026-11-23T16:29:45.167"
     },
     {
-      "id": "kns-2245614",
-      "title": "הצעת חוק זכויות הסטודנט (תיקון – זכויות לסטודנטים הלומדים בחוץ לארץ), התשפ\"ז–2026",
+      "id": "kns-2247328",
+      "title": "הצעת חוק שירות ביטחון (תיקון - השעיית הליכי מעצר בתקופת המעבר - הוראת שעה), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245614",
-      "updated": "2026-11-23T09:53:49.083"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2247328",
+      "updated": "2026-11-23T16:10:21.947"
     },
     {
-      "id": "kns-2225065",
-      "title": "הצעת חוק לעידוד השקעות הון (תיקון - תחולה על מפעל תעשייתי ביישובים הסמוכים לגבול העימות בצפון, בשדרות וביישובי עוטף עזה), התשפ\"ה-2024",
+      "id": "kns-2247079",
+      "title": "הצעת חוק-יסוד: הממשלה (תיקון - סייגים לכהונת ראש ממשלה)",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2225065",
-      "updated": "2026-11-23T09:47:39.553"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2247079",
+      "updated": "2026-11-23T16:10:21.913"
     },
     {
-      "id": "kns-2203427",
-      "title": "הצעת חוק לעידוד השקעות הון (תיקון - תחולה על מפעל תעשייתי ביישובים הסמוכים לגבול העימות בצפון, בשדרות וביישובי עוטף עזה), התשפ\"ג-2023",
+      "id": "kns-2245548",
+      "title": "הצעת חוק שירות ביטחון (תיקון - הקפאת הליכי מעצר, חקירה או אכיפה כלפי מיועד לשירות ביטחון שהוא תלמיד ישיבה - הוראת שעה), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203427",
-      "updated": "2026-11-23T09:47:25.97"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245548",
+      "updated": "2026-11-23T16:10:21.867"
     },
     {
-      "id": "kns-2157346",
-      "title": "הצעת חוק העונשין (תיקון מס' 142), התשפ\"ב–2022",
+      "id": "kns-2246083",
+      "title": "הצעת חוק המאבק בטרור (תיקון - אי-החזרת גופות מחבלים), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2157346",
-      "updated": "2026-11-23T09:22:03.333"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246083",
+      "updated": "2026-11-23T16:10:21.837"
     },
     {
-      "id": "kns-2220949",
-      "title": "חוק הממשלה (תיקון מס' 14), התשפ''ה–2025",
-      "stage": "ועדה",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2220949",
-      "updated": "2026-11-23T08:42:17.517"
-    },
-    {
-      "id": "kns-2223298",
-      "title": "חוק-יסוד: הממשלה (תיקון מס' 13)",
-      "stage": "ועדה",
-      "tier": 1,
-      "source_type": "knesset",
-      "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2223298",
-      "updated": "2026-11-23T08:42:14.99"
-    },
-    {
-      "id": "kns-563485",
-      "title": "הצעת חוק-יסוד: זכויות חברתיות",
+      "id": "kns-2245515",
+      "title": "הצעת חוק המאבק בטרור (תיקון - אי-החזרת גופות מחבלים), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=563485",
-      "updated": "2026-11-22T20:39:32.627"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245515",
+      "updated": "2026-11-23T16:10:21.803"
     },
     {
-      "id": "kns-2212595",
-      "title": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ד-2023",
+      "id": "kns-2246471",
+      "title": "הצעת חוק הביטוח הלאומי (תיקון - גמלת אבל), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2212595",
-      "updated": "2026-11-22T18:09:48.46"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246471",
+      "updated": "2026-11-23T16:10:21.773"
     },
     {
-      "id": "kns-2200316",
-      "title": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע זהות מגדרית, נטייה מינית או אמונה דתית), התשפ\"ג-2023",
+      "id": "kns-2246462",
+      "title": "הצעת חוק הביטוח הלאומי (תיקון - גמלת אבל), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2200316",
-      "updated": "2026-11-22T18:06:01.77"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246462",
+      "updated": "2026-11-23T16:10:21.727"
     },
     {
-      "id": "kns-2085973",
-      "title": "הצעת חוק הפרשנות (תיקון - הגדרת הפליה על רקע נטייה מינית או זהות מגדר), התש\"ף-2020",
+      "id": "kns-2245869",
+      "title": "הצעת חוק הביטוח הלאומי (תיקון - גמלת אבל), התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2085973",
-      "updated": "2026-11-22T17:45:34.913"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245869",
+      "updated": "2026-11-23T16:10:21.697"
     },
     {
-      "id": "kns-2168038",
-      "title": "הצעת חוק הגנת הצרכן (תיקון - משלוח חשבונית לצרכן בדרך מקוונת), התשפ\"ב-2022 ",
+      "id": "kns-2246215",
+      "title": "הצעת חוק נציבות תלונות אסירים, התשפ\"ז-2026",
       "stage": "פרטית",
       "tier": 1,
       "source_type": "knesset",
       "outlet": "אתר הכנסת (OData רשמי)",
-      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2168038",
-      "updated": "2026-11-22T17:35:23.677"
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246215",
+      "updated": "2026-11-23T16:10:21.663"
+    },
+    {
+      "id": "kns-2245954",
+      "title": "הצעת חוק קידום התחרות בענפי המזון והפארם (תיקון - הפיכת הוראת שעה להוראה קבועה), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245954",
+      "updated": "2026-11-23T16:10:21.633"
+    },
+    {
+      "id": "kns-2245669",
+      "title": "הצעת חוק אחריות במרחב הרשת, התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245669",
+      "updated": "2026-11-23T16:10:21.603"
+    },
+    {
+      "id": "kns-2245804",
+      "title": "הצעת חוק להנצחת זכרם של הרב אברהם שפירא והרב מרדכי אליהו, התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245804",
+      "updated": "2026-11-23T16:10:21.57"
+    },
+    {
+      "id": "kns-2245576",
+      "title": "הצעת חוק חינוך ממלכתי (תיקון - סמכויות המועצה לחינוך ממלכתי דתי), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245576",
+      "updated": "2026-11-23T16:10:21.523"
+    },
+    {
+      "id": "kns-2245841",
+      "title": "הצעת חוק הצמדת שכר שוטרים וסוהרים לשכר משרתי קבע בצה\"ל (תיקוני חקיקה),  התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245841",
+      "updated": "2026-11-23T16:10:21.493"
+    },
+    {
+      "id": "kns-2245699",
+      "title": "הצעת חוק הרשות לפיתוח הנגב (תיקון - קידום הקמתם של יישובים חקלאיים חדשים בנגב), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2245699",
+      "updated": "2026-11-23T16:10:21.447"
+    },
+    {
+      "id": "kns-2246322",
+      "title": "הצעת חוק חינוך ממלכתי (תיקון - חובת לימוד עברית וערבית), התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246322",
+      "updated": "2026-11-23T16:10:21.413"
+    },
+    {
+      "id": "kns-2246629",
+      "title": "הצעת חוק החקלאות, התשפ\"ז-2026",
+      "stage": "פרטית",
+      "tier": 1,
+      "source_type": "knesset",
+      "outlet": "אתר הכנסת (OData רשמי)",
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2246629",
+      "updated": "2026-11-23T16:10:21.383"
     }
   ],
   "gov_announcements": [],
   "news_feed": [
+    {
+      "id": "news-9b2654d2e7ee0207",
+      "title": "האסיפה הלאומית הצביעה בעד אישור חוק הקרקעות המתוקן. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUV2SU1JaXJHUklGUEtsN2tiS1FfbzNFNWZxRDBOb0hQUGJTMVBZMk41SFkxUHlheTNRRS1zRzEwbGlMX0UtMjBNcWpKY3FBanIxal9XS1NFUnlvS1AzMWxLWWNEY0V4S2NldWFfX0FiUlRPbEJNSmNtM1N0Wm9Db1dn?oc=5",
+      "updated": "Sat, 21 Nov 2026 11:16:35 GMT"
+    },
     {
       "id": "news-167bdc19bf61f9ce",
       "title": "פרק י\"ג (רישוי עסקים) מתוך הצעת חוק התכנית הכלכלית (תיקוני חקיקה ליישום המדיניות הכלכלית לשנות התקציב 2021 ו-2022), התשפ\"א-2021 במאגר החקיקה הלאומי - אתר הכנסת",
@@ -285,74 +295,114 @@
       "updated": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-3c0b0a1427de4cf9",
-      "title": "הצעת חוק הקרקעות המתוקנת שילבה את חוות דעתם של חברי האסיפה הלאומית בנוגע לביזור והאצלת סמכויות. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDdOSHB0Z0N2WTBiZ2tzVEFfVDlGdW8xQ3p5OUpBZXEzSGZDenB4YmlJRGNFM1hpYjZSam1iLXBSRS1LU0ZFS0hVMFpSVkJkZWhvZUZteHV4dkp1U2o0czRCM1dXTGE5cjZqdU1DZmVOaV9hVFVxbWViNHh1RFR4U0drSUNpYnFhNjBIRS1UN3RVaDladHlNUmQyRHB6WVZkRFg3Vm9KTlhHLXFyeXNzU2Jn?oc=5",
-      "updated": "Tue, 17 Nov 2026 12:03:54 GMT"
-    },
-    {
-      "id": "news-c9a9922e7c9e0ee4",
-      "title": "משתמטים כן, עסקים קטנים לא: 4 רפורמות כלכליות שנותרו מאחור - כלכליסט",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כלכליסט",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Q1FJUE05am5lVEQ0bGcwamZYVkJ2T3FHYzdkUElBeHVua2puTl9iX2Z2dGw1aTJicDdpY0VfRnlHQ1FwYnZrQnNSMG1nWnVFbDN1UE5ka2dzb1lkN3BRdXpNOGRxdi0z?oc=5",
-      "updated": "Tue, 14 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-2e3f19f1114868e7",
-      "title": "הרפורמה שתגן על עסקים קטנים מפני תובעים סדרתיים תקודם באופן חריג - גלובס",
+      "id": "news-b4f81f4013d4ea2a",
+      "title": "אילו עסקים קטנים יהיו מוגנים מתובענות ייצוגיות? הכנסת דנה בתיקון החוק - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FVzFDLVkyc1A2UUxmWG1yU3hsX3lTNzZoV2NheDNoVWdpOWhmSDNiNVUxOG5KblZ6Y3lMY2ZMRDgxT2l5S2RCRHpyeTJETnBmUjJEM1RmeEI3WTNRT2pfMVpUNzFDazZN?oc=5",
-      "updated": "Mon, 27 Jul 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RT1Z5RGpvbkFKUHNGcDZaNXBPU2ZwRnVmb2R2UjlDVFRPenRGTEM1TnBLR190MlJYQTdRVlhNVmdCclNKZG5xRnN4RWhveU5hTTgwaDV2bHh5MTRkTGEwUlotTkx6SlJx?oc=5",
+      "updated": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "news-81a6d245ff446543",
-      "title": "הסיכוי האחרון ליצור תחרות אמיתית מול הבנקים נמצא בידיים של ביטן - TheMarker",
+      "id": "news-e89ba225aad3bffc",
+      "title": "ועדות החוקה והכלכלה אישרו: עסקים קטנים יוחרגו מתביעות ייצוגיות - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2JqeEdZUF9rNUduZWpIQWMtM0doN3lSVmp4UHFTYjRJeTA3cjRhWVVpU2IwOUVIb2pSZ3ZkbjZDT0gwd1luUVFSTmhCWk9RQVB6Y2VFVWVhQ0pLempTX0k5TVlHNmRTd0cxNDlGRGNKb3JaWE5SRlVKY0FqNVhqQ0NEbERIeVlrQlE5eGZuUWRpZ2M0Yktyb0tIcE9iQkt2TFpIaE0xYmdiQWhjUERrRWRHaw?oc=5",
-      "updated": "Tue, 19 May 2026 07:00:00 GMT"
+      "outlet": "אתר החדשות דבר",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4SzhwVWtmajFSMXBJOEd5VUlVS3JXbUpWRHlnQ0VoYnJid3RoVWVBS215ZFM0THVRVWhGRE05cGtpb05kSTdn?oc=5",
+      "updated": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9ec8b3d1972dd1e7",
-      "title": "הצעת החוק שתאפשר למתנחלים לרכוש קרק... - שלום עכשיו",
+      "id": "news-9fac80e354e58688",
+      "title": "דורון רדעי: בשם הגנה על עסקים קטנים, מחלישים את הציבור כולו - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "שלום עכשיו",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEY3g4SkFucC05cG1XbWktY2JwSFZRQVJtNDNKRjkxX0pVVGwxZzRPYkFtWGFxRHFnTl9VSXoxZmlvM0xtMGRHR0ZYOFc3SlpudFl6VmUzMEt4Y0tJSWhXTUE2QWlha0pQZU1N?oc=5",
-      "updated": "Thu, 14 Nov 2024 08:00:00 GMT"
+      "outlet": "זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PeDBxMWJyNm1IMmdua3o5cDlseXlVYWlQaWp4dDNiWHJvMVpQelBibS0yVjRzRXZxOEZQZVVOdUFLeFdi?oc=5",
+      "updated": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "news-2e12dce604e8285b",
-      "title": "מה אומר חוק הכשרות? - המכון הישראלי לדמוקרטיה",
+      "id": "news-5f699407cce42341",
+      "title": "הכנסת אישרה: החוק החדש שיחייב עסקים לתעד שיחות - או לשלם ביוקר בבית המשפט - מעריב",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kV0ZMT3R0WnBLcUlzSEprc0NLc2c1LUlGWkxkMExsTXBXdnFYU1Z2Vy1mSHNvby1mOTg3OGJLMXItRFJtZ2VfTG9ma2hnRVk0ZmRlbVRzOXV0TGM?oc=5",
-      "updated": "Tue, 02 Jun 2026 07:00:00 GMT"
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55UEtFSWZnUi1ac2dfdjY3bkF6dXItbHMzSV9lS2lZOFZELU0zMlBjcmlPMlA5bFZWaXN0djFhaVBEWUcwaVJSWEZZZ2s3eGJscGFtMVpLZTFBQ0RKV00tNFZyLXRsUQ?oc=5",
+      "updated": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-ab71dbacb7ae4234",
-      "title": "הצעת חוק בנושא מסחר בנגזרות סחורות: שיפור מנגנונים להגנה על משקיעים ובקרה על סיכוני שוק. - Vietnam.vn",
+      "id": "news-80e1362634d16b36",
+      "title": "האסיפה הלאומית אישרה את החוק לפיתוח עסקים קטנים ובינוניים, שייכנס לתוקף החל מ-1 ביולי 2027. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWjNZdUZlaUpfSThYUWZaX2dEaXB5bk9pdElkQlZUSUUwcTdVdWpuc2dfZ1d5Q2MtSG5ZN0RoTHB0czFldlBsbkg3OWR2Y1h0dDVncEwzdXhGaU5iQnlWcUE3SzJ5bDczNzFsTUI0R1hwdmNDc25GTWtuYmNITF9uakpnaE1faFZiVjN4VDc4RHBSTjcyVklHZmVFR1cxamlLZi1QUjBUem9EbEgtdE5nOVJZaHR4QjlsUlRaSkh4NlVfaDVXbWRseVdkaw?oc=5",
-      "updated": "Thu, 19 Nov 2026 04:02:14 GMT"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlQ2NFpqNUppNTMtUmZVSDBwcGVyOFlva1JFbkJma0xoazk3cUpzSE5tYUZjdmxMWnJ3RmNZWDBhZXluYmptcEV0YlNtUkdOOGozSElaYXRTSng1RzU3T2tFN2dLdS1pcTM3bUpKVjRZZ1lMZy1naWlEYk1qS3dOeEI4ZHJ1Q1BXdUFvaGt3UldaX3ZpLTZqY1ZzTUYxRU40MGRnNXR0QmctRGRi?oc=5",
+      "updated": "Sat, 21 Nov 2026 09:10:57 GMT"
+    },
+    {
+      "id": "news-75d343080cf15583",
+      "title": "הערות על הצעת החוק לעסקאות נגזרות סחורות: הבטחת בטיחות השוק והגבלת סיכוני העסקאות. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTkJCdC1LaktWbmFZdFBrYURZc2E5cXJmaEI0ai05Y1BraW1sMlpXY1VobFViaUlaMTgyWHhmWXRZZ2Y3YVdpaE8yaXJGNUd1RWZWTXJDVlE1WVBaZ1BRYzJWMXo2dHNXQzdUcXhjQkdDRVRIS1VoWmpTY3NKeWJqVDFDOXFlYjZfeDhoNlFiWEtjZXdoaW0wdy13N29mVmJxY2VYamFObGRiSmxfZ0pzaEJ1enFIOVpoQWtTWElSeEU5Tlh6cm1rcg?oc=5",
+      "updated": "Sat, 21 Nov 2026 13:16:05 GMT"
+    },
+    {
+      "id": "news-0ac23e83a37c71de",
+      "title": "חוק המסחר בנגזרות סחורות: נדרש שיפור מוסדי על סמך נוהלי השוק - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGxZVXZfcmNYNnFGSHA2R3JiYmVzdF9pZjR6UWx2ZG5ZX1ZGSUw2aDJuamlWN2xJeVdxZE1HLWMyczBlQ0tIcTUyd25UTGp5eFNyZDdHZmY1YXNvNGhheUdkbS1qYnlxTFMyVDhHVV91SmduVUdCYjh5Y21OY3E0cFA1ZEFiRDhhcVhROUk4cjBJZzIxZHptUFZ6aGJ2ckdJMjRmci1xVFdiekYtc2Vn?oc=5",
+      "updated": "Sat, 21 Nov 2026 05:44:26 GMT"
+    },
+    {
+      "id": "news-98ef5ccae1b70c4c",
+      "title": "ממשלת נורבגיה מקדמת: סחר עם ההתנחלויות - עבירה פלילית - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Vm90NkFwZFFrUHpYTnBmd2tVX2xCRVJaMEkxSEFWUHE5aEdmNHBORWo0bFlvVnkwM0w2Nm5jTlFWTzFodEYyX3VDcDYzR0ZzTDNJNXU3dTYyQQ?oc=5",
+      "updated": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-60c0d6e3d56ea500",
+      "title": "עסקים יחויבו להקליט שיחות עם לקוחות: ועדת הכלכלה אישרה את החוק - ביזפורטל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ביזפורטל",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNFFtaXZwMl9TUTEzOUlGVVlWaGIwYm9UR2paQlEtbmRBcUt4VE91VWdXcjE5dmYyMW9lbWVPQ2Vxel8tTDFHenhXM00yWF9IU1dteGF5RzRHd1JNSEVGN2xSSldUbkox?oc=5",
+      "updated": "Sun, 19 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-0866f12ca556be84",
+      "title": "חוק מסחר בנגזרות סחורות: תרומה לפיתוח שוק סחורות מודרני ושקוף. - Vietnam.vn",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON25oTERKWEJHRTkwZUFhaWVzZEltdWpLeThNb2FOZlg0Ykd4S3BYWFlDRUZzWnVoSkZYR19DQVFkUkcwamJhcmd3U3hJbmx3VFBaaDNybENNZ3kzQnI5S2lVN3k4SlNkQUY3ZVVseTlFYXViZXFheUV1T0VxQ3NrRnlhRjNhYW1nNjVRMXB1UWtPMmpfbDF5QkxvaDFGSlo0cjQtWXJLMnMwUzFyZDYxZlNVZUhiVnBQWlE?oc=5",
+      "updated": "Fri, 20 Nov 2026 11:18:58 GMT"
+    },
+    {
+      "id": "news-63e8e913915226dd",
+      "title": "ביטקוין נסחר מעל $62,000 בעוד הצעת חוק הקריפטו האמריקאית מתחזקת מאת Investing.com - Investing.com",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lT2JRQ2g3TTRLaUgzU1J4SVcxR2Rycmh3NmdHam9uTUxCYzVKWjc3SzJJelJJU3lVdDl3aF9UaVdpN0ZsVGY1X2xndzdzMXFqckIyak9yWk9zVWpuYXdKeHFIanl2eFN0Mm5UOW9tUU1Tdw?oc=5",
+      "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "id": "news-60e6ef277c36cfd9",
@@ -363,66 +413,6 @@
       "outlet": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3pZX0RiRG1Na3kzelVLd1llbGtvV2swTHYzVzRfNlNNcUV1YVNURGhOaFkxTTZDb2FkM3EtN19rZVhMRTJDOWVPNnRWbGZDUTBZNGc2cUhHMlIwVE9WTmhveFhubHNOVXV2SElTOTViU1c0SjJoZW0tQ3g5UUctcEtnTGdFdzJKTmpIalpR?oc=5",
       "updated": "Fri, 20 Nov 2026 12:18:39 GMT"
-    },
-    {
-      "id": "news-beaf7233d34a3ed7",
-      "title": "הצעת חוק בנושא מסחר בנגזרות של סחורות: ניהול ממקור הסחורות, שליטה בסיכונים ועד הסוף. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVpodHpqcEYweEtJRFNUekZDandqN1c4a3BsbzRPZkVubGxmTTBEb01RemRjdE5yT2Y1aXZ4Ykt0MEtIc1Fvd3FJYVI5TFFSTTBOa2VZX0xQZlJsVTRBRHVHeGZGTEpfaFp1Z2huYUpBZmprdkhJS3BfXzBRYnNiS2I4U0ZhM0tPYURmSFNscmFudTRtYmVfNkN1bHZZQ0s3bGdxRFgwZ0N3bXlMc3ZuS2NGM1hoaTZy?oc=5",
-      "updated": "Tue, 17 Nov 2026 19:04:52 GMT"
-    },
-    {
-      "id": "news-ce39223e9bb277ca",
-      "title": "מאחורי הצעת החוק: אתרי קניות באינטרנט יוכפפו לחוק הישראלי? - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tVlRNY2RablRtYkdLMHlQQU0yTmVid19lUVAyVnJHbUg3eDRmQ2tVQ29zcGxkVGVSS0xqN1FzblhSSmZXcURaOTFDb3NLVjh3Mm1iN1pLNEl2ZGZnVU5pS0Rpc1pwTUk1?oc=5",
-      "updated": "Thu, 26 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "id": "news-d493994908ba4da7",
-      "title": "חוק הפייסבוק חייב להגיע למגרסה, ומהר - שיחה מקומית",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "שיחה מקומית",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNU2ZoVnVyNWtrcjlWdXRzRGFsSDhtVWkwOXU5OUsyS0IyR1FnazdHVEZUTW1sejV4WHphQ0l6aEV2QXpMdkhNaVZ4RTZobmNlMmdiY0dPVjh4c21kdzV1c1EyOUNTWFoyNC1xZFBJYnl0bEVIN01YUWpzblNNcUlDdTk3UnRpdmFfWnBsRHFGZmwyUzR4M0ZMZDcwZzlHcDVWVkRoM2V0ejVfbm1VU2lSZTdQVFNZd180eEFvZEh1bTd2MEpuTW51WEZMZjRad1JZVUxkOVlmcFJVUnlvaU4wVGpBVUpManl2cmlVSlFFdGY4M3ZnWkhJVDFabktIbWI0V05EckdKRmlnOWxNbTFZamlmM3RqSmJMRnJtTDUtRDkzWlAzeHNmdVJMLWYwUElWUTU4eDVBSQ?oc=5",
-      "updated": "Wed, 29 Dec 2021 08:00:00 GMT"
-    },
-    {
-      "id": "news-752dadb666770018",
-      "title": "מאבק בקואליציה: סגירת עסקים מלאה בשבת או פתיחה חלקית - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oakxzX2xKcTVOeU9lTWtZUlNqMjVwbUx5X2tqNDZZWFlOZ2p4VU5EbHZvekFRYTQzMU1vVi00ZHNQeUlJWTVOMHExVC1IdWpJVU9PLUN5WFdPZGoxampJUUgzQlNvbWM?oc=5",
-      "updated": "Wed, 25 Oct 2017 07:00:00 GMT"
-    },
-    {
-      "id": "news-63bf1e99a4264b0a",
-      "title": "אושרה בקריאה ראשונה הצעת חוק הפיצויים לעסקים שנפגעו במלחמה - calcalist",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "calcalist",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ydGJZNE82NzRIa3VoRE82UWkyTnpoak1qdmxyY1BZUW1TTDBGNldiLXMyeU9pSTNpVHRGSUVWTmtlY19OOFRsQlNRYVdPc0N0TWZqdzN6SUpHZE9UM2RQV3l3QXMxR3Yx?oc=5",
-      "updated": "Thu, 02 Nov 2023 07:00:00 GMT"
-    },
-    {
-      "id": "news-e10323d8912daf08",
-      "title": "התוכנית להקמת בורסה לעסקים קטנים חוזרת לשולחן - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GRzJoVmRCVkhsQ3pHSDYxRWNSZGtJUDdpbTZoV3FfcG52UlB6NG1kWDliODZTYWpLT3VHUVRJcS16aU9XaFVrM1c0THFMaU5fMWtpSnRLSHB5WDdhWTFla1Ftd2lxYllv?oc=5",
-      "updated": "Wed, 30 Mar 2022 07:00:00 GMT"
     },
     {
       "id": "news-d99fc8af08c83adb",
@@ -455,14 +445,14 @@
       "updated": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "news-2666b799130ebcdc",
-      "title": "לבטל את חוקי ההפיכה, ומהר. יש לכך לגיטימציה משפטית - הארץ",
+      "id": "news-3fc221d85bef932f",
+      "title": "הצעת חוק התקשורת יוצרת קרבה פסולה בין רגולציה לפוליטיקה - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmR3a2NwQ2JrNHJEMzh0enV1VGRoemw3QV9xeFNtYkJ2RTFHV2h6a0pFdEwxNVpCQ09YY1BkRTd6Y3FiUllHVFB4NGtSWW1tYkhTZXhXOWJ3OWFjdkxwdVR2dWI4N1o2ZGpiT1o5cUdiMjREMTBnaHF5UXBuTzBBaC1KejJJZy1VMFNkLTB0Y25VcUg3Y1ZKTWd6ZzlFd2thaWpXcVlfVTRINFdmR2k0?oc=5",
-      "updated": "Sun, 22 Nov 2026 04:00:00 GMT"
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNkNHNy1WZk5lbTgzV3Nua0dsRWlFaVN2UzBmdnJ0NXdUQ3VXVGg5M0FLdklsazZpU3RBRWJzUmM4M2NpOTR3MVpGQ0pOV0xKT3g2S1Yxbld2VDg?oc=5",
+      "updated": "Tue, 22 Aug 2023 07:00:00 GMT"
     },
     {
       "id": "news-21335e1a0cdd9e50",
@@ -475,26 +465,6 @@
       "updated": "Tue, 17 Nov 2026 14:27:00 GMT"
     },
     {
-      "id": "news-3fc221d85bef932f",
-      "title": "הצעת חוק התקשורת יוצרת קרבה פסולה בין רגולציה לפוליטיקה - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNkNHNy1WZk5lbTgzV3Nua0dsRWlFaVN2UzBmdnJ0NXdUQ3VXVGg5M0FLdklsazZpU3RBRWJzUmM4M2NpOTR3MVpGQ0pOV0xKT3g2S1Yxbld2VDg?oc=5",
-      "updated": "Tue, 22 Aug 2023 07:00:00 GMT"
-    },
-    {
-      "id": "news-31a882ae1a5db2af",
-      "title": "בניסיון להביך את גוש איזנקוט: \"חוקי ההטרלה\" שהליכוד העלה - ואושרו - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpWjZodW1EWXFIdXhHU2VnN2kxZmZtbnhHTkozU0xTTVg3dm14MFY5dTRwZVJydko1c3JQZkswWlRUUnFlNl9peGd6STEtejF2WGFXN3VDeHEyQQ?oc=5",
-      "updated": "Wed, 18 Nov 2026 11:29:38 GMT"
-    },
-    {
       "id": "news-90d6d604732bd673",
       "title": "עדכון תקנות התעבורה - שיטת הניקוד הרשות הלאומית לבטיחות בדרכים - GOV.IL",
       "stage": "סיקור תקשורתי",
@@ -503,6 +473,36 @@
       "outlet": "GOV.IL",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMQ1diWDhTR0JmdWpQTDRxUm9GS3dIM2NZWUJOajBKZGF6dFBIeUtBcWNBblo3V3Ayc3VoN3NyYmJucmcwcHVseVEwMEd4SmM2WjU2SA?oc=5",
       "updated": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-b1d9bf42056d4779",
+      "title": "הרפורמה ברגולציה - רק בהליך חקיקה ראוי - המכון הישראלי לדמוקרטיה",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QNjRuMVpQWlRNRS1hNVlaSW5WeS1iOGdBYk1BemZTcC1iMzY3Q3NRUTRER1V5UXFKT3hLeVJObkdfY1hjZ00zczJtbFRmNDBTMWdyRk5zaHZyTE5KeVJGbg?oc=5",
+      "updated": "Thu, 05 Aug 2021 07:00:00 GMT"
+    },
+    {
+      "id": "news-e83a59152d332795",
+      "title": "המשרד להגנת הסביבה מפרסם להערות הציבור את טיוטת תקנות החומרים המסוכנים - GOV.IL",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "GOV.IL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QcGtmME1EaGtuQXlaUWc3MVVZWURXUlNLZFlHODd4NVpjN0MyNUptM0cxRnlxWjQtOFBZalAxVnVmS0w3b21tZnhGMVRLZw?oc=5",
+      "updated": "Wed, 16 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "id": "news-31c0fb37b99fa2aa",
+      "title": "עשרות מיליוני שקלים הועברו להילולת מירון באישור ח\"כים מגוש השינוי - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bklqRTAzNmI5d2ZVOFNQLThIb052aU00aEtxanlOU2tDWGFwLWlHdXkxQ3FJdkJ5d0kzNjJMN3BoWnZBWG9XX0hzZnlrM2JuSkRNTXFfdVpjb1l5a1Foag?oc=5",
+      "updated": "Mon, 23 Nov 2026 13:19:28 GMT"
     },
     {
       "id": "news-fb01e660e773164e",
@@ -515,24 +515,34 @@
       "updated": "Sun, 22 Nov 2026 09:07:45 GMT"
     },
     {
-      "id": "news-11ade7d41d21f05a",
-      "title": "מבחן ראשון לשת\"פ בין גוש השינוי לרשימות הערביות - שדורשות בלימת קיצוץ בתוכנית הפיתוח - כלכליסט",
+      "id": "news-5515377e58aae4eb",
+      "title": "ועדת הכספים אישרה 117 מיליון שקל להילולת מירון ולמשטרה - ועיכבה תקציבים לאבטחת שרים - כלכליסט",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "כלכליסט",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43cDlhc09ha0otSC1WWXo1TG9aYWNoclN0QjdXX0hualVRZ25NeUt4eHlZb2hyc2xudHJ5YUhtbThTRlhfRXhYQVUwVU9qUVpHMU4zb3lEaWRqLWVIeWVFSGhxX1gxdkdYV19r?oc=5",
-      "updated": "Sun, 22 Nov 2026 11:39:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5obG9DVW5mX0g3YlJ5bGpvZTNOU0RHZnhIajVkdUw3cmt2cE82OThtUXR6eWFkS0d2eVhpVlplR0xuMXozeFRjOFV4cVZ3RFBDUmJtNTZWRXI4Yktta2tBOXl3XzRzMS1vdnc?oc=5",
+      "updated": "Mon, 23 Nov 2026 13:55:00 GMT"
     },
     {
-      "id": "news-5a5c02e11a75a1e1",
-      "title": "הכנסת בידיו של כהנא: גל שם טוב אושר לתפקיד מנכ\"ל הכנסת - בחדרי חרדים",
+      "id": "news-a9bdae743b7c39f1",
+      "title": "איתות לחרדים? ועדת הכספים אישרה 46,000,000 שקלים - אמס",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "בחדרי חרדים",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zT3kxUkxuRG9Gc2JfakxLdmtoWnRhTlllTUJ4emRNdGxpTXU0VjNoN0ZQa3h1cndBdkFvb002ei15SzI1dHZaY1Y0RQ?oc=5",
-      "updated": "Mon, 23 Nov 2026 09:39:00 GMT"
+      "outlet": "אמס",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpOEJjSTJCYXdhemY2bDJhckVTSmE4dkJRMTI0VlNuUURIcVhQS2NUWURGM3hWcUtUdlBWbi1wRGk1cFB6ZHlLcjU5VVFadw?oc=5",
+      "updated": "Mon, 23 Nov 2026 17:32:50 GMT"
+    },
+    {
+      "id": "news-178bcafd1aaff39a",
+      "title": "מקורבו של מתן כהנא יהיה יד ימינו בניהול הכנסת - מקור ראשון",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Nm1lcUVER1BIazRGY2hMTkxjUjQ1ZG55TXN1RmcyM25hcVJRSkkyOTc3azJkclczRkdIQVRsckZyekN6S0xSSzl1c1lvMGNRalNiMjJuWURiX3AzYjNrVDBzM1JoSjBFN0E?oc=5",
+      "updated": "Mon, 23 Nov 2026 10:25:23 GMT"
     },
     {
       "id": "news-4eee7088d47e3b76",
@@ -545,14 +555,14 @@
       "updated": "Mon, 23 Nov 2026 05:16:00 GMT"
     },
     {
-      "id": "news-2a4c09c23caa09d7",
-      "title": "המס החדש שיטלטל את חברות ההייטק: ישראל נערכת להטלת מס מינימלי של 15% - היום",
+      "id": "news-d65180f6a71b2199",
+      "title": "בשבוע הראשון: אבישר בן חורין מעבירה 50 מיליון למשרד של פרוש - סרוגים",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "היום",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aeFFabDFHckxxdU9hNFJ2QmFVS0U3S0xzaGZILWk2N1hJcU85bjdJRXI3NG1RWDhzS3lCMWppUi13TTFFaURTMUVUZ3J4Y1NDNUdBeWdXaW9sWEJFYVREcVdRbHlWUQ?oc=5",
-      "updated": "Fri, 20 Nov 2026 09:02:34 GMT"
+      "outlet": "סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNZ2NTbkNWNWE5SHdWeWExUnl5STBJRkRQV05VbVZCZFpnclRRU0MwcFBfOGV2YkpWMGhpdGdTTXhkMG90RXJrd0xPMmhQNnlNdGdTRDB0TnBELUpCR21HV3I0UHhfX1hqdHg3MW14WWR4SEJ5WElCWWlRYTRpUXJiajVXai1GVTFGRjMyZFZ3STkwNUNYSmFaTXBMRmljTGZmWWd1NHpLLXJVZ0RYUXV3eVdNWlY5Z1pDNlBQc01jYTB6Z2Nhc2ZPS05RSGdJUFlJUDlMR1hSSkNDVHN5ZXNEMkRuRk1fTzhWNWFuaFhFRzVEV0wtQU94akxVQ1lfWjBSanRGNWk0YXUyUndXeEoyMGFtRjF1ZzlYMmtnV3RBLXc5TlFVUjBSRTNLbm4zTHFORWZocmF3OFZ2a3VTR2c?oc=5",
+      "updated": "Mon, 23 Nov 2026 14:48:54 GMT"
     },
     {
       "id": "news-a2daa079ace7269b",
@@ -565,34 +575,24 @@
       "updated": "Sun, 22 Nov 2026 12:17:42 GMT"
     },
     {
-      "id": "news-971df2e5c317d85d",
-      "title": "אחרי שבוע סוער בכנסת - עכשיו מגיע הדירוג הגדול - מעריב",
+      "id": "news-ed7609d8a5421031",
+      "title": "חיסכון של 1.5 מיליארד שקל בשנה: החוק שיאפשר לכנסת להתפזר ב\"לב שקט\" - מעריב",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "מעריב",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YTNsNl9iRTVPSnBteE1BcUhUU0ptU1NQd2VCdC00dE55Z3NOWDBfdGpsTHY5T1dFbndsdzJXLWN6b3MwSFFMNzZoYnk4dm1lbWF1My0xRkFqZ0VjakpYZEs1Mi1zUQ?oc=5",
-      "updated": "Fri, 20 Nov 2026 04:00:42 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcVlCTW1MTzJZTTE5azRVZVFHMkk3VmhKTnlXYTVDY0haSmF3U1laRzRJSEgtanJ4WjJJUmtCNTNnSFYzTUFQUGZZR3dka0xwZEtXN3I0aWxDX25VV3BQSXNaV0RSZw?oc=5",
+      "updated": "Thu, 05 Nov 2026 15:50:00 GMT"
     },
     {
-      "id": "news-f5cd75ec847c37d1",
-      "title": "ועדת הכספים הזמנית אישרה: זה מנכ\"ל הכנסת הבא - C14",
+      "id": "news-cf78f7182ce5907b",
+      "title": "ועדת הכלכלה והתקציב של מועצת העם המחוזית מפקחת על ניהול ושימוש בכספים המופקדים באמצעות בנק המדיניות החברתית. - Vietnam.vn",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zbXFFN1Q5VTJWMmExcUR6NThlRUd1ZWdRa0pvS1JLMFdYSlNKeEx3bEs1cVJfTU00ZVZSQzFHTlpkSVFuVmlnSmRTXzNSQQ?oc=5",
-      "updated": "Mon, 23 Nov 2026 08:59:49 GMT"
-    },
-    {
-      "id": "news-39cba62179478bd2",
-      "title": "גוש איזנקוט נערך להחלפת יו\"ר הכנסת ולביטול חוקי ההפיכה המשטרית השבוע - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsU3lSdXlsN1h6YkRwc0JpWmxrSVVndkRaUlk5ZkJkbW92SklCRHNnRm85MEdlcmtlNUNUcEQ5WUVqMmktaDZCZ2diTQ?oc=5",
-      "updated": "Sun, 15 Nov 2026 07:51:41 GMT"
+      "outlet": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHNfV0pPOVZUZlR6TUtQbzd6OVRqc1Nqc2xzM3pybGg3bnJMRzkzQnBia1IyS2t3UU1ObmN0ai1wQVJDZmlzZE1aWGQwRVNMbjl4R3ZlaW1HQVlNSE9pQ2hKTlMybmZLeUdLakw5Yl81X0ZWUkRQc2xVUXFTeFVtVDRWNms5RjFlakhVbUhZWXdYM0ZZNjZia0EzMC1hTW1nWXJlZUwzVS1ubm4zQTB2N0pJSkJFclRLVUpNNC1wLWxEb3Jyd3JHSk9ITGstR3ZFSUZ3?oc=5",
+      "updated": "Fri, 20 Nov 2026 19:20:12 GMT"
     },
     {
       "id": "news-8af78ac1cb84faf2",
@@ -605,74 +605,54 @@
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-b63204be4cc8c391",
-      "title": "מועצת העם המחוזית סוקרת פרויקטים של השקעה ציבורית שמועדי התשלום שלהם הוארכו לשנת 2026. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjF6a2Z3OFJ0bEIzVVFNamttX2pWRFhOWWxSbExpYU0xNUVNbVBZTUswa0NIS2tPTTRkN1NiREpZZHpNY3kzYTQwVTlHOEZxZUd0VEpwdlY3c1NCQ3RZSGhHdFN3dHRMVWFzdDhBY3dkc1BPN1QzSFpRaDVMaDFCaHpBRm56dWlMRzhGZzc4Tkg5TVc1RWFmVnhuU3V2b29FT2t5cQ?oc=5",
-      "updated": "Fri, 20 Nov 2026 09:45:35 GMT"
-    },
-    {
-      "id": "news-b5a6634ff0661fb8",
-      "title": "עדכון סדר יום ועדת הכלכלה בראשות ח\"כ דוד ביטן למחר (יום שני כ' באדר התשפ\"ו 9 במרץ 2026): - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90ZDJ5UmV4TENzR2Y3NG1iRU5tT196ZjBpc1VubTdPckpyVWxoOU1YZzYta1lVSm1nMVVBN3lrOWdfU01ocEt1Sk5MQzZZOFktTUpORTY2b285UTZUd1VOQW5IOHduR0xPY1g4?oc=5",
-      "updated": "Sun, 08 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "id": "news-d77267701c932292",
-      "title": "ועדת הכלכלה דורשת מתווה פיצויים לענף התעופה בעקבות \"שאגת הארי\" – היו\"ר ביטן: אם לא יצא הצו לצמצום הפיצוי המדינה תצטרך לשלם לחברות הרבה יותר - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRGxCblRJM2NGcjEtaVdoRzZyci1FQi1VU3B0RzVoSkd1eDRwQ2NGQVI5Y0gzZ2xFVmtoRGJnbmRsZGR2M09ROVl4bGl4NGhiR0VkWktCNXNGb3hSNk90eGNWRUl3TVhmR2dIQmV6MnVUZU9JMEQ2RHlVSQ?oc=5",
-      "updated": "Sun, 10 May 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-ddc7073d8ef24c4b",
-      "title": "\"פגמים רבים\": הוועדה החדשה לביטול חוק השידורים תתכנס מחר - TheMarker",
+      "id": "news-2e330a5613dd1884",
+      "title": "\"לפי החלטת הממשלה אין מנכ\"ל לרשות השנייה\": אושרה רפורמת ענק ברדיו - TheMarker",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "TheMarker",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2d3aGt6eXhHX1RiY1VGNFZKSm9sSzBjQjVTQVhLYl9MYnA1dy01cmtGMUotRi05blVlbUhEMi1Wd1djMmpXU2lHTkdLdXlRdm85STdpREQ1X0VqTWZScEtaYUlTMk13c043TUhjdHl2VEZHdFVQZG1xZTdVci04TmR6V1ZZZEJSdW55MVRjYTFzaldTc00xQm1KS3VCTk0?oc=5",
-      "updated": "Sun, 22 Nov 2026 10:58:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkhIVkhTMXRmNXhCVmhBX2FzNnNtN1daYWVsVXFSV09aWVY1U3M3V3psT2RRMG42b3l4QkZ5bWF2WXNvT0tMZzZQT3p1eVdlV29GZXpTa2JCQnBGcTlKRnlscUpZWXBCWGdHMFhEQnJQa1RCVm1KOElWdTVuaERSVUl0R1pOSDZhT0pjS2FXT0RlVzlJNkRUb1o3aEFGdk0?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-a776822b28670912",
-      "title": "ועדת הכלכלה של הכנסת אישרה את ביטול תקנות מקורות אנרגיה ומעבר לרגולציה אירופית, צעד שמשלים את הרפורמה בייבוא מוצרי חשמל אותה יזם משרד האנרגיה והתשתיות - GOV.IL",
+      "id": "news-54d1d660b8aa5350",
+      "title": "משפט ביטן: אחרי קרוב ל-40 דיונים, יו\"ר ועדת הכלכלה של הכנסת סיים להיחקר במשפט השוחד שלו - העין השביעית",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "GOV.IL",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aM1pOT3dSZEpCNi1pUUpDSVNsOU5KMjFSYUw1UE5oOXplWXZsalFYTzVFelJDNVhmWWRSYngzVHVYZ1o4d2pKVXljNWlzNmo3?oc=5",
-      "updated": "Tue, 30 May 2023 07:00:00 GMT"
+      "outlet": "העין השביעית",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QeFpXd3pqMTdtVWdQVjFTcXhYdk5zVl9jLXZSV3A0cnFzNmlZT014NjVYTTFhVzR4bE1mcEJlbzNhWUEzU1JJbg?oc=5",
+      "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-47ea48cc25ce27d6",
-      "title": "בוסו וטייב במכתב דחוף: עצרו את המעבר לדיוור דיגיטלי בבנקים - אמס",
+      "id": "news-0b9cdec59f7aa37c",
+      "title": "ועדת הכלכלה אישרה: נאסר דיג מכמורת בקרבת תשתיות גז ונפט - JDN",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "אמס",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tQ0lMeEdSTnF3LWlNXzNWbkhud1lSMjJFWm9mS0N1NHlOZWoyMzdMU3ZkNWtxMmJTX2wyQTl4UC1ENmJfaU9QYzFLQWtoUQ?oc=5",
-      "updated": "Sun, 22 Nov 2026 18:13:17 GMT"
+      "outlet": "JDN",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtLXFxTmpnZ1U2SnN6dWZ4Y2I2bUh0Y3dtb1lpZ2NwVXo1YUNOZmY3WkhocFRXekZMZ3RLUDVEblRCSHV1aVdoT3RuRW14a0E?oc=5",
+      "updated": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-1203d0f18b102231",
-      "title": "משלחת המעקב המרכזית מכירה בתוצאות יישום החלטה 57 בלאו צאי. - Vietnam.vn",
+      "id": "news-0a7c4666a5a00bd6",
+      "title": "סיום עגום למאבק לקידום חוק שירותי הרווחה לאנשים עם מוגב | וואלה חדשות - וואלה",
       "stage": "סיקור תקשורתי",
-      "tier": 3,
+      "tier": 2,
       "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYXdmbzhZbWVJd2ItTnB3bzNmU0p2V0FNaFpPVG1iRzFmUWNpRmJ4cWVNOHdjLXUtLVlLUVB1dzFWMDljeVpDNmwydEFKM2hCbWNoWTUxZExLM3JkelBESHN2MzBDMW1SOEt3MXdKbzhSNmxvTTRjY1doQXNtN0d0cHF6N1VrX2h4QV9veE9IUGZaSmplWlR2TGgyci1UTEM2N0ZfcXFB?oc=5",
-      "updated": "Mon, 23 Nov 2026 07:24:32 GMT"
+      "outlet": "וואלה",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aSkNpbUJpM3Q4UlhVTS1XVVBIOVd4TG9CN3NKeWZWR0xYM0RPeTZ5YjFGb19BSWJJemxKenNsU21QcHAyMWtmTGMxS1NSWlpVdnRMMVN3?oc=5",
+      "updated": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-d03697694702fb1a",
+      "title": "66 אלף בקשות, 43 אלף פצועים: \"שולחת את בניה למות למענה ואז מפנה להם את הגב\" - מעריב",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "מעריב",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vNG9GZmExTDQwMDFsaHdPN1haZXNfVlpOaDkzWEgza3lPRWtyUDNJSUktcWNCZHo4aGtrVncydHFyX3A0U0ZUdTk5S1BQWmlIMUlZSU00MXVtcnJSSEhEa3JR?oc=5",
+      "updated": "Wed, 12 Aug 2026 07:00:00 GMT"
     },
     {
       "id": "news-b13eeef08437203d",
@@ -685,74 +665,64 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-a707432b0654e487",
-      "title": "טרנספורמציה דיגיטלית, שיפור איכות עבודת בניית המפלגות. - Vietnam.vn",
+      "id": "news-55b38ed46dc57f3d",
+      "title": "התקנות אושרו: מיגוניות חדשות יהיו חייבות להיות מונגשות לנכים - מקור ראשון",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnJEQ2hiemlpLVEzZUNCd2R4S002Mk1Fc1BZcXI0RVdLclFDc3dtcUI2TGlfdTgwVzZucTdrNlZVdDNialhUaHBEY01uZUhoYXNIU1pINHNEa25HLXliTjV0d0QzdzNXZnFpZVJCQ0I1bmtIazc3ZUFJbVBUSVNONmU3T3Fwa3NreHc?oc=5",
-      "updated": "Thu, 19 Nov 2026 03:18:27 GMT"
+      "outlet": "מקור ראשון",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mZGxXclpzbTh3eVNsM2FtS3dxRkR4a0pHTlhlclpmWUV3UU52NEFoNmVvcjhwQzM1bXBhZUpFenA2VWU5ZTZYcWxyZVNxLUhvdVktT2pPRTJaR296MlByLUVvc2VXalVJ?oc=5",
+      "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-9895e6fdc6ba7ca2",
-      "title": "ועדת העבודה אישרה את מתווה החל\"ת ל\"שאגת הארי\": הקלות חריגות למילואימניקים ועובדים שעתיים - פאנדר",
+      "id": "news-a46e0c5df4d0d96d",
+      "title": "באופן רשמי: נציבות שוויון הזדמנויות בעבודה מוסמכת לאכוף זכויות של משרתי מילואים ובני זוגם - אתר החדשות דבר",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "פאנדר",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54RlpFMkFFTG9GeGluaHVIZGxmZUFGbmJlUEtTaGNyMzFPX2RHTjBkM1pnX2pNNmhwRE5yRnhoRDdfR3hRSjFOaWV5U1hDcWRE?oc=5",
-      "updated": "Wed, 25 Mar 2026 07:00:00 GMT"
+      "outlet": "אתר החדשות דבר",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VV2hBZzRCcFdGbXExN1M3NkxWMXZVUjdZWExKLTRlckItT0I1NVZWRUFtSUJ4Z1c4QUpFakRlUzFEaTUxQ2RZ?oc=5",
+      "updated": "Thu, 18 Jun 2026 07:00:00 GMT"
     },
     {
-      "id": "news-8557e4c2ab7b3dd2",
-      "title": "ועדת העבודה והרווחה אישרה את תקנות האיתנות הפיננסית לבתי דיור מוגן משרד הרווחה והביטחון החברתי - GOV.IL",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "GOV.IL",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbVk2Z1A3YTlQM2lfQXpRY3luV2J1YW9RcEk4NUhHenBTZUlmaVhvdDNmUWQ2QXdhRW5ZRFZnT0pLVWx6R1U2S1lhQ1FMSkFIel9tREpTcXgwdDlsODlISl9QdXNta2J3el9JSHBmQU0?oc=5",
-      "updated": "Tue, 24 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-9542c13256ee3131",
-      "title": "משרד הפנים מבהיר את סוגיית החזר הקצבאות במסגרת צו 154/2025. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0FGTnZnSDI2WFBIbEZ1SUh4NElWaUFxZ1J4RExHZVVFQlRJT0FlaExwMDB2enpSSXQ5cjZMYVdNcld5OERIVi1rT3E3MXFoaXRBbHFCTkFXY1BlSC1QeTVKNUhPRGM3cGJrNkRaVnNJQjBGQldYalg1a3Jlb2ljVzNmd21lcG9yOTd5U3B5aFQxb2tM?oc=5",
-      "updated": "Mon, 23 Nov 2026 04:42:00 GMT"
-    },
-    {
-      "id": "news-e8c00debe0da5fa4",
-      "title": "לשפר את מנגנוני הפיקוח החברתי והביקורת מצד חזית המולדת של וייטנאם וארגוני המוניים אחרים. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1JCSmVtRGNacDh3ZjhGRnFNYjVvRlFyU1JieU5rOE92OWVmYTdDU2g1UnNwSkJuTzBfWUd0elMyYjFqQnhmQ0V1N2JlQ1RUQVhCVy1MUHBpS2l6b0F0YzEyd3BlQmVBeWNHOV9SWGpRWmtibUZQWktRTVUwRk5YdUZNckk3Q3B3S1JHd18wZkRvSmtWcGRoZ1p3?oc=5",
-      "updated": "Thu, 19 Nov 2026 07:28:21 GMT"
-    },
-    {
-      "id": "news-06084ea3c03c0700",
-      "title": "ועדת העבודה והרווחה: הוגדל הסיוע לנשים נפגעות אלימות היוצאות ממקלט - אתר הכנסת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ySWxhTUxSN1pBY29xT2Vnd0x5dTNqOWdEcU5ZNzVDTVFuaFBTcjRQNFhoY3h4V3BxUzFyMUJFSWtsVDhkbjBFcEZ0cTRORWVrakNmTlh0cF9qbnB2R181eFhqWVY3N1hXU25wWTlpNTRQMWMzOUxyVTBrYzE?oc=5",
-      "updated": "Tue, 14 Jun 2022 07:00:00 GMT"
-    },
-    {
-      "id": "news-9cd5d802667538d3",
-      "title": "כפי שפורסם ב\"היום\" - גוש השינוי מקים ועדה לביטול חוקי התקשורת - היום",
+      "id": "news-77a4639af0f03842",
+      "title": "\"מחוקקים חוקים ולא חושבים על ההשלכות\": עימות בצמרת הרווחה - היום",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "היום",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56VmpGSElHbEQyNF83STVraXdhbHg4Qks3VEhLTVlvMmM4NlRIdk1kOEZLRk9oLWtsQ2VibVE2Ukgwb1JEMGRfSW9BcldVWXNqZU16amhjeF9FSDNWajc4VEh2Rkt3Yl9ERnItXw?oc=5",
-      "updated": "Tue, 17 Nov 2026 10:20:11 GMT"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHdkJWcTJIa2VWdnZqX0h1R2ZRWWotR0dGZnZnNF90MnM3TTIyLVN1MXVkeHJvQWxzNWhMM2Z5REZZWmUzcFFqSngzaWRmRXdwdVNJamM4cTM3aDV3cEVCZERVbjRoaDdmRVBv?oc=5",
+      "updated": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-b5d3346a3b40a27d",
+      "title": "ועדת העבודה אישרה: אלו הסכומים החדשים שמעסיקים יורשו לנכות - אמס",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אמס",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUenJOczFlclM0eW0xdEItVUYwdHdTWUplc0JkQkhvTWtadlAxQTFVb1FqY0dMQlRTU2wtSE5YWHl4MlU2NFlQMHNmTDdNUQ?oc=5",
+      "updated": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4b3b9c338351aac6",
+      "title": "אחרי הדיון בוועדה: הצעת החוק שתעצור את ההטבות למשפחות הפוליגמיות - ערוץ 7",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkQ2VtTGxzNF9yMk83eGFVUGdqMlFQMHdXTmtBZjRUSGdkQlI4R2doUVdPYVdxbmtEbHg5LTBaVGhadWdTN0RKUQ?oc=5",
+      "updated": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4fcf313b5cdc3e5f",
+      "title": "לקראת ביטול חוק השידורים של קרעי: הוועדה המיוחדת יוצאת לדרך - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rM2FVN0RBZlVJR0Ewb2ZMWjhlU1VBTzduYmFZZy0tZlJPLWxOcHNDSVNyakMzcWZCUHcxcW0wXzEtaG9hZ1dvMjlhMzBWbWlab05zX1pUWV8yZVBTZXZGY2VFY090NHMt?oc=5",
+      "updated": "Mon, 23 Nov 2026 10:33:19 GMT"
     },
     {
       "id": "news-b201080db24a4631",
@@ -763,6 +733,16 @@
       "outlet": "C14",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91LU9OZ3hpLXRtSXhaYkRzYWpwbDVhT0hTMzd4VWZnQzBnRVlNejNxSFVPOHpOTUpXTmk3VDVNSlBWSE5STlFtVzB4VXpsdw?oc=5",
       "updated": "Wed, 18 Nov 2026 14:42:10 GMT"
+    },
+    {
+      "id": "news-9cd5d802667538d3",
+      "title": "כפי שפורסם ב\"היום\" - גוש השינוי מקים ועדה לביטול חוקי התקשורת - היום",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "היום",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56VmpGSElHbEQyNF83STVraXdhbHg4Qks3VEhLTVlvMmM4NlRIdk1kOEZLRk9oLWtsQ2VibVE2Ukgwb1JEMGRfSW9BcldVWXNqZU16amhjeF9FSDNWajc4VEh2Rkt3Yl9ERnItXw?oc=5",
+      "updated": "Tue, 17 Nov 2026 10:20:11 GMT"
     },
     {
       "id": "news-da8eb11ec613882a",
@@ -815,16 +795,6 @@
       "updated": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-5ae00723c0eebb6e",
-      "title": "החרם החרדי בכנסת ממשיך: בוטלו הדיונים בחוק השידורים - Calcalist",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Calcalist",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSHY5OEZUX2lSemJEUzFmeUFubGIwekxqRmszYTdXaHFnY084UTRvRThrVHNjeW8zbTVtWkZZNjltOE9YbUd3TnA5MFRKOURzdGhQeXRtTEdvX2tFRnh5TmtNVk1FQ01l?oc=5",
-      "updated": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
       "id": "news-72460758ad45b242",
       "title": "יותר מ־300 אלף עובדים זרים מציפים את המשק: \"מתייחסים אליהם כאל סחורה\" - זמן ישראל",
       "stage": "סיקור תקשורתי",
@@ -843,16 +813,6 @@
       "outlet": "שומרים",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mSWE1QkxDNXNWZm92SUJqSC15cU1BYjVjWEFhVV9PY0N1a2FaNHZwdmtoZlNrZFE4Sm04RXVpdk9yR1IzT0ZmUVpFMUtSbm9MZktGRWloN3F2WFF0RjBMeGFNX1NEZw?oc=5",
       "updated": "Mon, 30 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-6a67b5eb65df09fc",
-      "title": "\"חושבים שהביאו מוצר מעלי אקספרס\" - זמן ישראל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9URVRrd2VQbmtGTHQtU1Y3OVNQaWdzdlhsUHRUaE9Va1FJTXBZcmNmQW1aUjhOWkdfbE1ad3RpRTVZYm1p?oc=5",
-      "updated": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "id": "news-54c1b6929c956fd5",
@@ -885,16 +845,6 @@
       "updated": "Sat, 22 Feb 2025 03:15:27 GMT"
     },
     {
-      "id": "news-efbaa87341f06866",
-      "title": "כוכבה, מאחורייך: משרד העבודה רוצה לאפשר העסקת עובדים זרים בקופות בסופר - ביזפורטל",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "ביזפורטל",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QNXVXRmFDSjNtYmpVdHZ2NGpKeXY0RzhIYXFIX0RBWGxsUDZMR25Fa2tTMHA4V1JvdE02Zm8ySzdpVWMwS1NfWHZtcGhhanNNdUo2QmNHRFY5RFZLcnRMejI2Ri1VRUVPMnlmc1k4STRfel81STc4THJ3?oc=5",
-      "updated": "Thu, 19 Nov 2026 09:56:00 GMT"
-    },
-    {
       "id": "news-bf4967e62f0526de",
       "title": "ילדי עובדים זרים העידו בוועדה המיוחדת לעובדים זרים: עצרו אותנו, אנחנו מפחדים - אתר הכנסת",
       "stage": "סיקור תקשורתי",
@@ -905,6 +855,26 @@
       "updated": "Mon, 13 Dec 2021 08:00:00 GMT"
     },
     {
+      "id": "news-3d9e197d5ef7083d",
+      "title": "זכויות עובד זר 2026: שכר מינימום מלא, פיקדון של 12.5% עד 14.83% ומס של 15% ביציאה - ביזפורטל",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "ביזפורטל",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xOE0tTGU4cjZzeWdtVGdKVjQ1TlhPNWpPMWVmOVNKMFg3Y2V4RzdPZGkwU254SXBrdDhsS2RuR0U1VV8yNjlNWHhtZmZYSkZNMTZnR0o1ZWZSNy1NSkYzZnRTN0pCNjg?oc=5",
+      "updated": "Fri, 16 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-cf31de71e1771542",
+      "title": "פול גז בניוטרל - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYlBzWlktOFh1N2s5NW1icDNWelZ4ZEtpNDFrVVY2UmRpWUJBemJYWE54cUhEbnFKckxyQl9VUkR0d0VtVUNmYWRDMGtmSUNIOGlMNDF1VmV4UGx3S3VUMmZB?oc=5",
+      "updated": "Thu, 19 Nov 2026 22:00:00 GMT"
+    },
+    {
       "id": "news-1aae82061829f6a8",
       "title": "כל חברי הכנסת הוזמנו: שדולה חדשה להגנה על בני הישיבות - אמס",
       "stage": "סיקור תקשורתי",
@@ -912,7 +882,7 @@
       "source_type": "news",
       "outlet": "אמס",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZaUlPRWRUSW1ZZDZteTdHMmpnU25LTDhrZVNMd0NwOV9mQVRKSFBNLU9PalczNzN3RHg1WHRZeUpsR0VucHdlaGRJbEhxQQ?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:00:00 GMT"
+      "updated": "Wed, 11 Nov 2026 11:25:32 GMT"
     },
     {
       "id": "news-4a6ed60f9516e909",
@@ -925,6 +895,16 @@
       "updated": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
+      "id": "news-33ad5b707b8e3848",
+      "title": "ח\"כ גבי לסקי מקימה שדולה נגד אלימות משטרתית - וחבילת חקיקה למיגור התופעה - חרדים10",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "חרדים10",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zV0Rjc1VRQkYzQWM0TUVOcTdhd2t0UnNoYlRBR1VTSGZEbEpITWh2LW5wbUs0UUJXYmhqODVidndvUFl1aG1r?oc=5",
+      "updated": "Mon, 16 Nov 2026 11:39:00 GMT"
+    },
+    {
       "id": "news-804e93bd4d5021c2",
       "title": "החרדים ששירתו בצה\"ל מקבלים שדולה בכנסת - מקור ראשון",
       "stage": "סיקור תקשורתי",
@@ -933,6 +913,16 @@
       "outlet": "מקור ראשון",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tWkgxMlYwVVlobUpYSVlhTC1LaC1LbE5jd0FPY3ptbU9vVzg5QUJyOF9oSTNKeFlQaTlRTkF4cnlEcWtaRVV4WG1lU2ZBRF9icWludUpLQkh6VU9Mc01Wd3NfX2RuUC16Rm15cGR3?oc=5",
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-4b3a9c519d86c871",
+      "title": "קול חדש בכנסת: כשקול האישה החרדית והדתית נכנס אל סדר היום הציבורי - בחדרי חרדים",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "בחדרי חרדים",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jcU5weV9kX1Jsbk91V0taR3JLTE5WdUJnTFQxenZlbnI0T2RvZXhybVZpNkJ6OVBMalNEdzg2RDZiOXRMUll2ZnZVdw?oc=5",
+      "updated": "Sun, 25 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "news-9350c3d96112711c",
@@ -965,24 +955,14 @@
       "updated": "Sun, 28 May 2023 07:00:00 GMT"
     },
     {
-      "id": "news-66a8676986acb0fc",
-      "title": "\"ציר עוקף לוועדה האופוזיציונית\": הושקה שדולה לאשה הדתית - ערוץ 7",
+      "id": "news-cff5b5215de4b7c1",
+      "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "ערוץ 7",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nOEZ2d3FMUkFZT19wdWxHVHpwRXJlaDRKQ0ZrUV9fVG5kQkhvRU9hamxxUVdVMmRNTW5ZUmNlc19CVkh4ajMwWg?oc=5",
-      "updated": "Mon, 29 May 2023 07:00:00 GMT"
-    },
-    {
-      "id": "news-8c086a1e098e1a18",
-      "title": "בשיתוף הקואליציה והאופוזיציה: שדולה חדשה בכנסת למען העובדות והעובדים הסוציאליים - אתר החדשות דבר",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר החדשות דבר",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzSFJMbFktMTkxcjhydG93VHdlVmZtX0pLVDlyWGZWdE1CRnYzMGYwV1BXY09nM2NjR2MxUnNTMFlMVTcySEg4?oc=5",
-      "updated": "Tue, 13 Jun 2023 07:00:00 GMT"
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
+      "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "id": "news-1491d1b91ba97bce",
@@ -993,16 +973,6 @@
       "outlet": "שקוף",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE42VjhvVVItd0tTNFl5TmEteWxXMXBHdnJuV2tfdXdpTVhvVTlOa2lRSHR3MFQ2Z0c2a2dIbTNuZw?oc=5",
       "updated": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-cff5b5215de4b7c1",
-      "title": "הכנסת ה-25 במספרים - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiSWJYT1dZUG5zVTl1SG5VbWtMNVhoWDlBQnlNZ2hVSEsxZEwxU05saXdjeVRXZ2Njd2lnVm91S0dVR2NvMHBQWjdpVlZEQQ?oc=5",
-      "updated": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "id": "news-872f400d6584b8a3",
@@ -1025,6 +995,36 @@
       "updated": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
+      "id": "news-c5d15d50e45d5d7a",
+      "title": "הח\"כים שחשפו בכנסת את פרשת האסיר X יישפטו? - וואלה",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "וואלה",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04MG01WTk3T2NtSUNncnN3YUVIaXNDVFBveWd3MlRiR0lzZlg1M3ZSMGtzV0k3RDFFQUs3bDFIY3N6dUpfRV90ejZ2d1E3ZzloQjhtcGhn?oc=5",
+      "updated": "Tue, 22 Sep 2026 13:57:32 GMT"
+    },
+    {
+      "id": "news-05a963804c343cbb",
+      "title": "כץ לא ענה על עשרות שאילתות על אלימות מתנחלים ומדיניות צה\"ל בעזה ובגדה - הארץ",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFo3SlU2enFoMldYcHBYbldyQy10NVJ4NmlEQ0o3REF5M2VoRTRnMVpNLWhZM2VSdUwxbjdnenQ5RG1uaHFsQ3NPQ3c1amZ4aVZ2LW5wTTl4Z0ZHOGF2Yldia3E4eTd6N0diUFpZM21QWjhBR3hvZ3JhQXpfaHJnclg4WlRxdm9HZXRkOGJUZDJHNWFkZlkyUFk0ZDAzb0RKYXpvQmZFVF9hTFpr?oc=5",
+      "updated": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-800936b0c60974ec",
+      "title": "פיקוח בערבון מוגבל: כך עומד יואב קיש מול הכנסת - שקוף",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "שקוף",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5Id1JZc1hmY2JDcl9CVGN1eFlrbXN5dXpZd3VMS19kRml5dzlqdDYzbzlyQnlUUktxVVJOR0c0cw?oc=5",
+      "updated": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
       "id": "news-40fa3dd3dd693e1e",
       "title": "לא מקבלים תשובה: סילמן מסננת שאילתות של ח\"כים מהאופוזיציה - YNET",
       "stage": "סיקור תקשורתי",
@@ -1033,36 +1033,6 @@
       "outlet": "YNET",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qQ1h3ZUYtbjVGM21JcE9TMXBwa3M2V0piNEozSEQzU1ZCbnptZjlRNEh1X0Y1S3AxQ2x4eEVfRDVZR2pfQXVES2V6bTE4Vl9UNVVWODd3S3lQSWxUUHNQcU5Vcy0zeVZ6Y29xNXZn?oc=5",
       "updated": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-d641e881d43b612e",
-      "title": "זלזול בכנסת: בן גביר מסנן פניות מחברי האופוזיציה - YNET",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "YNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Y1p5OUZmT25WMWM0WUVfVWpHUmFNQ1BwMTRlMlkxMXRlMTV5aUhqZDdzcWh0bGV3TEN1d1I4OFpocC1TdzNEb3dVNG5abkZETFhBUzdJRFZ5dw?oc=5",
-      "updated": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-d0aa03b4278ea2d1",
-      "title": "יותר חוקים, יותר שאילתות: זו הייתה הכנסת ה-20 - כאן 11",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53OXVqbVBRbjEtLWxKalRmcVV5SEVpVjI0MFRQRzA1YUlESVVtME5uQjVMd2pRS3oxeU8zTGlCTVo5SXZ1SVlFTlZicXRBQWxaaEYxQ1ZfakQzMF83MWtEamtiNkRqTHo3Y3hJYUVn?oc=5",
-      "updated": "Mon, 10 Jul 2023 20:39:08 GMT"
-    },
-    {
-      "id": "news-338190ae777d927c",
-      "title": "נתונים שחשפה התנועה מראים: כך מנצל אוחנה את תפקידו כיו\"ר הכנסת כדי לשרת את הממשלה - התנועה לחופש המידע",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "התנועה לחופש המידע",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqUFd5U0I3akVMeC1oOGstalBwWXQzNUxTTHZhcE8yZFdaT1JVcEUtWkpmTm5CcWhDR3ladkZjTlhPaG4y?oc=5",
-      "updated": "Fri, 06 Dec 2024 08:00:00 GMT"
     },
     {
       "id": "news-b70bff684ebcdbb6",
@@ -1075,44 +1045,34 @@
       "updated": "Sun, 22 Nov 2026 11:37:01 GMT"
     },
     {
-      "id": "news-e0116c08b375caac",
-      "title": "מהן סמכויותיו של יו\"ר הכנסת? - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoTlE1Z1k1S2hHUVR1ak5SSUV6UWFEN3NITnBtdG93dm1TcDVoNVdtXzdnX1hoU0gyVTNXTHFRTVNTdTJvS2NnWlNBTFhyZw?oc=5",
-      "updated": "Sat, 14 Nov 2026 22:00:00 GMT"
-    },
-    {
-      "id": "news-9aa8ff777bc3582a",
-      "title": "הוועדה המסדרת אישרה פטור מהנחה ל-6 הצעות חוק - כולל ביטול חוקי הממשלה - כיכר השבת",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "כיכר השבת",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmhTY3lKVXgtZGRFM0N5NW1OQ09jSlZZeFd6SUpXVnNtekM2d2g3a2tFT0xINkxmaWRGd3pHd2F6X09SeWx5THVLY2cwNXRTU0M4aEt4QnkzbHlzWm1LZHNIZFZicExDSVBRaDJCUTVzTU5VZjZjR1hYZHR4LUdvNjVTMnNnaTdSbFJSeFVJZ00wSEE?oc=5",
-      "updated": "Wed, 18 Nov 2026 09:34:30 GMT"
-    },
-    {
-      "id": "news-f3ffecdbe7d6a2b4",
-      "title": "חוק איסור הונאה בכשרות (תיקון מס' 5), התשפ\"ו-2026 במאגר החקיקה הלאומי - אתר הכנסת",
+      "id": "news-90164a7c6cc9df3a",
+      "title": "הצעות להביע אי-אמון בממשלה - אתר הכנסת",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByQzBEX0pJU0M0VEJaNjEwZnNUNnc3OFJNOThhb0ZvRlE5SUczekxsRjFiZE5TX2VTTmw0ci1vR0pMUHg1aWtUQlk5STRpeC12eEthZnhvT1dEdTVORXlMUnF0WmFJQjlpS2hFSG8tc2Q?oc=5",
-      "updated": "Tue, 02 Jun 2026 10:58:41 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NX0JxSjg0TDdGNzdHVjZpVUxsYzdNYUY2OXM0Snp5ZUt2SldPc0JlVWtlc3VaU1NEXzY5NXI5aWJmT3kwLURGeU5XVkxFWnpFUUl6UEZRZFozLXNSamhXSUlzWjhjM05aQW1scEtxd2x6MVdQbXNmc25KN0JXbGs?oc=5",
+      "updated": "Tue, 16 May 2023 14:15:04 GMT"
     },
     {
-      "id": "news-22b4c9fe415e7cd9",
-      "title": "הצעת חוק רשות המורשת ביהודה והשומרון, התשפ\"ו–2026 במאגר החקיקה הלאומי - אתר הכנסת",
+      "id": "news-a13d6b9f0c2b2b30",
+      "title": "מדד הצעות לסדר בכנסת ה-24: אחמד טיבי מוביל את הכנסת - שקוף",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "אתר הכנסת",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kektkY1ppbXJkVjNPVHlTLU5xRnJCV1dyZWZIT3hsa0s5VkE0Mkt0a0VMb2pMNm83U3FvWF9kTFhjSzZKQmhUQ3U5UGhOWVo4Sk1LNUpZOUNyUzkxbVV5b25hVm9feGVYbGxxVThiTF8?oc=5",
-      "updated": "Sat, 30 May 2026 01:30:44 GMT"
+      "outlet": "שקוף",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1CMWdXWGtJSWpuTDBJQi1lSFc3VGx6OWludFZpb3dtZG95ejlkMFNCZVdNeWZUYkxQRVlHR1E5dw?oc=5",
+      "updated": "Tue, 09 Aug 2022 07:00:00 GMT"
+    },
+    {
+      "id": "news-52990c904b99f780",
+      "title": "\"צריכים להרתיע\": המהלך בכנסת של אוחנה ולוין נגד בג\"ץ | פרסום ראשון - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdjZIeWk1RHUwRmpRYVhzVllwWXFFeDRWSTlQck1mdVo2V2paeER4WVdfMGlQMjRvLW55M3VDSmZEdHZpSUk2SWVvazhlZnV3VmtlSnFYekRiUQ?oc=5",
+      "updated": "Mon, 05 Jan 2026 08:00:00 GMT"
     },
     {
       "id": "news-94b49ba5c8314399",
@@ -1125,14 +1085,24 @@
       "updated": "Wed, 23 Jul 2025 07:00:00 GMT"
     },
     {
-      "id": "news-a13d6b9f0c2b2b30",
-      "title": "מדד הצעות לסדר בכנסת ה-24: אחמד טיבי מוביל את הכנסת - שקוף",
+      "id": "news-127eeb340baa7740",
+      "title": "כנסת במצב המתן - המכון הישראלי לדמוקרטיה",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "שקוף",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1CMWdXWGtJSWpuTDBJQi1lSFc3VGx6OWludFZpb3dtZG95ejlkMFNCZVdNeWZUYkxQRVlHR1E5dw?oc=5",
-      "updated": "Tue, 09 Aug 2022 07:00:00 GMT"
+      "outlet": "המכון הישראלי לדמוקרטיה",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ncFN6ZmZLWFNmUkhSZW0tSS1fRE1xbkxIbVBjQ0ZXazlFUGxEeUhvZ2k4b1M5c1E1YkNqc1lqOGRaZ01JSFF2TXA2SXFVUQ?oc=5",
+      "updated": "Sun, 29 Aug 2021 07:00:00 GMT"
+    },
+    {
+      "id": "news-b5a6634ff0661fb8",
+      "title": "עדכון סדר יום ועדת הכלכלה בראשות ח\"כ דוד ביטן למחר (יום שני כ' באדר התשפ\"ו 9 במרץ 2026): - אתר הכנסת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר הכנסת",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90ZDJ5UmV4TENzR2Y3NG1iRU5tT196ZjBpc1VubTdPckpyVWxoOU1YZzYta1lVSm1nMVVBN3lrOWdfU01ocEt1Sk5MQzZZOFktTUpORTY2b285UTZUd1VOQW5IOHduR0xPY1g4?oc=5",
+      "updated": "Sun, 08 Mar 2026 08:00:00 GMT"
     },
     {
       "id": "news-535e14696d5eb9af",
@@ -1175,6 +1145,16 @@
       "updated": "Sun, 29 Nov 2020 08:00:00 GMT"
     },
     {
+      "id": "news-55b047c6f5c6f0d1",
+      "title": "הרחבת הפטור ממכס: מה כדאי לקנות? - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YR2s0c3BpQ1ZvU1pIRDRrTmlHZ19GTjlIZTVIQjVqNWxveWZsM0MwOUFBTFdlSGU0bUF0ZTU4Qi1jbTdvSjdHLVgtMlJieExYYlozS3Y3YTRlU1hJTkhfM2VOTmN5OHM?oc=5",
+      "updated": "Mon, 05 Dec 2011 08:00:00 GMT"
+    },
+    {
       "id": "news-8eb12c50eba79032",
       "title": "מתי בכל זאת נשלם? סימני השאלה שעולים סביב רפורמת היבוא האישי - גלובס",
       "stage": "סיקור תקשורתי",
@@ -1205,16 +1185,6 @@
       "updated": "Thu, 21 May 2020 07:00:00 GMT"
     },
     {
-      "id": "news-cb1e7d91e3fe6c47",
-      "title": "פוקס נגד רשות המסים: הוציאה דרישת תשלום בדיעבד לא כדין - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSDRRUHBIN2hCd094d2luODE4YTJOd2NwUnRQcWhFWm1BVHY3VHNwd3I5ekpCVVpDZFNGV2l1dXB4eGhwWW9ITjV2eTFTZ1N0T2EzdlZURVpISVgtQmpESlh2SlhCN2RN?oc=5",
-      "updated": "Tue, 05 Jun 2018 07:00:00 GMT"
-    },
-    {
       "id": "news-36efadfc6461eb62",
       "title": "15 מיליון שקל בהלוואות לעסקים של נשים ערביות הפכו למיליארד שקל בתוצר - כלכליסט",
       "stage": "סיקור תקשורתי",
@@ -1223,6 +1193,16 @@
       "outlet": "כלכליסט",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95RkNIcTFScUdOQlYyM0VCNUZjaDFwSTNPWTlYa2VzZ3NmYjJsNm5ZTXhFQk8wdExqX1ItcHdQVWl1bFNTN3RFQVVtclJjdkpCUWo2OU9OTGF2U1BWUnZXc01lVjBaUWh1?oc=5",
       "updated": "Mon, 23 Nov 2026 04:10:00 GMT"
+    },
+    {
+      "id": "news-dcb71f6f11dc96d3",
+      "title": "שני מכוני כושר, עשרות אלפי עוקבים והחלטה אחת מפתיעה - מה מתכננת גאיה מושקוביץ? - חדשות באר שבע והנגב",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "חדשות באר שבע והנגב",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83X3RTbV9MM0E2VURaa0dwMlNvbHJib25DVEpRSU44Q1ljWjdNOEgtYUE4Q1RhZHlXZ0Z5Q05xanNQWGI2bkZ4VmRkOHhQYmlzMkUtMTRkQnA?oc=5",
+      "updated": "Mon, 23 Nov 2026 20:06:01 GMT"
     },
     {
       "id": "news-d072a49aa684e096",
@@ -1245,16 +1225,6 @@
       "updated": "Fri, 30 Oct 2026 04:36:47 GMT"
     },
     {
-      "id": "news-2a9a6b630725b541",
-      "title": "הרחבת השימוש בבינה מלאכותית משפרת את התחרותיות של עסקים קטנים ובינוניים. - Vietnam.vn",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTBiUURyd1hSWGl5eVN2ak5jM2JlbGk1QWlIaXpMQUlWc2RoTHJ5dWxpOF81WGhBSWZIR2Nxa2ZtNUFCeEtaWWVyQTJCWkJHa0lsYWgzS2tkR2JhRmFzSjlwMGdpZi1CdVVpUDZCc2E2VkZ3UWpqaVBxNTFmUjM4eWhTX0dzMDlDd0xhdE9YbHpCaXJidTB3OA?oc=5",
-      "updated": "Sun, 22 Nov 2026 05:29:28 GMT"
-    },
-    {
       "id": "news-7a0c4b2255557417",
       "title": "משרד הכלכלה והתעשייה: מענקים של עד 350 אלף שקל לעסקים שיאמצו AI ודיגיטציה - GOV.IL",
       "stage": "סיקור תקשורתי",
@@ -1263,26 +1233,6 @@
       "outlet": "GOV.IL",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0T1pwLVpaZmNITnBzS2s3ZDRZNFdxelhTb0d4cjhhc3lYaXBscDJleFNYN05XYkpDbGRpa21DOFM3NHZMTkpJTHBQV0dkU1h0YUR2bVpR?oc=5",
       "updated": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "news-c717a5252a170d8f",
-      "title": "הישג משמעותי לאיגוד לשכות המסחר: בשורה למאות אלפי עסקים קטנים ובינוניים - לשכת המסחר",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "לשכת המסחר",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mQnptck1MbjZpVHZzUGtfQUR2YjRnOFQ4NF9zS3NVa3lmbVNENFk4SnUxVUJmOTBWNGd3X2hyeTdKYnBZcklHalJvYm0wdE91VzBnckxKeHYzbGNaZEpV?oc=5",
-      "updated": "Thu, 15 Oct 2026 07:50:51 GMT"
-    },
-    {
-      "id": "news-bbb1255eba7ab0d8",
-      "title": "אושר לקריאה שנייה ושלישית: עסקים קטנים יוחרגו מחוק תובענות ייצוגיות - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IekFLN0xEd1FGdTJVVWpLTURmLXJUdEc3b2hlRW1PYkFBTjFIa0hsVF9mQWhzTEF6dVV4dTlPOURnQV91aGlqdUN6bmJ3azlEdGVaVGh6WW8xMEpDTTJhVTlLUGNPYjJf?oc=5",
-      "updated": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "news-a1581c821a5ad8ab",
@@ -1295,14 +1245,14 @@
       "updated": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "news-beae0a6943875185",
-      "title": "ברקת לוטש עיניים לרשות התחרות. זה מה שהיא עושה - גלובס",
+      "id": "news-c717a5252a170d8f",
+      "title": "הישג משמעותי לאיגוד לשכות המסחר: בשורה למאות אלפי עסקים קטנים ובינוניים - לשכת המסחר",
       "stage": "סיקור תקשורתי",
-      "tier": 2,
+      "tier": 3,
       "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DWE81VXFzTGtwXzBVRXl4UURVdDBJeF8zN0JQRzlCMTI2eEpzWXI3aFoxbm8zQ3JFRFVQa20wSXB3cDk5T19SdDJaanFjdEVsMG0xOUVBOWdDMk1sbXZ5MzNYbWxOdWh0?oc=5",
-      "updated": "Mon, 04 Aug 2025 07:00:00 GMT"
+      "outlet": "לשכת המסחר",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mQnptck1MbjZpVHZzUGtfQUR2YjRnOFQ4NF9zS3NVa3lmbVNENFk4SnUxVUJmOTBWNGd3X2hyeTdKYnBZcklHalJvYm0wdE91VzBnckxKeHYzbGNaZEpV?oc=5",
+      "updated": "Thu, 15 Oct 2026 07:50:51 GMT"
     },
     {
       "id": "news-a59a48aeaf9893a3",
@@ -1325,6 +1275,16 @@
       "updated": "Thu, 05 Oct 2023 07:00:00 GMT"
     },
     {
+      "id": "news-beae0a6943875185",
+      "title": "ברקת לוטש עיניים לרשות התחרות. זה מה שהיא עושה - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DWE81VXFzTGtwXzBVRXl4UURVdDBJeF8zN0JQRzlCMTI2eEpzWXI3aFoxbm8zQ3JFRFVQa20wSXB3cDk5T19SdDJaanFjdEVsMG0xOUVBOWdDMk1sbXZ5MzNYbWxOdWh0?oc=5",
+      "updated": "Mon, 04 Aug 2025 07:00:00 GMT"
+    },
+    {
       "id": "news-636b5f49cfc9fad0",
       "title": "פרס נובל למי שימצא דרך להכניס תחרות במשק הישראלי - TheMarker",
       "stage": "סיקור תקשורתי",
@@ -1335,16 +1295,6 @@
       "updated": "Fri, 17 Oct 2014 07:00:00 GMT"
     },
     {
-      "id": "news-78fa1dc921762a7c",
-      "title": "יוקר המחיה אינו חזות הכול - המונופולים כן, שגיא שחר - גלובס",
-      "stage": "סיקור תקשורתי",
-      "tier": 2,
-      "source_type": "news",
-      "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nUmxCeWZtNHpzdmdacFI4WE5SSllKc3paaVo2ZnpjdnZrVnN6LWNjdU11a2pKSUFzbjk3YzNocmViT1U3djJsWXVzTzNheW9qaVpBdGhMc19sVW9JdnlPb2tacUxXOUlm?oc=5",
-      "updated": "Wed, 22 May 2019 07:00:00 GMT"
-    },
-    {
       "id": "news-40f99945dd386ba9",
       "title": "מבקר המדינה מכין דו\"ח על טיפול הממשלה במונופולים בתחום המזון - כלכליסט",
       "stage": "סיקור תקשורתי",
@@ -1353,6 +1303,16 @@
       "outlet": "כלכליסט",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNnk3dUNQMmNDRXVVVTZzc25BdWh1NTZIT0JmcjAzTmRtb0dVc3ZjVG1weUxuWlM4T1Nxc0JBalRPXzRBODl6WDMyM3YyQTBhSkpERzlVNzluYmw5NU1BMndvM1ZEczQ?oc=5",
       "updated": "Thu, 03 Aug 2023 07:00:00 GMT"
+    },
+    {
+      "id": "news-78fa1dc921762a7c",
+      "title": "יוקר המחיה אינו חזות הכול - המונופולים כן, שגיא שחר - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nUmxCeWZtNHpzdmdacFI4WE5SSllKc3paaVo2ZnpjdnZrVnN6LWNjdU11a2pKSUFzbjk3YzNocmViT1U3djJsWXVzTzNheW9qaVpBdGhMc19sVW9JdnlPb2tacUxXOUlm?oc=5",
+      "updated": "Wed, 22 May 2019 07:00:00 GMT"
     },
     {
       "id": "news-11c2a601266b4381",
@@ -1415,6 +1375,16 @@
       "updated": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
+      "id": "news-d77267701c932292",
+      "title": "ועדת הכלכלה דורשת מתווה פיצויים לענף התעופה בעקבות \"שאגת הארי\" – היו\"ר ביטן: אם לא יצא הצו לצמצום הפיצוי המדינה תצטרך לשלם לחברות הרבה יותר - אתר הכנסת",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר הכנסת",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRGxCblRJM2NGcjEtaVdoRzZyci1FQi1VU3B0RzVoSkd1eDRwQ2NGQVI5Y0gzZ2xFVmtoRGJnbmRsZGR2M09ROVl4bGl4NGhiR0VkWktCNXNGb3hSNk90eGNWRUl3TVhmR2dIQmV6MnVUZU9JMEQ2RHlVSQ?oc=5",
+      "updated": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
       "id": "news-9ff9bf771310a6e7",
       "title": "במשטרה בודקים: חברות תעופה זרות שילמו לבכירים במשרד התחבורה - כאן 11",
       "stage": "סיקור תקשורתי",
@@ -1423,6 +1393,26 @@
       "outlet": "כאן 11",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvM3lNeVpzTHl2cEVySFlIX18tMzEzVlQ0bEl2MDNTa1BCZTNmYWZFVzFnVDBzSmQ1VmY0dEUxQUJuVXh5aC05VlU0VU1MS3IzcWRvamE0dHpISTVESXpfLTdpNEwzaXhkMjhLQnhtejQzdVYxblE?oc=5",
       "updated": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-24b1aa2ed8e1f7d8",
+      "title": "ומה אצלך? יותר מעסיקים מאפשרים לקבל דרך המשכורת החזר אוטומטי על תרומות - TheMarker",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdlNJVnc5X2tpZEttc1d0eFVZbVloQk9sU2FwVjhCZUdfTUJCMzVodW1LMUNSdVVDTEJqVFpKcjh1ZlhkYmRxcTkwMlVWLVhCaXA2SGJsaTkzQ21lMzJrNXJkek9WMHNxeUdieXl1V3BERzl3ZEg0bU5TUFgzSWZWR3lHTkVnMjhZb2MyeTl5VlgyM2tLMm1MM0dLN2t5UQ?oc=5",
+      "updated": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-5bcb846dff290457",
+      "title": "מה בין תשלומי המס במרכז הארץ לאזורים האחרים? - YNET",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "YNET",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XbC1TbzlzSXBwbWRVT0FUOGk2SUxPSFJjUzZ6ZmZ2ZkRPUEI0aFUzaE44OHQwUFRYcW13UGI5N21Vc3VaU1M5bk9yX05STW8tcEQwV0NRRGFwV3M1d0E?oc=5",
+      "updated": "Thu, 08 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "news-331331f41e26fa8d",
@@ -1435,14 +1425,44 @@
       "updated": "Sun, 08 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "news-0ccb370849f0d1d7",
-      "title": "מע\"מ בזמן אמת והתחשבנות יומית: איך תעבוד התוכנית החדשה של רשות המסים - כלכליסט",
+      "id": "news-6c5f97726f5a1921",
+      "title": "למה ההסעה לעבודה עשויה לעלות למעסיק שלכם מיליונים? - גלובס",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zWnExVjFuQ0t6QW9kd21qYmdQZFJmaFd3M3F0SFlubnM3ME14d3dJeXl6b2N4elNabzFxaEVubXRVZWJMMVlJWkRhdHRDWmlZNUI5OHBLUl81TS1heXlIa05lZW44MHQx?oc=5",
+      "updated": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "id": "news-b002cae2f58623bd",
+      "title": "שותף חדש בהתחדשות עירונית? מבנה העסקה יכול לחסוך הרבה כסף - כלכליסט",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "כלכליסט",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SM0Y1Y1F2eWpwTXV0M3hpZU1fOWlSbkJFNFRmNkFBUUhTdUNnNWw0bGhKTzhvM0dKLThGamZiN2FtWVkwcXVQZFFNX29kbzRvaHpLdnJBWTNCSGFSbkI5Y0lZSnBGVC1GS3c?oc=5",
-      "updated": "Tue, 11 Aug 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zbWZBOUtCM2s2RzNRQ3M3QzJXN0RwMi1QRGZ4cWZ5VGtGRExVZVhGcU5fS09yMGFVVnVaMVdkanpsSXhTSkxFOEg5VTlBWnl3V1l1cGlkTGlCcXBqVENKLXQ1aTN2Unho?oc=5",
+      "updated": "Tue, 06 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-7dc23b0cb8bc7047",
+      "title": "בשורה לשכירים: המעסיקים יחזירו לכם מאות שקלים רטרואקטיבית - וואלה כסף",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "וואלה כסף",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RUlNQdTlSY1lBOS1WZFlSNTEyQ25NSTA1c1lPSGFsSno5Mkh3c01kS3Zxd1Y2WnNESVA3aUtZdnhGQWtOd3BpUFhCY1JIUmJVQWc?oc=5",
+      "updated": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "id": "news-703028e0bd8fdffd",
+      "title": "1.6 מיליארד שקל - בלי מסים בדולרים: התוכנית של האוצר לסיוע להייטק - TheMarker",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "TheMarker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0R6YnZmSmJsMGRRcmUweEtoaUJ5NXpiS0VfdTFmSHdhTFYtRlZ4bDZjM1hTaFR0S3dGa0dDUzczOHVJV0x4WW9uRFh1SXl6ZVBUQWloMnpBeDJBR2tRSHUzc0s1S3ZJRURZZkhaVXFPNF9LQ29FdjZCWnAya1ZvQ2g3clRzdzgyb3RtYkMzajdteGFkVk9EeU1scHIxSVJFS0Y3ajlQdw?oc=5",
+      "updated": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
       "id": "news-7f16c77552ad27f6",
@@ -1455,34 +1475,14 @@
       "updated": "Thu, 24 Jul 2025 07:00:00 GMT"
     },
     {
-      "id": "news-c4e23dd9ec7339ec",
-      "title": "הוראת מנכ\"ל 1.8 - מסלולי הכשרה מקצועית בהובלת מעסיקים משרד הכלכלה והתעשייה - gov.il",
+      "id": "news-4d985521073ff864",
+      "title": "מעבר לניהול הישיבה: מהן הסמכויות של יו\"ר ועדה בכנסת? - C14",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "gov.il",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KYVg1RS1fX29xTnZyWkc5MjhxYzlmZDFFUDlpY1VJT2plVHlWOWZjV1hTanljOW5aMGJsRUtoN2dIQkszMDNHRjBJT3doRTRQdnhDYV9PeEVSNTFLR1E?oc=5",
-      "updated": "Sun, 14 Apr 2024 20:22:56 GMT"
-    },
-    {
-      "id": "news-95d9e6e323a90a58",
-      "title": "עומדים לפרוש – כדאי שתכירו את הזכויות המגיעות לכם ברשות המסים אגף בכיר אזרחים ותיקים - GOV.IL",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "GOV.IL",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NUXhyOTBkRmVrSkFoMFJDU01ZQTJkUkpZc2RqSEFLcE55NXhuY19KYUxNZlExZ0x6MHJoWVB1Sy0xSGF2UWc3Q3lqaVNScmduYnV2dVZoYXdNVVk1THc?oc=5",
-      "updated": "Tue, 29 Nov 2022 08:00:00 GMT"
-    },
-    {
-      "id": "news-1db163aaf0ff991b",
-      "title": "אושרה הקמת ועדות כנסת מיוחדות לביטול החקיקה המשפטית ולביטול חוק התקשורת - אתר החדשות דבר",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "אתר החדשות דבר",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GdXJCck9rVGFxMzNyZGJBWFJWSVpxT1RtSkl0NlBfN2FMNk9JTnhEaUdXUzQtalVnQkNEWVZOUEUwMDhZaFRn?oc=5",
-      "updated": "Wed, 18 Nov 2026 14:36:00 GMT"
+      "outlet": "C14",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTbnhqMHVNZDJYS09iNHJxVzZnejYyekV5MjQyR1d0NzZRUXFWRGhxdy0tS2FTRHlQam5PUDRJN1BKdDRRR28tUWZ6WTZOUQ?oc=5",
+      "updated": "Mon, 23 Nov 2026 13:36:22 GMT"
     },
     {
       "id": "news-00f406d982b54463",
@@ -1515,6 +1515,16 @@
       "updated": "Thu, 11 Dec 2025 08:00:00 GMT"
     },
     {
+      "id": "news-1db163aaf0ff991b",
+      "title": "אושרה הקמת ועדות כנסת מיוחדות לביטול החקיקה המשפטית ולביטול חוק התקשורת - אתר החדשות דבר",
+      "stage": "סיקור תקשורתי",
+      "tier": 3,
+      "source_type": "news",
+      "outlet": "אתר החדשות דבר",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GdXJCck9rVGFxMzNyZGJBWFJWSVpxT1RtSkl0NlBfN2FMNk9JTnhEaUdXUzQtalVnQkNEWVZOUEUwMDhZaFRn?oc=5",
+      "updated": "Wed, 18 Nov 2026 14:36:00 GMT"
+    },
+    {
       "id": "news-4e6002384c1cbe6b",
       "title": "הוועדה המסדרת אישרה הקמת ועדה מיוחדת לדיון בחוק היועמ\"ש וארבע ועדות פיקוח - זמן ישראל",
       "stage": "סיקור תקשורתי",
@@ -1535,24 +1545,14 @@
       "updated": "Sun, 22 Nov 2026 09:01:38 GMT"
     },
     {
-      "id": "news-64749f15d27c0f86",
-      "title": "עם עשרות ניגודי עניינים, לירן אבישר לא תחתום על הסדר. זו הסיבה - גלובס",
+      "id": "news-b7ab918fc8bceb66",
+      "title": "העתירה לבחירת יו\"ר הכנסת: בג\"ץ קבע דיון דחוף ליום ראשון - גלובס",
       "stage": "סיקור תקשורתי",
       "tier": 2,
       "source_type": "news",
       "outlet": "גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJTG1mZnZVS2JDYll5bTFHcjZmV2FSWnVPS29vZGdOZ3JNbTc1bmdnUWNScmFPMWl4dmNCWDUzYXVZeHJoYThsVW9FdnZDY3NyVDVlNUJRUkFmZG9ZemJqNmRHdnJBNXpo?oc=5",
-      "updated": "Wed, 11 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "news-75821713fa83569e",
-      "title": "עבודת הכנסת בזמן פגרת הבחירות - המכון הישראלי לדמוקרטיה",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "המכון הישראלי לדמוקרטיה",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mZ2VEdzVOeURVTldmRUNQV0d5SnFvd0hJVjZDOXhhVXppYlFVNTFPaFZ5b09iWlV3eGdORUtxQWV6cVV1emZBdUJBOUFJUQ?oc=5",
-      "updated": "Wed, 22 Jul 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ydGZCQ3daYlFTcGNac25KYWE4UWxxWk5ILWxmUjNOV0pYZzM1T3RXM1BMVkpZSFhsOHh5ZjhTanNrV1oxYzRNdmpSUnY0eU1GNXNFTFdxZ0JiQnFuQnVJY1h3RERMeVJm?oc=5",
+      "updated": "Thu, 19 Mar 2020 07:00:00 GMT"
     },
     {
       "id": "news-c2c33148cbe6ee52",
@@ -1565,54 +1565,54 @@
       "updated": "Mon, 23 Nov 2026 08:11:07 GMT"
     },
     {
-      "id": "news-1f0f96db2bb5f568",
-      "title": "הקפאת מעצרי בני ישיבות לשנה: הצעת החוק של פרוש ושטארק תונח על שולחן הכנסת - JDN",
+      "id": "news-6d1706d8ccc7a82b",
+      "title": "הצעת חוק חדשה בקונגרס: מענקים פדרליים לרכישת מזון כשר - חב״ד און ליין",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "JDN",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xR1NWblJFRm5MSWdvSW9NQmU2MlozTTgybDZQaGdZdnZlV3VHcHpQekJKUUowU3hlLUhjUG9YLWpSSFVEekdWeVVOMA?oc=5",
-      "updated": "Mon, 23 Nov 2026 09:07:21 GMT"
+      "outlet": "חב״ד און ליין",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NNnVQTjAxbFRRUmFhLTVNeTk5ZGhnU2ZSX1RLb3V1S0VoWTh5enJqU0gyRTNVTF9pMFI3ZGlTRXhJU2Jf?oc=5",
+      "updated": "Mon, 23 Nov 2026 15:20:14 GMT"
     },
     {
-      "id": "news-6f6c614b1c5045ad",
-      "title": "\"כשאתה קונה משהו - הוא שלך\": הצעת חוק דרמטית נגד חברת סוני - C14",
+      "id": "news-1bdab75c5628a620",
+      "title": "ניסיון להביך את גוש השינוי: פרוש ושטארק הגישו הצעת חוק להקפאת מעצרים - כלכליסט",
+      "stage": "סיקור תקשורתי",
+      "tier": 2,
+      "source_type": "news",
+      "outlet": "כלכליסט",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tQ3otUndTdnpPNktpMEVoRnItN3hQeE91cWtGV0loUFE4UzcwcVdqaU02YTF2RU9ici1LeWYteXdYU19zcGxiTGRPMzZCZDViVkZBRERKVWpiMmo2aDVGWmk5NDJVUjVR?oc=5",
+      "updated": "Mon, 23 Nov 2026 12:01:00 GMT"
+    },
+    {
+      "id": "news-50a34b044977fe8e",
+      "title": "נשיאות הכנסת אישרה: הצעת החוק להקפאת מעצרי תלמידי ישיבות תעלה לקריאה טרומית - הידברות",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "C14",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94T1RtV19rSE5CbXp3YTVfanVZRFVwZWhocGRBX2xzRHhtOXFIOUdzdzJpOFRRNUVoVFkzRTMwYXFZaVhuM01xU0NpcjRmUQ?oc=5",
-      "updated": "Sun, 22 Nov 2026 12:49:15 GMT"
+      "outlet": "הידברות",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWnZveVNZbE0xbkJVU1p4aEFmRGhxZ1JRQjNYSTBxZ0ptVmFoWFlPQWlxcm5aQk9kYmg4ZmlnR0JJRmpjLWVLOHJ3eldUQ0pFTFhz?oc=5",
+      "updated": "Mon, 23 Nov 2026 10:47:00 GMT"
     },
     {
-      "id": "news-1c7e69e76c890baa",
-      "title": "דיווח: גוש איזנקוט יקדם הצעת חוק להגבלת כהונת ראש ממשלה לשמונה שנים - זמן ישראל",
+      "id": "news-b73e118c36877601",
+      "title": "פרסום ראשון: הכנסת מבקשת מבג\"ץ להקפיא את הדיון בחוקי ההפיכה המשטרית - זמן ישראל",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
       "outlet": "זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hakI4VDJSc0ozQ1p6eThDSkEyWExaQUV2eDJOX1NlVWZKZ2h3WGZydzRZZkt5X0MtYU44T2d3OTc3QXg5MUVKb1poUQ?oc=5",
-      "updated": "Sun, 22 Nov 2026 19:09:10 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE81QWp0aTBsa1ZSaFEzLXBEYlc3cHlzMnZIbDhlMEdsbTNIRUZ3S2l5TExycHA4OHJYd2tjUndvcGZRWDRs?oc=5",
+      "updated": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "news-c6d85f52903ca52e",
-      "title": "פרוש ושטארק מעמידים את השמאל במבחן חוק המעצרים - לדעת",
+      "id": "news-49d4b4e8f16dcd40",
+      "title": "החוק שיאתגר את בנט וליברמן - ערוץ 7",
       "stage": "סיקור תקשורתי",
       "tier": 3,
       "source_type": "news",
-      "outlet": "לדעת",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1fVjFNNF94OFpqVjBPeUZLSzJkU3hRSlVLWWZiQzBoYUtleTI5azdYUHVfaGl5SUpEQ3ZfbWlUZFQ?oc=5",
-      "updated": "Mon, 23 Nov 2026 09:18:18 GMT"
-    },
-    {
-      "id": "news-0ede0bd4526ea4f5",
-      "title": "'הקפאת המעצרים' של בני ישיבות לשנה: הצעת החוק של פרוש ושטארק תונח על שולחן הכנסת - חרדים10",
-      "stage": "סיקור תקשורתי",
-      "tier": 3,
-      "source_type": "news",
-      "outlet": "חרדים10",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xRG9JQmc1Qzh0dGJMS2tQVzM4dVBFRkZUemh2d2NJSVZMR1VIYUV1My1ERXVwX1BzSXVqQmpSYUdCU19jVmdj?oc=5",
-      "updated": "Mon, 23 Nov 2026 09:25:43 GMT"
+      "outlet": "ערוץ 7",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yZW10aGk0eGExRnJ6enNteEtuVGZlcUtYWGhBYXNRYnV0X2oza2xGaG9kNkI5RVR6VVhDaGZSM0ZRWHlaRkNVUA?oc=5",
+      "updated": "Mon, 23 Nov 2026 19:30:00 GMT"
     },
     {
       "id": "news-5a389e496583f625",
