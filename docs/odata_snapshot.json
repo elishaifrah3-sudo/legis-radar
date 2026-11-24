@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:21:06.352407+00:00",
+  "generated_at": "2026-11-24T06:38:16.941376+00:00",
   "entities": {
     "bills": {
       "2221105": {
@@ -7108,6 +7108,146 @@
       }
     },
     "committee_sessions": {
+      "2247316": {
+        "hash": "23691d36508d84f7de671828b0b666cfa47934cfa96457e879ece05ec480c0eb",
+        "record": {
+          "Id": 2247316,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4290,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכספים (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247316",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-24T08:34:44.877+02:00"
+        }
+      },
+      "2247522": {
+        "hash": "42b375af6fdbfd2677f0b02900a329b78284cf28b4429630dc3d1bec47f2754d",
+        "record": {
+          "Id": 2247522,
+          "Number": 7,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4288,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכנסת (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247522",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-24T08:30:11.287+02:00"
+        }
+      },
+      "2247515": {
+        "hash": "27cc0fc35c037aac8ec015b62bdb60ee67430598e545d340a090bec0c4ba7b1d",
+        "record": {
+          "Id": 2247515,
+          "Number": 5,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4289,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת החוץ והביטחון (קומה 2, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247515",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": "2026-11-24T11:30:00+02:00",
+          "Note": null,
+          "LastUpdatedDate": "2026-11-24T08:24:13.58+02:00"
+        }
+      },
+      "2247416": {
+        "hash": "b60c09779a752c58b44d30e816a83a98c159f2249ee0f30fb515cebff0d35b2f",
+        "record": {
+          "Id": 2247416,
+          "Number": 3,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4293,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכלכלה (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247416",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": null,
+          "Note": "תתכן הצבעה\nהישיבה תמשך עד שעה 15:00",
+          "LastUpdatedDate": "2026-11-24T07:50:10.55+02:00"
+        }
+      },
+      "2247407": {
+        "hash": "69dcf18e5c5a59c5a355b6207174b1163d77d5a1b92c25f825663ed0dba5bdae",
+        "record": {
+          "Id": 2247407,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4294,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת החוקה, חוק ומשפט (קומה 1, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247407",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": null,
+          "Note": "ישיבת הוועדה צפויה להתחדש עם סיום מליאת הכנסת",
+          "LastUpdatedDate": "2026-11-24T07:43:42.833+02:00"
+        }
+      },
+      "2247678": {
+        "hash": "4326b10250f3c6bc1f0236b1b0a89501653b90d4a2cf084af9a73069079df64b",
+        "record": {
+          "Id": 2247678,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4298,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הפנים והגנת הסביבה (קומה 1, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247678",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T10:30:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-24T07:42:59.813+02:00"
+        }
+      },
+      "2247688": {
+        "hash": "5907bf2fcc552e19f3d1a694d619852bf0c683a596567a362bc6528b3a900b27",
+        "record": {
+          "Id": 2247688,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4299,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת העלייה, הקליטה והתפוצות (קומה 1, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247688",
+          "BroadcastUrl": null,
+          "StartDate": "2026-11-24T12:30:00+02:00",
+          "FinishDate": null,
+          "Note": null,
+          "LastUpdatedDate": "2026-11-24T07:26:43.377+02:00"
+        }
+      },
       "2247404": {
         "hash": "389b9afe9ab62d69eb9d3980a5bd22e7880b84d24f2162d8d205a0db7f6736bb",
         "record": {
@@ -7128,26 +7268,6 @@
           "LastUpdatedDate": "2026-11-23T20:22:43.087+02:00"
         }
       },
-      "2247416": {
-        "hash": "d5f5a52417c2c734ae13a3772717ab70b63c657204bd7f76d9bfa42ede4d836a",
-        "record": {
-          "Id": 2247416,
-          "Number": null,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4293,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת הכלכלה (קומה 3, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247416",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T09:30:00+02:00",
-          "FinishDate": null,
-          "Note": "תתכן הצבעה\nהישיבה תמשך עד שעה 15:00",
-          "LastUpdatedDate": "2026-11-23T19:18:49.057+02:00"
-        }
-      },
       "2247680": {
         "hash": "a22e90c4f7a1a1c4f00610b041e8bf6ba5c8bdd116470cb8efed069e4d5c0a15",
         "record": {
@@ -7166,46 +7286,6 @@
           "FinishDate": null,
           "Note": null,
           "LastUpdatedDate": "2026-11-23T19:06:58.53+02:00"
-        }
-      },
-      "2247678": {
-        "hash": "61fdacc17ab8389adfa69f5fd9b0e20a87f5e3edb4cc0fa4dc7de389a6850b20",
-        "record": {
-          "Id": 2247678,
-          "Number": null,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4298,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת הפנים והגנת הסביבה (קומה 1, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247678",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T09:30:00+02:00",
-          "FinishDate": null,
-          "Note": null,
-          "LastUpdatedDate": "2026-11-23T18:57:41.073+02:00"
-        }
-      },
-      "2247522": {
-        "hash": "f92c24a978fdc41878111a4032ed60e4eac14edb3a99556e793014f770af36e4",
-        "record": {
-          "Id": 2247522,
-          "Number": 7,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4288,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת הכנסת (קומה 3, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247522",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T09:00:00+02:00",
-          "FinishDate": null,
-          "Note": null,
-          "LastUpdatedDate": "2026-11-23T17:30:07.713+02:00"
         }
       },
       "2247413": {
@@ -7548,46 +7628,6 @@
           "LastUpdatedDate": "2026-11-22T13:36:25.567+02:00"
         }
       },
-      "2247515": {
-        "hash": "fb7f601dace7af24daeac57101c64ee3b2854afa6c51bf52ef83568cc886ddac",
-        "record": {
-          "Id": 2247515,
-          "Number": null,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4289,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת החוץ והביטחון (קומה 2, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247515",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T10:00:00+02:00",
-          "FinishDate": "2026-11-24T11:00:00+02:00",
-          "Note": null,
-          "LastUpdatedDate": "2026-11-22T11:59:56.717+02:00"
-        }
-      },
-      "2247407": {
-        "hash": "a79ce03dffbd63a016e789f6abca7d7f0cfa20a3d3f9ec56adfbcb624d2b5bf1",
-        "record": {
-          "Id": 2247407,
-          "Number": null,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4294,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת החוקה, חוק ומשפט (קומה 1, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247407",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T09:00:00+02:00",
-          "FinishDate": null,
-          "Note": "ישיבת הוועדה צפויה להתחדש עם סיום מליאת הכנסת",
-          "LastUpdatedDate": "2026-11-19T13:18:41.62+02:00"
-        }
-      },
       "2247410": {
         "hash": "00697f1a0adc5eddc286fd8a9a0f6afc14ec5843e6b087e29a302e4778ff932d",
         "record": {
@@ -7646,26 +7686,6 @@
           "FinishDate": null,
           "Note": null,
           "LastUpdatedDate": "2026-11-18T14:44:47.653+02:00"
-        }
-      },
-      "2247316": {
-        "hash": "da8845a63d8c1534b30bdfcb408d2e346b5c4880034fad7ba4c90ed7bc82d76c",
-        "record": {
-          "Id": 2247316,
-          "Number": null,
-          "KnessetNum": 26,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 4290,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אולם ועדת הכספים (קומה 3, אגף הוועדות)",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247316",
-          "BroadcastUrl": null,
-          "StartDate": "2026-11-24T10:00:00+02:00",
-          "FinishDate": null,
-          "Note": null,
-          "LastUpdatedDate": "2026-11-18T14:44:41.337+02:00"
         }
       },
       "2247245": {
@@ -9087,29 +9107,22 @@
           "Note": "חוק יישוב סכסוכי עבודה (תיקון מס' 2), התשל\"ב -1971",
           "LastUpdatedDate": "2026-11-12T15:10:13.1+02:00"
         }
-      },
-      "2035372": {
-        "hash": "e92a50387ad4abef5304fe7b43de109b0cc122f725ceb8cdff83a28b44ebb47a",
-        "record": {
-          "Id": 2035372,
-          "Number": 164,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035372",
-          "BroadcastUrl": null,
-          "StartDate": "1971-12-22T08:30:00+02:00",
-          "FinishDate": "1971-12-22T11:00:00+02:00",
-          "Note": "השגות דיילות אל-על על קיפוח",
-          "LastUpdatedDate": "2026-11-12T15:08:11.973+02:00"
-        }
       }
     },
     "committee_agenda": {
+      "927567": {
+        "hash": "3cea97fed784b2c92aa48ebe3daec3de4aca50e75fe9e90e02d4617a1d4c838b",
+        "record": {
+          "Id": 927567,
+          "ItemID": 2247687,
+          "CommitteeSessionID": 2247688,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "בחירת יו\"ר הוועדה המיוחדת לפיקוח על חיזוק הנגב והגליל",
+          "ItemTypeID": 6000,
+          "LastUpdatedDate": "2026-11-24T07:26:43.363+02:00"
+        }
+      },
       "927524": {
         "hash": "3b7a83bb4663dbbb56785ee3745285c84160913b0e7a6a0eccd86fe121b3c0a8",
         "record": {
@@ -10396,22 +10409,198 @@
           "ItemTypeID": 2,
           "LastUpdatedDate": "2026-11-23T12:16:33.593+02:00"
         }
-      },
-      "901179": {
-        "hash": "cf2a453392240b603894ae14306a4ed1b20597004f555e3e1ebccfaf2a223d18",
-        "record": {
-          "Id": 901179,
-          "ItemID": 2215129,
-          "CommitteeSessionID": 2215158,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק ביטוח בריאות ממלכתי (תיקון מס' 69 והוראת שעה), התשפ\"ד-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-23T12:14:10.13+02:00"
-        }
       }
     },
     "positions": {
+      "34468": {
+        "hash": "ae8892f8e233e7437bfc653060479370e622ac8eec1391bd4a6e3ef9fa09e84e",
+        "record": {
+          "Id": 34468,
+          "PersonID": 12938,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:02:34.063+02:00"
+        }
+      },
+      "34467": {
+        "hash": "859c1c5a2aca7d645877e866946cb0d3a9f7be9ba42fcba2c91a43a2ad1111fd",
+        "record": {
+          "Id": 34467,
+          "PersonID": 30981,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:02:14.157+02:00"
+        }
+      },
+      "34466": {
+        "hash": "d50207bec103614476dd9bba68f03c3c51acf0a7281b8a6692b0b1bdca6d8e5b",
+        "record": {
+          "Id": 34466,
+          "PersonID": 30948,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:01:52.953+02:00"
+        }
+      },
+      "34465": {
+        "hash": "89cd0d580ee0e5fb294657777cea1a3ddc9947ab1b364209b724b75bdf6fbd82",
+        "record": {
+          "Id": 34465,
+          "PersonID": 30818,
+          "PositionID": 66,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:01:35.563+02:00"
+        }
+      },
+      "34464": {
+        "hash": "244f4df2007b361c0a2010511b4bb5b5754180b47dfaee175d0d9cce44e85534",
+        "record": {
+          "Id": 34464,
+          "PersonID": 30691,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:01:14.563+02:00"
+        }
+      },
+      "34463": {
+        "hash": "aebe0ab0988b14102579672c5aac453fe83176ba05af47e8f980e2517cab9b9c",
+        "record": {
+          "Id": 34463,
+          "PersonID": 30853,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:00:59.39+02:00"
+        }
+      },
+      "34462": {
+        "hash": "b63b10aff253be76190b833e8868fa6f7043348a2b03df4eb33292fdecae247a",
+        "record": {
+          "Id": 34462,
+          "PersonID": 30835,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:00:40.48+02:00"
+        }
+      },
+      "34461": {
+        "hash": "e15116cd153a042617d1b6ff5864dae4a7586e60d566a48fb0283405ef264c45",
+        "record": {
+          "Id": 34461,
+          "PersonID": 30938,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T08:00:24.953+02:00"
+        }
+      },
+      "34460": {
+        "hash": "0a08018258c6796d737197116f0b94f983c6580f7e01fcd37fedcdb23ae9ba86",
+        "record": {
+          "Id": 34460,
+          "PersonID": 30713,
+          "PositionID": 42,
+          "KnessetNum": 26,
+          "StartDate": "2026-11-24T00:00:00+02:00",
+          "FinishDate": null,
+          "GovMinistryID": null,
+          "GovMinistryName": null,
+          "DutyDesc": null,
+          "FactionID": null,
+          "FactionName": null,
+          "GovernmentNum": null,
+          "CommitteeID": 4295,
+          "CommitteeName": "הוועדה המיוחדת למיגור הפשיעה והאלימות בחברה הערבית",
+          "IsCurrent": true,
+          "LastUpdatedDate": "2026-11-24T07:59:05.297+02:00"
+        }
+      },
       "34459": {
         "hash": "32a45f90688a0b641b56c97fe53a71048caf61310456f7d26e0a2fc98453666f",
         "record": {
@@ -12322,195 +12511,6 @@
           "IsCurrent": false,
           "LastUpdatedDate": "2026-11-17T11:11:37.19+02:00"
         }
-      },
-      "34372": {
-        "hash": "6a598f017d2747ba25926bd0d7dbaf81ad515a4bd1a884e83bcfe96b643e46fe",
-        "record": {
-          "Id": 34372,
-          "PersonID": 30925,
-          "PositionID": 41,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-16T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": null,
-          "FactionName": null,
-          "GovernmentNum": null,
-          "CommitteeID": 4290,
-          "CommitteeName": "הוועדה הזמנית לענייני כספים",
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T15:47:25.327+02:00"
-        }
-      },
-      "34371": {
-        "hash": "afc8c34666ddc33dc7a319efc4fba913649e25af29ea03948a6adb16840b33b3",
-        "record": {
-          "Id": 34371,
-          "PersonID": 427,
-          "PositionID": 41,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-16T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": null,
-          "FactionName": null,
-          "GovernmentNum": null,
-          "CommitteeID": 4289,
-          "CommitteeName": "הוועדה הזמנית לענייני חוץ וביטחון",
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T15:35:24.29+02:00"
-        }
-      },
-      "34370": {
-        "hash": "a1c816d6bbaa351ffa3a9bb55a5594fd64f7f5fb2686b535d0ba747522420d97",
-        "record": {
-          "Id": 34370,
-          "PersonID": 2669,
-          "PositionID": 42,
-          "KnessetNum": 7,
-          "StartDate": "1971-01-30T00:00:00+02:00",
-          "FinishDate": "1974-01-21T00:00:00+02:00",
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": null,
-          "FactionName": null,
-          "GovernmentNum": null,
-          "CommitteeID": 291,
-          "CommitteeName": "ועדת העבודה",
-          "IsCurrent": false,
-          "LastUpdatedDate": "2026-11-16T14:33:00+02:00"
-        }
-      },
-      "33960": {
-        "hash": "cd63413a03d971a021c533e0a87693263c3c74a9b7c9028c1e28e19f49832b2b",
-        "record": {
-          "Id": 33960,
-          "PersonID": 30812,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1114,
-          "FactionName": "הציונות הדתית בראשות בצלאל סמוטריץ וזהות בראשות משה פייגלין",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:31:08.847+02:00"
-        }
-      },
-      "33958": {
-        "hash": "e78d07350e11498f08b708d79e833e75e75e3c18f2ae57825931deaa91dc33bf",
-        "record": {
-          "Id": 33958,
-          "PersonID": 23551,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1114,
-          "FactionName": "הציונות הדתית בראשות בצלאל סמוטריץ וזהות בראשות משה פייגלין",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:31:01.99+02:00"
-        }
-      },
-      "34027": {
-        "hash": "a4135e0167ce7a40897b0ac7eb378ddc3e916ee0b3f6e5f6e4b821e81224ded8",
-        "record": {
-          "Id": 34027,
-          "PersonID": 23556,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1114,
-          "FactionName": "הציונות הדתית בראשות בצלאל סמוטריץ וזהות בראשות משה פייגלין",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:30:57.863+02:00"
-        }
-      },
-      "33959": {
-        "hash": "e1032dc7369cfaad123722b4dd025ccebe80c8ecf178219c2e080dd200135e6b",
-        "record": {
-          "Id": 33959,
-          "PersonID": 30055,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1114,
-          "FactionName": "הציונות הדתית בראשות בצלאל סמוטריץ וזהות בראשות משה פייגלין",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:30:52.613+02:00"
-        }
-      },
-      "34268": {
-        "hash": "c2b62cb5ecbe01a463e6fcf4a17cef24e01e045c43943a915cc687e8cdd3870e",
-        "record": {
-          "Id": 34268,
-          "PersonID": 30770,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1116,
-          "FactionName": "התאחדות הספרדים העולמית שומרי תורה",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:24:13.727+02:00"
-        }
-      },
-      "34266": {
-        "hash": "8fbefd092e25aac493dce7c56576e19a4e5b387b5f1edd7c4b779d79a58081d1",
-        "record": {
-          "Id": 34266,
-          "PersonID": 30765,
-          "PositionID": 54,
-          "KnessetNum": 26,
-          "StartDate": "2026-11-10T00:00:00+02:00",
-          "FinishDate": null,
-          "GovMinistryID": null,
-          "GovMinistryName": null,
-          "DutyDesc": null,
-          "FactionID": 1116,
-          "FactionName": "התאחדות הספרדים העולמית שומרי תורה",
-          "GovernmentNum": null,
-          "CommitteeID": null,
-          "CommitteeName": null,
-          "IsCurrent": true,
-          "LastUpdatedDate": "2026-11-16T14:24:09.443+02:00"
-        }
       }
     },
     "plenum_sessions": {
@@ -14041,10 +14041,10 @@
           "LastUpdatedDate": "2026-11-23T21:15:02.347+02:00"
         }
       },
-      "91140": {
-        "hash": "6e573862fff85ec2862d4e9e9b801684c76d10277059b3aab04ef41eb4e20c79",
+      "91139": {
+        "hash": "59d3f893d9044ace613e88bf574b50b93dc565178258527f6111f5b0115a80c3",
         "record": {
-          "Id": 91140,
+          "Id": 91139,
           "ItemID": 2211486,
           "PlenumSessionID": 2212563,
           "ItemTypeID": 2,
@@ -14071,10 +14071,10 @@
           "LastUpdatedDate": "2026-11-23T20:53:25.323+02:00"
         }
       },
-      "87437": {
-        "hash": "9116c6819b3e6f1880b633776973a3cfd33f7ce5b9caa5857ed7861c0f0c3fd2",
+      "87436": {
+        "hash": "25ef5c7f41cad8f7b33bbb19bdbccb8c5c46a345700151bbf41ac58d31965b20",
         "record": {
-          "Id": 87437,
+          "Id": 87436,
           "ItemID": 2201054,
           "PlenumSessionID": 2201938,
           "ItemTypeID": 2,
@@ -14191,10 +14191,10 @@
           "LastUpdatedDate": "2026-11-23T20:27:50.65+02:00"
         }
       },
-      "67606": {
-        "hash": "9ab1bc193a31c813bf7524ea20846a88b94d575e49387e8a8de0f20c13b06284",
+      "67607": {
+        "hash": "56b0a8d7e3c54ac9b4a659f616c1237eb52b7d322305513cbdc3717c7df8461b",
         "record": {
-          "Id": 67606,
+          "Id": 67607,
           "ItemID": 2086693,
           "PlenumSessionID": 2088186,
           "ItemTypeID": 2,
@@ -14281,10 +14281,10 @@
           "LastUpdatedDate": "2026-11-23T17:44:46.56+02:00"
         }
       },
-      "83356": {
-        "hash": "201a74f8cd30315533f5ccbfe00514f61fe77593babf3f7865846078841941f9",
+      "83355": {
+        "hash": "9c89c55a93d5555daf23b2f9995afacd3b65d4fc91422265d4ad3c61aec68a52",
         "record": {
-          "Id": 83356,
+          "Id": 83355,
           "ItemID": 2195999,
           "PlenumSessionID": 2198207,
           "ItemTypeID": 2,
