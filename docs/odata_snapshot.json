@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:31:13.595984+00:00",
+  "generated_at": "2026-11-25T02:52:50.490042+00:00",
   "entities": {
     "bills": {
       "2195963": {
@@ -12515,16 +12515,16 @@
     },
     "plenum_sessions": {
       "2247251": {
-        "hash": "56948baffe78ecde224c6691e4f0c600764ad975d29a1adcfad0abfbac66ee6b",
+        "hash": "ecc338b62987d6db1bb5f5ed841e41456b2dd66615c1958abc770574d27200a3",
         "record": {
           "Id": 2247251,
           "Number": 7,
           "KnessetNum": 26,
           "Name": "ישיבת מליאה בתאריך 24/11/2026 בשעה 16:00",
           "StartDate": "2026-11-24T16:00:00+02:00",
-          "FinishDate": null,
+          "FinishDate": "2026-11-24T21:00:00+02:00",
           "IsSpecialMeeting": false,
-          "LastUpdatedDate": "2026-11-24T15:57:19.61+02:00"
+          "LastUpdatedDate": "2026-11-24T20:51:52.643+02:00"
         }
       },
       "2247250": {
@@ -13816,10 +13816,100 @@
       }
     },
     "plenum_items": {
-      "83337": {
-        "hash": "601af2cc80cdebab2972658f247668da527e692b0b5d85829db94386a2b61a95",
+      "169133": {
+        "hash": "06f7f9b6a053fd0358d8609e2ccbe56c460e07825423eafc2f1796a531d21340",
         "record": {
-          "Id": 83337,
+          "Id": 169133,
+          "ItemID": 2247733,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 3,
+          "Name": "חבר הכנסת רפאל בן שטרית",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.8+02:00"
+        }
+      },
+      "169113": {
+        "hash": "4b2e3cf0cdfa7b27a0a53fdc30d1113e19e63c7d09c636d367d5f64911289945",
+        "record": {
+          "Id": 169113,
+          "ItemID": 2247513,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 5,
+          "Name": "ציון היום הבינלאומי למאבק באלימות כלפי נשים",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.723+02:00"
+        }
+      },
+      "169123": {
+        "hash": "1af88dbbcbe2bca02b3347b9bc3e64411dd8d35082f195e23f6bc1e2c0c46d4b",
+        "record": {
+          "Id": 169123,
+          "ItemID": 2247635,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 1,
+          "Name": "נאומים בני דקה",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.63+02:00"
+        }
+      },
+      "169112": {
+        "hash": "1f3f5b035ad6844fca5b483075371262bcdad4959b52294116c5d0cf31216a05",
+        "record": {
+          "Id": 169112,
+          "ItemID": 2247512,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 4,
+          "Name": "ציון יום מרן הרב עובדיה יוסף",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.49+02:00"
+        }
+      },
+      "169114": {
+        "hash": "63eb8e23c54cfd9168889fa6f506d7722bbb769be536769b8e0e824c6a77f068",
+        "record": {
+          "Id": 169114,
+          "ItemID": 2247514,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 6,
+          "Name": "יום לציון מכתב 18 המשפחות היהודיות מגאורגיה ",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.317+02:00"
+        }
+      },
+      "169132": {
+        "hash": "756864c47c5959ea5459aa4ab5f2ec14fc82bc7e4a6d75b98cd5a894aa5ae331",
+        "record": {
+          "Id": 169132,
+          "ItemID": 2247732,
+          "PlenumSessionID": 2247251,
+          "ItemTypeID": 9,
+          "ItemTypeDesc": "פריטי מליאה",
+          "Ordinal": 2,
+          "Name": "נאום בכורה של חבר הכנסת אליקים שטארק",
+          "StatusID": null,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-24T20:51:55.24+02:00"
+        }
+      },
+      "83338": {
+        "hash": "ad703aa891658018dd5cd91241b78b351e0e973edbb31b41d7ee70009156c3c5",
+        "record": {
+          "Id": 83338,
           "ItemID": 2195963,
           "PlenumSessionID": 2198207,
           "ItemTypeID": 2,
@@ -13846,10 +13936,10 @@
           "LastUpdatedDate": "2026-11-24T18:15:19.183+02:00"
         }
       },
-      "94916": {
-        "hash": "e461b3733e0a8b2d7eb7301474202e39f49fdf4a92aac2ff2e2c3a16c141ee25",
+      "94915": {
+        "hash": "89f08996d65fd08c2239755fd0eaca176eddf1e9545c9179b73be514d1aeb27e",
         "record": {
-          "Id": 94916,
+          "Id": 94915,
           "ItemID": 2216953,
           "PlenumSessionID": 2216713,
           "ItemTypeID": 2,
@@ -14041,36 +14131,6 @@
           "LastUpdatedDate": "2026-11-24T16:27:10.957+02:00"
         }
       },
-      "169133": {
-        "hash": "06b92f51c2e3f3ac4c23716903c7c3585274f6fbf5b93b3caffaafde4eeea191",
-        "record": {
-          "Id": 169133,
-          "ItemID": 2247733,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 6,
-          "Name": "חבר הכנסת רפאל בן שטרית",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T16:24:41.443+02:00"
-        }
-      },
-      "169132": {
-        "hash": "5c965285afb4587ff1824ebae664d0129466f8b8b494eff6ea69b77752e011b5",
-        "record": {
-          "Id": 169132,
-          "ItemID": 2247732,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 5,
-          "Name": "נאום בכורה של חבר הכנסת אליקים שטארק",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T16:24:19.63+02:00"
-        }
-      },
       "106997": {
         "hash": "65a89222eadf3d383c09ce555053c9b5ea79d32d4dc9d44a89f62d70bd6f7d94",
         "record": {
@@ -14221,10 +14281,10 @@
           "LastUpdatedDate": "2026-11-24T16:10:25.877+02:00"
         }
       },
-      "90856": {
-        "hash": "6473c2b3f2f3ded0e8f671aec5b9581e8549cf9950a921068eefec2cb42e9e8f",
+      "90857": {
+        "hash": "96152857079f7ed5d1b92663df8d07ee4af164700914cce9e436b15809da9087",
         "record": {
-          "Id": 90856,
+          "Id": 90857,
           "ItemID": 2195688,
           "PlenumSessionID": 2211644,
           "ItemTypeID": 2,
@@ -14309,21 +14369,6 @@
           "StatusID": 117,
           "IsDiscussion": 1,
           "LastUpdatedDate": "2026-11-24T16:10:25.877+02:00"
-        }
-      },
-      "169113": {
-        "hash": "90dbd183184603e7b0e8ad64c63375847d2e771d0deb03e8f512ce3afaf1d140",
-        "record": {
-          "Id": 169113,
-          "ItemID": 2247513,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 3,
-          "Name": "ציון היום הבינלאומי למאבק באלימות כלפי נשים",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T15:57:19.563+02:00"
         }
       },
       "21873": {
@@ -14521,51 +14566,6 @@
           "LastUpdatedDate": "2026-11-24T15:39:38.19+02:00"
         }
       },
-      "169123": {
-        "hash": "81d840cddd30b40bf06d81ba6043c88198ac5f45092a87f97c67206f197db07e",
-        "record": {
-          "Id": 169123,
-          "ItemID": 2247635,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 1,
-          "Name": "נאומים בני דקה",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T14:51:12.76+02:00"
-        }
-      },
-      "169114": {
-        "hash": "e74a33706f873c972a9fab20b5cf67a3f72383860cfc297bc6c5312f915d0a02",
-        "record": {
-          "Id": 169114,
-          "ItemID": 2247514,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 4,
-          "Name": "יום לציון מכתב 18 המשפחות היהודיות מגאורגיה ",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T14:51:12.213+02:00"
-        }
-      },
-      "169112": {
-        "hash": "8ab6add2dacffb66b68746ff31bb7b22109ef5f142ca2c931cd031c22a923928",
-        "record": {
-          "Id": 169112,
-          "ItemID": 2247512,
-          "PlenumSessionID": 2247251,
-          "ItemTypeID": 9,
-          "ItemTypeDesc": "פריטי מליאה",
-          "Ordinal": 2,
-          "Name": "ציון יום מרן הרב עובדיה יוסף",
-          "StatusID": null,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-24T14:51:12.183+02:00"
-        }
-      },
       "76054": {
         "hash": "4ee2a236bdc8b249e8b7bee7a213f318f3c866a22cb6fff5e523cc31c4715fb2",
         "record": {
@@ -14626,10 +14626,10 @@
           "LastUpdatedDate": "2026-11-24T14:46:21.46+02:00"
         }
       },
-      "89446": {
-        "hash": "e4acb118f0acbb13bd57e0d0c0305a476823ea204a3828b5dc99eae1461611a4",
+      "89447": {
+        "hash": "17d01e292079fde6a4f19f44ad4f5bc4b0097f46b965d478e8270cd72608a31d",
         "record": {
-          "Id": 89446,
+          "Id": 89447,
           "ItemID": 2156240,
           "PlenumSessionID": 2208049,
           "ItemTypeID": 2,
@@ -14776,10 +14776,10 @@
           "LastUpdatedDate": "2026-11-24T12:55:18.057+02:00"
         }
       },
-      "50197": {
-        "hash": "6e83c099d2e83a95d2abd97dee843287f794796ddfd41c3e97773153b94404db",
+      "50198": {
+        "hash": "afd9ac59af0865643ddbd25183c965dfe54b68a2c6b983fd87acc0d2e9d50b1b",
         "record": {
-          "Id": 50197,
+          "Id": 50198,
           "ItemID": 563812,
           "PlenumSessionID": 572669,
           "ItemTypeID": 2,
@@ -14866,10 +14866,10 @@
           "LastUpdatedDate": "2026-11-24T12:55:18.057+02:00"
         }
       },
-      "56074": {
-        "hash": "76e2a6e4d2bb21ae938f2dab9d5425a910ff6bfde8b447f579be40196b9556db",
+      "56073": {
+        "hash": "f2a69ece3a91b6386fd5b17d38e123278b7ce3b186bd1b7e2aaf4d0c4f83d448",
         "record": {
-          "Id": 56074,
+          "Id": 56073,
           "ItemID": 576068,
           "PlenumSessionID": 578040,
           "ItemTypeID": 2,
