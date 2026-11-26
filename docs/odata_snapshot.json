@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-11-26T13:25:28.071623+00:00",
+  "generated_at": "2026-11-26T22:43:29.393785+00:00",
   "entities": {
     "bills": {
+      "2201202": {
+        "hash": "c9ea1e13de04fcad3aa79723d68900c1f65fe7ddd067872809818a84cbed3eb5",
+        "record": {
+          "Id": 2201202,
+          "KnessetNum": 25,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 55,
+          "SubTypeDesc": "ועדה",
+          "PrivateNumber": null,
+          "CommitteeID": 4191,
+          "StatusID": 118,
+          "Number": 947,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "2025-04-01T00:00:00+03:00",
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCallID": 461,
+          "PublicationSeriesFirstCallDesc": "הצעות חוק הכנסת - 947 ,מיום 16:00:00",
+          "MagazineNumber": "3389",
+          "PageNumber": "438",
+          "IsContinuationBill": null,
+          "SummaryLaw": "תיקון חוק משלים לחוק-יסוד: השפיטה (תיקון מס' 4), התשפ\"ה–2025. בחוק נקבע כי ככלל, לא ימונה שופט שטרם מלאו לו 55 שנים לבית המשפט העליון, אלא אם הוועדה לבחירת שופטים בחרה בו על דעת כל חבריה. בנוסף, נקבע כי שני שלישים לפחות מהשופטים בבית המשפט העליון יהיו שופטים שכיהנו בבית המשפט המחוזי, בשל החשש שימונו לבית המשפט העליון מספר רב של שופטים שאין להם ניסיון בתחומים מגוונים הרלוונטיים לעיסוקם. זאת ועוד, בשל העובדה שנציגי הציבור וחברי הכנסת החברים בוועדה, נבחרים על ידי הקואליציה והאופוזיציה בכנסת, נקבעו בחוק הוראות משלימות להסדרת המצבים בהם שינויים קואליציוניים יובילו לבחירה חדשה של חברי הוועדה. כמו כן, נקבע כי הגמול שיקבלו נציגי הציבור המשמשים כחברים בוועדה לבחירת שופטים, ייקבע בתקנות של שר המשפטים באישור ועדת החוקה, חוק ומשפט.",
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "342149": {
+        "hash": "3f635a83fcecd667d99c68bfbf762c888d8b30c42c3fea411a28c4d2ecb76e2c",
+        "record": {
+          "Id": 342149,
+          "KnessetNum": 18,
+          "Name": "הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה ליישום התכנית הכלכלית לשנים 2009 ו-2010) (תיקון מס' 3) (הארכת התליית ההיטל בעד צריכת מים עודפת), התש\"ע-2010",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 53,
+          "SubTypeDesc": "ממשלתית",
+          "PrivateNumber": null,
+          "CommitteeID": null,
+          "StatusID": 111,
+          "Number": null,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": null,
+          "PublicationSeriesID": null,
+          "PublicationSeriesDesc": null,
+          "PublicationSeriesFirstCallID": null,
+          "PublicationSeriesFirstCallDesc": null,
+          "MagazineNumber": null,
+          "PageNumber": null,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-26T16:24:00.96+02:00"
+        }
+      },
+      "280348": {
+        "hash": "93ed58ca39a56ca65ffb5c789bee7cd8ae490dd52fbd6838407cdcc9ef41be09",
+        "record": {
+          "Id": 280348,
+          "KnessetNum": 17,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "TypeID": 2,
+          "TypeDesc": "הצעת חוק",
+          "SubTypeID": 53,
+          "SubTypeDesc": "ממשלתית",
+          "PrivateNumber": null,
+          "CommitteeID": 195,
+          "StatusID": 118,
+          "Number": 367,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "2008-04-28T00:00:00+03:00",
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCallID": 462,
+          "PublicationSeriesFirstCallDesc": "הצעות חוק הממשלה - 367 ,מיום 16:00:00",
+          "MagazineNumber": "2151",
+          "PageNumber": "499",
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
       "344569": {
         "hash": "1e65ce77f99235dab6676dc95ecd712772c4630a67db82075c0ce2cc6d01e1ea",
         "record": {
@@ -2716,90 +2800,6 @@
           "IsContinuationBill": null,
           "SummaryLaw": null,
           "LastUpdatedDate": "2026-11-23T16:10:21.523+02:00"
-        }
-      },
-      "2245841": {
-        "hash": "fdaac4b193747ee3c31477325b138417ff5a3488bf7d98f074f33b0ca6deb237",
-        "record": {
-          "Id": 2245841,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק הצמדת שכר שוטרים וסוהרים לשכר משרתי קבע בצה\"ל (תיקוני חקיקה), התשפ\"ז-2026",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 274,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-23T16:10:21.493+02:00"
-        }
-      },
-      "2245699": {
-        "hash": "436f8d95714ebc0af957c7fb3644dd3b49432acf3918ec92af3c34a7f23c8c02",
-        "record": {
-          "Id": 2245699,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק הרשות לפיתוח הנגב (תיקון - קידום הקמתם של יישובים חקלאיים חדשים בנגב), התשפ\"ז-2026",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 273,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-23T16:10:21.447+02:00"
-        }
-      },
-      "2246322": {
-        "hash": "af1c113ee00d3d6f069a27ef65f0141f3e7bb3b7d89cd8fded2bd67fb40a5c5d",
-        "record": {
-          "Id": 2246322,
-          "KnessetNum": 26,
-          "Name": "הצעת חוק חינוך ממלכתי (תיקון - חובת לימוד עברית וערבית), התשפ\"ז-2026",
-          "TypeID": 2,
-          "TypeDesc": "הצעת חוק",
-          "SubTypeID": 54,
-          "SubTypeDesc": "פרטית",
-          "PrivateNumber": 272,
-          "CommitteeID": null,
-          "StatusID": 104,
-          "Number": null,
-          "PostponementReasonID": null,
-          "PostponementReasonDesc": null,
-          "PublicationDate": null,
-          "PublicationSeriesID": null,
-          "PublicationSeriesDesc": null,
-          "PublicationSeriesFirstCallID": null,
-          "PublicationSeriesFirstCallDesc": null,
-          "MagazineNumber": null,
-          "PageNumber": null,
-          "IsContinuationBill": null,
-          "SummaryLaw": null,
-          "LastUpdatedDate": "2026-11-23T16:10:21.413+02:00"
         }
       }
     },
@@ -7108,6 +7108,26 @@
       }
     },
     "committee_sessions": {
+      "2247851": {
+        "hash": "d2da843b89b24f7e9939840fa97b70d94d98ccfb185b2f96f2fe0208516c53fa",
+        "record": {
+          "Id": 2247851,
+          "Number": null,
+          "KnessetNum": 26,
+          "TypeID": 161,
+          "TypeDesc": "פתוחה",
+          "CommitteeID": 4299,
+          "StatusID": 192,
+          "StatusDesc": "פעילה",
+          "Location": "אולם ועדת הכספים (קומה 3, אגף הוועדות)",
+          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2247851",
+          "BroadcastUrl": null,
+          "StartDate": "2026-12-01T13:30:00+02:00",
+          "FinishDate": null,
+          "Note": "משותפת עם ועדת הכספים",
+          "LastUpdatedDate": "2026-11-26T16:49:21.293+02:00"
+        }
+      },
       "2247765": {
         "hash": "5ae5257594f25835c4346e83797c846d575ab8ec33c84b835091ddbefc7c6ae5",
         "record": {
@@ -9087,29 +9107,659 @@
           "Note": "חיסול משכנות העוני ופתרון מצוקת הדיור - הצעה לסדר היום של חבר הכנסת מ. ידיד",
           "LastUpdatedDate": "2026-11-15T12:40:51.647+02:00"
         }
-      },
-      "2035406": {
-        "hash": "ee6632f47e25acc5b92345b57fc9a44ffae32cac332545ac6bdc86a722a8c9b1",
-        "record": {
-          "Id": 2035406,
-          "Number": 198,
-          "KnessetNum": 7,
-          "TypeID": 161,
-          "TypeDesc": "פתוחה",
-          "CommitteeID": 291,
-          "StatusID": 192,
-          "StatusDesc": "פעילה",
-          "Location": "אחר",
-          "SessionUrl": "http://main.knesset.gov.il/Activity/committees/Pages/AllCommitteesAgenda.aspx?Tab=3&ItemID=2035406",
-          "BroadcastUrl": null,
-          "StartDate": "1972-02-20T13:00:00+02:00",
-          "FinishDate": "1972-02-20T15:30:00+02:00",
-          "Note": "חוק ביטוח אבטלה",
-          "LastUpdatedDate": "2026-11-15T12:38:13.147+02:00"
-        }
       }
     },
     "committee_agenda": {
+      "927638": {
+        "hash": "912abdb4ffc2a818a5267cc1a7d1eafb2f2ab1404895e0a72d84911d71b3e43b",
+        "record": {
+          "Id": 927638,
+          "ItemID": 2247850,
+          "CommitteeSessionID": 2247851,
+          "Ordinal": 1,
+          "StatusID": null,
+          "Name": "החלטת הממשלה לקיצוץ בתקציבי תוכניות מנהלת תקומה ומנהלת תנופה",
+          "ItemTypeID": 11,
+          "LastUpdatedDate": "2026-11-26T16:46:10.023+02:00"
+        }
+      },
+      "887664": {
+        "hash": "0da3190e73a158ca1df10e932128c454b9fb4a53c65149370a1bfca92ac6e878",
+        "record": {
+          "Id": 887664,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200828,
+          "Ordinal": 3,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887695": {
+        "hash": "2804dde9ffde50360569c734cec2c4ad4a574aecbf389a7673dba5966e706a5b",
+        "record": {
+          "Id": 887695,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200829,
+          "Ordinal": 3,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887712": {
+        "hash": "ec494a9297891c24de367b6860fbee9a3ff555a41656d6132484681841460e09",
+        "record": {
+          "Id": 887712,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2201302,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887721": {
+        "hash": "c99d12d8b26a535661b37a27f1a5af377788ea353fd3ab83c34b383838bdfae7",
+        "record": {
+          "Id": 887721,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2201310,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887753": {
+        "hash": "2228a6a1a72b21ca1921134008d05b6c6ae3e8e927adccf81ad2b683450cf96a",
+        "record": {
+          "Id": 887753,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2201422,
+          "Ordinal": 3,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887763": {
+        "hash": "21a540fa7af3519cf61d587d833c0627a4eb9a97ecd990bb6eae754f9f6cbb1d",
+        "record": {
+          "Id": 887763,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200179,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887811": {
+        "hash": "6ef8769d5ed7ffeb47ca23310dd020165a994fde3bc8080bff596f6e2059f0e4",
+        "record": {
+          "Id": 887811,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2199806,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887813": {
+        "hash": "0f62abf80007e5bf41c7dd6925ec767936e9b1f0015370f9e48ec97fde19274c",
+        "record": {
+          "Id": 887813,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2199808,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887815": {
+        "hash": "5820b0281953549f261367f479fde6f90e9a5ee9b602bc72a7553eb3299fb0a4",
+        "record": {
+          "Id": 887815,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200178,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887817": {
+        "hash": "7a148b31925a591914561735f4ae12bf830af738b71820d3b6d60774fd252d8c",
+        "record": {
+          "Id": 887817,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200180,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887819": {
+        "hash": "778781e7e29c6c7a2ba382609fc6612ab3205ab8792d80daecab16b4df76ac3c",
+        "record": {
+          "Id": 887819,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200181,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887821": {
+        "hash": "8d5ecd268ceca97fe756face82a3056303cb5823bf812a0540f908b055188deb",
+        "record": {
+          "Id": 887821,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200825,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "887823": {
+        "hash": "4b2d4ef8ab137b3ca156737f61683be5581cfdfcba1fb428a9a2321b51d21f11",
+        "record": {
+          "Id": 887823,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2200827,
+          "Ordinal": 2,
+          "StatusID": 101,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888479": {
+        "hash": "ef9d87ea6582717524a3d2495eb1f1f11e16349d5514edc6c7a1aab2e375276f",
+        "record": {
+          "Id": 888479,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2202819,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888480": {
+        "hash": "54ddd7c033f9459e0e72b02356a1350d45b57e91753a4b3226c287cc10dfa792",
+        "record": {
+          "Id": 888480,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2202826,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888481": {
+        "hash": "4c0de6ce77fd31bdc0ccab4ef4e2df70df851a3b59638933bad3b4c1308af382",
+        "record": {
+          "Id": 888481,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2202831,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888482": {
+        "hash": "174297c0762b2cb22ab2d318b871f93b310adfa8894f6dacbdbcaa0b75caa4c4",
+        "record": {
+          "Id": 888482,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2202832,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888767": {
+        "hash": "17387cf56b1f16ed6d4bf0ef0fc5473586f103a614313e6a760f26b8a86cbee3",
+        "record": {
+          "Id": 888767,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203350,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888769": {
+        "hash": "696b16916eef7e8cc76cc8f605aaa3552f22344c15b1b9f101911d8c6a8ac024",
+        "record": {
+          "Id": 888769,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203352,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888772": {
+        "hash": "15e77b4309c107a0b190205ff88993406885a6733f5f4718f075450a84f496ff",
+        "record": {
+          "Id": 888772,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203357,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888774": {
+        "hash": "ca55337de2d04d2bf9afac7966a8e775872d88f54d9e377a5d54053bb9101e64",
+        "record": {
+          "Id": 888774,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203358,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888897": {
+        "hash": "96eb6d08bb560c79220b905df5abd03b01df7cc579ec0e745b372ac2d1b747bf",
+        "record": {
+          "Id": 888897,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203632,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888928": {
+        "hash": "e6c15d4acc069d8de9b13581c62ca181bc1e701a46243e6d44c6fb1d9913797a",
+        "record": {
+          "Id": 888928,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203664,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888958": {
+        "hash": "b140a9d3d9ad56b6ca6a0c7cbd43276f84eae3fae97d86a32b38881056c0f904",
+        "record": {
+          "Id": 888958,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203686,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888981": {
+        "hash": "2b4883af6e8cfb3d058c72a07ed11dc082cf047d677630ba030995f51be476d0",
+        "record": {
+          "Id": 888981,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203739,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "888995": {
+        "hash": "6ce2728386947c6d8fc13f55998d521d2715bb8b9c61706c62c4b679e3ee2bb9",
+        "record": {
+          "Id": 888995,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203782,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889008": {
+        "hash": "efe222a831660f163f7275bc7acfe4920522c050cb7427f6c685cf0399ad8b65",
+        "record": {
+          "Id": 889008,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203831,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889024": {
+        "hash": "5f82032c9b79bf19ffb2d521200f9ac69812461ec2463f11d2b68687a9b5913d",
+        "record": {
+          "Id": 889024,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203868,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889026": {
+        "hash": "947b437737c0d1027968e179964bf2a50fc230d6296fce1558ff0e84acecfb1b",
+        "record": {
+          "Id": 889026,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203887,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889031": {
+        "hash": "32f703a226b7aa38c8fa7379e9f17670cb4d869396bb20ba70dfa58c13de0fcd",
+        "record": {
+          "Id": 889031,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203888,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889032": {
+        "hash": "7befcb4e9f147bb958f01b87cfee322d11f22453b28ebe8b111b7bc11973c608",
+        "record": {
+          "Id": 889032,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2203889,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "889097": {
+        "hash": "f399b0ac9295b4c91ec2e8b8d1c102c3eed8a2a3f9b8310da72e1b61ab308ab6",
+        "record": {
+          "Id": 889097,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2204016,
+          "Ordinal": 5,
+          "StatusID": 130,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "912426": {
+        "hash": "dcca8930fc506286a441ab4895a43bd0abdd5e1244f41def5840341e3cfef4b9",
+        "record": {
+          "Id": 912426,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2227115,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "912428": {
+        "hash": "82602987f3125bc219743321884c4883e0a1497a469f92645029a1f0b85c9ee3",
+        "record": {
+          "Id": 912428,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2227118,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "912952": {
+        "hash": "ce3035496f2222cca1f025e9841929475f1813aa5577139e57f4da217754fb88",
+        "record": {
+          "Id": 912952,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2227850,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "913235": {
+        "hash": "fbfff37f99e536f153d852072fed3a07077433c3cc308fcc6751844c75ce15fc",
+        "record": {
+          "Id": 913235,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2228190,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "913724": {
+        "hash": "4988086e298bc46ccbbef9ed7676b2d7969743c90ba8151b80f3d0a9b94fc1d7",
+        "record": {
+          "Id": 913724,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2228850,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "913948": {
+        "hash": "7b01f8e52d6eb412b4ec5066f5b4a710c49b755d6f452c769b2567231deafd24",
+        "record": {
+          "Id": 913948,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229239,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914097": {
+        "hash": "6bf6a6c00345b1880deeb13470d3c589223b261b215f8924876e133ece5a421d",
+        "record": {
+          "Id": 914097,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229458,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914143": {
+        "hash": "907c7a56436121da983ea5e5c15ab7b448122a59461f944ec954f274f7adc850",
+        "record": {
+          "Id": 914143,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229546,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914330": {
+        "hash": "05099a6b2675879383e3bb3442f26305863ca2e5d35648f3c3ea64b2d660d64f",
+        "record": {
+          "Id": 914330,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229868,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914331": {
+        "hash": "ebcc2856c9cfdbcf9762b5f1255122ffe2d700e8392e021c291f4707ab07185d",
+        "record": {
+          "Id": 914331,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229873,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914352": {
+        "hash": "263f3e0d00217d8d256dd8f8aee34f85f30876c02eae8342c571959db8a15967",
+        "record": {
+          "Id": 914352,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229881,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914360": {
+        "hash": "cff6e3b1e2fcc63f4cb2ed0628cfe6dd33f685b4fd7a51738fda7936743ddac6",
+        "record": {
+          "Id": 914360,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2229885,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914482": {
+        "hash": "0ffb468404fd919f3532f0b58f6d70074ec15a99c5cf930978604e7f83878e95",
+        "record": {
+          "Id": 914482,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2230237,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914485": {
+        "hash": "ecf6b5d9ef561776d5d08030e4df9f3b8d318f09102deb8efefc0df5fa2205a1",
+        "record": {
+          "Id": 914485,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2230241,
+          "Ordinal": 6,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914492": {
+        "hash": "4640fed1deea9fd12ab942c3101ebbe4d23ce33aefafea682573bf3431ec4072",
+        "record": {
+          "Id": 914492,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2230258,
+          "Ordinal": 2,
+          "StatusID": 113,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "914587": {
+        "hash": "69a5f74e108ce4df25f984d7a0c00ab7b62ad93e5a312bd131b67a3c5ec3c9f2",
+        "record": {
+          "Id": 914587,
+          "ItemID": 2201202,
+          "CommitteeSessionID": 2230376,
+          "Ordinal": 2,
+          "StatusID": 130,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "412917": {
+        "hash": "4363551b7361e105f557005c315afb5a0daede2a33cf89b74bb7348892897d16",
+        "record": {
+          "Id": 412917,
+          "ItemID": 280348,
+          "CommitteeSessionID": 290311,
+          "Ordinal": 1,
+          "StatusID": 113,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "ItemTypeID": 2,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
       "927637": {
         "hash": "707ee7d04682bd33f6107090ef73e91916be6b195f3cc2ab0ff4f85e6b9d17fc",
         "record": {
@@ -9758,656 +10408,6 @@
           "Name": "הצעת חוק לביטול הפליה ברכישת מקרקעין ביהודה והשומרון, התשפ\"ה-2024",
           "ItemTypeID": 2,
           "LastUpdatedDate": "2026-11-26T09:09:37.413+02:00"
-        }
-      },
-      "913248": {
-        "hash": "c5a38591b315bb644e48d83deef73c4bf341250cf54ed96d27d9a8abfdc8fa61",
-        "record": {
-          "Id": 913248,
-          "ItemID": 2223039,
-          "CommitteeSessionID": 2228214,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק לביטול הפליה ברכישת מקרקעין ביהודה והשומרון, התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T09:09:37.413+02:00"
-        }
-      },
-      "922530": {
-        "hash": "8ab26278c326caa3aa4b1799a9369ef5438a8c08149ca9e661f3c80c12b96058",
-        "record": {
-          "Id": 922530,
-          "ItemID": 2220905,
-          "CommitteeSessionID": 2237539,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק העונשין (תיקון - איסור הנפת דגל של מדינת אויב או של הרשות הפלסטינית בגופים המתוקצבים או הנתמכים על ידי המדינה), התשפ\"ד-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:59:55.793+02:00"
-        }
-      },
-      "926204": {
-        "hash": "04584e946b44e435a387f7156c48272a1450ebdae309e2c15332be6c99ffffe5",
-        "record": {
-          "Id": 926204,
-          "ItemID": 2220905,
-          "CommitteeSessionID": 2243374,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק העונשין (תיקון - איסור הנפת דגל של מדינת אויב או של הרשות הפלסטינית בגופים המתוקצבים או הנתמכים על ידי המדינה), התשפ\"ד-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:59:55.793+02:00"
-        }
-      },
-      "259585": {
-        "hash": "04c97e27f3bc898222e509a9b97fd3c49d9def2240e2096e82a165414cba012f",
-        "record": {
-          "Id": 259585,
-          "ItemID": 130873,
-          "CommitteeSessionID": 242248,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 111), התשס\"ח-2007",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:51:41.593+02:00"
-        }
-      },
-      "282731": {
-        "hash": "ce26b8db7dcfb7865519d358524ffa4d5ecd6e9c225ce504e93fd5fc8fe109dd",
-        "record": {
-          "Id": 282731,
-          "ItemID": 130873,
-          "CommitteeSessionID": 250060,
-          "Ordinal": 15,
-          "StatusID": 142,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 111), התשס\"ח-2007",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:51:41.593+02:00"
-        }
-      },
-      "316983": {
-        "hash": "281197517979df47ab59d76aea61b5899e7d438d0211643720b8ab29c0ed1958",
-        "record": {
-          "Id": 316983,
-          "ItemID": 130873,
-          "CommitteeSessionID": 262638,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 111), התשס\"ח-2007",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:51:41.593+02:00"
-        }
-      },
-      "376053": {
-        "hash": "aa62cb0685dc2076eb6eca4dd5ac3d0dd8ace79b65ff731e287b51c8ced559cc",
-        "record": {
-          "Id": 376053,
-          "ItemID": 130873,
-          "CommitteeSessionID": 265648,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 111), התשס\"ח-2007",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:51:41.593+02:00"
-        }
-      },
-      "378143": {
-        "hash": "11201463c61bcde93d9caa9757c22607990bc013a85060004403e1953c17ecae",
-        "record": {
-          "Id": 378143,
-          "ItemID": 130873,
-          "CommitteeSessionID": 266947,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 111), התשס\"ח-2007",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:51:41.593+02:00"
-        }
-      },
-      "914412": {
-        "hash": "f6de9ad07f4b7974102fb7b4d3149e2e0df4dfa1b188d10da14929f6e33243c1",
-        "record": {
-          "Id": 914412,
-          "ItemID": 2226269,
-          "CommitteeSessionID": 2229964,
-          "Ordinal": 2,
-          "StatusID": 108,
-          "Name": "הצעת חוק הקמת שדה תעופה בנבטים, התשפ\"ה-2025",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:46:58.293+02:00"
-        }
-      },
-      "927488": {
-        "hash": "1a41d1fb459e7075fd4ed504e66fc883d20310eef04e59450185e2be907ae4a1",
-        "record": {
-          "Id": 927488,
-          "ItemID": 2245767,
-          "CommitteeSessionID": 2247245,
-          "Ordinal": 4,
-          "StatusID": 104,
-          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:08:18.737+02:00"
-        }
-      },
-      "927503": {
-        "hash": "53b2bb817ddc0845d93718e4d9837b9b40d7d68d2e6454e18df715807ce6be9d",
-        "record": {
-          "Id": 927503,
-          "ItemID": 2245767,
-          "CommitteeSessionID": 2247333,
-          "Ordinal": 4,
-          "StatusID": 106,
-          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:08:18.737+02:00"
-        }
-      },
-      "927516": {
-        "hash": "f21831a487e09d9d9f8f1d72bfbd5de814aa8e57106fdfdca736557bcf8ff0ec",
-        "record": {
-          "Id": 927516,
-          "ItemID": 2245767,
-          "CommitteeSessionID": 2247413,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:08:18.737+02:00"
-        }
-      },
-      "927517": {
-        "hash": "0e6480c7fe622db25e2135e7b48ddc10e7a06150bfdde20cfd7bcc7080a7c77c",
-        "record": {
-          "Id": 927517,
-          "ItemID": 2245767,
-          "CommitteeSessionID": 2247416,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:08:18.737+02:00"
-        }
-      },
-      "927518": {
-        "hash": "d318ba8d6f0326ad7305f0868cbaafb1aaa40518d288761de8ed89c26aa6256a",
-        "record": {
-          "Id": 927518,
-          "ItemID": 2245767,
-          "CommitteeSessionID": 2247417,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק התקשורת (שידורים) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-26T08:08:18.737+02:00"
-        }
-      },
-      "927563": {
-        "hash": "1df0558100103a96fd0a5536e15b0d14e8397adad92462d5e16e1afdf6250836",
-        "record": {
-          "Id": 927563,
-          "ItemID": 2247328,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 8,
-          "StatusID": 104,
-          "Name": "הצעת חוק שירות ביטחון (תיקון - השעיית הליכי מעצר בתקופת המעבר - הוראת שעה), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T21:10:59.75+02:00"
-        }
-      },
-      "927562": {
-        "hash": "849e385885c54076c3098c620c625decddf1ffdb81d4b2045669ebe9eec021d7",
-        "record": {
-          "Id": 927562,
-          "ItemID": 2245548,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 7,
-          "StatusID": 104,
-          "Name": "הצעת חוק שירות ביטחון (תיקון - הקפאת הליכי מעצר, חקירה או אכיפה כלפי מיועד לשירות ביטחון שהוא תלמיד ישיבה - הוראת שעה), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T17:05:07.463+02:00"
-        }
-      },
-      "927607": {
-        "hash": "593c8608811fbbbfdaa6ec238957f94a83e31b8631931a69c9f22b43fe56db6b",
-        "record": {
-          "Id": 927607,
-          "ItemID": 2245583,
-          "CommitteeSessionID": 2247765,
-          "Ordinal": 5,
-          "StatusID": 106,
-          "Name": "הצעת חוק לתיקון פקודת המשטרה (מס' 45) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T16:44:23.363+02:00"
-        }
-      },
-      "927561": {
-        "hash": "08b2fd09d4654075251034fdf7152bbf50fa552cdd2f2e19930d64f425ef6921",
-        "record": {
-          "Id": 927561,
-          "ItemID": 2245515,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 6,
-          "StatusID": 104,
-          "Name": "הצעת חוק המאבק בטרור (תיקון - אי-החזרת גופות מחבלים), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T15:58:13.253+02:00"
-        }
-      },
-      "927602": {
-        "hash": "cb605303188825bde75ff457551ca0dc0d2afa05ed58334bf34f9b9097605c12",
-        "record": {
-          "Id": 927602,
-          "ItemID": 2247784,
-          "CommitteeSessionID": 2247792,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "תמונת מצב - לקראת תוכנית חומש חדשה לטיפול בפשיעה והאלימות בחברה הערבית",
-          "ItemTypeID": 11,
-          "LastUpdatedDate": "2026-11-25T15:24:26.607+02:00"
-        }
-      },
-      "927601": {
-        "hash": "74d6ba73035bb9fee64681bbbefdb73808ae6877790fe6a0df16e3cbaa944272",
-        "record": {
-          "Id": 927601,
-          "ItemID": 2247784,
-          "CommitteeSessionID": 2247783,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "תמונת מצב - לקראת תוכנית חומש חדשה לטיפול בפשיעה והאלימות בחברה הערבית",
-          "ItemTypeID": 11,
-          "LastUpdatedDate": "2026-11-25T15:24:15.543+02:00"
-        }
-      },
-      "927560": {
-        "hash": "8ef7d72b439ed3b21d48fcc969efd0c364952145fd0c8360d049ad6778d0dc99",
-        "record": {
-          "Id": 927560,
-          "ItemID": 2245834,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 5,
-          "StatusID": 104,
-          "Name": "הצעת חוק מניעת רעש בלתי סביר של המואזין, התשפ״ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T15:07:23.333+02:00"
-        }
-      },
-      "927609": {
-        "hash": "b8b73fff6c59b7e23eaf471652fa317a03590edf25d1f38a3b1348a1e35aede9",
-        "record": {
-          "Id": 927609,
-          "ItemID": 2247799,
-          "CommitteeSessionID": 2247765,
-          "Ordinal": 4,
-          "StatusID": null,
-          "Name": "שינוי סמכויות הוועדה המיוחדת לדיון בהצעת חוק היועץ המשפטי לממשלה (חוות דעת, ייצוג ופיקוח) (תיקון - ביטול החוק), התשפ\"ז-2026 (פ/48/26)",
-          "ItemTypeID": 6000,
-          "LastUpdatedDate": "2026-11-25T15:02:58.65+02:00"
-        }
-      },
-      "927608": {
-        "hash": "45c5fbf47a941f929355e7789944f5ee213208020a94af0cfcde3dc85454e5f3",
-        "record": {
-          "Id": 927608,
-          "ItemID": 2247776,
-          "CommitteeSessionID": 2247765,
-          "Ordinal": 2,
-          "StatusID": null,
-          "Name": "הקמת ועדה מיוחדת לדיון בהצעת חוק-יסוד: הממשלה (תיקון - סייגים לכהונת ראש ממשלה) (פ/286/26), בהתאם לסעיף 108 לתקנון הכנסת",
-          "ItemTypeID": 6000,
-          "LastUpdatedDate": "2026-11-25T14:59:31.477+02:00"
-        }
-      },
-      "927580": {
-        "hash": "2948ad634f2d2f1fd0df57ede9736ccb2455d28313e21315564b4b6ea75670f3",
-        "record": {
-          "Id": 927580,
-          "ItemID": 2247730,
-          "CommitteeSessionID": 2247729,
-          "Ordinal": 1,
-          "StatusID": null,
-          "Name": "ישיבת נציגי הסיעות לקביעת הרכב הוועדה המסדרת",
-          "ItemTypeID": 11,
-          "LastUpdatedDate": "2026-11-25T14:50:21.74+02:00"
-        }
-      },
-      "927606": {
-        "hash": "fcc2e11d7bf15016965c89313d9845d2091df0e15a9ed99c55f1f0e0f3d8325b",
-        "record": {
-          "Id": 927606,
-          "ItemID": 2245509,
-          "CommitteeSessionID": 2247765,
-          "Ordinal": 6,
-          "StatusID": 106,
-          "Name": "הצעת חוק ועדת חקירה ממלכתית לעניין טבח 7 באוקטובר 2023, התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T14:45:44.493+02:00"
-        }
-      },
-      "927605": {
-        "hash": "9ca07926ed6049591c759403449c7e65eef370bc52cca1034fea03f89e5b90b6",
-        "record": {
-          "Id": 927605,
-          "ItemID": 2247079,
-          "CommitteeSessionID": 2247765,
-          "Ordinal": 3,
-          "StatusID": 106,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - סייגים לכהונת ראש ממשלה)",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T14:45:37.54+02:00"
-        }
-      },
-      "927557": {
-        "hash": "4ce942b06538e589ba8fd1451af01a5a60297a0a8bcc625a3236b643a48ae4f1",
-        "record": {
-          "Id": 927557,
-          "ItemID": 2245583,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 2,
-          "StatusID": 104,
-          "Name": "הצעת חוק לתיקון פקודת המשטרה (מס' 45) (תיקון - ביטול החוק), התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T14:41:58.553+02:00"
-        }
-      },
-      "927558": {
-        "hash": "a141cd8ee3af3e026bab010b56dfd021e477a34cd6ff8187e88533f15f276adf",
-        "record": {
-          "Id": 927558,
-          "ItemID": 2245509,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 3,
-          "StatusID": 104,
-          "Name": "הצעת חוק ועדת חקירה ממלכתית לעניין טבח 7 באוקטובר 2023, התשפ\"ז-2026",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T14:11:12.3+02:00"
-        }
-      },
-      "419305": {
-        "hash": "3a78d3fba324f0681345a75089647dcd999d254058be69ead4295666136b9286",
-        "record": {
-          "Id": 419305,
-          "ItemID": 275505,
-          "CommitteeSessionID": 290234,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "421875": {
-        "hash": "0e9cbeddf8efaf20eac1ad22f238ed668067ff35fc4b5675777ad724332ca670",
-        "record": {
-          "Id": 421875,
-          "ItemID": 275505,
-          "CommitteeSessionID": 293171,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "468962": {
-        "hash": "0fd872463f2ab7b4cba2bdd4bed8c3bfc4d58c95390373de78b5ccb059e42516",
-        "record": {
-          "Id": 468962,
-          "ItemID": 275505,
-          "CommitteeSessionID": 303403,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "487917": {
-        "hash": "f7302edb945c1237672ec68c8a22f84ed051796a2addf78f1125221f90ee89fa",
-        "record": {
-          "Id": 487917,
-          "ItemID": 275505,
-          "CommitteeSessionID": 309780,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "489717": {
-        "hash": "29fbcfbff75bf14a570612ce72d621c8e0f94a43185a06c97286f25d36b50791",
-        "record": {
-          "Id": 489717,
-          "ItemID": 275505,
-          "CommitteeSessionID": 310991,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "521354": {
-        "hash": "6dd1881ebe7cde074f591db4050714b44968ae97554c44baabb54efa9abdcc74",
-        "record": {
-          "Id": 521354,
-          "ItemID": 275505,
-          "CommitteeSessionID": 330720,
-          "Ordinal": 2,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "523009": {
-        "hash": "2219c3dbd80eebcd4bdc24140ebccf5eaec48e2df7f5a120cc8024ac89d13708",
-        "record": {
-          "Id": 523009,
-          "ItemID": 275505,
-          "CommitteeSessionID": 331605,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "524844": {
-        "hash": "7e5a22ed2c1eb8040141db58c102404744c47d52eac30736ab95970370948bbd",
-        "record": {
-          "Id": 524844,
-          "ItemID": 275505,
-          "CommitteeSessionID": 332480,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "529517": {
-        "hash": "917fe62e16e902dd81b6d78511c1e309b1e303d2727a8e4b57878509d21698aa",
-        "record": {
-          "Id": 529517,
-          "ItemID": 275505,
-          "CommitteeSessionID": 334182,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "533462": {
-        "hash": "0939df1595ca6741f99a9edc01cfaa0cc573580f616ffaaf281b317039eab36b",
-        "record": {
-          "Id": 533462,
-          "ItemID": 275505,
-          "CommitteeSessionID": 335476,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "535980": {
-        "hash": "14cb81200a9205dea19022ce18b3e47355cae1a592f13e2da1e0a7333e173112",
-        "record": {
-          "Id": 535980,
-          "ItemID": 275505,
-          "CommitteeSessionID": 336266,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "538618": {
-        "hash": "f383bb30766ecff3b5708d10fa939146847ad59c24c64fb1f19e899f1b9c75fb",
-        "record": {
-          "Id": 538618,
-          "ItemID": 275505,
-          "CommitteeSessionID": 336919,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "540470": {
-        "hash": "7ca4210063cfc8a0a198c450bbf55e8e0907a1ec8897160922a2359dc7cd8567",
-        "record": {
-          "Id": 540470,
-          "ItemID": 275505,
-          "CommitteeSessionID": 338050,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "543945": {
-        "hash": "65582ac18838346e6acfbdb882889e0dcd1c1d488f0c5bb54f3405b95005d2c0",
-        "record": {
-          "Id": 543945,
-          "ItemID": 275505,
-          "CommitteeSessionID": 340889,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "548160": {
-        "hash": "73dda297cf09b1b9b9a086b094a605361806f566a42b5951f8c35443915fe9c1",
-        "record": {
-          "Id": 548160,
-          "ItemID": 275505,
-          "CommitteeSessionID": 344910,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "549418": {
-        "hash": "f1e4b96fbfcddd3678b8be24a15b1834e04eda0f75096cc4a96f3d8eff99ef82",
-        "record": {
-          "Id": 549418,
-          "ItemID": 275505,
-          "CommitteeSessionID": 346829,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "549441": {
-        "hash": "8b2595e9d8a9c8b748620f1c4a7e2a15890d5ee5c07f41dd52a384cc509b7edb",
-        "record": {
-          "Id": 549441,
-          "ItemID": 275505,
-          "CommitteeSessionID": 346834,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "565909": {
-        "hash": "e34c2b73bb4bb3ea6d8db94cd526b9384c3d67d07b2ee4cd51b73acd57c3adc6",
-        "record": {
-          "Id": 565909,
-          "ItemID": 275505,
-          "CommitteeSessionID": 365776,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "668963": {
-        "hash": "bf9c6b20310fbd9cea854a6c4f00d21af37ff633b22eb2b09a25a10e2eaadb9b",
-        "record": {
-          "Id": 668963,
-          "ItemID": 275505,
-          "CommitteeSessionID": 423667,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "672628": {
-        "hash": "209d9eaf1b13253928a4fabb661b51db9b1f04275b968c31d681a23060285ab0",
-        "record": {
-          "Id": 672628,
-          "ItemID": 275505,
-          "CommitteeSessionID": 425155,
-          "Ordinal": 1,
-          "StatusID": 113,
-          "Name": "חוק להגברת האכיפה של דיני העבודה, התשע\"ב-2011",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:51:08.467+02:00"
-        }
-      },
-      "927559": {
-        "hash": "3f00918d44c57d246dce335060391455be48fe138a0a19117c9467890fbbb367",
-        "record": {
-          "Id": 927559,
-          "ItemID": 2247079,
-          "CommitteeSessionID": 2247522,
-          "Ordinal": 4,
-          "StatusID": 104,
-          "Name": "הצעת חוק-יסוד: הממשלה (תיקון - סייגים לכהונת ראש ממשלה)",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T13:19:36.257+02:00"
-        }
-      },
-      "904047": {
-        "hash": "7d19750687d97bab6c733c4d11befbe7b7600472dfa686deaea47dbb2f51c82d",
-        "record": {
-          "Id": 904047,
-          "ItemID": 2197296,
-          "CommitteeSessionID": 2218695,
-          "Ordinal": 1,
-          "StatusID": 108,
-          "Name": "הצעת חוק הביטוח הלאומי (תיקון מס' 255) (תשלום גמלה לשמירת היריון), התשפ\"ה-2024",
-          "ItemTypeID": 2,
-          "LastUpdatedDate": "2026-11-25T12:45:58.337+02:00"
         }
       }
     },
@@ -13816,6 +13816,171 @@
       }
     },
     "plenum_items": {
+      "87179": {
+        "hash": "c4e08deb63d71b2a2baae28293780f5ce7ba15be65d6bebd464de6d59d02a86e",
+        "record": {
+          "Id": 87179,
+          "ItemID": 2201202,
+          "PlenumSessionID": 2201030,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "88195": {
+        "hash": "234b7928ad75cc2326b501769a84da06ba297bae9d53e7f48ac11924b2a02dd1",
+        "record": {
+          "Id": 88195,
+          "ItemID": 2201202,
+          "PlenumSessionID": 2203483,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "162892": {
+        "hash": "c21dd9f2d85e1d224aefdc707ceda9c4de3d932bafedd5835ad3063e70a0ed87",
+        "record": {
+          "Id": 162892,
+          "ItemID": 2201202,
+          "PlenumSessionID": 2201366,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 11,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "166917": {
+        "hash": "39684c53c2c09ab9e778a8acc4a03a224f4fde7d9c467f520d178b04b7499e92",
+        "record": {
+          "Id": 166917,
+          "ItemID": 2201202,
+          "PlenumSessionID": 2230013,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 5,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "166961": {
+        "hash": "69ea9943d138721b23e01f78181aa26ac20bc31bf4ab8af3b725ed0867ba67bf",
+        "record": {
+          "Id": 166961,
+          "ItemID": 2201202,
+          "PlenumSessionID": 2230013,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 6,
+          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+        }
+      },
+      "22441": {
+        "hash": "4db90c1343d847760f492b4f4c6b2f88196e2b38be7f62e2580373d30bf31cc0",
+        "record": {
+          "Id": 22441,
+          "ItemID": 342149,
+          "PlenumSessionID": 341229,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 26,
+          "Name": "הצעת חוק ההתייעלות הכלכלית (תיקוני חקיקה ליישום התכנית הכלכלית לשנים 2009 ו-2010) (תיקון מס' 3) (הארכת התליית ההיטל בעד צריכת מים עודפת), התש\"ע-2010",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:24:00.96+02:00"
+        }
+      },
+      "11903": {
+        "hash": "dd49a69b1f379bf5d477bc7ef07bd0ddf8712f6916eac71c5805bb4f768b5339",
+        "record": {
+          "Id": 11903,
+          "ItemID": 280348,
+          "PlenumSessionID": 282091,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 17,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
+      "12326": {
+        "hash": "42119b5497ff4bf08b945830d68c36262945b9a499dc7f68902f3bd1bae8a0ad",
+        "record": {
+          "Id": 12326,
+          "ItemID": 280348,
+          "PlenumSessionID": 290603,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 30,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "StatusID": 114,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
+      "12444": {
+        "hash": "40ab8e96ba9bcf14701aa618d53595b50d41ea5a608725f93617c6978f5637e9",
+        "record": {
+          "Id": 12444,
+          "ItemID": 280348,
+          "PlenumSessionID": 290603,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 31,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "StatusID": 117,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
+      "69987": {
+        "hash": "1b5db144ff8ae2442a061da693bc2ce5e10e4fd28dad14539a6c8fa0efbb7e11",
+        "record": {
+          "Id": 69987,
+          "ItemID": 280348,
+          "PlenumSessionID": 290601,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "StatusID": 130,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
+      "103154": {
+        "hash": "1949f3adcf06ec5adbff126f6179e0bf9aa9f8697bd8149995d0a9029f2b6e4d",
+        "record": {
+          "Id": 103154,
+          "ItemID": 280348,
+          "PlenumSessionID": 279529,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 1,
+          "Name": "חוק ארוחה יומית לתלמיד (תיקון), התשס\"ח-2008",
+          "StatusID": 141,
+          "IsDiscussion": 0,
+          "LastUpdatedDate": "2026-11-26T16:18:46.097+02:00"
+        }
+      },
       "23123": {
         "hash": "734b3a4541dabefb61fecad20c336a91e441afbd7823ae04bd077ec16b37d75c",
         "record": {
@@ -14311,10 +14476,10 @@
           "LastUpdatedDate": "2026-11-26T12:17:30.947+02:00"
         }
       },
-      "70430": {
-        "hash": "02d468ceae36bca7b2df8d5eafc1425e8e2498db34f9a1fbf9ea774a79a4f4f3",
+      "70431": {
+        "hash": "b5c510f14171ba2ee9fbccbcf2e814d952c9f23e4ca0cad1c2071fea4068acf5",
         "record": {
-          "Id": 70430,
+          "Id": 70431,
           "ItemID": 241021,
           "PlenumSessionID": 398851,
           "ItemTypeID": 2,
@@ -14551,10 +14716,10 @@
           "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         }
       },
-      "70617": {
-        "hash": "61752097c0b3c49eabc599e93df3af7e329ca7fc180cb69640c0eb6a720c6a9d",
+      "70616": {
+        "hash": "cabf10a23cf925a54f8fe297c66532312661a1fb5daa2fef5008909020927d66",
         "record": {
-          "Id": 70617,
+          "Id": 70616,
           "ItemID": 402744,
           "PlenumSessionID": 419972,
           "ItemTypeID": 2,
@@ -14566,10 +14731,10 @@
           "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         }
       },
-      "89043": {
-        "hash": "6f02bc7c508715ce5c221cdaad7f6e9fe17996d7a6dc307923ae84b24da60c79",
+      "89044": {
+        "hash": "880ffc95e07ca3d059e0476cfad3739bf500fbb831a8578c4b72af0f4748448c",
         "record": {
-          "Id": 89043,
+          "Id": 89044,
           "ItemID": 2205253,
           "PlenumSessionID": 2207081,
           "ItemTypeID": 2,
@@ -14896,10 +15061,10 @@
           "LastUpdatedDate": "2026-11-26T10:28:40.68+02:00"
         }
       },
-      "85785": {
-        "hash": "80b1d8c1ac3d3ef3a8e88a102f3f3556305cd9128a5df3df5f239061f126e078",
+      "85784": {
+        "hash": "1a1ac855d83687ece0d6302bc3ea9bdaf69113058665997bb774debb29f955fc",
         "record": {
-          "Id": 85785,
+          "Id": 85784,
           "ItemID": 2199044,
           "PlenumSessionID": 2199595,
           "ItemTypeID": 2,
@@ -14956,10 +15121,10 @@
           "LastUpdatedDate": "2026-11-26T10:21:43.22+02:00"
         }
       },
-      "83462": {
-        "hash": "1e6a0c9968d6ab11e042dfcdfb38171af2b5d687949b8c428a8f8d304ee6a4cf",
+      "83463": {
+        "hash": "2ce155310863c75c308916a11e3da644bfa38f5a0a6ce22f2b68a0b26d7d0f39",
         "record": {
-          "Id": 83462,
+          "Id": 83463,
           "ItemID": 2196342,
           "PlenumSessionID": 2198207,
           "ItemTypeID": 2,
@@ -15076,10 +15241,10 @@
           "LastUpdatedDate": "2026-11-26T09:43:30.207+02:00"
         }
       },
-      "52061": {
-        "hash": "fe244f0fe51471370b5204be8f6b775b2954243c3830f6dec53bdd3147c7e993",
+      "52060": {
+        "hash": "576beeb192faa8c54e7cc8573db7b46059abb7f22f6798e27750b322f4722b2b",
         "record": {
-          "Id": 52061,
+          "Id": 52060,
           "ItemID": 76027,
           "PlenumSessionID": 161492,
           "ItemTypeID": 2,
@@ -15091,10 +15256,10 @@
           "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
         }
       },
-      "52077": {
-        "hash": "642b8100db313f348960aff1ead690ac00a7998af0f73aee910950e67be9afda",
+      "52076": {
+        "hash": "b4aa62fcee138204e43f09c3c8cdceaeaa183f9ac078d08296af4f59a6be8d92",
         "record": {
-          "Id": 52077,
+          "Id": 52076,
           "ItemID": 77958,
           "PlenumSessionID": 161492,
           "ItemTypeID": 2,
@@ -15147,171 +15312,6 @@
           "Ordinal": 5,
           "Name": "הצעת חוק שיפוט בעניני התרת נישואין (מקרים מיוחדים) (תיקון מס' 2) (סמכותבין-לאומית וקביעת ערכאת שיפוט), התשס\"ג-2002",
           "StatusID": 111,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93838": {
-        "hash": "1068393e015aea3f0f60696aaebf1df31adaad367c7f0d28ff70ac4ee99a0fd6",
-        "record": {
-          "Id": 93838,
-          "ItemID": 174283,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 6,
-          "Name": "הצעת חוק זכויות נפגעי עבירה (תיקון), התשס\"ג-2002",
-          "StatusID": 111,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93839": {
-        "hash": "53fd38fb8d3a707d67502c7225050d220ee014ea55e3bef3823f475c7c55add7",
-        "record": {
-          "Id": 93839,
-          "ItemID": 174284,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 7,
-          "Name": "הצעת חוק מקרקעי ציבור (סילוק פולשים) (תיקון), התשס\"ג-2002",
-          "StatusID": 111,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93865": {
-        "hash": "afe9670f38d7597ad6c9eef3e685e25335208427bc5e89c6d664877f2a15ef0b",
-        "record": {
-          "Id": 93865,
-          "ItemID": 174302,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 8,
-          "Name": "חוק הבחירות לכנסת השש-עשרה (קיצור מועדים) (הוראת שעה), התשס\"ג-2002",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93872": {
-        "hash": "4730eea7918aedbd67540cf16f0bdd08edc1b6bb87c8fcec0bcb81693f317be4",
-        "record": {
-          "Id": 93872,
-          "ItemID": 174304,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 9,
-          "Name": "חוק מימון מפלגות (תיקון מס' 24 והוראת שעה), התשס\"ג-2002",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93873": {
-        "hash": "203e4b20881672bf5ef251986323d4db28719fc05ecad67d784fe2b125054add",
-        "record": {
-          "Id": 93873,
-          "ItemID": 174304,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 10,
-          "Name": "חוק מימון מפלגות (תיקון מס' 24 והוראת שעה), התשס\"ג-2002",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93895": {
-        "hash": "3025024a712f7af7bc4aa65eab0a9b8e811a972e617cb46cb294da9fb7fd11ed",
-        "record": {
-          "Id": 93895,
-          "ItemID": 174311,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 11,
-          "Name": "חוק לתיקון דיני בחירות לכנסת ולרשויות מקומיות (פנקס הבוחרים), התשס\"ג-2002",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "93896": {
-        "hash": "363432e334f63fdcfe49143b846b4d5e4257b3a0fcaa5afc8899c46683ce95da",
-        "record": {
-          "Id": 93896,
-          "ItemID": 174311,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 12,
-          "Name": "חוק לתיקון דיני בחירות לכנסת ולרשויות מקומיות (פנקס הבוחרים), התשס\"ג-2002",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "94006": {
-        "hash": "55572533dc01e3542e96bbd660b6fbe8b6ee0c1d112147d91980d1068f7ab116",
-        "record": {
-          "Id": 94006,
-          "ItemID": 174329,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 15,
-          "Name": "חוק ניירות ערך (תיקון מס' 22), התשס\"ג-2002",
-          "StatusID": 117,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "94007": {
-        "hash": "1b8e0756badb7e4ba794df6c34fa710603d603b7d492acfb434b9f4935dac3ea",
-        "record": {
-          "Id": 94007,
-          "ItemID": 174329,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 16,
-          "Name": "חוק ניירות ערך (תיקון מס' 22), התשס\"ג-2002",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "94009": {
-        "hash": "8ccefd373556383c8b2e893e80db6f6c6661f1348562407f2985dea34ce1926c",
-        "record": {
-          "Id": 94009,
-          "ItemID": 174330,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 17,
-          "Name": "חוק הגליל (תיקון מס' 9), התשס\"ג-2002",
-          "StatusID": 114,
-          "IsDiscussion": 1,
-          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
-        }
-      },
-      "94010": {
-        "hash": "06c67f5bd82cc517d5a8fdc5c481c84d59463e4c4baf3fd5b3f55b28c293b35a",
-        "record": {
-          "Id": 94010,
-          "ItemID": 174330,
-          "PlenumSessionID": 161492,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 18,
-          "Name": "חוק הגליל (תיקון מס' 9), התשס\"ג-2002",
-          "StatusID": 117,
           "IsDiscussion": 1,
           "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
         }
