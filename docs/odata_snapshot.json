@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:33:15.377148+00:00",
+  "generated_at": "2026-11-27T23:07:03.408790+00:00",
   "entities": {
     "bills": {
       "2201202": {
@@ -14716,10 +14716,10 @@
           "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         }
       },
-      "70617": {
-        "hash": "61752097c0b3c49eabc599e93df3af7e329ca7fc180cb69640c0eb6a720c6a9d",
+      "70616": {
+        "hash": "cabf10a23cf925a54f8fe297c66532312661a1fb5daa2fef5008909020927d66",
         "record": {
-          "Id": 70617,
+          "Id": 70616,
           "ItemID": 402744,
           "PlenumSessionID": 419972,
           "ItemTypeID": 2,
@@ -14731,10 +14731,10 @@
           "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         }
       },
-      "89043": {
-        "hash": "6f02bc7c508715ce5c221cdaad7f6e9fe17996d7a6dc307923ae84b24da60c79",
+      "89044": {
+        "hash": "880ffc95e07ca3d059e0476cfad3739bf500fbb831a8578c4b72af0f4748448c",
         "record": {
-          "Id": 89043,
+          "Id": 89044,
           "ItemID": 2205253,
           "PlenumSessionID": 2207081,
           "ItemTypeID": 2,
@@ -15256,10 +15256,10 @@
           "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
         }
       },
-      "52076": {
-        "hash": "b4aa62fcee138204e43f09c3c8cdceaeaa183f9ac078d08296af4f59a6be8d92",
+      "52077": {
+        "hash": "642b8100db313f348960aff1ead690ac00a7998af0f73aee910950e67be9afda",
         "record": {
-          "Id": 52076,
+          "Id": 52077,
           "ItemID": 77958,
           "PlenumSessionID": 161492,
           "ItemTypeID": 2,

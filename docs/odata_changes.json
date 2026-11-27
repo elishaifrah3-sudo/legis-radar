@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:33:15.377148+00:00",
+  "generated_at": "2026-11-27T23:07:03.408790+00:00",
   "first_snapshot": false,
   "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
   "coverage": {
@@ -130,7 +130,7 @@
       "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [
         {
-          "Id": 70617,
+          "Id": 70616,
           "ItemID": 402744,
           "PlenumSessionID": 419972,
           "ItemTypeID": 2,
@@ -142,7 +142,7 @@
           "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         },
         {
-          "Id": 89043,
+          "Id": 89044,
           "ItemID": 2205253,
           "PlenumSessionID": 2207081,
           "ItemTypeID": 2,
@@ -152,10 +152,22 @@
           "StatusID": 104,
           "IsDiscussion": 0,
           "LastUpdatedDate": "2026-11-26T11:11:55.317+02:00"
+        },
+        {
+          "Id": 52077,
+          "ItemID": 77958,
+          "PlenumSessionID": 161492,
+          "ItemTypeID": 2,
+          "ItemTypeDesc": "הצעת חוק",
+          "Ordinal": 2,
+          "Name": "חוק שיפוט בענייני התרת נישואין (מקרים מיוחדים וסמכות בינלאומית) (תיקוני חקיקה), התשס\"ה-2005",
+          "StatusID": 111,
+          "IsDiscussion": 1,
+          "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
         }
       ],
       "modified_records": [],
-      "added_count": 2,
+      "added_count": 3,
       "modified_count": 0
     },
     "bill_initiators": {
