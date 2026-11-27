@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:40:54.264170+00:00",
+  "generated_at": "2026-11-27T14:33:15.377148+00:00",
   "first_snapshot": false,
   "source": "Knesset OData V4 where reachable; legacy OData V3 fallback",
   "coverage": {
@@ -130,44 +130,32 @@
       "status": "comparison_available",
       "added_to_sample_not_necessarily_new": [
         {
-          "Id": 88194,
-          "ItemID": 2201202,
-          "PlenumSessionID": 2203483,
+          "Id": 70617,
+          "ItemID": 402744,
+          "PlenumSessionID": 419972,
           "ItemTypeID": 2,
           "ItemTypeDesc": "הצעת חוק",
           "Ordinal": 1,
-          "Name": "חוק בתי המשפט (תיקון מס' 105), התשפ\"ה-2025",
+          "Name": "חוק התקשורת (בזק ושידורים) (תיקון מס' 51), התשע\"א-2011",
           "StatusID": 130,
           "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
+          "LastUpdatedDate": "2026-11-26T11:12:13.273+02:00"
         },
         {
-          "Id": 87924,
-          "ItemID": 2201089,
-          "PlenumSessionID": 2202528,
+          "Id": 89043,
+          "ItemID": 2205253,
+          "PlenumSessionID": 2207081,
           "ItemTypeID": 2,
           "ItemTypeDesc": "הצעת חוק",
           "Ordinal": 1,
-          "Name": "חוק סדר הדין הפלילי (סמכויות אכיפה – חיפוש בגוף ונטילת אמצעי זיהוי) (תיקון מס' 8), התשפ\"ג-2023",
-          "StatusID": 130,
+          "Name": "חוק התקשורת (בזק ושידורים) (תיקון מס' 82 – הוראת שעה), התשפ\"ה–2025",
+          "StatusID": 104,
           "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-26T13:40:54.173+02:00"
-        },
-        {
-          "Id": 70430,
-          "ItemID": 241021,
-          "PlenumSessionID": 398851,
-          "ItemTypeID": 2,
-          "ItemTypeDesc": "הצעת חוק",
-          "Ordinal": 1,
-          "Name": "חוק לתיקון פקודת העיריות (מס' 121), התשע\"א-2010",
-          "StatusID": 130,
-          "IsDiscussion": 0,
-          "LastUpdatedDate": "2026-11-26T12:17:30.947+02:00"
+          "LastUpdatedDate": "2026-11-26T11:11:55.317+02:00"
         }
       ],
       "modified_records": [],
-      "added_count": 3,
+      "added_count": 2,
       "modified_count": 0
     },
     "bill_initiators": {
