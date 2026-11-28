@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:07:03.408790+00:00",
+  "generated_at": "2026-11-28T05:45:14.165277+00:00",
   "entities": {
     "bills": {
       "2201202": {
@@ -13831,10 +13831,10 @@
           "LastUpdatedDate": "2026-11-26T16:39:37.047+02:00"
         }
       },
-      "88194": {
-        "hash": "5c7d9a7dede33a71bd299c192953769a46051fd9a9364865020a2b5c5a3f8a11",
+      "88195": {
+        "hash": "234b7928ad75cc2326b501769a84da06ba297bae9d53e7f48ac11924b2a02dd1",
         "record": {
-          "Id": 88194,
+          "Id": 88195,
           "ItemID": 2201202,
           "PlenumSessionID": 2203483,
           "ItemTypeID": 2,
@@ -14236,10 +14236,10 @@
           "LastUpdatedDate": "2026-11-26T13:40:54.173+02:00"
         }
       },
-      "87924": {
-        "hash": "78ca254284c89b599889294a8f15944db14a3b72b2becc3f9dca2118e9244417",
+      "87925": {
+        "hash": "cc3851d9b0d00018b79d3bf6063de3adbc51c792b57052748c21686239cfff39",
         "record": {
-          "Id": 87924,
+          "Id": 87925,
           "ItemID": 2201089,
           "PlenumSessionID": 2202528,
           "ItemTypeID": 2,
@@ -15061,10 +15061,10 @@
           "LastUpdatedDate": "2026-11-26T10:28:40.68+02:00"
         }
       },
-      "85784": {
-        "hash": "1a1ac855d83687ece0d6302bc3ea9bdaf69113058665997bb774debb29f955fc",
+      "85785": {
+        "hash": "80b1d8c1ac3d3ef3a8e88a102f3f3556305cd9128a5df3df5f239061f126e078",
         "record": {
-          "Id": 85784,
+          "Id": 85785,
           "ItemID": 2199044,
           "PlenumSessionID": 2199595,
           "ItemTypeID": 2,
@@ -15256,10 +15256,10 @@
           "LastUpdatedDate": "2026-11-26T09:42:47.377+02:00"
         }
       },
-      "52077": {
-        "hash": "642b8100db313f348960aff1ead690ac00a7998af0f73aee910950e67be9afda",
+      "52076": {
+        "hash": "b4aa62fcee138204e43f09c3c8cdceaeaa183f9ac078d08296af4f59a6be8d92",
         "record": {
-          "Id": 52077,
+          "Id": 52076,
           "ItemID": 77958,
           "PlenumSessionID": 161492,
           "ItemTypeID": 2,
